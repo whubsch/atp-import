@@ -1,0 +1,2033 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-276804' action='modify' lat='42.8677235' lon='-78.6969256'>
+    <tag k='addr:city' v='Depew' />
+    <tag k='addr:housenumber' v='4777' />
+    <tag k='addr:postcode' v='14043' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Transit Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3280' />
+    <tag k='ref' v='220' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276805' action='modify' lat='42.930925' lon='-78.696351'>
+    <tag k='addr:city' v='Depew' />
+    <tag k='addr:housenumber' v='6363' />
+    <tag k='addr:postcode' v='14043' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Transit Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-601-0180' />
+    <tag k='ref' v='237' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276806' action='modify' lat='42.561727' lon='-77.7021369'>
+    <tag k='addr:city' v='Dansville' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='14437' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Franklin Plaza' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-335-2140' />
+    <tag k='ref' v='520' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276807' action='modify' lat='42.394323' lon='-73.806616'>
+    <tag k='addr:city' v='Coxsackie' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='12192' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Hope Plaza' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-731-6173' />
+    <tag k='ref' v='724' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276808' action='modify' lat='43.246911' lon='-73.834155'>
+    <tag k='addr:city' v='Corinth' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='12822' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-654-6779' />
+    <tag k='ref' v='700' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276809' action='modify' lat='42.969154' lon='-77.14132699999'>
+    <tag k='addr:city' v='Clifton Springs' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='14432' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Clifton Springs Plaza' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-462-9055' />
+    <tag k='ref' v='433' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276810' action='modify' lat='43.1784225' lon='-76.2574733'>
+    <tag k='addr:city' v='Clay' />
+    <tag k='addr:housenumber' v='8417' />
+    <tag k='addr:postcode' v='13027' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Oswego Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-652-4934' />
+    <tag k='ref' v='368' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276811' action='modify' lat='43.053864' lon='-75.862908'>
+    <tag k='addr:city' v='Chittenango' />
+    <tag k='addr:housenumber' v='800' />
+    <tag k='addr:postcode' v='13037' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Genesee Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-687-9224' />
+    <tag k='ref' v='359' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276812' action='modify' lat='43.649833' lon='-73.80009999999'>
+    <tag k='addr:city' v='Chestertown' />
+    <tag k='addr:housenumber' v='6308' />
+    <tag k='addr:postcode' v='12817' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='U.s. 9' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-494-7111' />
+    <tag k='ref' v='712' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276813' action='modify' lat='42.9489084' lon='-78.78501039999'>
+    <tag k='addr:city' v='Cheektowaga' />
+    <tag k='addr:housenumber' v='3870' />
+    <tag k='addr:postcode' v='14215' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Harlem Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-836-0433' />
+    <tag k='ref' v='44' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276814' action='modify' lat='42.9198661' lon='-78.7541401'>
+    <tag k='addr:city' v='Cheektowaga' />
+    <tag k='addr:housenumber' v='3865' />
+    <tag k='addr:postcode' v='14225' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Union Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-684-5927' />
+    <tag k='ref' v='202' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276815' action='modify' lat='42.904088' lon='-78.7804309'>
+    <tag k='addr:city' v='Cheektowaga' />
+    <tag k='addr:housenumber' v='700' />
+    <tag k='addr:postcode' v='14225' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Thruway Plaza Drive' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-929-0380' />
+    <tag k='ref' v='131' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276816' action='modify' lat='42.9282888' lon='-75.8462138'>
+    <tag k='addr:city' v='Cazenovia' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='13035' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Nelson Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-655-4565' />
+    <tag k='ref' v='367' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276817' action='modify' lat='41.411912' lon='-73.663724'>
+    <tag k='addr:city' v='Carmel' />
+    <tag k='addr:housenumber' v='1936' />
+    <tag k='addr:postcode' v='10512' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='US Route 6' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 845-225-4151' />
+    <tag k='ref' v='535' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276818' action='modify' lat='43.069713' lon='-75.752117'>
+    <tag k='addr:city' v='Canastota' />
+    <tag k='addr:postcode' v='13032' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-697-2700' />
+    <tag k='ref' v='360' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276819' action='modify' lat='42.904359' lon='-77.297259'>
+    <tag k='addr:city' v='Canandaigua' />
+    <tag k='addr:housenumber' v='5150' />
+    <tag k='addr:postcode' v='14424' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='North Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-394-5120' />
+    <tag k='ref' v='432' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276820' action='modify' lat='44.161487' lon='-72.655666'>
+    <tag k='addr:city' v='Northfield' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='05663' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Plaze Drive' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 802-485-8878' />
+    <tag k='ref' v='741' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276821' action='modify' lat='44.503384' lon='-72.360273'>
+    <tag k='addr:city' v='Hardwick' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='05843' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='VT Route 15W' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 802-472-6504' />
+    <tag k='ref' v='742' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276822' action='modify' lat='41.850246' lon='-79.3173018'>
+    <tag k='addr:city' v='Youngsville' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='16371' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='Railroad Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-563-4366' />
+    <tag k='ref' v='669' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276823' action='modify' lat='41.918287' lon='-77.542718'>
+    <tag k='addr:city' v='Westfield' />
+    <tag k='addr:housenumber' v='198' />
+    <tag k='addr:postcode' v='16950' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='West Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-367-2320' />
+    <tag k='ref' v='620' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276824' action='modify' lat='41.749877' lon='-77.2988571'>
+    <tag k='addr:city' v='Wellsboro' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='16901' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 570-724-5426' />
+    <tag k='ref' v='676' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276825' action='modify' lat='41.941886' lon='-79.9838664'>
+    <tag k='addr:city' v='Waterford' />
+    <tag k='addr:postcode' v='16441' />
+    <tag k='addr:state' v='PA' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-796-6711' />
+    <tag k='ref' v='667' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276826' action='modify' lat='41.84302' lon='-79.144049'>
+    <tag k='addr:city' v='Warren' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='16365' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='Market Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-726-3660' />
+    <tag k='ref' v='603' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276827' action='modify' lat='41.8996743' lon='-79.8437926'>
+    <tag k='addr:city' v='Union City' />
+    <tag k='addr:postcode' v='16438' />
+    <tag k='addr:state' v='PA' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-438-7614' />
+    <tag k='ref' v='668' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276828' action='modify' lat='41.7901778' lon='-76.7788952'>
+    <tag k='addr:city' v='Troy' />
+    <tag k='addr:housenumber' v='684' />
+    <tag k='addr:postcode' v='16947' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='Elmira Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 570-297-2475' />
+    <tag k='ref' v='677' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276829' action='modify' lat='41.7725677' lon='-76.3898391'>
+    <tag k='addr:city' v='Towanda' />
+    <tag k='addr:postcode' v='18848' />
+    <tag k='addr:state' v='PA' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 570-265-7006' />
+    <tag k='ref' v='680' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276830' action='modify' lat='41.7025527' lon='-79.0320719'>
+    <tag k='addr:city' v='Sheffield' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='16347' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='Leather Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-968-3014' />
+    <tag k='ref' v='671' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276831' action='modify' lat='41.7884026' lon='-76.783018'>
+    <tag k='addr:city' v='Sayre' />
+    <tag k='addr:housenumber' v='3014' />
+    <tag k='addr:postcode' v='18840' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='North Elmira Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 570-882-9188' />
+    <tag k='ref' v='650' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276832' action='modify' lat='41.6414438' lon='-80.1514484'>
+    <tag k='addr:city' v='Meadville' />
+    <tag k='addr:postcode' v='16335' />
+    <tag k='addr:state' v='PA' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-724-4025' />
+    <tag k='ref' v='670' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276833' action='modify' lat='41.6670991' lon='-78.8122616'>
+    <tag k='addr:city' v='Kane' />
+    <tag k='addr:housenumber' v='525' />
+    <tag k='addr:postcode' v='16735' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='North Fraley Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-837-7812' />
+    <tag k='ref' v='672' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276834' action='modify' lat='42.1090023' lon='-80.0927298'>
+    <tag k='addr:city' v='Erie' />
+    <tag k='addr:postcode' v='16508' />
+    <tag k='addr:state' v='PA' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-864-4958' />
+    <tag k='ref' v='665' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276835' action='modify' lat='42.116941' lon='-80.030626'>
+    <tag k='addr:city' v='Erie' />
+    <tag k='addr:housenumber' v='1702' />
+    <tag k='addr:postcode' v='16510' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='East 38th Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-455-7482' />
+    <tag k='ref' v='601' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276836' action='modify' lat='41.6558641' lon='-76.8462246'>
+    <tag k='addr:city' v='Canton' />
+    <tag k='addr:postcode' v='17724' />
+    <tag k='addr:state' v='PA' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 570-673-3838' />
+    <tag k='ref' v='678' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276837' action='modify' lat='41.9596338' lon='-78.6376485'>
+    <tag k='addr:city' v='Bradford' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='16701' />
+    <tag k='addr:state' v='PA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 814-363-9901' />
+    <tag k='ref' v='610' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276838' action='modify' lat='42.961076' lon='-78.755498'>
+    <tag k='addr:city' v='Williamsville' />
+    <tag k='addr:postcode' v='14221' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-632-7411' />
+    <tag k='ref' v='276' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276839' action='modify' lat='42.988395' lon='-78.699069'>
+    <tag k='addr:city' v='Williamsville' />
+    <tag k='addr:housenumber' v='2351' />
+    <tag k='addr:postcode' v='14221' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Maple Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3200' />
+    <tag k='ref' v='224' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276840' action='modify' lat='42.325411' lon='-79.573905'>
+    <tag k='addr:city' v='Westfield' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='14787' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='East Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-326-4965' />
+    <tag k='ref' v='279' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276841' action='modify' lat='42.831836' lon='-78.785014'>
+    <tag k='addr:city' v='West Seneca' />
+    <tag k='addr:housenumber' v='355' />
+    <tag k='addr:postcode' v='14224' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Orchard Park Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-517-3000' />
+    <tag k='ref' v='49' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276842' action='modify' lat='42.86665' lon='-78.788544'>
+    <tag k='addr:city' v='West Seneca' />
+    <tag k='addr:housenumber' v='800' />
+    <tag k='addr:postcode' v='14224' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Harlem Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-823-8948' />
+    <tag k='ref' v='212' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276843' action='modify' lat='42.127258' lon='-77.962529'>
+    <tag k='addr:city' v='Wellsville' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='14895' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Bolivar Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-593-0166' />
+    <tag k='ref' v='249' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276844' action='modify' lat='42.369691' lon='-76.866733'>
+    <tag k='addr:city' v='Watkins Glen' />
+    <tag k='addr:postcode' v='14891' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-535-4064' />
+    <tag k='ref' v='576' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276845' action='modify' lat='42.9044078' lon='-76.8342728'>
+    <tag k='addr:city' v='Waterloo' />
+    <tag k='addr:housenumber' v='1963' />
+    <tag k='addr:postcode' v='13165' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Kingdom Plaza' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-539-8866' />
+    <tag k='ref' v='565' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276846' action='modify' lat='42.7736599' lon='-78.1240102'>
+    <tag k='addr:city' v='Warsaw' />
+    <tag k='addr:housenumber' v='2382' />
+    <tag k='addr:postcode' v='14569' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 19' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-786-0660' />
+    <tag k='ref' v='247' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276847' action='modify' lat='43.13803' lon='-77.27798999999'>
+    <tag k='addr:city' v='Walworth' />
+    <tag k='addr:postcode' v='14568' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-986-4009' />
+    <tag k='ref' v='428' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276848' action='modify' lat='43.125599' lon='-78.999589'>
+    <tag k='addr:city' v='Town of Niagara' />
+    <tag k='addr:housenumber' v='4235' />
+    <tag k='addr:postcode' v='14305' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Military Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-297-3410' />
+    <tag k='ref' v='130' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276849' action='modify' lat='43.020329' lon='-78.883653'>
+    <tag k='addr:city' v='Tonawanda' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='14150' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Niagara Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-693-5700' />
+    <tag k='ref' v='228' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276850' action='modify' lat='43.001933' lon='-78.85818'>
+    <tag k='addr:city' v='Tonawanda' />
+    <tag k='addr:housenumber' v='890' />
+    <tag k='addr:postcode' v='14150' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Young Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-692-8254' />
+    <tag k='ref' v='226' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276851' action='modify' lat='42.195644' lon='-74.133751'>
+    <tag k='addr:city' v='Tannersville' />
+    <tag k='addr:housenumber' v='6350' />
+    <tag k='addr:postcode' v='12485' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-589-0048' />
+    <tag k='ref' v='725' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276852' action='modify' lat='43.069379' lon='-76.148956'>
+    <tag k='addr:city' v='Syracuse' />
+    <tag k='addr:housenumber' v='700' />
+    <tag k='addr:postcode' v='13208' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='1st North Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-470-0980' />
+    <tag k='ref' v='373' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276853' action='modify' lat='43.0737733' lon='-76.1186533'>
+    <tag k='addr:city' v='Syracuse' />
+    <tag k='addr:housenumber' v='181' />
+    <tag k='addr:postcode' v='13206' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Shop City Plaza' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-437-5201' />
+    <tag k='ref' v='369' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276854' action='modify' lat='43.0217252' lon='-76.1092501'>
+    <tag k='addr:city' v='Syracuse' />
+    <tag k='addr:housenumber' v='620' />
+    <tag k='addr:postcode' v='13210' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Nottingham Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-446-1652' />
+    <tag k='ref' v='362' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276855' action='modify' lat='42.40995' lon='-74.620757'>
+    <tag k='addr:city' v='Stamford' />
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:postcode' v='12167' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-652-5114' />
+    <tag k='ref' v='722' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276856' action='modify' lat='42.5083952' lon='-78.6672482'>
+    <tag k='addr:city' v='Springville' />
+    <tag k='addr:postcode' v='14141' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-592-8241' />
+    <tag k='ref' v='233' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276857' action='modify' lat='43.1908797' lon='-77.7996532'>
+    <tag k='addr:city' v='Spencerport' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='14559' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Slayton Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-352-2100' />
+    <tag k='ref' v='453' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276858' action='modify' lat='42.9481892' lon='-76.4331932'>
+    <tag k='addr:city' v='Skaneateles' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='13152' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Fennell Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-685-7424' />
+    <tag k='ref' v='366' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276859' action='modify' lat='42.54569' lon='-79.1731438'>
+    <tag k='addr:city' v='Silver Creek' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='14136' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Central Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-934-3431' />
+    <tag k='ref' v='278' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276860' action='modify' lat='43.837637' lon='-73.762596'>
+    <tag k='addr:city' v='Schroon Lake' />
+    <tag k='addr:housenumber' v='1103' />
+    <tag k='addr:postcode' v='21870' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 9' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-532-7885' />
+    <tag k='ref' v='719' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276861' action='modify' lat='43.646961' lon='-76.086425'>
+    <tag k='addr:city' v='Sandy Creek' />
+    <tag k='addr:housenumber' v='6103' />
+    <tag k='addr:postcode' v='13145' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='North Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-387-5212' />
+    <tag k='ref' v='595' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276862' action='modify' lat='43.142452' lon='-78.8839239'>
+    <tag k='addr:city' v='Sanborn' />
+    <tag k='addr:housenumber' v='2956' />
+    <tag k='addr:postcode' v='14132' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Saunders Settlement Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-731-7344' />
+    <tag k='ref' v='32' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276863' action='modify' lat='43.133249' lon='-77.496386'>
+    <tag k='addr:city' v='Rochester' />
+    <tag k='addr:housenumber' v='1601' />
+    <tag k='addr:postcode' v='14625' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Penfield Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-264-0820' />
+    <tag k='ref' v='417' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276864' action='modify' lat='43.1499951' lon='-77.6504474'>
+    <tag k='addr:city' v='Rochester' />
+    <tag k='addr:housenumber' v='450' />
+    <tag k='addr:postcode' v='14611' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-512-4100' />
+    <tag k='ref' v='401' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276865' action='modify' lat='43.2236861' lon='-77.6998233'>
+    <tag k='addr:city' v='Rochester' />
+    <tag k='addr:postcode' v='14616' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-663-4400' />
+    <tag k='ref' v='418' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276866' action='modify' lat='43.169739' lon='-77.610083'>
+    <tag k='addr:city' v='Rochester' />
+    <tag k='addr:housenumber' v='285' />
+    <tag k='addr:postcode' v='14605' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Upper Falls Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-454-4430' />
+    <tag k='ref' v='460' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276867' action='modify' lat='42.1532586' lon='-77.0769996'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='360' />
+    <tag k='addr:postcode' v='14830' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Pulteney Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-936-3923' />
+    <tag k='ref' v='540' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276868' action='modify' lat='41.946414' lon='-73.900193'>
+    <tag k='addr:city' v='Rhinebeck' />
+    <tag k='addr:housenumber' v='6726' />
+    <tag k='addr:postcode' v='12572' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 9' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 845-876-7800' />
+    <tag k='ref' v='531' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276869' action='modify' lat='42.15795' lon='-78.999805'>
+    <tag k='addr:city' v='Randolph' />
+    <tag k='addr:postcode' v='14772' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-358-6577' />
+    <tag k='ref' v='273' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276870' action='modify' lat='43.558888' lon='-76.117519'>
+    <tag k='addr:city' v='Pulaski' />
+    <tag k='addr:housenumber' v='3830' />
+    <tag k='addr:postcode' v='13142' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Rome Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-298-1081' />
+    <tag k='ref' v='585' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276871' action='modify' lat='42.6619273' lon='-77.0569511'>
+    <tag k='addr:city' v='Penn Yan' />
+    <tag k='addr:housenumber' v='321' />
+    <tag k='addr:postcode' v='14527' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Liberty Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-536-2508' />
+    <tag k='ref' v='566' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276872' action='modify' lat='42.795831' lon='-78.748756'>
+    <tag k='addr:city' v='Orchard Park' />
+    <tag k='addr:housenumber' v='3201' />
+    <tag k='addr:postcode' v='14127' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Southwestern Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-677-2569' />
+    <tag k='ref' v='108' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276873' action='modify' lat='43.226553' lon='-77.28072'>
+    <tag k='addr:city' v='Ontario' />
+    <tag k='addr:housenumber' v='6272' />
+    <tag k='addr:postcode' v='14519' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Furnace Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-524-3550' />
+    <tag k='ref' v='413' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276874' action='modify' lat='42.0771358' lon='-78.4571202'>
+    <tag k='addr:city' v='Olean' />
+    <tag k='addr:housenumber' v='2401' />
+    <tag k='addr:postcode' v='14760' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West State Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-373-1021' />
+    <tag k='ref' v='206' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276875' action='modify' lat='43.227716' lon='-74.173515'>
+    <tag k='addr:city' v='Northville' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:postcode' v='12134' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-863-6776' />
+    <tag k='ref' v='721' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276876' action='modify' lat='43.050751' lon='-78.874796'>
+    <tag k='addr:city' v='North Tonawanda' />
+    <tag k='addr:housenumber' v='301' />
+    <tag k='addr:postcode' v='14120' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Meadow Drive' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-743-4350' />
+    <tag k='ref' v='240' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276877' action='modify' lat='43.1179216' lon='-76.1407965'>
+    <tag k='addr:city' v='North Syracuse' />
+    <tag k='addr:postcode' v='13212' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-458-0032' />
+    <tag k='ref' v='361' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276878' action='modify' lat='43.700532' lon='-73.987548'>
+    <tag k='addr:city' v='North Creek' />
+    <tag k='addr:housenumber' v='273' />
+    <tag k='addr:postcode' v='12853' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-251-4669' />
+    <tag k='ref' v='716' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276879' action='modify' lat='42.684398' lon='-78.76574'>
+    <tag k='addr:city' v='North Boston' />
+    <tag k='addr:housenumber' v='7375' />
+    <tag k='addr:postcode' v='14110' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Boston State Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-649-8671' />
+    <tag k='ref' v='70' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276880' action='modify' lat='43.0881478' lon='-78.9817164'>
+    <tag k='addr:city' v='Niagara Falls' />
+    <tag k='addr:housenumber' v='7200' />
+    <tag k='addr:postcode' v='14304' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Niagara Falls Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-513-2200' />
+    <tag k='ref' v='22' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276881' action='modify' lat='43.098644' lon='-79.052125'>
+    <tag k='addr:city' v='Niagara Falls' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:postcode' v='14301' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Portage Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-513-2170' />
+    <tag k='ref' v='9' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276882' action='modify' lat='43.290776' lon='-78.71015'>
+    <tag k='addr:city' v='Newfane' />
+    <tag k='addr:housenumber' v='2555' />
+    <tag k='addr:postcode' v='14108' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-778-5094' />
+    <tag k='ref' v='39' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276883' action='modify' lat='41.7449333' lon='-74.06921779999'>
+    <tag k='addr:city' v='New Paltz' />
+    <tag k='addr:housenumber' v='271' />
+    <tag k='addr:postcode' v='12561' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 845-256-0121' />
+    <tag k='ref' v='532' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276884' action='modify' lat='43.459014' lon='-76.2392969'>
+    <tag k='addr:city' v='Mexico' />
+    <tag k='addr:housenumber' v='3385' />
+    <tag k='addr:postcode' v='13114' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-963-7053' />
+    <tag k='ref' v='594' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276885' action='modify' lat='43.205185' lon='-78.399519'>
+    <tag k='addr:city' v='Medina' />
+    <tag k='addr:housenumber' v='11200' />
+    <tag k='addr:postcode' v='14103' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Maple Ridge Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-798-2590' />
+    <tag k='ref' v='248' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276886' action='modify' lat='42.24374' lon='-79.496785'>
+    <tag k='addr:city' v='Mayville' />
+    <tag k='addr:housenumber' v='640' />
+    <tag k='addr:postcode' v='14757' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='South Erie Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-753-7670' />
+    <tag k='ref' v='270' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276887' action='modify' lat='43.000473' lon='-75.981596'>
+    <tag k='addr:city' v='Manlius' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='13104' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Seneca Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-682-7261' />
+    <tag k='ref' v='365' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276888' action='modify' lat='43.7818903' lon='-75.4828654'>
+    <tag k='addr:city' v='Lowville' />
+    <tag k='addr:postcode' v='13367' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-376-6311' />
+    <tag k='ref' v='574' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276889' action='modify' lat='43.181165' lon='-78.641198'>
+    <tag k='addr:city' v='Lockport' />
+    <tag k='addr:housenumber' v='7134' />
+    <tag k='addr:postcode' v='14094' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Rochester Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-434-3990' />
+    <tag k='ref' v='275' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276890' action='modify' lat='43.141423' lon='-78.6947409'>
+    <tag k='addr:city' v='Lockport' />
+    <tag k='addr:housenumber' v='5827' />
+    <tag k='addr:postcode' v='14094' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='South Transit' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-439-4366' />
+    <tag k='ref' v='21' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276891' action='modify' lat='43.2252692' lon='-78.6777401'>
+    <tag k='addr:city' v='Lockport' />
+    <tag k='addr:postcode' v='14094' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-439-8900' />
+    <tag k='ref' v='38' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276892' action='modify' lat='43.171905' lon='-79.031134'>
+    <tag k='addr:city' v='Lewiston' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='14092' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Center Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-215-1350' />
+    <tag k='ref' v='115' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276893' action='modify' lat='42.979619' lon='-78.004968'>
+    <tag k='addr:city' v='LeRoy' />
+    <tag k='addr:housenumber' v='128' />
+    <tag k='addr:postcode' v='14482' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-768-8549' />
+    <tag k='ref' v='246' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276894' action='modify' lat='42.481699' lon='-76.48665'>
+    <tag k='addr:city' v='Lansing' />
+    <tag k='addr:housenumber' v='2300' />
+    <tag k='addr:postcode' v='14850' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='North Triphammer Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-257-4952' />
+    <tag k='ref' v='522' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276895' action='modify' lat='41.6678746' lon='-73.7953406'>
+    <tag k='addr:city' v='Lagrangeville' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='12540' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Jon J Wagner Way' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 845-473-0454' />
+    <tag k='ref' v='533' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276896' action='modify' lat='42.080585' lon='-79.2287528'>
+    <tag k='addr:city' v='Jamestown' />
+    <tag k='addr:housenumber' v='738' />
+    <tag k='addr:postcode' v='14701' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Foote Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-484-7243' />
+    <tag k='ref' v='274' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276897' action='modify' lat='42.109277' lon='-79.244637'>
+    <tag k='addr:city' v='Jamestown' />
+    <tag k='addr:housenumber' v='2000' />
+    <tag k='addr:postcode' v='14701' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Washington Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-665-1100' />
+    <tag k='ref' v='209' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276898' action='modify' lat='43.195478' lon='-77.589542'>
+    <tag k='addr:city' v='Irondequoit' />
+    <tag k='addr:housenumber' v='999' />
+    <tag k='addr:postcode' v='14621' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='East Ridge Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-342-3803' />
+    <tag k='ref' v='429' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276899' action='modify' lat='42.845265' lon='-73.339953'>
+    <tag k='addr:city' v='Hoosick Falls' />
+    <tag k='addr:housenumber' v='21501' />
+    <tag k='addr:postcode' v='12090' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='NY State RT 22' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-686-5649' />
+    <tag k='ref' v='723' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276900' action='modify' lat='43.2860595' lon='-77.79020129999'>
+    <tag k='addr:city' v='Hilton' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='14468' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='South Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-392-6770' />
+    <tag k='ref' v='452' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276901' action='modify' lat='43.085947' lon='-77.599606'>
+    <tag k='addr:city' v='Henrietta' />
+    <tag k='addr:housenumber' v='1215' />
+    <tag k='addr:postcode' v='14623' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Jefferson Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-292-0117' />
+    <tag k='ref' v='416' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276902' action='modify' lat='43.3231975' lon='-76.5730345'>
+    <tag k='addr:city' v='Hannibal' />
+    <tag k='addr:housenumber' v='409' />
+    <tag k='addr:postcode' v='13074' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Fulton Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-564-6318' />
+    <tag k='ref' v='599' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276903' action='modify' lat='41.954983' lon='-75.283488'>
+    <tag k='addr:city' v='Hancock' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='13783' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-637-3369' />
+    <tag k='ref' v='726' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276904' action='modify' lat='43.2926519' lon='-77.918745'>
+    <tag k='addr:city' v='Hamlin' />
+    <tag k='addr:housenumber' v='1800' />
+    <tag k='addr:postcode' v='14464' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Lake Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-964-2920' />
+    <tag k='ref' v='450' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276905' action='modify' lat='42.768149' lon='-78.813127'>
+    <tag k='addr:city' v='Hamburg' />
+    <tag k='addr:housenumber' v='4250' />
+    <tag k='addr:postcode' v='14075' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='McKinley Parkway' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3225' />
+    <tag k='ref' v='215' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276906' action='modify' lat='42.72776' lon='-78.824311'>
+    <tag k='addr:city' v='Hamburg' />
+    <tag k='addr:postcode' v='14075' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3300' />
+    <tag k='ref' v='236' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276907' action='modify' lat='42.41536' lon='-74.022077'>
+    <tag k='addr:city' v='Greenville' />
+    <tag k='addr:housenumber' v='11573' />
+    <tag k='addr:postcode' v='12083' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='State Route 32' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-966-5396' />
+    <tag k='ref' v='720' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276908' action='modify' lat='43.018617' lon='-78.962231'>
+    <tag k='addr:city' v='Grand Island' />
+    <tag k='addr:housenumber' v='2140' />
+    <tag k='addr:postcode' v='14072' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Grand Island Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-775-1138' />
+    <tag k='ref' v='119' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276909' action='modify' lat='43.146087' lon='-77.710906'>
+    <tag k='addr:city' v='Gates' />
+    <tag k='addr:housenumber' v='2345' />
+    <tag k='addr:postcode' v='14624' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Buffalo Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-247-8040' />
+    <tag k='ref' v='403' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276910' action='modify' lat='42.053385' lon='-79.160788'>
+    <tag k='addr:city' v='Frewsburg' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='14738' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Center Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-569-6460' />
+    <tag k='ref' v='754' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276911' action='modify' lat='43.0314819' lon='-76.019536'>
+    <tag k='addr:city' v='Fayetteville' />
+    <tag k='addr:housenumber' v='350' />
+    <tag k='addr:postcode' v='13066' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Towne Drive' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-637-8039' />
+    <tag k='ref' v='363' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276912' action='modify' lat='42.974415' lon='-77.34481829999'>
+    <tag k='addr:city' v='Farmington' />
+    <tag k='addr:housenumber' v='6179' />
+    <tag k='addr:postcode' v='14425' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 96' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-742-4100' />
+    <tag k='ref' v='435' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276913' action='modify' lat='42.117775' lon='-79.197147'>
+    <tag k='addr:city' v='Falconer' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='14733' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='South Work Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-665-1150' />
+    <tag k='ref' v='272' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276914' action='modify' lat='42.6388218' lon='-79.04710969999'>
+    <tag k='addr:city' v='Evans' />
+    <tag k='addr:housenumber' v='9049' />
+    <tag k='addr:postcode' v='14006' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Erie Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-549-2220' />
+    <tag k='ref' v='262' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276915' action='modify' lat='42.362536' lon='-76.595786'>
+    <tag k='addr:city' v='Elmira' />
+    <tag k='addr:postcode' v='14904' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-734-8147' />
+    <tag k='ref' v='578' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276916' action='modify' lat='42.089796' lon='-76.807734'>
+    <tag k='addr:city' v='Elmira' />
+    <tag k='addr:postcode' v='14903' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-739-0095' />
+    <tag k='ref' v='542' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276917' action='modify' lat='42.277009' lon='-78.669556'>
+    <tag k='addr:city' v='Ellicottville' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='14731' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='East Washington Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-699-2353' />
+    <tag k='ref' v='271' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276918' action='modify' lat='44.2130988' lon='-73.597029'>
+    <tag k='addr:city' v='Elizabethtown' />
+    <tag k='addr:housenumber' v='335' />
+    <tag k='addr:postcode' v='12932' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Court Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-873-6589' />
+    <tag k='ref' v='710' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276919' action='modify' lat='43.0358802' lon='-76.4398592'>
+    <tag k='addr:city' v='Elbridge' />
+    <tag k='addr:housenumber' v='227' />
+    <tag k='addr:postcode' v='13060' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='East Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-689-3781' />
+    <tag k='ref' v='374' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276920' action='modify' lat='42.767356' lon='-78.6321339'>
+    <tag k='addr:city' v='East Aurora' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='14052' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Grey Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-655-3206' />
+    <tag k='ref' v='118' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276921' action='modify' lat='42.4587343' lon='-79.3168289'>
+    <tag k='addr:city' v='Dunkirk' />
+    <tag k='addr:housenumber' v='3955' />
+    <tag k='addr:postcode' v='14048' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Vineyard Drive' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-366-2050' />
+    <tag k='ref' v='264' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276922' action='modify' lat='43.035166' lon='-76.0674436'>
+    <tag k='addr:city' v='DeWitt' />
+    <tag k='addr:housenumber' v='4410' />
+    <tag k='addr:postcode' v='13214' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='East Genesee Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-446-6421' />
+    <tag k='ref' v='371' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276923' action='modify' lat='42.6985262' lon='-78.9861481'>
+    <tag k='addr:city' v='Derby' />
+    <tag k='addr:housenumber' v='6914' />
+    <tag k='addr:postcode' v='14047' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Erie Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-947-4019' />
+    <tag k='ref' v='268' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276924' action='modify' lat='42.898872' lon='-78.683488'>
+    <tag k='addr:city' v='Depew' />
+    <tag k='addr:housenumber' v='5175' />
+    <tag k='addr:postcode' v='14043' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Broadway' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3440' />
+    <tag k='ref' v='114' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276925' action='modify' lat='43.0411326' lon='-76.2718874'>
+    <tag k='addr:city' v='Camillus' />
+    <tag k='addr:housenumber' v='5335' />
+    <tag k='addr:postcode' v='13031' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Genesee Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-487-0787' />
+    <tag k='ref' v='358' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276926' action='modify' lat='43.3345138' lon='-75.747964'>
+    <tag k='addr:city' v='Camden' />
+    <tag k='addr:postcode' v='13316' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-245-4745' />
+    <tag k='ref' v='586' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276927' action='modify' lat='42.8571861' lon='-78.8118987'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:housenumber' v='1989' />
+    <tag k='addr:postcode' v='14210' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Seneca Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-824-1124' />
+    <tag k='ref' v='66' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276928' action='modify' lat='42.909746' lon='-78.852962'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:housenumber' v='1275' />
+    <tag k='addr:postcode' v='14208' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Jefferson Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-816-0038' />
+    <tag k='ref' v='250' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276929' action='modify' lat='42.896132' lon='-78.886379'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:housenumber' v='425' />
+    <tag k='addr:postcode' v='14201' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Niagara Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-852-6112' />
+    <tag k='ref' v='113' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276930' action='modify' lat='42.858147' lon='-78.829994'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:housenumber' v='1460' />
+    <tag k='addr:postcode' v='14220' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='South Park Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-2050' />
+    <tag k='ref' v='213' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276931' action='modify' lat='42.9377771' lon='-78.8911036'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:housenumber' v='345' />
+    <tag k='addr:postcode' v='14207' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Amherst Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-2170' />
+    <tag k='ref' v='210' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276932' action='modify' lat='42.981969' lon='-78.87039'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:postcode' v='14223' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-874-4991' />
+    <tag k='ref' v='239' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276933' action='modify' lat='42.9558745' lon='-78.8783148'>
+    <tag k='addr:city' v='Buffalo' />
+    <tag k='addr:housenumber' v='2101' />
+    <tag k='addr:postcode' v='14207' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Elmwood Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-0050' />
+    <tag k='ref' v='232' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276934' action='modify' lat='43.1205443' lon='-77.5928789'>
+    <tag k='addr:city' v='Brighton' />
+    <tag k='addr:housenumber' v='1900' />
+    <tag k='addr:postcode' v='14618' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Clinton Avenue South' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-442-2990' />
+    <tag k='ref' v='412' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276935' action='modify' lat='43.467816' lon='-75.317895'>
+    <tag k='addr:city' v='Boonville' />
+    <tag k='addr:housenumber' v='261' />
+    <tag k='addr:postcode' v='13309' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Utica Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-942-3000' />
+    <tag k='ref' v='598' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276936' action='modify' lat='43.558342' lon='-73.653865'>
+    <tag k='addr:city' v='Bolton Landing' />
+    <tag k='addr:housenumber' v='4976' />
+    <tag k='addr:postcode' v='12814' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Lakeshore Drive' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-644-2069' />
+    <tag k='ref' v='702' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276937' action='modify' lat='42.333885' lon='-77.326799'>
+    <tag k='addr:city' v='Bath' />
+    <tag k='addr:housenumber' v='309' />
+    <tag k='addr:postcode' v='14810' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Morris Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 607-776-1015' />
+    <tag k='ref' v='539' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276938' action='modify' lat='43.006405' lon='-78.204361'>
+    <tag k='addr:city' v='Batavia' />
+    <tag k='addr:housenumber' v='390' />
+    <tag k='addr:postcode' v='14020' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-343-9373' />
+    <tag k='ref' v='245' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276939' action='modify' lat='43.151991' lon='-76.349901'>
+    <tag k='addr:city' v='Baldwinsville' />
+    <tag k='addr:housenumber' v='2265' />
+    <tag k='addr:postcode' v='13027' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Downer Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-635-3536' />
+    <tag k='ref' v='357' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276940' action='modify' lat='42.910709' lon='-77.733822'>
+    <tag k='addr:city' v='Avon' />
+    <tag k='addr:housenumber' v='600' />
+    <tag k='addr:postcode' v='14414' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Dream Valley Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-226-2730' />
+    <tag k='ref' v='431' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276941' action='modify' lat='44.4410824' lon='-73.67591929999'>
+    <tag k='addr:city' v='Ausable Forks' />
+    <tag k='addr:housenumber' v='14228' />
+    <tag k='addr:postcode' v='12912' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='NYS Rt 9N' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 518-647-5480' />
+    <tag k='ref' v='717' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276942' action='modify' lat='42.919051' lon='-76.590395'>
+    <tag k='addr:city' v='Auburn' />
+    <tag k='addr:housenumber' v='352' />
+    <tag k='addr:postcode' v='13021' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Genesee Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-252-7995' />
+    <tag k='ref' v='504' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276943' action='modify' lat='42.8690264' lon='-78.2776246'>
+    <tag k='addr:city' v='Attica' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='14011' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Prospect Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-591-8092' />
+    <tag k='ref' v='277' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276944' action='modify' lat='42.5322351' lon='-78.4513619'>
+    <tag k='addr:city' v='Arcade' />
+    <tag k='addr:housenumber' v='658' />
+    <tag k='addr:postcode' v='14009' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-492-0067' />
+    <tag k='ref' v='238' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276945' action='modify' lat='42.991987' lon='-78.815742'>
+    <tag k='addr:city' v='Amherst' />
+    <tag k='addr:housenumber' v='3980' />
+    <tag k='addr:postcode' v='14226' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Maple Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-0075' />
+    <tag k='ref' v='41' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276946' action='modify' lat='43.0329078' lon='-78.6969697'>
+    <tag k='addr:city' v='Amherst' />
+    <tag k='addr:housenumber' v='9660' />
+    <tag k='addr:postcode' v='14051' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Transit Road' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3525' />
+    <tag k='ref' v='227' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276947' action='modify' lat='43.037108' lon='-78.82168'>
+    <tag k='addr:city' v='Amherst' />
+    <tag k='addr:housenumber' v='3035' />
+    <tag k='addr:postcode' v='14228' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Niagara Falls Boulevard' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-0025' />
+    <tag k='ref' v='207' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276948' action='modify' lat='42.958762' lon='-78.818579'>
+    <tag k='addr:city' v='Amherst' />
+    <tag k='addr:housenumber' v='3500' />
+    <tag k='addr:postcode' v='14226' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-515-3240' />
+    <tag k='ref' v='42' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276949' action='modify' lat='42.894046' lon='-78.5098749'>
+    <tag k='addr:city' v='Alden' />
+    <tag k='addr:housenumber' v='12775' />
+    <tag k='addr:postcode' v='14004' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Broadway Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 716-505-1450' />
+    <tag k='ref' v='261' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276950' action='modify' lat='43.239567' lon='-78.205386'>
+    <tag k='addr:city' v='Albion' />
+    <tag k='addr:housenumber' v='408' />
+    <tag k='addr:postcode' v='14411' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Avenue' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 585-589-2548' />
+    <tag k='ref' v='451' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='-276951' action='modify' lat='43.82594' lon='-76.01904'>
+    <tag k='addr:city' v='Adams' />
+    <tag k='addr:housenumber' v='10916' />
+    <tag k='addr:postcode' v='13605' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Us Rt 11' />
+    <tag k='brand' v='Tops' />
+    <tag k='brand:wikidata' v='Q7825137' />
+    <tag k='name' v='Tops' />
+    <tag k='official_name' v='Tops Friendly Markets' />
+    <tag k='phone' v='+1 315-232-2222' />
+    <tag k='ref' v='596' />
+    <tag k='shop' v='supermarket' />
+  </node>
+</osm>

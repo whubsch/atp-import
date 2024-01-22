@@ -1,0 +1,2997 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-272911' action='modify' lat='44.53104364827' lon='-68.40904189815'>
+    <tag k='addr:city' v='Hancock County' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='04605' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='High Street' />
+    <tag k='addr:unit' v='1' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Ellsworth 225 High Street - Ellsworth' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-667-5300' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905350' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/ellsworth/8123' />
+  </node>
+  <node id='-272912' action='modify' lat='43.57133573312' lon='-70.68417370319'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='04087' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Sokokis Trail HC 72' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Waterboro 20 Sokokis Trail - East Waterboro' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-247-8000' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905328' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/east-waterboro/8221' />
+  </node>
+  <node id='-272913' action='modify' lat='45.0257664' lon='-69.2885045'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='04930' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Church Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Dexter 37 Church Street - Dexter' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-924-6410' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905418' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/dexter/8442' />
+  </node>
+  <node id='-272914' action='modify' lat='44.03529218387' lon='-69.51050341129'>
+    <tag k='addr:city' v='Lincoln County' />
+    <tag k='addr:housenumber' v='469' />
+    <tag k='addr:postcode' v='04543' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Damariscotta 469 Main Street - Damariscotta' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-563-8131' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905449' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/damariscotta/8141' />
+  </node>
+  <node id='-272915' action='modify' lat='44.39491016741' lon='-69.56759423018'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='04358' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Hannaford Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - China 33 Hannaford Drive - China' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-445-3385' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905402' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/china/8287' />
+  </node>
+  <node id='-272916' action='modify' lat='46.8612424' lon='-68.0087288'>
+    <tag k='addr:city' v='Aroostook County' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='04736' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='High Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Caribou 114 High Street - Caribou' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 08:00-20:00' />
+    <tag k='phone' v='+1 207-498-8824' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905262' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/caribou/8438' />
+  </node>
+  <node id='-272917' action='modify' lat='44.2009716' lon='-69.0787449'>
+    <tag k='addr:city' v='Knox County' />
+    <tag k='addr:housenumber' v='145' />
+    <tag k='addr:postcode' v='04843' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Elm Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Camden 145 Elm Street - Camden' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-236-8577' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905291' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/camden/8151' />
+  </node>
+  <node id='-272918' action='modify' lat='43.61573360172' lon='-70.52379101515'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='04093' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Hannaford Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Buxton 21 Hannaford Drive - Buxton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-929-3100' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905334' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/buxton/8226' />
+  </node>
+  <node id='-272919' action='modify' lat='44.5705357' lon='-68.7853357'>
+    <tag k='addr:city' v='Hancock County' />
+    <tag k='addr:housenumber' v='370' />
+    <tag k='addr:postcode' v='04416' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bucksport 370 Main Street - Bucksport' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-469-3282' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905420' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/bucksport/8152' />
+  </node>
+  <node id='-272920' action='modify' lat='43.90519015301' lon='-69.91747788817'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='04011' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Gurnet Road' />
+    <tag k='addr:unit' v='1' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket 8 Gurnet Road - Brunswick' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-504-5111' />
+    <tag k='ref' v='https://stores.hannaford.com/#24086463' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/brunswick/8446' />
+  </node>
+  <node id='-272921' action='modify' lat='43.91195332578' lon='-69.96678203344'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='04011' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Elm Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Brunswick 35 Elm St - Brunswick' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-725-6683' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905411' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/brunswick/8231' />
+  </node>
+  <node id='-272922' action='modify' lat='44.045894' lon='-70.7028636'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='04009' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Portland Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bridgton 109 Portland Road - Bridgton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-647-2015' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905248' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/bridgton/8167' />
+  </node>
+  <node id='-272923' action='modify' lat='44.7830371' lon='-68.7539233'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='383' />
+    <tag k='addr:postcode' v='04412' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Wilson Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Brewer 383 Wilson St - Brewer' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-989-2500' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905426' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/brewer/8173' />
+  </node>
+  <node id='-272924' action='modify' lat='43.8602066' lon='-69.626919'>
+    <tag k='addr:city' v='Lincoln County' />
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:postcode' v='04538' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Townsend Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - Boothbay Harbor 180 Townsend Avenue - Boothbay Harbor' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-633-6465' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905316' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/boothbay-harbor/8143' />
+  </node>
+  <node id='-272925' action='modify' lat='44.40618359343' lon='-68.59809615828'>
+    <tag k='addr:city' v='Hancock County' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='04614' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='South Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/0D0wyU1cqZOradPnrHNwPcAoDQIFUmPaw5Qz5mow7vw/196x196.png' />
+    <tag k='name' v='Hannaford - Blue Hill 15 South Street - Blue Hill' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-374-5137' />
+    <tag k='ref' v='https://stores.hannaford.com/#91347305' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/blue-hill/8452' />
+  </node>
+  <node id='-272926' action='modify' lat='43.4869577' lon='-70.4652606'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='299' />
+    <tag k='addr:postcode' v='04005' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Elm Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Biddeford 299 Elm Street - Biddeford' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-284-8677' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905382' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/biddeford/8225' />
+  </node>
+  <node id='-272927' action='modify' lat='44.4456989' lon='-73.1137244'>
+    <tag k='addr:city' v='Chittenden County' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='05495' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Marshall Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Williston 78 Marshall Avenue - Williston' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 802-878-0032' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905527' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/williston/8398' />
+  </node>
+  <node id='-272928' action='modify' lat='44.9226964' lon='-73.111422'>
+    <tag k='addr:city' v='Franklin County' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:postcode' v='05488' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Swanton 139 First Street - Swanton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-868-2637' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905277' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/swanton/8408' />
+  </node>
+  <node id='-272929' action='modify' lat='44.8405310188' lon='-73.07912099198'>
+    <tag k='addr:city' v='Franklin County' />
+    <tag k='addr:housenumber' v='290' />
+    <tag k='addr:postcode' v='05478' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Highgate Commons Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - St Albans 290 Highgate Commons Road - St Albans' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-524-2157' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905370' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/st-albans/8355' />
+  </node>
+  <node id='-272930' action='modify' lat='44.44167' lon='-73.2097253'>
+    <tag k='addr:city' v='Chittenden County' />
+    <tag k='addr:housenumber' v='935' />
+    <tag k='addr:postcode' v='05403' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Shelburne Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Shelburne Rd. South Burlington 935 Shelburne Road - South Burlington' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 802-864-0105' />
+    <tag k='ref' v='https://stores.hannaford.com/#15373493' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/south-burlington/8448' />
+  </node>
+  <node id='-272931' action='modify' lat='44.4624486' lon='-73.1837005'>
+    <tag k='addr:city' v='Chittenden County' />
+    <tag k='addr:housenumber' v='217' />
+    <tag k='addr:postcode' v='05401' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Dorset Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Dorset St. South Burlington 217 Dorset St - South Burlington' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 802-863-6311' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905339' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/south-burlington/8357' />
+  </node>
+  <node id='-272932' action='modify' lat='43.5858388182' lon='-72.97095537186'>
+    <tag k='addr:city' v='Rutland County' />
+    <tag k='addr:housenumber' v='318' />
+    <tag k='addr:postcode' v='05701' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='South Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rutland 318 South Main St - Rutland' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 802-775-8900' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905396' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/rutland/8306' />
+  </node>
+  <node id='-272933' action='modify' lat='44.57273478041' lon='-72.59681671858'>
+    <tag k='addr:city' v='Lamoille County' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='05661' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Fairgrounds Plaza Route 100' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Morrisville 80 Fairgrounds Plaza - Morrisville' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-888-9848' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905539' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/morrisville/8162' />
+  </node>
+  <node id='-272934' action='modify' lat='44.6236486' lon='-73.1223745'>
+    <tag k='addr:city' v='Chittenden County' />
+    <tag k='addr:housenumber' v='259' />
+    <tag k='addr:postcode' v='05468' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Route 7 South' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Milton 259 Route 7 South - Milton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 802-893-0554' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905360' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/milton/8274' />
+  </node>
+  <node id='-272935' action='modify' lat='44.00104413944' lon='-73.15545867979'>
+    <tag k='addr:city' v='Addison County' />
+    <tag k='addr:housenumber' v='260' />
+    <tag k='addr:postcode' v='05753' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Court Street' />
+    <tag k='addr:unit' v='6' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Middlebury 260 Court St - Middlebury' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-388-1017' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905362' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/middlebury/8121' />
+  </node>
+  <node id='-272936' action='modify' lat='44.5072114' lon='-73.0838589'>
+    <tag k='addr:city' v='Chittenden County' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='05452' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Essex Way' />
+    <tag k='addr:unit' v='A' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Essex Junction 21 Essex Way - Essex Junction' />
+    <tag k='opening_hours' v='Mo-Sa 06:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 802-878-0274' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905343' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/essex-junction/8353' />
+  </node>
+  <node id='-272937' action='modify' lat='44.9125883' lon='-72.7957012'>
+    <tag k='addr:city' v='Franklin County' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='05450' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Jay View Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Enosburg Falls 71 Jay View Drive - Enosburg Falls' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-933-6657' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905509' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/enosburg-falls/8308' />
+  </node>
+  <node id='-272938' action='modify' lat='44.5062784' lon='-73.2467749'>
+    <tag k='addr:city' v='Chittenden County' />
+    <tag k='addr:housenumber' v='1127' />
+    <tag k='addr:postcode' v='05408' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='North Avenue' />
+    <tag k='addr:unit' v='11' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - North Ave. Burlington 1127 North Avenue - Burlington' />
+    <tag k='opening_hours' v='Mo-Sa 06:00-23:00; Su 07:00-23:00' />
+    <tag k='phone' v='+1 802-862-8040' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905258' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/burlington/8161' />
+  </node>
+  <node id='-272939' action='modify' lat='42.87944206343' lon='-72.56126268767'>
+    <tag k='addr:city' v='Windham County' />
+    <tag k='addr:housenumber' v='896' />
+    <tag k='addr:postcode' v='05301' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Putney Road' />
+    <tag k='addr:unit' v='5' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Brattleboro 896 Putney Rd - Brattleboro' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-254-1160' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905555' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/brattleboro/8397' />
+  </node>
+  <node id='-272940' action='modify' lat='43.79717089596' lon='-73.08935986012'>
+    <tag k='addr:city' v='Rutland County' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='05733' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Supermarket Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - Brandon 71 Supermarket Drive - Brandon' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-247-4113' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905510' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/brandon/8409' />
+  </node>
+  <node id='-272941' action='modify' lat='43.9841836' lon='-72.1226966'>
+    <tag k='addr:city' v='Grafton County' />
+    <tag k='addr:housenumber' v='586' />
+    <tag k='addr:postcode' v='05033' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Lower Plain' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bradford 586 Lower Plain - Bradford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 802-222-3370' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905479' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/bradford/8426' />
+  </node>
+  <node id='-272942' action='modify' lat='42.906845' lon='-73.2222906'>
+    <tag k='addr:city' v='Bennington County' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='05201' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='Hannaford Square' />
+    <tag k='addr:unit' v='2' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bennington 141 Hannaford Sq - Bennington' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 802-442-1521' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905285' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/bennington/8301' />
+  </node>
+  <node id='-272943' action='modify' lat='44.1741814' lon='-72.5061386'>
+    <tag k='addr:city' v='Washington County' />
+    <tag k='addr:housenumber' v='456' />
+    <tag k='addr:postcode' v='05641' />
+    <tag k='addr:state' v='VT' />
+    <tag k='addr:street' v='South Barre Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Barre 456 South Barre Road - Barre' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 802-479-3326' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905445' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/vt/barre/8129' />
+  </node>
+  <node id='-272944' action='modify' lat='42.69742284953' lon='-73.64995658398'>
+    <tag k='addr:city' v='Rensselaer County' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='12198' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Wynantskill 40 Main Street - Wynantskill' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-283-0538' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905434' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/wynantskill/8392' />
+  </node>
+  <node id='-272945' action='modify' lat='42.6433582' lon='-73.6070307'>
+    <tag k='addr:city' v='Rensselaer County' />
+    <tag k='addr:housenumber' v='3703' />
+    <tag k='addr:postcode' v='12196' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 43' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - West Sand Lake 3703 Route 43 - West Sand Lake' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 518-674-2846' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905577' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/west-sand-lake/8236' />
+  </node>
+  <node id='-272946' action='modify' lat='42.0054020828' lon='-74.10501663558'>
+    <tag k='addr:city' v='Ulster County' />
+    <tag k='addr:housenumber' v='295' />
+    <tag k='addr:postcode' v='12491' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='State Route 375' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - West Hurley 295 State Route 375 - West Hurley' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 845-679-8121' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905378' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/west-hurley/8444' />
+  </node>
+  <node id='-272947' action='modify' lat='43.97299944268' lon='-75.9536844492'>
+    <tag k='addr:city' v='Jefferson County' />
+    <tag k='addr:housenumber' v='21110' />
+    <tag k='addr:postcode' v='13601' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='US Route 3' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Watertown 21110 US Route 3 - Watertown' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 315-782-7456' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905336' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/watertown/8175' />
+  </node>
+  <node id='-272948' action='modify' lat='41.5899568' lon='-73.9063233'>
+    <tag k='addr:city' v='Dutchess County' />
+    <tag k='addr:housenumber' v='1490' />
+    <tag k='addr:postcode' v='12590' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 9' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Wappinger Falls 1490 Route 9 - Wappingers Falls' />
+    <tag k='opening_hours' v='Mo-Su 06:00-00:00' />
+    <tag k='phone' v='+1 845-297-8254' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905295' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/wappingers-falls/8334' />
+  </node>
+  <node id='-272949' action='modify' lat='41.5652056' lon='-74.1918331'>
+    <tag k='addr:city' v='Orange County' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='12586' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Oak Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Walden 78 Oak Street - Walden' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 845-778-2220' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905529' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/walden/8427' />
+  </node>
+  <node id='-272950' action='modify' lat='42.64859881097' lon='-73.92419099808'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='12186' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Maple Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Voorheesville 5 Maple Rd - Voorheesville' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 518-765-2629' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905460' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/voorheesville/8233' />
+  </node>
+  <node id='-272951' action='modify' lat='42.42773866811' lon='-73.69049428695'>
+    <tag k='addr:city' v='Columbia County' />
+    <tag k='addr:housenumber' v='2967' />
+    <tag k='addr:postcode' v='12184' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 9' />
+    <tag k='addr:unit' v='400' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Kinderhook 2967 Route 9 - Valatie' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-758-8800' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905380' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/valatie/8364' />
+  </node>
+  <node id='-272952' action='modify' lat='43.09033404031' lon='-75.22463589907'>
+    <tag k='addr:city' v='Oneida County' />
+    <tag k='addr:housenumber' v='1122' />
+    <tag k='addr:postcode' v='13501' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Mohawk Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Utica Mohawk Drive 1122 Mohawk Street - Utica' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 315-734-0373' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905256' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/utica/8372' />
+  </node>
+  <node id='-272953' action='modify' lat='42.74388991006' lon='-73.65201669868'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='12180' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Lord Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Brunswick 9 Lord Avenue - Troy' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-271-3832' />
+    <tag k='ref' v='https://stores.hannaford.com/#48356621' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/troy/8450' />
+  </node>
+  <node id='-272954' action='modify' lat='42.78914354611' lon='-73.67135256529'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='12182' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='126th Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Troy 9 126th Street - Troy' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-233-8196' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905557' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/troy/8336' />
+  </node>
+  <node id='-272955' action='modify' lat='43.2857741' lon='-73.6383943'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:postcode' v='12803' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - South Glens Falls 27-41 Gansevoort Rd - South Glens Falls' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-798-7991' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905368' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/south-glens-falls/8380' />
+  </node>
+  <node id='-272956' action='modify' lat='42.78286218387' lon='-73.94351899624'>
+    <tag k='addr:city' v='Schenectady County' />
+    <tag k='addr:housenumber' v='1400' />
+    <tag k='addr:postcode' v='12303' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Altamont Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rotterdam 1400 Altamont Ave - Schenectady' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-357-2050' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905283' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/schenectady/8320' />
+  </node>
+  <node id='-272957' action='modify' lat='43.09680634279' lon='-73.74703898096'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='12866' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Weibel Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Saratoga 95 Weibel Ave - Saratoga Springs' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-587-0360' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905567' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/saratoga-springs/8391' />
+  </node>
+  <node id='-272958' action='modify' lat='43.237297' lon='-75.4534149'>
+    <tag k='addr:city' v='Oneida County' />
+    <tag k='addr:housenumber' v='808' />
+    <tag k='addr:postcode' v='13440' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='West Chestnut Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rome 808 West Chestnut Street - Rome' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 315-336-0201' />
+    <tag k='ref' v='https://stores.hannaford.com/#15553887' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/rome/8449' />
+  </node>
+  <node id='-272959' action='modify' lat='41.9799822' lon='-73.8814269'>
+    <tag k='addr:city' v='Dutchess County' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='12571' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Hannaford Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Red Hook 35 Hannaford Drive - Red Hook' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 845-758-9330' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905413' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/red-hook/8375' />
+  </node>
+  <node id='-272960' action='modify' lat='43.33100377373' lon='-73.65640997887'>
+    <tag k='addr:city' v='Warren County' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='12804' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Quaker Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Queensbury 190 Quaker Rd - Queensbury' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-798-8676' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905322' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/queensbury/8360' />
+  </node>
+  <node id='-272961' action='modify' lat='44.7011536' lon='-73.4957758'>
+    <tag k='addr:city' v='Clinton County' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='12901' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Pyramid Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Plattsburgh 7 Pyramid Drive - Plattsburgh' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-562-2204' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905504' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/plattsburgh/8166' />
+  </node>
+  <node id='-272962' action='modify' lat='41.60523669456' lon='-74.29721452296'>
+    <tag k='addr:city' v='Orange County' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='12566' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Ted Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Pine Bush 31 Ted Drive - Pine Bush' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 845-744-2113' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905394' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/pine-bush/8344' />
+  </node>
+  <node id='-272963' action='modify' lat='41.5368661172' lon='-73.58296975493'>
+    <tag k='addr:city' v='Dutchess County' />
+    <tag k='addr:housenumber' v='162' />
+    <tag k='addr:postcode' v='12564' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 22' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Pawling 162 Route 22 - Pawling' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 845-855-0553' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905305' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/pawling/8335' />
+  </node>
+  <node id='-272964' action='modify' lat='42.4466438' lon='-75.0569839'>
+    <tag k='addr:city' v='Otsego County' />
+    <tag k='addr:housenumber' v='705' />
+    <tag k='addr:postcode' v='13820' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='State Highway 28' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Oneonta 705 State Highway 28 - Oneonta' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 607-432-0012' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905506' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/oneonta/8328' />
+  </node>
+  <node id='-272965' action='modify' lat='42.78337820564' lon='-73.89100302884'>
+    <tag k='addr:city' v='Schenectady County' />
+    <tag k='addr:housenumber' v='3333' />
+    <tag k='addr:postcode' v='12304' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Consaul Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Niskayuna 3333 Consaul Rd - Niskayuna' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-395-9497' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905409' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/niskayuna/8396' />
+  </node>
+  <node id='-272966' action='modify' lat='41.45261906195' lon='-74.05637803803'>
+    <tag k='addr:city' v='Orange County' />
+    <tag k='addr:housenumber' v='2636' />
+    <tag k='addr:postcode' v='12553' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 32' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - New Windsor 2636 Route 32 - New Windsor' />
+    <tag k='opening_hours' v='Mo-Su 06:00-00:00' />
+    <tag k='phone' v='+1 845-562-5169' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905366' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/new-windsor/8331' />
+  </node>
+  <node id='-272967' action='modify' lat='43.05346894003' lon='-75.27791261673'>
+    <tag k='addr:city' v='Oneida County' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='13413' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Kellogg Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - New Hartford 50 Kellogg Road - New Hartford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 315-724-0274' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905463' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/new-hartford/8370' />
+  </node>
+  <node id='-272968' action='modify' lat='43.0881773' lon='-75.316405'>
+    <tag k='addr:city' v='Oneida County' />
+    <tag k='addr:housenumber' v='4593' />
+    <tag k='addr:postcode' v='13413' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Commercial Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Utica 4593 Commercial Dr - New Hartford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 315-768-1851' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905447' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/new-hartford/8168' />
+  </node>
+  <node id='-272969' action='modify' lat='41.66593932113' lon='-74.10618424416'>
+    <tag k='addr:city' v='Ulster County' />
+    <tag k='addr:housenumber' v='2066' />
+    <tag k='addr:postcode' v='12548' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 32' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Plattekill 2066 Route 32 - Modena' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 845-883-7407' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905332' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/modena/8346' />
+  </node>
+  <node id='-272970' action='modify' lat='41.4652335' lon='-74.3712824'>
+    <tag k='addr:city' v='Orange County' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='10941' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Tower Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Wallkill 30 Tower Drive - Middletown' />
+    <tag k='opening_hours' v='Mo-Su 07:00-00:00' />
+    <tag k='phone' v='+1 845-695-1800' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905386' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/middletown/8337' />
+  </node>
+  <node id='-272971' action='modify' lat='42.7557919' lon='-73.7606352'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='579' />
+    <tag k='addr:postcode' v='12110' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Troy Schenectady Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Latham 579 Troy Schenectady Road - Latham' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-782-1750' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905477' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/latham/8386' />
+  </node>
+  <node id='-272972' action='modify' lat='44.2973281992' lon='-73.99923189548'>
+    <tag k='addr:city' v='Essex County' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='12946' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Hadjis Way' />
+    <tag k='addr:unit' v='6' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Lake Placid 45 Hadjis Way - Lake Placid' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-523-3279' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905443' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/lake-placid/8413' />
+  </node>
+  <node id='-272973' action='modify' lat='41.9680818' lon='-73.9906441'>
+    <tag k='addr:city' v='Ulster County' />
+    <tag k='addr:housenumber' v='1261' />
+    <tag k='addr:postcode' v='12401' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Ulster Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Kingston Ulster Ave. 1261 Ulster Ave - Kingston' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 845-336-0325' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905272' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/kingston/8348' />
+  </node>
+  <node id='-272974' action='modify' lat='41.9366322' lon='-74.0159272'>
+    <tag k='addr:city' v='Ulster County' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='12401' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Plaza Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Kingston Plaza 100 Plaza Road - Kingston' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 845-339-7480' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905244' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/kingston/8340' />
+  </node>
+  <node id='-272975' action='modify' lat='42.1744364' lon='-73.7595185'>
+    <tag k='addr:city' v='Columbia County' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='12534' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 82' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Livingston 32 Route 82 - Hudson' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 518-851-2098' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905400' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/hudson/8416' />
+  </node>
+  <node id='-272976' action='modify' lat='43.3199880941' lon='-73.57075734998'>
+    <tag k='addr:city' v='Washington County' />
+    <tag k='addr:housenumber' v='3758' />
+    <tag k='addr:postcode' v='12839' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Burgoyne Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Kingsbury 3758 Burgoyne Avenue - Hudson Falls' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-746-2040' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905422' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/hudson-falls/8395' />
+  </node>
+  <node id='-272977' action='modify' lat='41.7022613' lon='-73.966013'>
+    <tag k='addr:city' v='Ulster County' />
+    <tag k='addr:housenumber' v='3650' />
+    <tag k='addr:postcode' v='12528' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 9W' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Highland 3650 Route 9W - Highland' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 845-691-9150' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905417' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/highland/8341' />
+  </node>
+  <node id='-272978' action='modify' lat='43.0296732' lon='-74.9812633'>
+    <tag k='addr:city' v='Herkimer County' />
+    <tag k='addr:housenumber' v='401' />
+    <tag k='addr:postcode' v='13350' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='East Albany Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Herkimer 401 East Albany St - Herkimer' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 315-866-6030' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905436' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/herkimer/8366' />
+  </node>
+  <node id='-272979' action='modify' lat='43.10426313578' lon='-73.51499587297'>
+    <tag k='addr:city' v='Washington County' />
+    <tag k='addr:housenumber' v='1165' />
+    <tag k='addr:postcode' v='12834' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Route 29' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Greenwich 1165 Route 29 - Greenwich' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 518-692-3177' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905266' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/greenwich/8333' />
+  </node>
+  <node id='-272980' action='modify' lat='43.06062620698' lon='-74.32179093361'>
+    <tag k='addr:city' v='Fulton County' />
+    <tag k='addr:housenumber' v='235' />
+    <tag k='addr:postcode' v='12078' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Fifth Avenue Ext' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Gloversville 235 Fifth Ave Ext - Gloversville' />
+    <tag k='opening_hours' v='Mo-Th 07:00-21:00; Fr-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-725-0847' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905356' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/gloversville/8377' />
+  </node>
+  <node id='-272981' action='modify' lat='42.86978788146' lon='-73.93058806658'>
+    <tag k='addr:city' v='Schenectady County' />
+    <tag k='addr:housenumber' v='262' />
+    <tag k='addr:postcode' v='12302' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Saratoga Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Glenville 262 Saratoga Rd - Glenville' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-384-0156' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905364' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/glenville/8376' />
+  </node>
+  <node id='-272982' action='modify' lat='43.3041051' lon='-73.6618106'>
+    <tag k='addr:city' v='Warren County' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:postcode' v='12801' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Broad Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Broad St. Glens Falls 175 Broad St - Glens Falls' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-793-0028' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905310' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/glens-falls/8374' />
+  </node>
+  <node id='-272983' action='modify' lat='42.761663' lon='-74.2485878'>
+    <tag k='addr:city' v='Schoharie County' />
+    <tag k='addr:housenumber' v='11140' />
+    <tag k='addr:postcode' v='12066' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Western Turnpike' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Duanesburg 11140 Western Turnpike - Esperance' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 518-875-9410' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905254' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/esperance/8255' />
+  </node>
+  <node id='-272984' action='modify' lat='42.596866' lon='-73.710883'>
+    <tag k='addr:city' v='Rensselaer County' />
+    <tag k='addr:postcode' v='12061' />
+    <tag k='addr:state' v='NY' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - East Greenbush 592 Columbia Turnpike - East Greenbush' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-477-6483' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905482' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/east-greenbush/8361' />
+  </node>
+  <node id='-272985' action='modify' lat='42.62814894695' lon='-73.81067913128'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:postcode' v='12054' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Delaware Plaza' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Delmar 180 Delaware Plaza - Delmar' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-439-7657' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905315' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/delmar/8339' />
+  </node>
+  <node id='-272986' action='modify' lat='42.7175806' lon='-73.8124734'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:postcode' v='12205' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Wolf Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Colonie 96 Wolf Rd - Colonie' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-482-1085' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905571' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/colonie/8362' />
+  </node>
+  <node id='-272987' action='modify' lat='43.0421227357' lon='-75.38720562124'>
+    <tag k='addr:city' v='Oneida County' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='13323' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Meadow Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Clinton 55 Meadow Street - Clinton' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 315-853-5090' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905473' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/clinton/8313' />
+  </node>
+  <node id='-272988' action='modify' lat='42.8585528' lon='-73.7831802'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='12065' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Clifton Country Road' />
+    <tag k='addr:unit' v='16' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Clifton Park 19 Clifton Country Road - Clifton Park' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-383-4136' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905318' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/clifton-park/8365' />
+  </node>
+  <node id='-272989' action='modify' lat='42.2929428' lon='-73.9903749'>
+    <tag k='addr:city' v='Greene County' />
+    <tag k='addr:housenumber' v='223' />
+    <tag k='addr:postcode' v='12413' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Cairo 223 Main Street - Cairo' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 518-622-8130' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905348' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/cairo/8415' />
+  </node>
+  <node id='-272990' action='modify' lat='42.99230548985' lon='-73.84880658707'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='12020' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Via Rossi Way' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rossi Way Ballston Spa 3 Via Rossi Way - Ballston Spa' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-884-2973' />
+    <tag k='ref' v='https://stores.hannaford.com/#14786653' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/ballston-spa/8447' />
+  </node>
+  <node id='-272991' action='modify' lat='43.04745647499' lon='-73.85252847337'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='12020' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Trieble Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Milton Ballston Spa 11 Trieble Ave - Ballston Spa' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-885-6384' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905252' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/ballston-spa/8394' />
+  </node>
+  <node id='-272992' action='modify' lat='42.93436898468' lon='-73.81213496561'>
+    <tag k='addr:city' v='Saratoga County' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='12019' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Round Lake Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Malta 43 Round Lake Rd - Ballston Lake' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-899-2392' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905440' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/ballston-lake/8267' />
+  </node>
+  <node id='-272993' action='modify' lat='42.9677168' lon='-74.1855717'>
+    <tag k='addr:city' v='Montgomery County' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='12010' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Hannaford Plaza' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Amsterdam 115 Hannaford Plaza - Amsterdam' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-843-5854' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905264' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/amsterdam/8363' />
+  </node>
+  <node id='-272994' action='modify' lat='42.71650384349' lon='-73.9333614707'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='5239' />
+    <tag k='addr:postcode' v='12009' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Western Trnpike' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Guilderland 5239 Western Trnpike - Altamont' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='phone' v='+1 518-355-5814' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905470' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/altamont/8393' />
+  </node>
+  <node id='-272995' action='modify' lat='42.6798367' lon='-73.792397'>
+    <tag k='addr:city' v='Albany County' />
+    <tag k='addr:housenumber' v='900' />
+    <tag k='addr:postcode' v='12206' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Central Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Century Mall Albany 900 Central Ave - Albany' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 518-438-7296' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905559' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ny/albany/8367' />
+  </node>
+  <node id='-272996' action='modify' lat='43.6360226' lon='-72.3171995'>
+    <tag k='addr:city' v='Windsor County' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='03784' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Market Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - West Lebanon 8 Market Street - West Lebanon' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-298-6642' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905535' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/west-lebanon/8266' />
+  </node>
+  <node id='-272997' action='modify' lat='43.32090329231' lon='-70.97465499309'>
+    <tag k='addr:city' v='Strafford County' />
+    <tag k='addr:postcode' v='03867' />
+    <tag k='addr:state' v='NH' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rochester Milton Rd. 11 Milton Rd - Rochester' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-332-9611' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905250' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/rochester/8317' />
+  </node>
+  <node id='-272998' action='modify' lat='43.3097461' lon='-70.9942819'>
+    <tag k='addr:city' v='Strafford County' />
+    <tag k='addr:housenumber' v='290' />
+    <tag k='addr:postcode' v='03867' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='North Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rochester 290 North Main St - Rochester' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-332-9580' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905374' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/rochester/8315' />
+  </node>
+  <node id='-272999' action='modify' lat='42.740822194' lon='-72.03968083929'>
+    <tag k='addr:city' v='Cheshire County' />
+    <tag k='addr:housenumber' v='752' />
+    <tag k='addr:postcode' v='03461' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Route 202' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rindge 752 Route 202 - Rindge' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-899-2110' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905516' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/rindge/8180' />
+  </node>
+  <node id='-273000' action='modify' lat='43.0380645' lon='-71.1611673'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='03077' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Freetown Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Raymond 2 Freetown Road - Raymond' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-895-0010' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905326' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/raymond/8120' />
+  </node>
+  <node id='-273001' action='modify' lat='43.0683379' lon='-70.7714232'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='800' />
+    <tag k='addr:postcode' v='03801' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Islington Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Portsmouth 800 Islington Street - Portsmouth' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-436-6669' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905542' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/portsmouth/8149' />
+  </node>
+  <node id='-273002' action='modify' lat='43.768732' lon='-71.716702'>
+    <tag k='addr:city' v='Grafton County' />
+    <tag k='addr:housenumber' v='389' />
+    <tag k='addr:postcode' v='03264' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Tenney Mountain Highway' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Plymouth 389 Tenney Mountain Hwy - Plymouth' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-536-3400' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905575' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/plymouth/8248' />
+  </node>
+  <node id='-273003' action='modify' lat='42.72447272335' lon='-71.31822645664'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='03076' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Bridge Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Pelham 150 Bridge St - Pelham' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-635-3001' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905298' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/pelham/8015' />
+  </node>
+  <node id='-273004' action='modify' lat='43.1958937' lon='-71.1516117'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:postcode' v='03261' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='1st New Hampshire Turnpike' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Northwood 174 1st New Hampshire Turnpike - Northwood' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-942-8842' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905308' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/northwood/8160' />
+  </node>
+  <node id='-273005' action='modify' lat='44.02001561142' lon='-71.11201303307'>
+    <tag k='addr:city' v='Carroll County' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='03860' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Mountain Valley Boulevard' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - North Conway 32 Mountain Valley Blvd - North Conway' />
+    <tag k='opening_hours' v='Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-356-6341' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905398' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/north-conway/8352' />
+  </node>
+  <node id='-273006' action='modify' lat='43.42292967464' lon='-72.00338065624'>
+    <tag k='addr:city' v='Merrimack County' />
+    <tag k='addr:housenumber' v='295' />
+    <tag k='addr:postcode' v='03257' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Newport Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - New London 295 Newport Road - New London' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-526-6951' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905377' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/new-london/8246' />
+  </node>
+  <node id='-273007' action='modify' lat='42.760638' lon='-71.4987136'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:postcode' v='03063' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Coliseum Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Nashua 175 Coliseum Ave - Nashua' />
+    <tag k='opening_hours' v='Mo-Su 06:00-22:00' />
+    <tag k='phone' v='+1 603-889-3700' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905312' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/nashua/8186' />
+  </node>
+  <node id='-273008' action='modify' lat='43.66092533515' lon='-71.49759663668'>
+    <tag k='addr:city' v='Belknap County' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='03253' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='NH Route 25' />
+    <tag k='addr:unit' v='5' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Meredith 50 NH Route 25 - Meredith' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-279-1451' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905424' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/meredith/8253' />
+  </node>
+  <node id='-273009' action='modify' lat='42.98493878754' lon='-71.4284491539'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='859' />
+    <tag k='addr:postcode' v='03104' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Hanover Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Manchester Hanover 859 Hanover St - Manchester' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-624-4442' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905550' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/manchester/8178' />
+  </node>
+  <node id='-273010' action='modify' lat='43.02088419948' lon='-71.44931405783'>
+    <tag k='addr:city' v='Merrimack County' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='03104' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Bicentennial Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Hooksett 140 Bicentennial Dr - Manchester' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-644-2106' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905279' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/manchester/8177' />
+  </node>
+  <node id='-273011' action='modify' lat='42.9576644' lon='-71.441991'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:postcode' v='03103' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='John E Devine Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Manchester 201 John E Devine Dr - Manchester' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-626-4567' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905330' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/manchester/8164' />
+  </node>
+  <node id='-273012' action='modify' lat='42.86614501813' lon='-71.34347019726'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='03053' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Hampton Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Londonderry 6 Hampton Drive - Londonderry' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-421-0921' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905481' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/londonderry/8185' />
+  </node>
+  <node id='-273013' action='modify' lat='42.9351081217' lon='-72.29571998119'>
+    <tag k='addr:city' v='Cheshire County' />
+    <tag k='addr:housenumber' v='481' />
+    <tag k='addr:postcode' v='03431' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='West Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Keene 481 West Street - Keene' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-23:00; Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-357-2832' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905451' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/keene/8163' />
+  </node>
+  <node id='-273014' action='modify' lat='42.7746734' lon='-71.443077'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:postcode' v='03051' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Derry Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Hudson 77 Derry Rd - Hudson' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-883-6112' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905519' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/hudson/8183' />
+  </node>
+  <node id='-273015' action='modify' lat='42.94612749866' lon='-70.83586871624'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='630' />
+    <tag k='addr:postcode' v='03842' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Lafayette Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Hampton 630 Lafayette Rd - Hampton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-926-9808' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905486' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/hampton/8319' />
+  </node>
+  <node id='-273016' action='modify' lat='42.9983935631' lon='-71.51132136583'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='605' />
+    <tag k='addr:postcode' v='03102' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Mast Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Goffstown 605 Mast Road - Goffstown' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-626-4488' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905484' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/goffstown/8311' />
+  </node>
+  <node id='-273017' action='modify' lat='43.5616952' lon='-71.4440488'>
+    <tag k='addr:city' v='Belknap County' />
+    <tag k='addr:housenumber' v='1425' />
+    <tag k='addr:postcode' v='03249' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Lake Shore Road' />
+    <tag k='addr:unit' v='D' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Gilford 1425 Lake Shore Road - Gilford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-524-4629' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905289' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/gilford/8402' />
+  </node>
+  <node id='-273018' action='modify' lat='43.44909073021' lon='-71.62390172482'>
+    <tag k='addr:city' v='Merrimack County' />
+    <tag k='addr:housenumber' v='952' />
+    <tag k='addr:postcode' v='03235' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Central Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Franklin 952 Central St - Franklin' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-934-2515' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905569' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/franklin/8318' />
+  </node>
+  <node id='-273019' action='modify' lat='42.9893042' lon='-70.9304639'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='03833' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Portsmouth Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Exeter 141 Portsmouth Ave - Exeter' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-772-1783' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905287' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/exeter/8435' />
+  </node>
+  <node id='-273020' action='modify' lat='42.8925149' lon='-71.1425491'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='305' />
+    <tag k='addr:postcode' v='03826' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Sandown Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Hampstead 305 Sandown Road - East Hampstead' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-329-0182' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905390' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/east-hampstead/8190' />
+  </node>
+  <node id='-273021' action='modify' lat='43.13355833745' lon='-70.92606335878'>
+    <tag k='addr:city' v='Strafford County' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='03824' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Mill Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - Durham 7 Mill Road - Durham' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-868-2500' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905502' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/durham/8440' />
+  </node>
+  <node id='-273022' action='modify' lat='43.21719446705' lon='-70.87822079659'>
+    <tag k='addr:city' v='Strafford County' />
+    <tag k='addr:housenumber' v='833' />
+    <tag k='addr:postcode' v='03820' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Central Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Dover 833 Central Ave - Dover' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-749-9232' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905546' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/dover/8373' />
+  </node>
+  <node id='-273023' action='modify' lat='43.16723546767' lon='-70.89468955994'>
+    <tag k='addr:city' v='Strafford County' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='03820' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Grapevine Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Dover Fields 30 Grapevine Drive - Dover' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-749-2096' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905384' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/dover/8242' />
+  </node>
+  <node id='-273024' action='modify' lat='42.9003007' lon='-71.3373314'>
+    <tag k='addr:city' v='Rockingham County' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='03038' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Manchester Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Derry 35 Manchester Rd - Derry' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-434-5099' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905415' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/derry/8016' />
+  </node>
+  <node id='-273025' action='modify' lat='43.21296917934' lon='-71.53282864951'>
+    <tag k='addr:city' v='Merrimack County' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:postcode' v='03301' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Fort Eddy Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Concord 73 Fort Eddy Rd - Concord' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-228-2060' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905512' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/concord/8329' />
+  </node>
+  <node id='-273026' action='modify' lat='43.3706703' lon='-72.3238296'>
+    <tag k='addr:city' v='Sullivan County' />
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:postcode' v='03743' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Washington Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Claremont 220 Washington St - Claremont' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-543-1681' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905346' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/claremont/8119' />
+  </node>
+  <node id='-273027' action='modify' lat='43.7015081' lon='-71.1103213'>
+    <tag k='addr:city' v='Carroll County' />
+    <tag k='addr:postcode' v='03864' />
+    <tag k='addr:state' v='NH' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Ossipee 891 NH-16 - Center Ossipee' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 603-539-7531' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905554' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/center-ossipee/8159' />
+  </node>
+  <node id='-273028' action='modify' lat='43.5844691' lon='-71.7500058'>
+    <tag k='addr:city' v='Grafton County' />
+    <tag k='addr:housenumber' v='505' />
+    <tag k='addr:postcode' v='03222' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Pleasant Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - Bristol 505 Pleasant Street - Bristol' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-20:00; Su 07:00-19:00' />
+    <tag k='phone' v='+1 603-744-5416' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905466' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/bristol/8441' />
+  </node>
+  <node id='-273029' action='modify' lat='42.95805573386' lon='-71.48076564074'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='03110' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Kilton Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bedford Kilton Rd. 7 Kilton Road - Bedford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-625-5431' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905501' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/bedford/8436' />
+  </node>
+  <node id='-273030' action='modify' lat='42.9220548' lon='-71.5357543'>
+    <tag k='addr:city' v='Hillsborough County' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='03110' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Jenkins Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bedford Jenkins Rd. 4 Jenkins Road - Bedford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 603-472-2627' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905430' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/bedford/8305' />
+  </node>
+  <node id='-273031' action='modify' lat='43.4538476637' lon='-71.21105879545'>
+    <tag k='addr:city' v='Strafford County' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='03809' />
+    <tag k='addr:state' v='NH' />
+    <tag k='addr:street' v='Wolfeboro Highway' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Alton 80 Wolfeboro Highway - Alton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 603-875-4300' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905541' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/nh/alton/8247' />
+  </node>
+  <node id='-273032' action='modify' lat='43.15234624189' lon='-70.6688529253'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='03909' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Hannaford Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - York 5 Hannaford Drive - York' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-363-5357' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905457' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/york/8384' />
+  </node>
+  <node id='-273033' action='modify' lat='43.8054528' lon='-70.1798112'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:postcode' v='04096' />
+    <tag k='addr:state' v='ME' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Yarmouth 756 Route #1 - Yarmouth' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-846-5941' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905518' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/yarmouth/8188' />
+  </node>
+  <node id='-273034' action='modify' lat='44.3062369' lon='-69.959216'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='399' />
+    <tag k='addr:postcode' v='04364' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Winthrop 399 Main Street - Winthrop' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-377-3150' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905428' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/winthrop/8289' />
+  </node>
+  <node id='-273035' action='modify' lat='43.675986' lon='-70.3551445'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='04092' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Hannaford Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Westbrook 7 Hannaford Drive - Westbrook' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-854-4631' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905499' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/westbrook/8223' />
+  </node>
+  <node id='-273036' action='modify' lat='43.3019022' lon='-70.5829671'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='04090' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Wells Plaza' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Wells 107 Wells Plaza - Wells' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-646-4111' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905246' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/wells/8389' />
+  </node>
+  <node id='-273037' action='modify' lat='44.54035089083' lon='-69.65181559324'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='04901' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Kennedy Memorial Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Waterville JFK 190 Kennedy Memorial Dr - Waterville' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-873-0788' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905320' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/waterville/8238' />
+  </node>
+  <node id='-273038' action='modify' lat='44.56869631222' lon='-69.64149578477'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='04901' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Elm Plaza' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Waterville Elm Plaza 140 Elm Plaza - Waterville' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-877-0700' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905281' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/waterville/8229' />
+  </node>
+  <node id='-273039' action='modify' lat='44.1005921' lon='-69.3854259'>
+    <tag k='addr:city' v='Lincoln County' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='04572' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Kalers Corner' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - Waldoboro 17 Kalers Corner - Waldoboro' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-832-4358' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905306' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/waldoboro/8294' />
+  </node>
+  <node id='-273040' action='modify' lat='44.25142411367' lon='-70.26087284088'>
+    <tag k='addr:city' v='Androscoggin County' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='04282' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Snell Hill Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Turner 23 Snell Hill Road - Turner' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-225-5140' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905353' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/turner/8428' />
+  </node>
+  <node id='-273041' action='modify' lat='43.9394708' lon='-69.9787345'>
+    <tag k='addr:city' v='Sagadahoc County' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='04086' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Topsham Fair Mall' />
+    <tag k='addr:unit' v='1' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Topsham 49 Topsham Fair Mall - Topsham' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-729-5124' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905453' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/topsham/8187' />
+  </node>
+  <node id='-273042' action='modify' lat='43.72970545815' lon='-70.54447605276'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='04084' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Colonial Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Standish 71 Colonial Drive - Standish' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-642-5533' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905508' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/standish/8349' />
+  </node>
+  <node id='-273043' action='modify' lat='43.63451439861' lon='-70.32840549946'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='415' />
+    <tag k='addr:postcode' v='04106' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Philbrook Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - South Portland Maine Mall 415 Philbrook Ave - South Portland' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-761-2729' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905438' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/south-portland/8387' />
+  </node>
+  <node id='-273044' action='modify' lat='43.63785153948' lon='-70.25035321712'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='04106' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Cottage Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - South Portland Mill Creek 50 Cottage Road - South Portland' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-799-7359' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905462' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/south-portland/8279' />
+  </node>
+  <node id='-273045' action='modify' lat='44.78081357092' lon='-69.72790314818'>
+    <tag k='addr:city' v='Somerset County' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='04976' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Fairgrounds Marketplace' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Skowhegan 100 Fairgrounds Marketplace - Skowhegan' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-858-4800' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905241' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/skowhegan/8330' />
+  </node>
+  <node id='-273046' action='modify' lat='43.61998021552' lon='-70.35047035367'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='417' />
+    <tag k='addr:postcode' v='04074' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Payne Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Scarborough Payne Rd 417 Payne Road - Scarborough' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-883-0096' />
+    <tag k='ref' v='https://stores.hannaford.com/#1002780936' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/scarborough/8451' />
+  </node>
+  <node id='-273047' action='modify' lat='43.59500831228' lon='-70.3315410018'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='04074' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Hannaford Drive Route 1' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Scarborough 31 Hannaford Dr - Scarborough' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-883-7670' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905392' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/scarborough/8342' />
+  </node>
+  <node id='-273048' action='modify' lat='43.44509095588' lon='-70.78259199858'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='800' />
+    <tag k='addr:postcode' v='04073' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Sanford 800 Main St - Sanford' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-324-1554' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905544' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/sanford/8390' />
+  </node>
+  <node id='-273049' action='modify' lat='43.51172451779' lon='-70.43525129557'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='532' />
+    <tag k='addr:postcode' v='04072' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Saco 532 Main Street - Saco' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-282-4152' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905472' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/saco/8138' />
+  </node>
+  <node id='-273050' action='modify' lat='44.5551603' lon='-70.5502887'>
+    <tag k='addr:city' v='Oxford County' />
+    <tag k='addr:housenumber' v='520' />
+    <tag k='addr:postcode' v='04276' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Waldo Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rumford 520 Waldo Street - Rumford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-364-3771' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905468' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/rumford/8358' />
+  </node>
+  <node id='-273051' action='modify' lat='44.1175895099' lon='-69.10557031631'>
+    <tag k='addr:city' v='Knox County' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='04841' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Maverick Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Rockland 75 Maverick St - Rockland' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-594-2173' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905514' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/rockland/8230' />
+  </node>
+  <node id='-273052' action='modify' lat='43.7018373' lon='-70.3196408'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='787' />
+    <tag k='addr:postcode' v='04103' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Riverside Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Portland Riverside 787 Riverside St - Portland' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-878-0191' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905531' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/portland/8354' />
+  </node>
+  <node id='-273053' action='modify' lat='43.6639522' lon='-70.2681516'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='295' />
+    <tag k='addr:postcode' v='04101' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Forest Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Portland Forest Ave. 295 Forest Avenue - Portland' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 207-761-5965' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905376' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/portland/8351' />
+  </node>
+  <node id='-273054' action='modify' lat='44.1960802' lon='-70.524678'>
+    <tag k='addr:city' v='Oxford County' />
+    <tag k='addr:housenumber' v='1603' />
+    <tag k='addr:postcode' v='04270' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Oxford 1603 Main Street - Oxford' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-743-2522' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905303' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/oxford/8338' />
+  </node>
+  <node id='-273055' action='modify' lat='44.9260907' lon='-68.6660799'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='500' />
+    <tag k='addr:postcode' v='04468' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Stillwater Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Old Town 500 Stillwater Ave - Old Town' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-827-2700' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905465' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/old-town/8133' />
+  </node>
+  <node id='-273056' action='modify' lat='43.8407096' lon='-70.4413146'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='797' />
+    <tag k='addr:postcode' v='04062' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Roosevelt Trail' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - North Windham 797 Roosevelt Trail - North Windham' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-892-2532' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905533' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/north-windham/8345' />
+  </node>
+  <node id='-273057' action='modify' lat='43.29882090415' lon='-70.74455525893'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='03906' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Somersworth Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - North Berwick 23 Somersworth Rd - North Berwick' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-676-2177' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905354' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/north-berwick/8437' />
+  </node>
+  <node id='-273058' action='modify' lat='44.8386415' lon='-69.285805'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='04953' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Moosehead Trail' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Newport 44 Moosehead Trail - Newport' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-368-4733' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905441' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/newport/8443' />
+  </node>
+  <node id='-273059' action='modify' lat='45.6585195' lon='-68.6879845'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='843' />
+    <tag k='addr:postcode' v='04462' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Central Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Millinocket 843 Central Street - Millinocket' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 08:00-20:00' />
+    <tag k='phone' v='+1 207-723-8047' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905548' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/millinocket/8155' />
+  </node>
+  <node id='-273060' action='modify' lat='44.07816' lon='-70.415581'>
+    <tag k='addr:city' v='Androscoggin County' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='04256' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Pigeon Hill Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/-RN0p3ZMCAgfykCJ2dRTZnlojCd_YPN7PKZ1zJoUxIw/150x150.png' />
+    <tag k='name' v='Hannaford - Mechanic Falls 50 Pigeon Hill Road - Mechanic Falls' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-998-2660' />
+    <tag k='ref' v='https://stores.hannaford.com/#9874324' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/mechanic-falls/8445' />
+  </node>
+  <node id='-273061' action='modify' lat='44.7973576' lon='-69.8721746'>
+    <tag k='addr:city' v='Somerset County' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='04950' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Upper Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford Supermarket - Madison 225 Upper Main St - Madison' />
+    <tag k='opening_hours' v='Mo-Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-696-3949' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905351' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/madison/8254' />
+  </node>
+  <node id='-273062' action='modify' lat='44.7054974' lon='-67.4659341'>
+    <tag k='addr:city' v='Washington County' />
+    <tag k='addr:housenumber' v='149' />
+    <tag k='addr:postcode' v='04654' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Dublin Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Machias 149 Dublin Street - Machias' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 07:00-20:00' />
+    <tag k='phone' v='+1 207-255-3201' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905293' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/machias/8128' />
+  </node>
+  <node id='-273063' action='modify' lat='45.3608056' lon='-68.5164297'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='04457' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Goding Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Lincoln 22 Goding Avenue - Lincoln' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 08:00-20:00' />
+    <tag k='phone' v='+1 207-794-6122' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905345' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/lincoln/8140' />
+  </node>
+  <node id='-273064' action='modify' lat='44.1039585' lon='-70.1789785'>
+    <tag k='addr:city' v='Androscoggin County' />
+    <tag k='addr:housenumber' v='692' />
+    <tag k='addr:postcode' v='04240' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Sabattus Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Lewiston 692 Sabattus St - Lewiston' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-784-0721' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905497' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/lewiston/8265' />
+  </node>
+  <node id='-273065' action='modify' lat='43.3969556' lon='-70.527626'>
+    <tag k='addr:city' v='York County' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='04043' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Portland Road' />
+    <tag k='addr:unit' v='9' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Kennebunk 65 Portland Road - Kennebunk' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-985-9135' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905491' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/kennebunk/8403' />
+  </node>
+  <node id='-273066' action='modify' lat='44.50561528466' lon='-70.21459132433'>
+    <tag k='addr:city' v='Franklin County' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='04239' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Jay Plaza Lane' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Jay 15 Jay Plaza Lane - Jay' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-897-4376' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905297' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/jay/8165' />
+  </node>
+  <node id='-273067' action='modify' lat='46.1421261' lon='-67.8453237'>
+    <tag k='addr:city' v='Aroostook County' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='04730' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Ludlow Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Houlton 33 Ludlow Road - Houlton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 08:00-20:00' />
+    <tag k='phone' v='+1 207-532-2605' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905404' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/houlton/8439' />
+  </node>
+  <node id='-273068' action='modify' lat='44.74373282947' lon='-68.84518682957'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:postcode' v='04444' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Western Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Hampden 77 Western Ave - Hampden' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-862-5444' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905521' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/hampden/8417' />
+  </node>
+  <node id='-273069' action='modify' lat='43.90306313777' lon='-70.34355266953'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:postcode' v='04039' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Shaker Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Gray 130 Shaker Road - Gray' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-657-5800' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905274' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/gray/8251' />
+  </node>
+  <node id='-273070' action='modify' lat='43.67962411706' lon='-70.43829828501'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='04038' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Gorham 99 Main St - Gorham' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-839-6553' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905573' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/gorham/8350' />
+  </node>
+  <node id='-273071' action='modify' lat='44.23157258893' lon='-69.77330222726'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='04345' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Main Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Gardiner 40 Main Avenue - Gardiner' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-582-3470' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905432' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/gardiner/8220' />
+  </node>
+  <node id='-273072' action='modify' lat='44.65085656434' lon='-70.15130996704'>
+    <tag k='addr:city' v='Franklin County' />
+    <tag k='addr:housenumber' v='131' />
+    <tag k='addr:postcode' v='04938' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Hannaford Drive' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Farmington 131 Hannaford Drive - Farmington' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-778-0434' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905276' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/farmington/8291' />
+  </node>
+  <node id='-273073' action='modify' lat='43.7341912' lon='-70.294434'>
+    <tag k='addr:city' v='Cumberland County' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='04105' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Gray Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Falmouth 65 Gray Road - Falmouth' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-878-0050' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905489' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/falmouth/8222' />
+  </node>
+  <node id='-273074' action='modify' lat='44.42036000581' lon='-69.01814103127'>
+    <tag k='addr:city' v='Waldo County' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='04915' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Lincolnville Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Belfast 93 Lincolnville Ave - Belfast' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-338-5377' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905563' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/belfast/8241' />
+  </node>
+  <node id='-273075' action='modify' lat='44.38831108333' lon='-68.21068078279'>
+    <tag k='addr:city' v='Hancock County' />
+    <tag k='addr:housenumber' v='86' />
+    <tag k='addr:postcode' v='04609' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Cottage Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bar Harbor 86 Cottage St - Bar Harbor' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-288-5680' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905552' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/bar-harbor/8224' />
+  </node>
+  <node id='-273076' action='modify' lat='44.83458851049' lon='-68.74785214663'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='773' />
+    <tag k='addr:postcode' v='04401' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Stillwater Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bangor Hogan Road 773 Stillwater Ave - Bangor' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-947-6735' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905523' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/bangor/8110' />
+  </node>
+  <node id='-273077' action='modify' lat='44.81891416035' lon='-68.81220175885'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='1133' />
+    <tag k='addr:postcode' v='04401' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Union Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bangor Airport Mall 1133 Union St - Bangor' />
+    <tag k='opening_hours' v='Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-942-0100' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905260' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/bangor/8109' />
+  </node>
+  <node id='-273078' action='modify' lat='44.82506973751' lon='-68.77738595009'>
+    <tag k='addr:city' v='Penobscot County' />
+    <tag k='addr:housenumber' v='653' />
+    <tag k='addr:postcode' v='04401' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Broadway Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Bangor Broadway 653 Broadway St - Bangor' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-947-8338' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905493' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/bangor/8107' />
+  </node>
+  <node id='-273079' action='modify' lat='44.31555994106' lon='-69.76426184177'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='04330' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Cony Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Augusta Cony 118 Cony Street - Augusta' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-621-2570' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905268' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/augusta/8250' />
+  </node>
+  <node id='-273080' action='modify' lat='44.3135911' lon='-69.812209'>
+    <tag k='addr:city' v='Kennebec County' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='04330' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Whitten Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Augusta Turnpike Mall 29 Whitten Rd - Augusta' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-622-3137' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905372' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/augusta/8239' />
+  </node>
+  <node id='-273081' action='modify' lat='44.0963166' lon='-70.2298941'>
+    <tag k='addr:city' v='Androscoggin County' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='04210' />
+    <tag k='addr:state' v='ME' />
+    <tag k='addr:street' v='Spring Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Auburn 95 Spring Street - Auburn' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 207-784-6497' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905565' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/me/auburn/8347' />
+  </node>
+  <node id='-273082' action='modify' lat='42.3757909' lon='-71.2445162'>
+    <tag k='addr:city' v='Middlesex County' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='02451' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Russell Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Waltham 55 Russell St - Waltham' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 781-893-6776' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905475' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/waltham/8017' />
+  </node>
+  <node id='-273083' action='modify' lat='42.0820312' lon='-71.6390782'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='158' />
+    <tag k='addr:postcode' v='01569' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='North Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Uxbridge 158 North Main St - Uxbridge' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 508-278-2487' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905301' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/uxbridge/8014' />
+  </node>
+  <node id='-273084' action='modify' lat='42.6484015281' lon='-71.66005790234'>
+    <tag k='addr:city' v='Middlesex County' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='01469' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Townsend 18 Main St - Townsend' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 978-597-5909' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905313' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/townsend/8009' />
+  </node>
+  <node id='-273085' action='modify' lat='41.8862563' lon='-71.1216205'>
+    <tag k='addr:city' v='Bristol County' />
+    <tag k='addr:housenumber' v='255' />
+    <tag k='addr:postcode' v='02780' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Joseph E Warner Boulevard' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Taunton 255 Joseph E Warner Blvd - Taunton' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 508-828-3940' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905358' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/taunton/8383' />
+  </node>
+  <node id='-273086' action='modify' lat='42.26659216287' lon='-72.08336754707'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='01535' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Gilbert Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - North Brookfield 5 Gilbert St - North Brookfield' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 508-867-6809' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905455' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/north-brookfield/8011' />
+  </node>
+  <node id='-273087' action='modify' lat='41.88281187381' lon='-70.91189593077'>
+    <tag k='addr:city' v='Plymouth County' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='02346' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Merchants Way' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Middleboro 8 Merchants Way - Middleboro' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 508-947-4787' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905537' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/middleboro/8005' />
+  </node>
+  <node id='-273088' action='modify' lat='42.3407808' lon='-71.5897389'>
+    <tag k='addr:city' v='Middlesex County' />
+    <tag k='addr:housenumber' v='193' />
+    <tag k='addr:postcode' v='01752' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Boston Post Road West' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Marlborough 193 Boston Post Rd W - Marlborough' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 508-480-9670' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905324' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/marlborough/8004' />
+  </node>
+  <node id='-273089' action='modify' lat='42.5959455049' lon='-71.75768092275'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='333' />
+    <tag k='addr:postcode' v='01462' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Mass Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Lunenburg 333 Mass Ave - Lunenburg' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 978-582-0215' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905407' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/lunenburg/8388' />
+  </node>
+  <node id='-273090' action='modify' lat='42.62881216996' lon='-71.27818107605'>
+    <tag k='addr:city' v='Middlesex County' />
+    <tag k='addr:housenumber' v='777' />
+    <tag k='addr:postcode' v='01852' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Rogers Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Lowell 777 Rogers Street - Lowell' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 978-446-7862' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905525' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/lowell/8327' />
+  </node>
+  <node id='-273091' action='modify' lat='42.55269175238' lon='-71.7779302597'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='927' />
+    <tag k='addr:postcode' v='01453' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Merriam Avenue' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Leominster Twin City Plaza 927 Merriam Avenue - Leominster' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 978-534-9323' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905561' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/leominster/8012' />
+  </node>
+  <node id='-273092' action='modify' lat='42.5212783' lon='-71.753343'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='01453' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Lancaster Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Leominster Lancaster St. 118 Lancaster St - Leominster' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 978-537-1327' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905270' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/leominster/8003' />
+  </node>
+  <node id='-273093' action='modify' lat='42.5690237' lon='-71.9928459'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='01440' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Timpany Boulevard' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Gardner 21 Timpany Blvd - Gardner' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 978-632-6139' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905335' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/gardner/8019' />
+  </node>
+  <node id='-273094' action='modify' lat='42.66437349643' lon='-71.31192058325'>
+    <tag k='addr:city' v='Middlesex County' />
+    <tag k='addr:housenumber' v='301' />
+    <tag k='addr:postcode' v='01826' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Pleasant Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Dracut 301 Pleasant St - Dracut' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 978-459-0059' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905388' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/dracut/8192' />
+  </node>
+  <node id='-273095' action='modify' lat='42.4243718' lon='-71.6878079'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='333' />
+    <tag k='addr:postcode' v='01510' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='Brook Street' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Clinton 333 Brook St - Clinton' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='phone' v='+1 978-368-7909' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905405' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/clinton/8013' />
+  </node>
+  <node id='-273096' action='modify' lat='42.62373821545' lon='-71.36083066463'>
+    <tag k='addr:city' v='Middlesex County' />
+    <tag k='addr:postcode' v='01824' />
+    <tag k='addr:state' v='MA' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Chelmsford 66 Drum Hill - Chelmsford' />
+    <tag k='opening_hours' v='Mo-Su 07:00-22:00' />
+    <tag k='phone' v='+1 978-459-9304' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905495' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/chelmsford/8191' />
+  </node>
+  <node id='-273097' action='modify' lat='42.58158532521' lon='-72.26289778948'>
+    <tag k='addr:city' v='Worcester County' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='01331' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='New Athol Road' />
+    <tag k='brand' v='Hannaford' />
+    <tag k='brand:wikidata' v='Q5648760' />
+    <tag k='image' v='https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png' />
+    <tag k='name' v='Hannaford - Orange 150 New Athol Rd - Athol' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-22:00; Su 07:00-21:00' />
+    <tag k='phone' v='+1 978-249-7955' />
+    <tag k='ref' v='https://stores.hannaford.com/#8905299' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://stores.hannaford.com/ma/athol/8385' />
+  </node>
+</osm>

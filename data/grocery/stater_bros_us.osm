@@ -1,0 +1,2538 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-275242' action='modify' lat='33.9238906' lon='-117.4419652'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='9225' />
+    <tag k='addr:postcode' v='92503' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Magnolia Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-343-2568' />
+    <tag k='ref' v='1' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/1' />
+  </node>
+  <node id='-275243' action='modify' lat='34.885142' lon='-117.0133465'>
+    <tag k='addr:city' v='Barstow' />
+    <tag k='addr:housenumber' v='957' />
+    <tag k='addr:postcode' v='92311' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Armory Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Barstow' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-252-5422' />
+    <tag k='ref' v='101' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/101' />
+  </node>
+  <node id='-275244' action='modify' lat='35.0681961' lon='-118.1735421'>
+    <tag k='addr:city' v='Mojave' />
+    <tag k='addr:housenumber' v='16920' />
+    <tag k='addr:postcode' v='93501' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='California 14' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Mojave' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 661-824-2719' />
+    <tag k='ref' v='102' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/102' />
+  </node>
+  <node id='-275245' action='modify' lat='33.86553' lon='-117.5464238'>
+    <tag k='addr:city' v='Corona' />
+    <tag k='addr:housenumber' v='1193' />
+    <tag k='addr:postcode' v='92879' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Magnolia Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Rimpau' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-736-1399' />
+    <tag k='ref' v='103' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/103' />
+  </node>
+  <node id='-275246' action='modify' lat='34.1352286' lon='-116.0969879'>
+    <tag k='addr:city' v='Twentynine Palms' />
+    <tag k='addr:housenumber' v='71727' />
+    <tag k='addr:postcode' v='92277' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Twentynine Palms Highway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-367-6535' />
+    <tag k='ref' v='105' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/105' />
+  </node>
+  <node id='-275247' action='modify' lat='34.0771874' lon='-117.9094355'>
+    <tag k='addr:city' v='West Covina' />
+    <tag k='addr:housenumber' v='375' />
+    <tag k='addr:postcode' v='91791' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Azusa Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets West Covina' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 626-915-4951' />
+    <tag k='ref' v='106' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/106' />
+  </node>
+  <node id='-275248' action='modify' lat='34.1632945' lon='-117.3035727'>
+    <tag k='addr:city' v='San Bernardino' />
+    <tag k='addr:housenumber' v='977' />
+    <tag k='addr:postcode' v='92407' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Kendall Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Shandin Hills' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-882-0461' />
+    <tag k='ref' v='107' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/107' />
+  </node>
+  <node id='-275249' action='modify' lat='34.0643352' lon='-117.6595345'>
+    <tag k='addr:city' v='Ontario' />
+    <tag k='addr:housenumber' v='646' />
+    <tag k='addr:postcode' v='91762' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Holt Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Ontario Village' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-988-7343' />
+    <tag k='ref' v='108' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/108' />
+  </node>
+  <node id='-275250' action='modify' lat='35.6351491' lon='-117.6679603'>
+    <tag k='addr:city' v='Ridgecrest' />
+    <tag k='addr:housenumber' v='800' />
+    <tag k='addr:postcode' v='93555' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North China Lake Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Ridgecrest' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-375-5557' />
+    <tag k='ref' v='109' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/109' />
+  </node>
+  <node id='-275251' action='modify' lat='34.4729265' lon='-117.1922987'>
+    <tag k='addr:city' v='Apple Valley' />
+    <tag k='addr:housenumber' v='21602' />
+    <tag k='addr:postcode' v='92308' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Bear Valley Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-240-3124' />
+    <tag k='ref' v='110' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/110' />
+  </node>
+  <node id='-275252' action='modify' lat='33.6864465' lon='-117.2068872'>
+    <tag k='addr:city' v='Menifee' />
+    <tag k='addr:housenumber' v='25904' />
+    <tag k='addr:postcode' v='92584' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Newport Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets South Sun City' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-672-6780' />
+    <tag k='ref' v='111' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/111' />
+  </node>
+  <node id='-275253' action='modify' lat='34.04829' lon='-117.207071'>
+    <tag k='addr:city' v='Redlands' />
+    <tag k='addr:housenumber' v='1536' />
+    <tag k='addr:postcode' v='92373' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Barton Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets West Redlands' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-798-0072' />
+    <tag k='ref' v='112' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/112' />
+  </node>
+  <node id='-275254' action='modify' lat='33.7997009' lon='-117.2272629'>
+    <tag k='addr:city' v='Perris' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='92571' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Nuevo Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Perris' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-657-1823' />
+    <tag k='ref' v='113' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/113' />
+  </node>
+  <node id='-275255' action='modify' lat='33.9857597' lon='-117.3415367'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='2995' />
+    <tag k='addr:postcode' v='92507' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Iowa Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Blaine/Iowa' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-686-1032' />
+    <tag k='ref' v='114' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/114' />
+  </node>
+  <node id='-275256' action='modify' lat='33.8972695' lon='-117.4728643'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='3420' />
+    <tag k='addr:postcode' v='92503' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='La Sierra Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-343-2588' />
+    <tag k='ref' v='115' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/115' />
+  </node>
+  <node id='-275257' action='modify' lat='34.4250313' lon='-117.5736566'>
+    <tag k='addr:city' v='Phelan' />
+    <tag k='addr:housenumber' v='4059' />
+    <tag k='addr:postcode' v='92371' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Phelan Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Phelan' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-868-2315' />
+    <tag k='ref' v='116' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/116' />
+  </node>
+  <node id='-275258' action='modify' lat='34.0500112' lon='-117.2913264'>
+    <tag k='addr:city' v='Colton' />
+    <tag k='addr:housenumber' v='2053' />
+    <tag k='addr:postcode' v='92324' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Washington Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Colton/Washington' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-423-0720' />
+    <tag k='ref' v='117' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/117' />
+  </node>
+  <node id='-275259' action='modify' lat='34.471833' lon='-117.3630247'>
+    <tag k='addr:city' v='Victorville' />
+    <tag k='addr:housenumber' v='13760' />
+    <tag k='addr:postcode' v='92392' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Bear Valley Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Victorville' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-241-8924' />
+    <tag k='ref' v='118' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/118' />
+  </node>
+  <node id='-275260' action='modify' lat='33.7490846' lon='-116.9037808'>
+    <tag k='addr:city' v='Hemet' />
+    <tag k='addr:housenumber' v='43396' />
+    <tag k='addr:postcode' v='92544' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Florida Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets East Hemet' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-927-8555' />
+    <tag k='ref' v='119' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/119' />
+  </node>
+  <node id='-275261' action='modify' lat='34.1067714' lon='-117.3606339'>
+    <tag k='addr:city' v='Rialto' />
+    <tag k='addr:housenumber' v='571' />
+    <tag k='addr:postcode' v='92376' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Foothill Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets South Rialto' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-874-5195' />
+    <tag k='ref' v='12' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/12' />
+  </node>
+  <node id='-275262' action='modify' lat='34.1297192' lon='-116.3975517'>
+    <tag k='addr:city' v='Yucca Valley' />
+    <tag k='addr:housenumber' v='58060' />
+    <tag k='addr:postcode' v='92284' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Twentynine Palms Highway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets East Yucca Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-365-2415' />
+    <tag k='ref' v='120' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/120' />
+  </node>
+  <node id='-275263' action='modify' lat='33.7722333' lon='-116.9566414'>
+    <tag k='addr:city' v='San Jacinto' />
+    <tag k='addr:housenumber' v='1537' />
+    <tag k='addr:postcode' v='92583' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='South San Jacinto Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-487-0319' />
+    <tag k='ref' v='121' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/121' />
+  </node>
+  <node id='-275264' action='modify' lat='34.4272334' lon='-117.3468426'>
+    <tag k='addr:city' v='Hesperia' />
+    <tag k='addr:housenumber' v='14466' />
+    <tag k='addr:postcode' v='92345' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Main/Maple' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-244-2299' />
+    <tag k='ref' v='122' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/122' />
+  </node>
+  <node id='-275265' action='modify' lat='34.5201637' lon='-117.3317152'>
+    <tag k='addr:city' v='Victorville' />
+    <tag k='addr:housenumber' v='15235' />
+    <tag k='addr:postcode' v='92394' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Hook Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Victorville' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-243-5533' />
+    <tag k='ref' v='123' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/123' />
+  </node>
+  <node id='-275266' action='modify' lat='33.6083455' lon='-117.731424'>
+    <tag k='addr:city' v='Laguna Woods' />
+    <tag k='addr:housenumber' v='24336' />
+    <tag k='addr:postcode' v='92637' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='El Toro Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Laguna Woods' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 949-598-3235' />
+    <tag k='ref' v='124' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/124' />
+  </node>
+  <node id='-275267' action='modify' lat='34.0474508' lon='-117.0325144'>
+    <tag k='addr:city' v='Yucaipa' />
+    <tag k='addr:housenumber' v='11365' />
+    <tag k='addr:postcode' v='92399' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Bryant Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Oak Glen' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-790-3636' />
+    <tag k='ref' v='125' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/125' />
+  </node>
+  <node id='-275268' action='modify' lat='33.8439683' lon='-116.5259633'>
+    <tag k='addr:city' v='Palm Springs' />
+    <tag k='addr:housenumber' v='1717' />
+    <tag k='addr:postcode' v='92262' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Vista Chino' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Palm Springs' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-416-2551' />
+    <tag k='ref' v='126' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/126' />
+  </node>
+  <node id='-275269' action='modify' lat='33.814937' lon='-116.4561129'>
+    <tag k='addr:city' v='Cathedral City' />
+    <tag k='addr:housenumber' v='69255' />
+    <tag k='addr:postcode' v='92234' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Ramon Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Cathedral City' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-770-9950' />
+    <tag k='ref' v='127' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/127' />
+  </node>
+  <node id='-275270' action='modify' lat='33.7150647' lon='-116.2923775'>
+    <tag k='addr:city' v='La Quinta' />
+    <tag k='addr:housenumber' v='78630' />
+    <tag k='addr:postcode' v='92253' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='California 111' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets La Quinta' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-564-5388' />
+    <tag k='ref' v='128' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/128' />
+  </node>
+  <node id='-275271' action='modify' lat='33.8982987' lon='-117.9110777'>
+    <tag k='addr:city' v='Fullerton' />
+    <tag k='addr:housenumber' v='1040' />
+    <tag k='addr:postcode' v='92835' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Bastanchury Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Bastanchury' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-257-0460' />
+    <tag k='ref' v='129' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/129' />
+  </node>
+  <node id='-275272' action='modify' lat='34.5595517' lon='-118.083462'>
+    <tag k='addr:city' v='Palmdale' />
+    <tag k='addr:housenumber' v='2535' />
+    <tag k='addr:postcode' v='93550' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Avenue South' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Palmdale/Avenue S' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 661-266-1076' />
+    <tag k='ref' v='130' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/130' />
+  </node>
+  <node id='-275273' action='modify' lat='33.849521' lon='-117.8903877'>
+    <tag k='addr:city' v='Anaheim' />
+    <tag k='addr:housenumber' v='1131' />
+    <tag k='addr:postcode' v='92806' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North State College Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets State College' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-991-5310' />
+    <tag k='ref' v='131' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/131' />
+  </node>
+  <node id='-275274' action='modify' lat='33.8602979' lon='-118.0016826'>
+    <tag k='addr:city' v='Buena Park' />
+    <tag k='addr:housenumber' v='7511' />
+    <tag k='addr:postcode' v='90621' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Orangethorpe Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Buena Park' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-522-1222' />
+    <tag k='ref' v='132' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/132' />
+  </node>
+  <node id='-275275' action='modify' lat='33.939982' lon='-117.9343282'>
+    <tag k='addr:city' v='La Habra' />
+    <tag k='addr:housenumber' v='851' />
+    <tag k='addr:postcode' v='90631' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Harbor Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets La Habra' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-694-3896' />
+    <tag k='ref' v='133' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/133' />
+  </node>
+  <node id='-275276' action='modify' lat='33.9155899' lon='-118.0106491'>
+    <tag k='addr:city' v='La Mirada' />
+    <tag k='addr:housenumber' v='12800' />
+    <tag k='addr:postcode' v='90638' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='La Mirada Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets La Mirada' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-943-3783' />
+    <tag k='ref' v='134' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/134' />
+  </node>
+  <node id='-275277' action='modify' lat='33.9058116' lon='-117.8432403'>
+    <tag k='addr:city' v='Placentia' />
+    <tag k='addr:housenumber' v='1111' />
+    <tag k='addr:postcode' v='92870' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Imperial Highway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Placentia' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-528-6997' />
+    <tag k='ref' v='135' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/135' />
+  </node>
+  <node id='-275278' action='modify' lat='33.8732266' lon='-117.9426379'>
+    <tag k='addr:city' v='Fullerton' />
+    <tag k='addr:housenumber' v='333' />
+    <tag k='addr:postcode' v='92832' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Euclid Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Fullerton' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-871-8725' />
+    <tag k='ref' v='136' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/136' />
+  </node>
+  <node id='-275279' action='modify' lat='33.4783228' lon='-117.1014872'>
+    <tag k='addr:city' v='Temecula' />
+    <tag k='addr:housenumber' v='31813' />
+    <tag k='addr:postcode' v='92592' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Temecula Parkway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Red Hawk' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-303-1244' />
+    <tag k='ref' v='138' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/138' />
+  </node>
+  <node id='-275280' action='modify' lat='33.571041' lon='-117.1822121'>
+    <tag k='addr:city' v='Murrieta' />
+    <tag k='addr:housenumber' v='25050' />
+    <tag k='addr:postcode' v='92562' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Hancock Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Murrieta' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-677-4117' />
+    <tag k='ref' v='139' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/139' />
+  </node>
+  <node id='-275281' action='modify' lat='33.9976104' lon='-117.4055226'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='5571' />
+    <tag k='addr:postcode' v='92509' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Mission Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Rubidoux' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-686-1506' />
+    <tag k='ref' v='14' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/14' />
+  </node>
+  <node id='-275282' action='modify' lat='34.4039223' lon='-118.4647928'>
+    <tag k='addr:city' v='Santa Clarita' />
+    <tag k='addr:housenumber' v='26900' />
+    <tag k='addr:postcode' v='91321' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Sierra Highway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Santa Clarita' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 661-298-7988' />
+    <tag k='ref' v='141' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/141' />
+  </node>
+  <node id='-275283' action='modify' lat='33.6386736' lon='-117.6799945'>
+    <tag k='addr:city' v='Lake Forest' />
+    <tag k='addr:housenumber' v='22351' />
+    <tag k='addr:postcode' v='92630' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='El Toro Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets El Toro' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 949-581-3440' />
+    <tag k='ref' v='142' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/142' />
+  </node>
+  <node id='-275284' action='modify' lat='33.57205' lon='-117.706126'>
+    <tag k='addr:city' v='Aliso Viejo' />
+    <tag k='addr:housenumber' v='26892' />
+    <tag k='addr:postcode' v='92656' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='La Paz Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets La Paz' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 949-643-0511' />
+    <tag k='ref' v='143' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/143' />
+  </node>
+  <node id='-275285' action='modify' lat='34.6883211' lon='-118.0957717'>
+    <tag k='addr:city' v='Lancaster' />
+    <tag k='addr:housenumber' v='1850' />
+    <tag k='addr:postcode' v='93535' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Avenue J' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets East Lancaster' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 661-948-1885' />
+    <tag k='ref' v='144' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/144' />
+  </node>
+  <node id='-275286' action='modify' lat='34.5593251' lon='-118.043557'>
+    <tag k='addr:city' v='Palmdale' />
+    <tag k='addr:housenumber' v='37218' />
+    <tag k='addr:postcode' v='93552' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='47th Street East' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Palmdale/47th Street' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 661-285-9184' />
+    <tag k='ref' v='145' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/145' />
+  </node>
+  <node id='-275287' action='modify' lat='34.6615931' lon='-118.1823879'>
+    <tag k='addr:city' v='Lancaster' />
+    <tag k='addr:housenumber' v='2845' />
+    <tag k='addr:postcode' v='93536' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Avenue L' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets West Lancaster' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 661-943-2545' />
+    <tag k='ref' v='146' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/146' />
+  </node>
+  <node id='-275288' action='modify' lat='33.672322' lon='-117.9524334'>
+    <tag k='addr:city' v='Huntington Beach' />
+    <tag k='addr:housenumber' v='10114' />
+    <tag k='addr:postcode' v='92646' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Adams Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Huntington Beach' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-963-0949' />
+    <tag k='ref' v='147' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/147' />
+  </node>
+  <node id='-275289' action='modify' lat='33.7169217' lon='-118.0047935'>
+    <tag k='addr:city' v='Huntington Beach' />
+    <tag k='addr:housenumber' v='7101' />
+    <tag k='addr:postcode' v='92647' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Warner Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Warner' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-841-3612' />
+    <tag k='ref' v='148' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/148' />
+  </node>
+  <node id='-275290' action='modify' lat='33.4589886' lon='-117.6536601'>
+    <tag k='addr:city' v='San Clemente' />
+    <tag k='addr:housenumber' v='616' />
+    <tag k='addr:postcode' v='92673' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Camino De Los Mares' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets San Clemente' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 949-496-8283' />
+    <tag k='ref' v='149' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/149' />
+  </node>
+  <node id='-275291' action='modify' lat='33.9413707' lon='-118.0278488'>
+    <tag k='addr:city' v='Whittier' />
+    <tag k='addr:housenumber' v='14212' />
+    <tag k='addr:postcode' v='90605' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Mulberry Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Whittier' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-941-7711' />
+    <tag k='ref' v='15' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/15' />
+  </node>
+  <node id='-275292' action='modify' lat='33.2265052' lon='-117.3332416'>
+    <tag k='addr:city' v='Oceanside' />
+    <tag k='addr:housenumber' v='3770' />
+    <tag k='addr:postcode' v='92054' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Mission Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Mission' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-754-3770' />
+    <tag k='ref' v='150' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/150' />
+  </node>
+  <node id='-275293' action='modify' lat='33.1368528' lon='-117.1295085'>
+    <tag k='addr:city' v='San Marcos' />
+    <tag k='addr:housenumber' v='1330' />
+    <tag k='addr:postcode' v='92069' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Mission Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets San Marcos' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-741-5052' />
+    <tag k='ref' v='152' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/152' />
+  </node>
+  <node id='-275294' action='modify' lat='33.8887993' lon='-118.1484188'>
+    <tag k='addr:city' v='Paramount' />
+    <tag k='addr:housenumber' v='8640' />
+    <tag k='addr:postcode' v='90723' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Alondra Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Paramount' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-633-5721' />
+    <tag k='ref' v='153' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/153' />
+  </node>
+  <node id='-275295' action='modify' lat='33.9179681' lon='-118.0930645'>
+    <tag k='addr:city' v='Norwalk' />
+    <tag k='addr:housenumber' v='11300' />
+    <tag k='addr:postcode' v='90650' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Firestone Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Firestone' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-929-1878' />
+    <tag k='ref' v='154' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/154' />
+  </node>
+  <node id='-275296' action='modify' lat='33.9439647' lon='-118.1419832'>
+    <tag k='addr:city' v='Downey' />
+    <tag k='addr:housenumber' v='7814' />
+    <tag k='addr:postcode' v='90241' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Firestone Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Downey' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-923-0394' />
+    <tag k='ref' v='155' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/155' />
+  </node>
+  <node id='-275297' action='modify' lat='33.1629724' lon='-117.2190152'>
+    <tag k='addr:city' v='Vista' />
+    <tag k='addr:housenumber' v='780' />
+    <tag k='addr:postcode' v='92083' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Sycamore Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Vista' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-727-7080' />
+    <tag k='ref' v='156' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/156' />
+  </node>
+  <node id='-275298' action='modify' lat='33.220409' lon='-117.2435255'>
+    <tag k='addr:city' v='Vista' />
+    <tag k='addr:housenumber' v='1451' />
+    <tag k='addr:postcode' v='92084' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Santa Fe Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Santa Fe' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-726-8485' />
+    <tag k='ref' v='157' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/157' />
+  </node>
+  <node id='-275299' action='modify' lat='33.0667222' lon='-117.2666012'>
+    <tag k='addr:city' v='Encinitas' />
+    <tag k='addr:housenumber' v='1048' />
+    <tag k='addr:postcode' v='92024' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North El Camino Real' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Encinitas' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-943-7738' />
+    <tag k='ref' v='158' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/158' />
+  </node>
+  <node id='-275300' action='modify' lat='33.8160383' lon='-118.0292934'>
+    <tag k='addr:city' v='Cypress' />
+    <tag k='addr:housenumber' v='10051' />
+    <tag k='addr:postcode' v='90630' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Valley View Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Cypress' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-761-1662' />
+    <tag k='ref' v='159' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/159' />
+  </node>
+  <node id='-275301' action='modify' lat='33.8113918' lon='-118.1055926'>
+    <tag k='addr:city' v='Long Beach' />
+    <tag k='addr:housenumber' v='6501' />
+    <tag k='addr:postcode' v='90808' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Spring Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Long Beach' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-429-5611' />
+    <tag k='ref' v='160' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/160' />
+  </node>
+  <node id='-275302' action='modify' lat='33.8731925' lon='-118.0813538'>
+    <tag k='addr:city' v='Artesia' />
+    <tag k='addr:housenumber' v='11815' />
+    <tag k='addr:postcode' v='90701' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Artesia Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-924-9429' />
+    <tag k='ref' v='161' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/161' />
+  </node>
+  <node id='-275303' action='modify' lat='32.9558928' lon='-117.0372962'>
+    <tag k='addr:city' v='Poway' />
+    <tag k='addr:housenumber' v='13589' />
+    <tag k='addr:postcode' v='92064' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Poway Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Poway' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 858-486-3771' />
+    <tag k='ref' v='162' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/162' />
+  </node>
+  <node id='-275304' action='modify' lat='33.0349958' lon='-116.8787491'>
+    <tag k='addr:city' v='Ramona' />
+    <tag k='addr:housenumber' v='1674' />
+    <tag k='addr:postcode' v='92065' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Ramona' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-789-9915' />
+    <tag k='ref' v='163' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/163' />
+  </node>
+  <node id='-275305' action='modify' lat='33.7891893' lon='-117.8179046'>
+    <tag k='addr:city' v='Orange' />
+    <tag k='addr:housenumber' v='3325' />
+    <tag k='addr:postcode' v='92869' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Chapman Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Orange' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-997-7445' />
+    <tag k='ref' v='165' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/165' />
+  </node>
+  <node id='-275306' action='modify' lat='33.8242788' lon='-117.9579417'>
+    <tag k='addr:city' v='Anaheim' />
+    <tag k='addr:housenumber' v='610' />
+    <tag k='addr:postcode' v='92804' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='South Brookhurst Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets West Anaheim' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-774-3933' />
+    <tag k='ref' v='166' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/166' />
+  </node>
+  <node id='-275307' action='modify' lat='32.959563' lon='-117.1138232'>
+    <tag k='addr:city' v='San Diego' />
+    <tag k='addr:housenumber' v='9909' />
+    <tag k='addr:postcode' v='92129' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Carmel Mountain Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets San Diego' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 858-484-1281' />
+    <tag k='ref' v='167' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/167' />
+  </node>
+  <node id='-275308' action='modify' lat='34.042833' lon='-117.8521681'>
+    <tag k='addr:city' v='Walnut' />
+    <tag k='addr:housenumber' v='20677' />
+    <tag k='addr:postcode' v='91789' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Amar Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Grand' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-598-6534' />
+    <tag k='ref' v='168' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/168' />
+  </node>
+  <node id='-275309' action='modify' lat='33.9938562' lon='-117.7588692'>
+    <tag k='addr:city' v='Chino Hills' />
+    <tag k='addr:housenumber' v='14250' />
+    <tag k='addr:postcode' v='91709' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Chino Hills Parkway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Chino Hills' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-591-5405' />
+    <tag k='ref' v='169' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/169' />
+  </node>
+  <node id='-275310' action='modify' lat='33.8229453' lon='-117.5232587'>
+    <tag k='addr:city' v='Corona' />
+    <tag k='addr:housenumber' v='2243' />
+    <tag k='addr:postcode' v='92883' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Eagle Glen Parkway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Eagle Glen' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-372-2692' />
+    <tag k='ref' v='170' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/170' />
+  </node>
+  <node id='-275311' action='modify' lat='33.8982862' lon='-117.5554079'>
+    <tag k='addr:city' v='Corona' />
+    <tag k='addr:housenumber' v='550' />
+    <tag k='addr:postcode' v='92879' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Hidden Valley Parkway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Hidden Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-372-1100' />
+    <tag k='ref' v='171' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/171' />
+  </node>
+  <node id='-275312' action='modify' lat='33.8920361' lon='-117.2087778'>
+    <tag k='addr:city' v='Moreno Valley' />
+    <tag k='addr:housenumber' v='25900' />
+    <tag k='addr:postcode' v='92551' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Iris Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Moreno Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-924-1717' />
+    <tag k='ref' v='172' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/172' />
+  </node>
+  <node id='-275313' action='modify' lat='33.9482109' lon='-116.9756636'>
+    <tag k='addr:city' v='Beaumont' />
+    <tag k='addr:housenumber' v='1430' />
+    <tag k='addr:postcode' v='92223' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Beaumont Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-845-8770' />
+    <tag k='ref' v='173' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/173' />
+  </node>
+  <node id='-275314' action='modify' lat='33.5970735' lon='-117.2478351'>
+    <tag k='addr:city' v='Wildomar' />
+    <tag k='addr:housenumber' v='36010' />
+    <tag k='addr:postcode' v='92595' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Hidden Springs Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Clinton Keith' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-678-3191' />
+    <tag k='ref' v='174' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/174' />
+  </node>
+  <node id='-275315' action='modify' lat='34.1513359' lon='-117.4755511'>
+    <tag k='addr:city' v='Fontana' />
+    <tag k='addr:housenumber' v='15222' />
+    <tag k='addr:postcode' v='92336' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Summit Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Falcon Ridge' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-463-2490' />
+    <tag k='ref' v='175' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/175' />
+  </node>
+  <node id='-275316' action='modify' lat='34.5079102' lon='-117.4015871'>
+    <tag k='addr:city' v='Adelanto' />
+    <tag k='addr:housenumber' v='14168' />
+    <tag k='addr:postcode' v='92301' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='U.S. 395' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Adelanto' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-246-7705' />
+    <tag k='ref' v='176' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/176' />
+  </node>
+  <node id='-275317' action='modify' lat='33.5924514' lon='-117.1236028'>
+    <tag k='addr:city' v='Winchester' />
+    <tag k='addr:housenumber' v='30712' />
+    <tag k='addr:postcode' v='92596' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Benton Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets French Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-926-6432' />
+    <tag k='ref' v='177' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/177' />
+  </node>
+  <node id='-275318' action='modify' lat='34.4740919' lon='-117.240513'>
+    <tag k='addr:city' v='Apple Valley' />
+    <tag k='addr:housenumber' v='12253' />
+    <tag k='addr:postcode' v='92308' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Apple Valley Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Bear Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-240-2214' />
+    <tag k='ref' v='178' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/178' />
+  </node>
+  <node id='-275319' action='modify' lat='34.0498001' lon='-117.4338086'>
+    <tag k='addr:city' v='Fontana' />
+    <tag k='addr:housenumber' v='11225' />
+    <tag k='addr:postcode' v='92337' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Sierra Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Sierra Crossroads' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-428-4545' />
+    <tag k='ref' v='179' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/179' />
+  </node>
+  <node id='-275320' action='modify' lat='34.0637972' lon='-117.181894'>
+    <tag k='addr:city' v='Redlands' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='92374' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Colton Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Redlands' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-792-3900' />
+    <tag k='ref' v='18' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/18' />
+  </node>
+  <node id='-275321' action='modify' lat='33.8041941' lon='-116.9716546'>
+    <tag k='addr:city' v='San Jacinto' />
+    <tag k='addr:housenumber' v='1271' />
+    <tag k='addr:postcode' v='92583' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North State Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-487-9070' />
+    <tag k='ref' v='180' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/180' />
+  </node>
+  <node id='-275322' action='modify' lat='33.7615529' lon='-116.2993218'>
+    <tag k='addr:city' v='Palm Desert' />
+    <tag k='addr:housenumber' v='78210' />
+    <tag k='addr:postcode' v='92211' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Varner Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-772-7508' />
+    <tag k='ref' v='181' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/181' />
+  </node>
+  <node id='-275323' action='modify' lat='34.1112474' lon='-117.1720914'>
+    <tag k='addr:city' v='Highland' />
+    <tag k='addr:housenumber' v='28988' />
+    <tag k='addr:postcode' v='92346' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Greenspot Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets East Highland' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-863-7600' />
+    <tag k='ref' v='182' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/182' />
+  </node>
+  <node id='-275324' action='modify' lat='33.8460347' lon='-116.4779085'>
+    <tag k='addr:city' v='Cathedral City' />
+    <tag k='addr:housenumber' v='67800' />
+    <tag k='addr:postcode' v='92234' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Vista Chino' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Cathedral City' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-327-9295' />
+    <tag k='ref' v='183' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/183' />
+  </node>
+  <node id='-275325' action='modify' lat='34.0033434' lon='-117.6525601'>
+    <tag k='addr:city' v='Chino' />
+    <tag k='addr:housenumber' v='6989' />
+    <tag k='addr:postcode' v='91710' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Schaefer Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Euclid/Schaefer' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-627-6665' />
+    <tag k='ref' v='184' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/184' />
+  </node>
+  <node id='-275326' action='modify' lat='33.9114124' lon='-117.175609'>
+    <tag k='addr:city' v='Moreno Valley' />
+    <tag k='addr:housenumber' v='14425' />
+    <tag k='addr:postcode' v='92555' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Moreno Beach Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Moreno Beach' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-242-1461' />
+    <tag k='ref' v='185' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/185' />
+  </node>
+  <node id='-275327' action='modify' lat='33.1264932' lon='-117.2517203'>
+    <tag k='addr:city' v='Carlsbad' />
+    <tag k='addr:housenumber' v='2687' />
+    <tag k='addr:postcode' v='92009' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Gateway Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Bressi Ranch' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-929-7900' />
+    <tag k='ref' v='186' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/186' />
+  </node>
+  <node id='-275328' action='modify' lat='33.6661528' lon='-117.2623759'>
+    <tag k='addr:city' v='Lake Elsinore' />
+    <tag k='addr:housenumber' v='29995' />
+    <tag k='addr:postcode' v='92532' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Canyon Hills Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-244-2014' />
+    <tag k='ref' v='187' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/187' />
+  </node>
+  <node id='-275329' action='modify' lat='34.0327835' lon='-117.3202837'>
+    <tag k='addr:city' v='Grand Terrace' />
+    <tag k='addr:housenumber' v='22201' />
+    <tag k='addr:postcode' v='92313' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Barton Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Grand Terrace' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-824-1053' />
+    <tag k='ref' v='188' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/188' />
+  </node>
+  <node id='-275330' action='modify' lat='33.6531034' lon='-117.2981965'>
+    <tag k='addr:city' v='Lake Elsinore' />
+    <tag k='addr:housenumber' v='32281' />
+    <tag k='addr:postcode' v='92530' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Mission Trail' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Lake Elsinore' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-245-5802' />
+    <tag k='ref' v='189' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/189' />
+  </node>
+  <node id='-275331' action='modify' lat='34.06822' lon='-117.7532803'>
+    <tag k='addr:city' v='Pomona' />
+    <tag k='addr:housenumber' v='1045' />
+    <tag k='addr:postcode' v='91767' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Garey Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Pomona' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-629-9244' />
+    <tag k='ref' v='19' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/19' />
+  </node>
+  <node id='-275332' action='modify' lat='34.4220356' lon='-117.2946147'>
+    <tag k='addr:city' v='Hesperia' />
+    <tag k='addr:housenumber' v='16904' />
+    <tag k='addr:postcode' v='92345' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Hesperia' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-244-1503' />
+    <tag k='ref' v='190' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/190' />
+  </node>
+  <node id='-275333' action='modify' lat='34.0715338' lon='-117.1402624'>
+    <tag k='addr:city' v='Redlands' />
+    <tag k='addr:housenumber' v='1775' />
+    <tag k='addr:postcode' v='92374' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Lugonia Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Redlands/Lugonia' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-794-0105' />
+    <tag k='ref' v='191' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/191' />
+  </node>
+  <node id='-275334' action='modify' lat='33.9345274' lon='-117.3865102'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='2841' />
+    <tag k='addr:postcode' v='92506' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Mary Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Victoria' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-682-3101' />
+    <tag k='ref' v='192' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/192' />
+  </node>
+  <node id='-275335' action='modify' lat='33.9477121' lon='-117.2628352'>
+    <tag k='addr:city' v='Moreno Valley' />
+    <tag k='addr:housenumber' v='11875' />
+    <tag k='addr:postcode' v='92557' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Pigeon Pass Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Moreno Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-924-2575' />
+    <tag k='ref' v='193' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/193' />
+  </node>
+  <node id='-275336' action='modify' lat='34.0978529' lon='-117.8735779'>
+    <tag k='addr:city' v='Covina' />
+    <tag k='addr:housenumber' v='1023' />
+    <tag k='addr:postcode' v='91724' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Grand Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Covina' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 626-543-1104' />
+    <tag k='ref' v='194' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/194' />
+  </node>
+  <node id='-275337' action='modify' lat='33.7465647' lon='-117.0046318'>
+    <tag k='addr:city' v='Hemet' />
+    <tag k='addr:housenumber' v='3125' />
+    <tag k='addr:postcode' v='92545' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Florida Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Sanderson' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-537-1190' />
+    <tag k='ref' v='195' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/195' />
+  </node>
+  <node id='-275338' action='modify' lat='34.2704087' lon='-118.784064'>
+    <tag k='addr:city' v='Simi Valley' />
+    <tag k='addr:housenumber' v='660' />
+    <tag k='addr:postcode' v='93065' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Los Angeles Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Simi Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 805-416-7151' />
+    <tag k='ref' v='196' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/196' />
+  </node>
+  <node id='-275339' action='modify' lat='33.6838301' lon='-117.1526308'>
+    <tag k='addr:city' v='Menifee' />
+    <tag k='addr:housenumber' v='29061' />
+    <tag k='addr:postcode' v='92584' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Newport Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Menifee' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-723-6141' />
+    <tag k='ref' v='197' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/197' />
+  </node>
+  <node id='-275340' action='modify' lat='33.7114798' lon='-117.8163973'>
+    <tag k='addr:city' v='Tustin' />
+    <tag k='addr:housenumber' v='15150' />
+    <tag k='addr:postcode' v='92780' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Kensington Park Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Tustin' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 657-235-6641' />
+    <tag k='ref' v='198' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/198' />
+  </node>
+  <node id='-275341' action='modify' lat='33.9152434' lon='-117.5903871'>
+    <tag k='addr:city' v='Norco' />
+    <tag k='addr:housenumber' v='2430' />
+    <tag k='addr:postcode' v='92860' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='River Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets River Road' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-893-9251' />
+    <tag k='ref' v='199' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/199' />
+  </node>
+  <node id='-275342' action='modify' lat='34.1223259' lon='-117.2759874'>
+    <tag k='addr:city' v='San Bernardino' />
+    <tag k='addr:housenumber' v='444' />
+    <tag k='addr:postcode' v='92410' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Baseline Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-889-6270' />
+    <tag k='ref' v='2' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/2' />
+  </node>
+  <node id='-275343' action='modify' lat='34.1225697' lon='-117.5388778'>
+    <tag k='addr:city' v='Rancho Cucamonga' />
+    <tag k='addr:housenumber' v='7200' />
+    <tag k='addr:postcode' v='91739' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Day Creek Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Day Creek' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-646-1148' />
+    <tag k='ref' v='200' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/200' />
+  </node>
+  <node id='-275344' action='modify' lat='33.9162587' lon='-117.3246225'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='315' />
+    <tag k='addr:postcode' v='92508' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Alessandro Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Mission Grove' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-565-5426' />
+    <tag k='ref' v='201' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/201' />
+  </node>
+  <node id='-275345' action='modify' lat='34.1699706' lon='-118.1118903'>
+    <tag k='addr:city' v='Pasadena' />
+    <tag k='addr:housenumber' v='1390' />
+    <tag k='addr:postcode' v='91104' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Allen Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Pasadena' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 626-788-4092' />
+    <tag k='ref' v='202' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/202' />
+  </node>
+  <node id='-275346' action='modify' lat='33.5642049' lon='-117.6312475'>
+    <tag k='addr:city' v='Ladera Ranch' />
+    <tag k='addr:housenumber' v='25636' />
+    <tag k='addr:postcode' v='92694' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Crown Valley Parkway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Ladera Ranch' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 949-462-9696' />
+    <tag k='ref' v='203' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/203' />
+  </node>
+  <node id='-275347' action='modify' lat='33.9998198' lon='-117.577033'>
+    <tag k='addr:city' v='Ontario' />
+    <tag k='addr:housenumber' v='3460' />
+    <tag k='addr:postcode' v='91761' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Ontario Ranch Road' />
+    <tag k='addr:unit' v='E' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Ontario Ranch' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-627-1472' />
+    <tag k='ref' v='204' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/204' />
+  </node>
+  <node id='-275348' action='modify' lat='33.9663519' lon='-117.0378797'>
+    <tag k='addr:city' v='Calimesa' />
+    <tag k='addr:housenumber' v='1004' />
+    <tag k='addr:postcode' v='92320' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Cherry Valley Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-769-4095' />
+    <tag k='ref' v='205' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/205' />
+  </node>
+  <node id='-275349' action='modify' lat='33.9803072' lon='-118.0505041'>
+    <tag k='addr:city' v='Whittier' />
+    <tag k='addr:housenumber' v='11810' />
+    <tag k='addr:postcode' v='90601' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Whittier Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-696-3212' />
+    <tag k='ref' v='206' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/206' />
+  </node>
+  <node id='-275350' action='modify' lat='33.9448036' lon='-117.4517846'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='7200' />
+    <tag k='addr:postcode' v='92503' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Arlington Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-279-4480' />
+    <tag k='ref' v='207' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/207' />
+  </node>
+  <node id='-275351' action='modify' lat='34.0755831' lon='-117.5739018'>
+    <tag k='addr:city' v='Ontario' />
+    <tag k='addr:housenumber' v='930' />
+    <tag k='addr:postcode' v='91764' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Haven Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-989-5707' />
+    <tag k='ref' v='208' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/208' />
+  </node>
+  <node id='-275352' action='modify' lat='33.9577775' lon='-117.6226165'>
+    <tag k='addr:city' v='Chino' />
+    <tag k='addr:housenumber' v='8373' />
+    <tag k='addr:postcode' v='91708' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Pine Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-627-6697' />
+    <tag k='ref' v='209' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/209' />
+  </node>
+  <node id='-275353' action='modify' lat='33.9162227' lon='-117.4877085'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='4680' />
+    <tag k='addr:postcode' v='92505' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='La Sierra Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets La Sierra' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-343-2580' />
+    <tag k='ref' v='22' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/22' />
+  </node>
+  <node id='-275354' action='modify' lat='34.03495' lon='-117.0532961'>
+    <tag k='addr:city' v='Yucaipa' />
+    <tag k='addr:housenumber' v='34460' />
+    <tag k='addr:postcode' v='92399' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Yucaipa Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Yucaipa' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-790-0060' />
+    <tag k='ref' v='23' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/23' />
+  </node>
+  <node id='-275355' action='modify' lat='34.1368811' lon='-117.2541087'>
+    <tag k='addr:city' v='San Bernardino' />
+    <tag k='addr:housenumber' v='1522' />
+    <tag k='addr:postcode' v='92404' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Highland Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets del Rosa' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-882-3214' />
+    <tag k='ref' v='24' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/24' />
+  </node>
+  <node id='-275356' action='modify' lat='33.650578' lon='-117.9088806'>
+    <tag k='addr:city' v='Costa Mesa' />
+    <tag k='addr:housenumber' v='2180' />
+    <tag k='addr:postcode' v='92627' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Newport Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Newport' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 949-646-2324' />
+    <tag k='ref' v='25' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/25' />
+  </node>
+  <node id='-275357' action='modify' lat='33.7579743' lon='-117.9803549'>
+    <tag k='addr:city' v='Westminster' />
+    <tag k='addr:housenumber' v='8522' />
+    <tag k='addr:postcode' v='92683' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Westminster Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-379-5891' />
+    <tag k='ref' v='27' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/27' />
+  </node>
+  <node id='-275358' action='modify' lat='33.8017449' lon='-117.834701'>
+    <tag k='addr:city' v='Orange' />
+    <tag k='addr:housenumber' v='1800' />
+    <tag k='addr:postcode' v='92867' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Collins Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Collins' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-538-5550' />
+    <tag k='ref' v='28' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/28' />
+  </node>
+  <node id='-275359' action='modify' lat='33.7263288' lon='-117.9051216'>
+    <tag k='addr:city' v='Santa Ana' />
+    <tag k='addr:housenumber' v='2630' />
+    <tag k='addr:postcode' v='92704' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Edinger Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Edinger' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-437-0750' />
+    <tag k='ref' v='29' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/29' />
+  </node>
+  <node id='-275360' action='modify' lat='34.0675068' lon='-117.323359'>
+    <tag k='addr:city' v='Colton' />
+    <tag k='addr:housenumber' v='151' />
+    <tag k='addr:postcode' v='92324' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Valley Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Colton' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-825-5186' />
+    <tag k='ref' v='3' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/3' />
+  </node>
+  <node id='-275361' action='modify' lat='33.7880472' lon='-117.9771597'>
+    <tag k='addr:city' v='Garden Grove' />
+    <tag k='addr:housenumber' v='8888' />
+    <tag k='addr:postcode' v='92841' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Chapman Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Chapman' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-539-6556' />
+    <tag k='ref' v='32' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/32' />
+  </node>
+  <node id='-275362' action='modify' lat='33.6801333' lon='-117.9065483'>
+    <tag k='addr:city' v='Costa Mesa' />
+    <tag k='addr:housenumber' v='1175' />
+    <tag k='addr:postcode' v='92626' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Baker Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-437-0754' />
+    <tag k='ref' v='35' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/35' />
+  </node>
+  <node id='-275363' action='modify' lat='34.163803' lon='-117.2827669'>
+    <tag k='addr:city' v='San Bernardino' />
+    <tag k='addr:housenumber' v='161' />
+    <tag k='addr:postcode' v='92404' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East 40th Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets 40th Street' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-882-2678' />
+    <tag k='ref' v='36' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/36' />
+  </node>
+  <node id='-275364' action='modify' lat='33.732062' lon='-117.8178707'>
+    <tag k='addr:city' v='Tustin' />
+    <tag k='addr:housenumber' v='14171' />
+    <tag k='addr:postcode' v='92780' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Red Hill Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Red Hill' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-544-1812' />
+    <tag k='ref' v='37' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/37' />
+  </node>
+  <node id='-275365' action='modify' lat='33.7681535' lon='-117.8369125'>
+    <tag k='addr:city' v='Santa Ana' />
+    <tag k='addr:housenumber' v='2360' />
+    <tag k='addr:postcode' v='92705' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Tustin Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Santa Clara' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-543-9034' />
+    <tag k='ref' v='40' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/40' />
+  </node>
+  <node id='-275366' action='modify' lat='33.9456298' lon='-117.4367571'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='6160' />
+    <tag k='addr:postcode' v='92504' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Arlington Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-343-2562' />
+    <tag k='ref' v='42' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/42' />
+  </node>
+  <node id='-275367' action='modify' lat='34.1227754' lon='-117.3692677'>
+    <tag k='addr:city' v='Rialto' />
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:postcode' v='92376' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Baseline Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Rialto' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-875-4471' />
+    <tag k='ref' v='43' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/43' />
+  </node>
+  <node id='-275368' action='modify' lat='33.9225744' lon='-117.5603158'>
+    <tag k='addr:city' v='Norco' />
+    <tag k='addr:housenumber' v='2790' />
+    <tag k='addr:postcode' v='92860' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Hamner Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Norco' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-734-1838' />
+    <tag k='ref' v='44' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/44' />
+  </node>
+  <node id='-275369' action='modify' lat='34.105407' lon='-117.6708935'>
+    <tag k='addr:city' v='Upland' />
+    <tag k='addr:housenumber' v='919' />
+    <tag k='addr:postcode' v='91786' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Mountain Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Upland' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-982-3514' />
+    <tag k='ref' v='45' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/45' />
+  </node>
+  <node id='-275370' action='modify' lat='33.7308799' lon='-116.970065'>
+    <tag k='addr:city' v='Hemet' />
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:postcode' v='92543' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Stetson Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets State Street' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-925-5545' />
+    <tag k='ref' v='46' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/46' />
+  </node>
+  <node id='-275371' action='modify' lat='34.1123637' lon='-117.7662807'>
+    <tag k='addr:city' v='La Verne' />
+    <tag k='addr:housenumber' v='2090' />
+    <tag k='addr:postcode' v='91750' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Foothill Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets La Verne' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-593-1591' />
+    <tag k='ref' v='48' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/48' />
+  </node>
+  <node id='-275372' action='modify' lat='34.107878' lon='-117.73549'>
+    <tag k='addr:city' v='Claremont' />
+    <tag k='addr:housenumber' v='1055' />
+    <tag k='addr:postcode' v='91711' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Foothill Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Towne Avenue' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-624-0619' />
+    <tag k='ref' v='49' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/49' />
+  </node>
+  <node id='-275373' action='modify' lat='34.104389' lon='-117.436775'>
+    <tag k='addr:city' v='Fontana' />
+    <tag k='addr:housenumber' v='8228' />
+    <tag k='addr:postcode' v='92335' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Sierra Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets North Fontana' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-427-8200' />
+    <tag k='ref' v='5' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/5' />
+  </node>
+  <node id='-275374' action='modify' lat='34.0182366' lon='-117.7016897'>
+    <tag k='addr:city' v='Chino' />
+    <tag k='addr:housenumber' v='4721' />
+    <tag k='addr:postcode' v='91710' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Riverside Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Chino' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-627-3015' />
+    <tag k='ref' v='52' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/52' />
+  </node>
+  <node id='-275375' action='modify' lat='34.1215188' lon='-117.5826427'>
+    <tag k='addr:housenumber' v='8770' />
+    <tag k='addr:postcode' v='91701' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Base Line Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-987-8350' />
+    <tag k='ref' v='53' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/53' />
+  </node>
+  <node id='-275376' action='modify' lat='34.0314107' lon='-117.914683'>
+    <tag k='addr:city' v='West Covina' />
+    <tag k='addr:housenumber' v='1025' />
+    <tag k='addr:postcode' v='91792' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Amar Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 626-968-6005' />
+    <tag k='ref' v='54' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/54' />
+  </node>
+  <node id='-275377' action='modify' lat='34.1075111' lon='-117.836363'>
+    <tag k='addr:city' v='San Dimas' />
+    <tag k='addr:housenumber' v='1425' />
+    <tag k='addr:postcode' v='91773' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Arrow Highway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets San Dimas' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-599-1374' />
+    <tag k='ref' v='56' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/56' />
+  </node>
+  <node id='-275378' action='modify' lat='34.1296298' lon='-117.8827638'>
+    <tag k='addr:city' v='Azusa' />
+    <tag k='addr:housenumber' v='1145' />
+    <tag k='addr:postcode' v='91702' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Alosta Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 626-335-2310' />
+    <tag k='ref' v='57' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/57' />
+  </node>
+  <node id='-275379' action='modify' lat='34.1357701' lon='-117.2079233'>
+    <tag k='addr:city' v='Highland' />
+    <tag k='addr:housenumber' v='3633' />
+    <tag k='addr:postcode' v='92346' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Highland Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Palm' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-864-0122' />
+    <tag k='ref' v='58' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/58' />
+  </node>
+  <node id='-275380' action='modify' lat='34.0327024' lon='-117.6699769'>
+    <tag k='addr:city' v='Ontario' />
+    <tag k='addr:housenumber' v='1105' />
+    <tag k='addr:postcode' v='91762' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Philadelphia Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets South Ontario' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-984-0517' />
+    <tag k='ref' v='59' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/59' />
+  </node>
+  <node id='-275381' action='modify' lat='34.1270537' lon='-117.830375'>
+    <tag k='addr:city' v='Glendora' />
+    <tag k='addr:housenumber' v='1830' />
+    <tag k='addr:postcode' v='91740' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East Route 66' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Glendora' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 626-963-0513' />
+    <tag k='ref' v='6' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/6' />
+  </node>
+  <node id='-275382' action='modify' lat='33.889921' lon='-117.8099858'>
+    <tag k='addr:city' v='Yorba Linda' />
+    <tag k='addr:housenumber' v='18527' />
+    <tag k='addr:postcode' v='92886' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Yorba Linda Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Yorba Linda' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-777-3893' />
+    <tag k='ref' v='60' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/60' />
+  </node>
+  <node id='-275383' action='modify' lat='34.0744852' lon='-117.3894949'>
+    <tag k='addr:city' v='Bloomington' />
+    <tag k='addr:housenumber' v='1045' />
+    <tag k='addr:postcode' v='92316' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Bloomington Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Bloomington' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-877-0090' />
+    <tag k='ref' v='61' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/61' />
+  </node>
+  <node id='-275384' action='modify' lat='33.8693734' lon='-117.5942512'>
+    <tag k='addr:city' v='Corona' />
+    <tag k='addr:housenumber' v='1288' />
+    <tag k='addr:postcode' v='92882' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Border Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Corona' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-734-2470' />
+    <tag k='ref' v='62' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/62' />
+  </node>
+  <node id='-275385' action='modify' lat='34.1222029' lon='-117.6718102'>
+    <tag k='addr:city' v='Upland' />
+    <tag k='addr:housenumber' v='1619' />
+    <tag k='addr:postcode' v='91784' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='North Mountain Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Mountain Plaza' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-981-3237' />
+    <tag k='ref' v='65' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/65' />
+  </node>
+  <node id='-275386' action='modify' lat='33.86604' lon='-117.8050396'>
+    <tag k='addr:city' v='Anaheim' />
+    <tag k='addr:housenumber' v='1741' />
+    <tag k='addr:postcode' v='92807' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Kellogg Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Anaheim' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-779-2020' />
+    <tag k='ref' v='66' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/66' />
+  </node>
+  <node id='-275387' action='modify' lat='33.9862908' lon='-117.8701074'>
+    <tag k='addr:city' v='Rowland Heights' />
+    <tag k='addr:housenumber' v='19756' />
+    <tag k='addr:postcode' v='91748' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Colima Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Rowland Heights' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-598-6619' />
+    <tag k='ref' v='67' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/67' />
+  </node>
+  <node id='-275388' action='modify' lat='33.9985258' lon='-117.4830497'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='9155' />
+    <tag k='addr:postcode' v='92509' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Jurupa Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Glen Avon' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-685-1266' />
+    <tag k='ref' v='69' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/69' />
+  </node>
+  <node id='-275389' action='modify' lat='33.8884102' lon='-118.065536'>
+    <tag k='addr:city' v='Norwalk' />
+    <tag k='addr:housenumber' v='12523' />
+    <tag k='addr:postcode' v='90650' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Alondra Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Norwalk' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 562-921-3908' />
+    <tag k='ref' v='70' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/70' />
+  </node>
+  <node id='-275390' action='modify' lat='33.9959056' lon='-117.0567619'>
+    <tag k='addr:city' v='Calimesa' />
+    <tag k='addr:housenumber' v='1155' />
+    <tag k='addr:postcode' v='92320' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Calimesa Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-795-2224' />
+    <tag k='ref' v='71' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/71' />
+  </node>
+  <node id='-275391' action='modify' lat='34.079996' lon='-117.6888586'>
+    <tag k='addr:city' v='Montclair' />
+    <tag k='addr:housenumber' v='9575' />
+    <tag k='addr:postcode' v='91763' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Central Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Montclair' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-621-4637' />
+    <tag k='ref' v='73' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/73' />
+  </node>
+  <node id='-275392' action='modify' lat='33.7467912' lon='-116.9316848'>
+    <tag k='addr:city' v='Hemet' />
+    <tag k='addr:housenumber' v='41849' />
+    <tag k='addr:postcode' v='92544' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Florida Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Stanford' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-652-2388' />
+    <tag k='ref' v='75' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/75' />
+  </node>
+  <node id='-275393' action='modify' lat='33.7170771' lon='-117.9352435'>
+    <tag k='addr:city' v='Fountain Valley' />
+    <tag k='addr:housenumber' v='11085' />
+    <tag k='addr:postcode' v='92708' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Warner Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Fountain Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 714-775-6343' />
+    <tag k='ref' v='77' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/77' />
+  </node>
+  <node id='-275394' action='modify' lat='34.1327121' lon='-117.5954686'>
+    <tag k='addr:city' v='Rancho Cucamonga' />
+    <tag k='addr:housenumber' v='9750' />
+    <tag k='addr:postcode' v='91737' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='19th Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-989-4908' />
+    <tag k='ref' v='78' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/78' />
+  </node>
+  <node id='-275395' action='modify' lat='34.1351622' lon='-117.3081454'>
+    <tag k='addr:city' v='San Bernardino' />
+    <tag k='addr:housenumber' v='1085' />
+    <tag k='addr:postcode' v='92405' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='West Highland Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Highland' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-886-1517' />
+    <tag k='ref' v='8' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/8' />
+  </node>
+  <node id='-275396' action='modify' lat='33.8835768' lon='-117.3649867'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='17050' />
+    <tag k='addr:postcode' v='92504' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Van Buren Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Woodcrest' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-780-2261' />
+    <tag k='ref' v='80' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/80' />
+  </node>
+  <node id='-275397' action='modify' lat='34.04936' lon='-117.245514'>
+    <tag k='addr:city' v='Loma Linda' />
+    <tag k='addr:housenumber' v='25630' />
+    <tag k='addr:postcode' v='92354' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Barton Road' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-478-5488' />
+    <tag k='ref' v='81' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/81' />
+  </node>
+  <node id='-275398' action='modify' lat='33.7115583' lon='-117.1923695'>
+    <tag k='addr:city' v='Menifee' />
+    <tag k='addr:housenumber' v='27160' />
+    <tag k='addr:postcode' v='92586' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Sun City Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-679-6655' />
+    <tag k='ref' v='83' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/83' />
+  </node>
+  <node id='-275399' action='modify' lat='33.952498' lon='-116.5004305'>
+    <tag k='addr:city' v='Desert Hot Springs' />
+    <tag k='addr:housenumber' v='13200' />
+    <tag k='addr:postcode' v='92240' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Palm Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Desert Hot Springs' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-329-1533' />
+    <tag k='ref' v='84' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/84' />
+  </node>
+  <node id='-275400' action='modify' lat='34.0785318' lon='-117.6096528'>
+    <tag k='addr:city' v='Ontario' />
+    <tag k='addr:housenumber' v='1939' />
+    <tag k='addr:postcode' v='91764' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East 4th Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Vineyard' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-989-7615' />
+    <tag k='ref' v='85' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/85' />
+  </node>
+  <node id='-275401' action='modify' lat='33.9284437' lon='-116.9497863'>
+    <tag k='addr:city' v='Beaumont' />
+    <tag k='addr:housenumber' v='1661' />
+    <tag k='addr:postcode' v='92223' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='East 6th Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-845-2248' />
+    <tag k='ref' v='86' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/86' />
+  </node>
+  <node id='-275402' action='modify' lat='33.974855' lon='-117.524859'>
+    <tag k='addr:city' v='Jurupa Valley' />
+    <tag k='addr:housenumber' v='11070' />
+    <tag k='addr:postcode' v='91752' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Limonite Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Mira Loma' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-734-4330' />
+    <tag k='ref' v='88' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/88' />
+  </node>
+  <node id='-275403' action='modify' lat='33.9773662' lon='-117.4524593'>
+    <tag k='addr:city' v='Riverside' />
+    <tag k='addr:housenumber' v='7770' />
+    <tag k='addr:postcode' v='92509' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Limonite Avenue' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets de Anza' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-681-3142' />
+    <tag k='ref' v='90' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/90' />
+  </node>
+  <node id='-275404' action='modify' lat='34.2521989' lon='-116.8837185'>
+    <tag k='addr:city' v='Big Bear Lake' />
+    <tag k='addr:housenumber' v='42171' />
+    <tag k='addr:postcode' v='92315' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Big Bear Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-866-5211' />
+    <tag k='ref' v='91' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/91' />
+  </node>
+  <node id='-275405' action='modify' lat='34.2505226' lon='-117.1905317'>
+    <tag k='addr:city' v='Lake Arrowhead' />
+    <tag k='addr:housenumber' v='28100' />
+    <tag k='addr:postcode' v='92352' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='California 189' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Lake Arrowhead' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-337-5854' />
+    <tag k='ref' v='92' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/92' />
+  </node>
+  <node id='-275406' action='modify' lat='33.7086819' lon='-116.2504868'>
+    <tag k='addr:city' v='Indio' />
+    <tag k='addr:housenumber' v='81056' />
+    <tag k='addr:postcode' v='92201' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='California 111' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Indio' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-347-5823' />
+    <tag k='ref' v='94' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/94' />
+  </node>
+  <node id='-275407' action='modify' lat='34.1009398' lon='-117.408557'>
+    <tag k='addr:city' v='Fontana' />
+    <tag k='addr:housenumber' v='18140' />
+    <tag k='addr:postcode' v='92335' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Arrow Boulevard' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Fontana/Arrow' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 909-427-8208' />
+    <tag k='ref' v='95' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/95' />
+  </node>
+  <node id='-275408' action='modify' lat='34.1210853' lon='-116.4185591'>
+    <tag k='addr:city' v='Yucca Valley' />
+    <tag k='addr:housenumber' v='57075' />
+    <tag k='addr:postcode' v='92284' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Twentynine Palms Highway' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Yucca Valley' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-365-9877' />
+    <tag k='ref' v='96' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/96' />
+  </node>
+  <node id='-275409' action='modify' lat='34.422561' lon='-117.3195309'>
+    <tag k='addr:city' v='Hesperia' />
+    <tag k='addr:housenumber' v='15757' />
+    <tag k='addr:postcode' v='92345' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Main Street' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Eighth &amp; Main' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 760-244-1630' />
+    <tag k='ref' v='97' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/97' />
+  </node>
+  <node id='-275410' action='modify' lat='33.6868861' lon='-117.3679824'>
+    <tag k='addr:city' v='Lake Elsinore' />
+    <tag k='addr:housenumber' v='16750' />
+    <tag k='addr:postcode' v='92530' />
+    <tag k='addr:state' v='CA' />
+    <tag k='addr:street' v='Lakeshore Drive' />
+    <tag k='brand' v='Stater Bros.' />
+    <tag k='brand:wikidata' v='Q7604016' />
+    <tag k='name' v='Stater Bros. Markets Elsinore/Lakeshore' />
+    <tag k='opening_hours' v='Mo-Su 06:00-23:00' />
+    <tag k='phone' v='+1 951-674-1349' />
+    <tag k='ref' v='98' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.staterbros.com/stores/98' />
+  </node>
+</osm>
