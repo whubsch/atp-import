@@ -1,0 +1,19 @@
+{
+  "name": "atp-us-import",
+  "version": "0.1.0",
+  "description": "Package to hold and process files associated with an import of All the Places data into OSM.",
+  "main": "index.js",
+  "scripts": {
+    "mr": "mr cooperative change --out build/missing.json files/missing.osm"
+  },
+  "keywords": [
+    "atp",
+    "osm",
+    "openstreetmap"
+  ],
+  "author": "Will",
+  "license": "MIT",
+  "dependencies": {
+    "@maproulette/mr-cli": "^0.1.4"
+  }
+}
