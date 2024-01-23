@@ -1881,7 +1881,7 @@
     <tag k='addr:housenumber' v='14228' />
     <tag k='addr:postcode' v='12912' />
     <tag k='addr:state' v='NY' />
-    <tag k='addr:street' v='NYS Rt 9N' />
+    <tag k='addr:street' v='NYS Route 9N' />
     <tag k='brand' v='Tops' />
     <tag k='brand:wikidata' v='Q7825137' />
     <tag k='name' v='Tops' />
@@ -2021,7 +2021,7 @@
     <tag k='addr:housenumber' v='10916' />
     <tag k='addr:postcode' v='13605' />
     <tag k='addr:state' v='NY' />
-    <tag k='addr:street' v='Us Rt 11' />
+    <tag k='addr:street' v='Us Route 11' />
     <tag k='brand' v='Tops' />
     <tag k='brand:wikidata' v='Q7825137' />
     <tag k='name' v='Tops' />

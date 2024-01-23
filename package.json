@@ -4,7 +4,9 @@
   "description": "Package to hold and process files associated with an import of All the Places data into OSM.",
   "main": "index.js",
   "scripts": {
-    "mr": "mr cooperative change --out build/missing.json files/missing.osm"
+    "mr": "mr cooperative change --out build/missing.json files/missing.osm",
+    "clean": "python3.12 scripts/clean.py",
+    "format": "python3.12 -m black scripts"
   },
   "keywords": [
     "atp",
@@ -14,6 +16,7 @@
   "author": "Will",
   "license": "MIT",
   "dependencies": {
-    "@maproulette/mr-cli": "^0.1.4"
+    "@maproulette/mr-cli": "^0.1.4",
+    "geojsontoosm": "^0.0.3"
   }
 }

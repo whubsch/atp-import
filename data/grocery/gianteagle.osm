@@ -5,7 +5,7 @@
     <tag k='addr:housenumber' v='3545' />
     <tag k='addr:postcode' v='47201' />
     <tag k='addr:state' v='IN' />
-    <tag k='addr:street' v='West 450 S.' />
+    <tag k='addr:street' v='West 450 South' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='7519 : Ogilville GetGo Fuel Station' />
@@ -245,7 +245,7 @@
     <tag k='addr:housenumber' v='4461' />
     <tag k='addr:postcode' v='46075' />
     <tag k='addr:state' v='IN' />
-    <tag k='addr:street' v='Albert S. White Drive' />
+    <tag k='addr:street' v='Albert South White Drive' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='7545 : Whitestown GetGo Fuel Station' />
@@ -2020,7 +2020,7 @@
     <tag k='addr:housenumber' v='45' />
     <tag k='addr:postcode' v='44203' />
     <tag k='addr:state' v='OH' />
-    <tag k='addr:street' v='5th Street S.E.' />
+    <tag k='addr:street' v='5th Street Southeast' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='3656 : Barberton GetGo Fuel Station' />
@@ -2052,7 +2052,7 @@
     <tag k='addr:housenumber' v='41' />
     <tag k='addr:postcode' v='44203' />
     <tag k='addr:state' v='OH' />
-    <tag k='addr:street' v='5th Street S.E.' />
+    <tag k='addr:street' v='5th Street Southeast' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='4031 : Barberton Giant Eagle Supermarket' />
@@ -2132,7 +2132,7 @@
     <tag k='addr:housenumber' v='6493' />
     <tag k='addr:postcode' v='44720' />
     <tag k='addr:state' v='OH' />
-    <tag k='addr:street' v='Strip Avenue N.W.' />
+    <tag k='addr:street' v='Strip Avenue Northwest' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='4060 : Strip Giant Eagle Supermarket' />
@@ -4326,7 +4326,7 @@
     <tag k='addr:housenumber' v='2700' />
     <tag k='addr:postcode' v='44483' />
     <tag k='addr:state' v='OH' />
-    <tag k='addr:street' v='Mahoning Avenue N.W.' />
+    <tag k='addr:street' v='Mahoning Avenue Northwest' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='4056 : Jamestown Giant Eagle Supermarket' />
@@ -4659,7 +4659,7 @@
     <tag k='addr:housenumber' v='5' />
     <tag k='addr:postcode' v='15056' />
     <tag k='addr:state' v='PA' />
-    <tag k='addr:street' v='Quaker Village S.C.' />
+    <tag k='addr:street' v='Quaker Village SouthC.' />
     <tag k='brand' v='Giant Eagle' />
     <tag k='brand:wikidata' v='Q1522721' />
     <tag k='display_name' v='0037 : Leetsdale Giant Eagle Supermarket' />

@@ -292,7 +292,7 @@
     <tag k='addr:housenumber' v='785' />
     <tag k='addr:postcode' v='71701' />
     <tag k='addr:state' v='AR' />
-    <tag k='addr:street' v='California Avenue S.W.' />
+    <tag k='addr:street' v='California Avenue Southwest' />
     <tag k='brand' v='Piggly Wiggly' />
     <tag k='brand:wikidata' v='Q3388303' />
     <tag k='name' v='Piggly Wiggly' />
@@ -1677,7 +1677,7 @@
     <tag k='addr:housenumber' v='5003' />
     <tag k='addr:postcode' v='25304' />
     <tag k='addr:state' v='WV' />
-    <tag k='addr:street' v='MacCorkle Avenue S.E.' />
+    <tag k='addr:street' v='MacCorkle Avenue Southeast' />
     <tag k='brand' v='Piggly Wiggly' />
     <tag k='brand:wikidata' v='Q3388303' />
     <tag k='name' v='Piggly Wiggly' />
@@ -3532,7 +3532,7 @@
     <tag k='addr:housenumber' v='20118' />
     <tag k='addr:postcode' v='32424' />
     <tag k='addr:state' v='FL' />
-    <tag k='addr:street' v='Central Avenue W.' />
+    <tag k='addr:street' v='Central Avenue West' />
     <tag k='addr:unit' v='1' />
     <tag k='brand' v='Piggly Wiggly' />
     <tag k='brand:wikidata' v='Q3388303' />
@@ -5018,7 +5018,7 @@
     <tag k='addr:housenumber' v='337' />
     <tag k='addr:postcode' v='36862' />
     <tag k='addr:state' v='AL' />
-    <tag k='addr:street' v='9th Avenue S.W' />
+    <tag k='addr:street' v='9th Avenue Southwest' />
     <tag k='brand' v='Piggly Wiggly' />
     <tag k='brand:wikidata' v='Q3388303' />
     <tag k='name' v='Piggly Wiggly' />
@@ -5114,7 +5114,7 @@
     <tag k='addr:housenumber' v='372' />
     <tag k='addr:postcode' v='25244' />
     <tag k='addr:state' v='NC' />
-    <tag k='addr:street' v='NC Highway 58 N.' />
+    <tag k='addr:street' v='NC Highway 58 North' />
     <tag k='brand' v='Piggly Wiggly' />
     <tag k='brand:wikidata' v='Q3388303' />
     <tag k='name' v='Piggly Wiggly' />
@@ -5786,7 +5786,7 @@
     <tag k='addr:housenumber' v='3339' />
     <tag k='addr:postcode' v='28602' />
     <tag k='addr:state' v='NC' />
-    <tag k='addr:street' v='First Avenue S.W.' />
+    <tag k='addr:street' v='First Avenue Southwest' />
     <tag k='brand' v='Piggly Wiggly' />
     <tag k='brand:wikidata' v='Q3388303' />
     <tag k='name' v='Piggly Wiggly' />

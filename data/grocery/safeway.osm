@@ -5497,7 +5497,7 @@
     <tag k='addr:housenumber' v='7900' />
     <tag k='addr:postcode' v='22308' />
     <tag k='addr:state' v='VA' />
-    <tag k='addr:street' v='Ft Hunt Road' />
+    <tag k='addr:street' v='Fort Hunt Road' />
     <tag k='brand' v='Safeway' />
     <tag k='brand:wikidata' v='Q1508234' />
     <tag k='contact:facebook' v='https://www.facebook.com/safeway' />
@@ -18778,7 +18778,7 @@
     <tag k='addr:housenumber' v='2190' />
     <tag k='addr:postcode' v='85635' />
     <tag k='addr:state' v='AZ' />
-    <tag k='addr:street' v='East Fry Boulevard' />
+    <tag k='addr:street' v='East Ferry Boulevard' />
     <tag k='brand' v='Safeway' />
     <tag k='brand:wikidata' v='Q1508234' />
     <tag k='contact:facebook' v='https://www.facebook.com/safeway' />
@@ -23616,7 +23616,7 @@
     <tag k='addr:housenumber' v='7900' />
     <tag k='addr:postcode' v='22308' />
     <tag k='addr:state' v='VA' />
-    <tag k='addr:street' v='Ft Hunt Road' />
+    <tag k='addr:street' v='Fort Hunt Road' />
     <tag k='amenity' v='pharmacy' />
     <tag k='brand' v='Safeway' />
     <tag k='brand:wikidata' v='Q1508234' />

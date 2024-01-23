@@ -2362,7 +2362,7 @@
     <tag k='addr:housenumber' v='13460' />
     <tag k='addr:postcode' v='60585' />
     <tag k='addr:state' v='IL' />
-    <tag k='addr:street' v='South Rt 59' />
+    <tag k='addr:street' v='South Route 59' />
     <tag k='brand' v='Jewel-Osco' />
     <tag k='brand:wikidata' v='Q3178470' />
     <tag k='image' v='https://dynl.mktgcdn.com/p/1xjD5tSaKGxM5uOp1tsl5JztZeRA2TPkA-GoYSxXiGs/150x150.png' />
@@ -13010,7 +13010,7 @@
     <tag k='addr:housenumber' v='530' />
     <tag k='addr:postcode' v='07462' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 515' />
+    <tag k='addr:street' v='Route 515' />
     <tag k='addr:unit' v='1' />
     <tag k='brand' v='ACME Markets' />
     <tag k='brand:wikidata' v='Q341975' />
@@ -18428,7 +18428,7 @@
     <tag k='addr:housenumber' v='530' />
     <tag k='addr:postcode' v='07462' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 515' />
+    <tag k='addr:street' v='Route 515' />
     <tag k='addr:unit' v='1' />
     <tag k='amenity' v='pharmacy' />
     <tag k='brand' v='ACME Markets' />
@@ -24419,7 +24419,7 @@
     <tag k='addr:housenumber' v='525' />
     <tag k='addr:postcode' v='77450' />
     <tag k='addr:state' v='TX' />
-    <tag k='addr:street' v='South Fry Road' />
+    <tag k='addr:street' v='South Ferry Road' />
     <tag k='brand' v='Randalls' />
     <tag k='brand:wikidata' v='Q7291489' />
     <tag k='image' v='https://dynl.mktgcdn.com/p/UsjblGpF7V89qZ3q-qig9uyGjopHRek0GQqhTC05mGk/150x150.png' />
@@ -25416,7 +25416,7 @@
     <tag k='addr:housenumber' v='4340' />
     <tag k='addr:postcode' v='05829' />
     <tag k='addr:state' v='VT' />
-    <tag k='addr:street' v='US Rt 5' />
+    <tag k='addr:street' v='US Route 5' />
     <tag k='brand' v='Shaw&apos;s' />
     <tag k='brand:wikidata' v='Q578387' />
     <tag k='image' v='https://dynl.mktgcdn.com/p/eCeZ-09zAL0G_fFLfw63HR022GLwTdZD214SXEMgte0/150x150.png' />
@@ -27666,7 +27666,7 @@
     <tag k='addr:housenumber' v='525' />
     <tag k='addr:postcode' v='77450' />
     <tag k='addr:state' v='TX' />
-    <tag k='addr:street' v='South Fry Road' />
+    <tag k='addr:street' v='South Ferry Road' />
     <tag k='amenity' v='pharmacy' />
     <tag k='brand' v='Randalls' />
     <tag k='brand:wikidata' v='Q7291489' />

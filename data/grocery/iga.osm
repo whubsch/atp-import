@@ -1425,7 +1425,7 @@
     <tag k='addr:housenumber' v='110' />
     <tag k='addr:postcode' v='31629' />
     <tag k='addr:state' v='GA' />
-    <tag k='addr:street' v='2nd Avenue S.E.' />
+    <tag k='addr:street' v='2nd Avenue Southeast' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Cairo IGA' />
@@ -1732,7 +1732,7 @@
     <tag k='addr:housenumber' v='3954' />
     <tag k='addr:postcode' v='42113' />
     <tag k='addr:state' v='KY' />
-    <tag k='addr:street' v='Ky Highway 185' />
+    <tag k='addr:street' v='Key Highway 185' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Crossroads IGA' />
@@ -2221,7 +2221,7 @@
     <tag k='addr:housenumber' v='197' />
     <tag k='addr:postcode' v='71463' />
     <tag k='addr:state' v='LA' />
-    <tag k='addr:street' v='Hwy. 165 South' />
+    <tag k='addr:street' v='Highway 165 South' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Buddy&apos;s IGA' />
@@ -4974,7 +4974,7 @@
     <tag k='addr:housenumber' v='1940' />
     <tag k='addr:postcode' v='30260' />
     <tag k='addr:state' v='GA' />
-    <tag k='addr:street' v='Mt. Zion Road' />
+    <tag k='addr:street' v='Mount Zion Road' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Nam Dae Mun' />
@@ -5848,7 +5848,7 @@
     <tag k='addr:housenumber' v='11153' />
     <tag k='addr:postcode' v='47012' />
     <tag k='addr:state' v='IN' />
-    <tag k='addr:street' v='US Highway 52 S.' />
+    <tag k='addr:street' v='US Highway 52 South' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Brookville IGA' />
@@ -6588,7 +6588,7 @@
     <tag k='addr:housenumber' v='7989' />
     <tag k='addr:postcode' v='61087' />
     <tag k='addr:state' v='IL' />
-    <tag k='addr:street' v='Rte. 78 North' />
+    <tag k='addr:street' v='Route 78 North' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Hartzell&apos;s IGA' />
@@ -7806,7 +7806,7 @@
     <tag k='addr:housenumber' v='431' />
     <tag k='addr:postcode' v='08889' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 22' />
+    <tag k='addr:street' v='Route 22' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Bishops Market IGA' />
@@ -8959,7 +8959,7 @@
     <tag k='addr:housenumber' v='4897' />
     <tag k='addr:postcode' v='12748' />
     <tag k='addr:state' v='NY' />
-    <tag k='addr:street' v='State Rt. 52' />
+    <tag k='addr:street' v='State Route 52' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />
     <tag k='name' v='Peck&apos;s Market of Jeffersonville' />
@@ -9732,7 +9732,7 @@
     <tag k='addr:housenumber' v='1679' />
     <tag k='addr:postcode' v='18801' />
     <tag k='addr:state' v='PA' />
-    <tag k='addr:street' v='State Rt 706' />
+    <tag k='addr:street' v='State Route 706' />
     <tag k='addr:unit' v='10' />
     <tag k='brand' v='IGA' />
     <tag k='brand:wikidata' v='Q3146662' />

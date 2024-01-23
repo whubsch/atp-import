@@ -5205,7 +5205,7 @@
     <tag k='addr:housenumber' v='3495' />
     <tag k='addr:postcode' v='08540' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='US Rt 1 South' />
+    <tag k='addr:street' v='US Route 1 South' />
     <tag k='branch' v='Princeton' />
     <tag k='brand' v='Whole Foods' />
     <tag k='brand:wikidata' v='Q1809448' />
@@ -5829,7 +5829,7 @@
     <tag k='addr:housenumber' v='940' />
     <tag k='addr:postcode' v='08053' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 73 North' />
+    <tag k='addr:street' v='Route 73 North' />
     <tag k='branch' v='Marlton' />
     <tag k='brand' v='Whole Foods' />
     <tag k='brand:wikidata' v='Q1809448' />
@@ -6389,7 +6389,7 @@
     <tag k='addr:housenumber' v='6601' />
     <tag k='addr:postcode' v='77494' />
     <tag k='addr:state' v='TX' />
-    <tag k='addr:street' v='South Fry Road' />
+    <tag k='addr:street' v='South Ferry Road' />
     <tag k='branch' v='Katy' />
     <tag k='brand' v='Whole Foods' />
     <tag k='brand:wikidata' v='Q1809448' />

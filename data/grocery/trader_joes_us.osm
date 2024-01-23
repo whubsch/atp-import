@@ -4797,7 +4797,7 @@
     <tag k='addr:housenumber' v='190' />
     <tag k='addr:postcode' v='60068' />
     <tag k='addr:state' v='IL' />
-    <tag k='addr:street' v='North NW Highway' />
+    <tag k='addr:street' v='North Northwest Highway' />
     <tag k='brand' v='Trader Joe&apos;s' />
     <tag k='brand:wikidata' v='Q688825' />
     <tag k='name' v='Trader Joe&apos;s Park Ridge (698)' />
@@ -4812,7 +4812,7 @@
     <tag k='addr:housenumber' v='404' />
     <tag k='addr:postcode' v='07652' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 17 North' />
+    <tag k='addr:street' v='Route 17 North' />
     <tag k='brand' v='Trader Joe&apos;s' />
     <tag k='brand:wikidata' v='Q688825' />
     <tag k='name' v='Trader Joe&apos;s Paramus (605)' />

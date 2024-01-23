@@ -11005,7 +11005,7 @@
     <tag k='addr:housenumber' v='980' />
     <tag k='addr:postcode' v='27523' />
     <tag k='addr:state' v='NC' />
-    <tag k='addr:street' v='US Highway 64 W.' />
+    <tag k='addr:street' v='US Highway 64 West' />
     <tag k='branch' v='Lake Pine Plaza' />
     <tag k='brand' v='Harris Teeter' />
     <tag k='brand:wikidata' v='Q5665067' />
@@ -11849,7 +11849,7 @@
     <tag k='addr:housenumber' v='3412' />
     <tag k='addr:postcode' v='27896' />
     <tag k='addr:state' v='NC' />
-    <tag k='addr:street' v='Raleigh Road Parkway W.' />
+    <tag k='addr:street' v='Raleigh Road Parkway West' />
     <tag k='branch' v='Heritage Crossing' />
     <tag k='brand' v='Harris Teeter' />
     <tag k='brand:wikidata' v='Q5665067' />
@@ -16223,7 +16223,7 @@
     <tag k='addr:housenumber' v='9700' />
     <tag k='addr:postcode' v='48169' />
     <tag k='addr:state' v='MI' />
-    <tag k='addr:street' v='Chilson Cmns' />
+    <tag k='addr:street' v='Chilson Commons' />
     <tag k='branch' v='Pinckney' />
     <tag k='brand' v='Kroger' />
     <tag k='brand:wikidata' v='Q153417' />
@@ -22225,7 +22225,7 @@
     <tag k='addr:housenumber' v='1305' />
     <tag k='addr:postcode' v='27526' />
     <tag k='addr:state' v='NC' />
-    <tag k='addr:street' v='East Broad Street Ext' />
+    <tag k='addr:street' v='East Broad Street Extension' />
     <tag k='branch' v='Fuquay Crossing' />
     <tag k='brand' v='Harris Teeter' />
     <tag k='brand:wikidata' v='Q5665067' />
@@ -43776,7 +43776,7 @@
     <tag k='addr:housenumber' v='130' />
     <tag k='addr:postcode' v='59901' />
     <tag k='addr:state' v='MT' />
-    <tag k='addr:street' v='4th Avenue East N.' />
+    <tag k='addr:street' v='4th Avenue East North' />
     <tag k='branch' v='195 3RD AVE EAST N KALLISPELL MT' />
     <tag k='brand' v='Smith&apos;s' />
     <tag k='brand:wikidata' v='Q7544856' />

@@ -1881,7 +1881,7 @@
     <tag k='addr:housenumber' v='1001' />
     <tag k='addr:postcode' v='08759' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 70 West' />
+    <tag k='addr:street' v='Route 70 West' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite of Manchester, NJ' />
@@ -2098,7 +2098,7 @@
     <tag k='addr:housenumber' v='208' />
     <tag k='addr:postcode' v='08055' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 70 East' />
+    <tag k='addr:street' v='Route 70 East' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite of Medford' />
@@ -2128,7 +2128,7 @@
     <tag k='addr:housenumber' v='1225' />
     <tag k='addr:postcode' v='08690' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 33 Hamilton Plaza' />
+    <tag k='addr:street' v='Route 33 Hamilton Plaza' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite of Hamilton Square' />
@@ -2508,7 +2508,7 @@
     <tag k='addr:housenumber' v='224' />
     <tag k='addr:postcode' v='07652' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 4 East At Forest Avenue' />
+    <tag k='addr:street' v='Route 4 East At Forest Avenue' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite of Paramus' />
@@ -3817,7 +3817,7 @@
     <tag k='addr:housenumber' v='960' />
     <tag k='addr:postcode' v='10594' />
     <tag k='addr:state' v='NY' />
-    <tag k='addr:street' v='Broadway Rt 141' />
+    <tag k='addr:street' v='Broadway Route 141' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite of Thornwood' />
@@ -4017,7 +4017,7 @@
     <tag k='addr:housenumber' v='306' />
     <tag k='addr:postcode' v='07885' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt. 15' />
+    <tag k='addr:street' v='Route 15' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite Liquors of Wharton' />
@@ -4133,7 +4133,7 @@
     <tag k='addr:housenumber' v='3585' />
     <tag k='addr:postcode' v='07728' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt. 9 North' />
+    <tag k='addr:street' v='Route 9 North' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite Wines &amp; Spirits of Freehold' />
@@ -4223,7 +4223,7 @@
     <tag k='addr:housenumber' v='2200' />
     <tag k='addr:postcode' v='07753' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt. 66' />
+    <tag k='addr:street' v='Route 66' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite Wines &amp; Spirits of Neptune' />
@@ -4238,7 +4238,7 @@
     <tag k='addr:housenumber' v='75' />
     <tag k='addr:postcode' v='07857' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rte. 46' />
+    <tag k='addr:street' v='Route 46' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />
     <tag k='name' v='ShopRite Wines &amp; Spirits of Netcong' />
@@ -4328,7 +4328,7 @@
     <tag k='addr:housenumber' v='57' />
     <tag k='addr:postcode' v='07840' />
     <tag k='addr:state' v='NJ' />
-    <tag k='addr:street' v='Rt 46' />
+    <tag k='addr:street' v='Route 46' />
     <tag k='addr:unit' v='204' />
     <tag k='brand' v='ShopRite' />
     <tag k='brand:wikidata' v='Q7501097' />

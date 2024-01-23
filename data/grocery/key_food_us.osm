@@ -212,7 +212,7 @@
     <tag k='addr:housenumber' v='1442' />
     <tag k='addr:postcode' v='32707' />
     <tag k='addr:state' v='FL' />
-    <tag k='addr:street' v='Rt. 436' />
+    <tag k='addr:street' v='Route 436' />
     <tag k='brand' v='Key Food' />
     <tag k='brand:wikidata' v='Q6398037' />
     <tag k='name' v='Fancy Fruit &amp; Produce' />
@@ -314,7 +314,7 @@
     <tag k='addr:housenumber' v='2668' />
     <tag k='addr:postcode' v='34112-5707' />
     <tag k='addr:state' v='FL' />
-    <tag k='addr:street' v='Tamiami Trail E.' />
+    <tag k='addr:street' v='Tamiami Trail East' />
     <tag k='brand' v='Key Food' />
     <tag k='brand:wikidata' v='Q6398037' />
     <tag k='name' v='Key Food' />
