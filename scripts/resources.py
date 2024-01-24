@@ -35,6 +35,7 @@ name_expand = {
     "ctr": "center",
     "dwtn": "downtown",
     "intl": "international",
+    "shpg": "shopping",
 }
 
 street_expand = {

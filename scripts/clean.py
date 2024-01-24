@@ -1,6 +1,7 @@
 import re
 import os
 import json
+import datetime
 from resources import (
     street_expand,
     direction_expand,
@@ -8,6 +9,8 @@ from resources import (
     useless_tags,
     repeat_tags,
 )
+
+version = "0.1.0"
 
 folder_path = "./data"
 
@@ -31,6 +34,16 @@ for file in files:
     print(f"Processing {file}...")
     with open(file, "r") as f:
         contents: dict = json.load(f)
+
+    clean_data = {"version": version, "datetime": str(datetime.datetime.now().date())}
+    if "dataset_attributes" in contents:
+        if "cleaning" in contents["dataset_attributes"]:
+            if "version" in contents["dataset_attributes"]["cleaning"]:
+                if contents["dataset_attributes"]["cleaning"]["version"] == version:
+                    break
+        contents["dataset_attributes"]["cleaning"] = clean_data
+    else:
+        contents["dataset_attributes"] = {"cleaning": clean_data}
 
     obj_tags_new: list[dict[str, str | dict]] = []
 
@@ -88,9 +101,10 @@ for file in files:
             # expand common street and word abbreviations
             for abbr, replacement in (name_expand | street_expand).items():
                 objt["addr:street"] = re.sub(
-                    rf"(\b{abbr.title()}\b\.?)",
+                    rf"(\b(?:{abbr})\b\.?)",
                     replacement.title(),
                     objt["addr:street"],
+                    flags=re.IGNORECASE,
                 )
 
             # expand directionals
