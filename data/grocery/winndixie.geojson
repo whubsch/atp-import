@@ -1535,7 +1535,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "7131",
-        "addr:street": "North U.South Highway 441"
+        "addr:street": "North US Highway 441"
       },
       "geometry": { "type": "Point", "coordinates": [-82.150043, 29.26105] }
     },
@@ -2404,7 +2404,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "27405",
-        "addr:street": "U.South Highway 27"
+        "addr:street": "US Highway 27"
       },
       "geometry": { "type": "Point", "coordinates": [-81.87858, 28.746493] }
     },
@@ -3636,7 +3636,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "14112",
-        "addr:street": "U.South Highway 19"
+        "addr:street": "US Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.693102, 28.362121] }
     },
@@ -4141,7 +4141,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1640",
-        "addr:street": "U.South Highway 19"
+        "addr:street": "US Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.738973, 28.1835] }
     },
@@ -4161,7 +4161,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1628",
-        "addr:street": "U.South Highway 19"
+        "addr:street": "US Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.739206, 28.18309] }
     },
@@ -7919,7 +7919,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "981",
-        "addr:street": "U.South Highway 98"
+        "addr:street": "US Highway 98"
       },
       "geometry": { "type": "Point", "coordinates": [-86.477572, 30.389909] }
     },
@@ -8659,7 +8659,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1061",
-        "addr:street": "U.South Highway"
+        "addr:street": "US Highway 280"
       },
       "geometry": { "type": "Point", "coordinates": [-85.961197, 32.92196] }
     },

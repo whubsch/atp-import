@@ -1427,7 +1427,7 @@
         "brand": "ALDI",
         "brand:wikidata": "Q41171672",
         "addr:housenumber": "37547",
-        "addr:street": "U.South Highway 18"
+        "addr:street": "US Highway 18"
       },
       "geometry": {
         "type": "Point",
@@ -33444,7 +33444,7 @@
         "brand": "ALDI",
         "brand:wikidata": "Q41171672",
         "addr:housenumber": "1427",
-        "addr:street": "East U.South 223"
+        "addr:street": "East US 223"
       },
       "geometry": {
         "type": "Point",
@@ -37446,7 +37446,7 @@
         "brand": "ALDI",
         "brand:wikidata": "Q41171672",
         "addr:housenumber": "5761",
-        "addr:street": "U.South Highway 6"
+        "addr:street": "US Highway 6"
       },
       "geometry": {
         "type": "Point",
