@@ -6,7 +6,7 @@
   "scripts": {
     "mr": "mr cooperative change --out build/missing.json files/missing.osm",
     "clean": "python3.12 scripts/clean.py",
-    "format": "python3.12 -m black scripts"
+    "format": "python3 -m black scripts && prettier . --write"
   },
   "keywords": [
     "atp",
@@ -17,6 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "@maproulette/mr-cli": "^0.1.4",
-    "geojsontoosm": "^0.0.3"
+    "geojsontoosm": "^0.0.3",
+    "prettier": "^3.2.4"
   }
 }
