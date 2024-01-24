@@ -15,7 +15,7 @@ files = [
     os.path.join(root, file)
     for root, _, files in os.walk(folder_path)
     for file in files
-    if file.endswith("xie.geojson")
+    if file.endswith(".geojson")
 ]
 
 
@@ -28,6 +28,7 @@ def all_the_same(tags: list[dict], key: str) -> bool:
 
 
 for file in files:
+    print(f"Processing {file}...")
     with open(file, "r") as f:
         contents: dict = json.load(f)
 
@@ -130,5 +131,5 @@ for file in files:
 
         obj["properties"] = objt
 
-    # with open(file, "w") as f:
-    #     json.dump(contents, f)
+    with open(file, "w") as f:
+        json.dump(contents, f)

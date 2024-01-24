@@ -1,0 +1,4222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/-272911",
+      "properties": {
+        "addr:city": "Hancock County",
+        "addr:housenumber": "225",
+        "addr:postcode": "04605",
+        "addr:state": "ME",
+        "addr:street": "High Street",
+        "addr:unit": "1",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Ellsworth 225 High Street - Ellsworth",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-667-5300",
+        "ref": "https://stores.hannaford.com/#8905350",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/ellsworth/8123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.40904189815, 44.53104364827]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272912",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "20",
+        "addr:postcode": "04087",
+        "addr:state": "ME",
+        "addr:street": "Sokokis Trail HC 72",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Waterboro 20 Sokokis Trail - East Waterboro",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-247-8000",
+        "ref": "https://stores.hannaford.com/#8905328",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/east-waterboro/8221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.68417370319, 43.57133573312]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272913",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "37",
+        "addr:postcode": "04930",
+        "addr:state": "ME",
+        "addr:street": "Church Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Dexter 37 Church Street - Dexter",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 207-924-6410",
+        "ref": "https://stores.hannaford.com/#8905418",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/dexter/8442"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.2885045, 45.0257664] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272914",
+      "properties": {
+        "addr:city": "Lincoln County",
+        "addr:housenumber": "469",
+        "addr:postcode": "04543",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Damariscotta 469 Main Street - Damariscotta",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-563-8131",
+        "ref": "https://stores.hannaford.com/#8905449",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/damariscotta/8141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.51050341129, 44.03529218387]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272915",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "33",
+        "addr:postcode": "04358",
+        "addr:state": "ME",
+        "addr:street": "Hannaford Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - China 33 Hannaford Drive - China",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-445-3385",
+        "ref": "https://stores.hannaford.com/#8905402",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/china/8287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.56759423018, 44.39491016741]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272916",
+      "properties": {
+        "addr:city": "Aroostook County",
+        "addr:housenumber": "114",
+        "addr:postcode": "04736",
+        "addr:state": "ME",
+        "addr:street": "High Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Caribou 114 High Street - Caribou",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
+        "phone": "+1 207-498-8824",
+        "ref": "https://stores.hannaford.com/#8905262",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/caribou/8438"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.0087288, 46.8612424] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272917",
+      "properties": {
+        "addr:city": "Knox County",
+        "addr:housenumber": "145",
+        "addr:postcode": "04843",
+        "addr:state": "ME",
+        "addr:street": "Elm Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Camden 145 Elm Street - Camden",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-236-8577",
+        "ref": "https://stores.hannaford.com/#8905291",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/camden/8151"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.0787449, 44.2009716] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272918",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "21",
+        "addr:postcode": "04093",
+        "addr:state": "ME",
+        "addr:street": "Hannaford Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Buxton 21 Hannaford Drive - Buxton",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-929-3100",
+        "ref": "https://stores.hannaford.com/#8905334",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/buxton/8226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.52379101515, 43.61573360172]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272919",
+      "properties": {
+        "addr:city": "Hancock County",
+        "addr:housenumber": "370",
+        "addr:postcode": "04416",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bucksport 370 Main Street - Bucksport",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 207-469-3282",
+        "ref": "https://stores.hannaford.com/#8905420",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/bucksport/8152"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.7853357, 44.5705357] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272920",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "8",
+        "addr:postcode": "04011",
+        "addr:state": "ME",
+        "addr:street": "Gurnet Road",
+        "addr:unit": "1",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket 8 Gurnet Road - Brunswick",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-504-5111",
+        "ref": "https://stores.hannaford.com/#24086463",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/brunswick/8446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.91747788817, 43.90519015301]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272921",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "35",
+        "addr:postcode": "04011",
+        "addr:state": "ME",
+        "addr:street": "Elm Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Brunswick 35 Elm St - Brunswick",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-725-6683",
+        "ref": "https://stores.hannaford.com/#8905411",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/brunswick/8231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.96678203344, 43.91195332578]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272922",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "109",
+        "addr:postcode": "04009",
+        "addr:state": "ME",
+        "addr:street": "Portland Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bridgton 109 Portland Road - Bridgton",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-647-2015",
+        "ref": "https://stores.hannaford.com/#8905248",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/bridgton/8167"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.7028636, 44.045894] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272923",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "383",
+        "addr:postcode": "04412",
+        "addr:state": "ME",
+        "addr:street": "Wilson Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Brewer 383 Wilson St - Brewer",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-989-2500",
+        "ref": "https://stores.hannaford.com/#8905426",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/brewer/8173"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.7539233, 44.7830371] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272924",
+      "properties": {
+        "addr:city": "Lincoln County",
+        "addr:housenumber": "180",
+        "addr:postcode": "04538",
+        "addr:state": "ME",
+        "addr:street": "Townsend Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - Boothbay Harbor 180 Townsend Avenue - Boothbay Harbor",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-633-6465",
+        "ref": "https://stores.hannaford.com/#8905316",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/boothbay-harbor/8143"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.626919, 43.8602066] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272925",
+      "properties": {
+        "addr:city": "Hancock County",
+        "addr:housenumber": "15",
+        "addr:postcode": "04614",
+        "addr:state": "ME",
+        "addr:street": "South Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/0D0wyU1cqZOradPnrHNwPcAoDQIFUmPaw5Qz5mow7vw/196x196.png",
+        "name": "Hannaford - Blue Hill 15 South Street - Blue Hill",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 207-374-5137",
+        "ref": "https://stores.hannaford.com/#91347305",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/blue-hill/8452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.59809615828, 44.40618359343]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272926",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "299",
+        "addr:postcode": "04005",
+        "addr:state": "ME",
+        "addr:street": "Elm Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Biddeford 299 Elm Street - Biddeford",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-284-8677",
+        "ref": "https://stores.hannaford.com/#8905382",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/biddeford/8225"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.4652606, 43.4869577] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272927",
+      "properties": {
+        "addr:city": "Chittenden County",
+        "addr:housenumber": "78",
+        "addr:postcode": "05495",
+        "addr:state": "VT",
+        "addr:street": "Marshall Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Williston 78 Marshall Avenue - Williston",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1 802-878-0032",
+        "ref": "https://stores.hannaford.com/#8905527",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/williston/8398"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.1137244, 44.4456989] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272928",
+      "properties": {
+        "addr:city": "Franklin County",
+        "addr:housenumber": "139",
+        "addr:postcode": "05488",
+        "addr:state": "VT",
+        "addr:street": "First Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Swanton 139 First Street - Swanton",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 802-868-2637",
+        "ref": "https://stores.hannaford.com/#8905277",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/swanton/8408"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.111422, 44.9226964] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272929",
+      "properties": {
+        "addr:city": "Franklin County",
+        "addr:housenumber": "290",
+        "addr:postcode": "05478",
+        "addr:state": "VT",
+        "addr:street": "Highgate Commons Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - St Albans 290 Highgate Commons Road - St Albans",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-21:00",
+        "phone": "+1 802-524-2157",
+        "ref": "https://stores.hannaford.com/#8905370",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/st-albans/8355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.07912099198, 44.8405310188]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272930",
+      "properties": {
+        "addr:city": "Chittenden County",
+        "addr:housenumber": "935",
+        "addr:postcode": "05403",
+        "addr:state": "VT",
+        "addr:street": "Shelburne Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Shelburne Rd. South Burlington 935 Shelburne Road - South Burlington",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 802-864-0105",
+        "ref": "https://stores.hannaford.com/#15373493",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/south-burlington/8448"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.2097253, 44.44167] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272931",
+      "properties": {
+        "addr:city": "Chittenden County",
+        "addr:housenumber": "217",
+        "addr:postcode": "05401",
+        "addr:state": "VT",
+        "addr:street": "Dorset Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Dorset St. South Burlington 217 Dorset St - South Burlington",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 802-863-6311",
+        "ref": "https://stores.hannaford.com/#8905339",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/south-burlington/8357"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.1837005, 44.4624486] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272932",
+      "properties": {
+        "addr:city": "Rutland County",
+        "addr:housenumber": "318",
+        "addr:postcode": "05701",
+        "addr:state": "VT",
+        "addr:street": "South Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rutland 318 South Main St - Rutland",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1 802-775-8900",
+        "ref": "https://stores.hannaford.com/#8905396",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/rutland/8306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.97095537186, 43.5858388182]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272933",
+      "properties": {
+        "addr:city": "Lamoille County",
+        "addr:housenumber": "80",
+        "addr:postcode": "05661",
+        "addr:state": "VT",
+        "addr:street": "Fairgrounds Plaza Route 100",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Morrisville 80 Fairgrounds Plaza - Morrisville",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 802-888-9848",
+        "ref": "https://stores.hannaford.com/#8905539",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/morrisville/8162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.59681671858, 44.57273478041]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272934",
+      "properties": {
+        "addr:city": "Chittenden County",
+        "addr:housenumber": "259",
+        "addr:postcode": "05468",
+        "addr:state": "VT",
+        "addr:street": "Route 7 South",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Milton 259 Route 7 South - Milton",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1 802-893-0554",
+        "ref": "https://stores.hannaford.com/#8905360",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/milton/8274"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.1223745, 44.6236486] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272935",
+      "properties": {
+        "addr:city": "Addison County",
+        "addr:housenumber": "260",
+        "addr:postcode": "05753",
+        "addr:state": "VT",
+        "addr:street": "Court Street",
+        "addr:unit": "6",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Middlebury 260 Court St - Middlebury",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 802-388-1017",
+        "ref": "https://stores.hannaford.com/#8905362",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/middlebury/8121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.15545867979, 44.00104413944]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272936",
+      "properties": {
+        "addr:city": "Chittenden County",
+        "addr:housenumber": "21",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Essex Way",
+        "addr:unit": "A",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Essex Junction 21 Essex Way - Essex Junction",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 07:00-22:00",
+        "phone": "+1 802-878-0274",
+        "ref": "https://stores.hannaford.com/#8905343",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/essex-junction/8353"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.0838589, 44.5072114] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272937",
+      "properties": {
+        "addr:city": "Franklin County",
+        "addr:housenumber": "71",
+        "addr:postcode": "05450",
+        "addr:state": "VT",
+        "addr:street": "Jay View Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Enosburg Falls 71 Jay View Drive - Enosburg Falls",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 802-933-6657",
+        "ref": "https://stores.hannaford.com/#8905509",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/enosburg-falls/8308"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.7957012, 44.9125883] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272938",
+      "properties": {
+        "addr:city": "Chittenden County",
+        "addr:housenumber": "1127",
+        "addr:postcode": "05408",
+        "addr:state": "VT",
+        "addr:street": "North Avenue",
+        "addr:unit": "11",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - North Ave. Burlington 1127 North Avenue - Burlington",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 07:00-23:00",
+        "phone": "+1 802-862-8040",
+        "ref": "https://stores.hannaford.com/#8905258",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/burlington/8161"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.2467749, 44.5062784] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272939",
+      "properties": {
+        "addr:city": "Windham County",
+        "addr:housenumber": "896",
+        "addr:postcode": "05301",
+        "addr:state": "VT",
+        "addr:street": "Putney Road",
+        "addr:unit": "5",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Brattleboro 896 Putney Rd - Brattleboro",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-21:00",
+        "phone": "+1 802-254-1160",
+        "ref": "https://stores.hannaford.com/#8905555",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/brattleboro/8397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.56126268767, 42.87944206343]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272940",
+      "properties": {
+        "addr:city": "Rutland County",
+        "addr:housenumber": "71",
+        "addr:postcode": "05733",
+        "addr:state": "VT",
+        "addr:street": "Supermarket Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - Brandon 71 Supermarket Drive - Brandon",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 802-247-4113",
+        "ref": "https://stores.hannaford.com/#8905510",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/brandon/8409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.08935986012, 43.79717089596]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272941",
+      "properties": {
+        "addr:city": "Grafton County",
+        "addr:housenumber": "586",
+        "addr:postcode": "05033",
+        "addr:state": "VT",
+        "addr:street": "Lower Plain",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bradford 586 Lower Plain - Bradford",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 802-222-3370",
+        "ref": "https://stores.hannaford.com/#8905479",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/bradford/8426"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.1226966, 43.9841836] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272942",
+      "properties": {
+        "addr:city": "Bennington County",
+        "addr:housenumber": "141",
+        "addr:postcode": "05201",
+        "addr:state": "VT",
+        "addr:street": "Hannaford Square",
+        "addr:unit": "2",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bennington 141 Hannaford Sq - Bennington",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 802-442-1521",
+        "ref": "https://stores.hannaford.com/#8905285",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/bennington/8301"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.2222906, 42.906845] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272943",
+      "properties": {
+        "addr:city": "Washington County",
+        "addr:housenumber": "456",
+        "addr:postcode": "05641",
+        "addr:state": "VT",
+        "addr:street": "South Barre Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Barre 456 South Barre Road - Barre",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1 802-479-3326",
+        "ref": "https://stores.hannaford.com/#8905445",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/vt/barre/8129"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.5061386, 44.1741814] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272944",
+      "properties": {
+        "addr:city": "Rensselaer County",
+        "addr:housenumber": "40",
+        "addr:postcode": "12198",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Wynantskill 40 Main Street - Wynantskill",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-283-0538",
+        "ref": "https://stores.hannaford.com/#8905434",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/wynantskill/8392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.64995658398, 42.69742284953]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272945",
+      "properties": {
+        "addr:city": "Rensselaer County",
+        "addr:housenumber": "3703",
+        "addr:postcode": "12196",
+        "addr:state": "NY",
+        "addr:street": "Route 43",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - West Sand Lake 3703 Route 43 - West Sand Lake",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 518-674-2846",
+        "ref": "https://stores.hannaford.com/#8905577",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/west-sand-lake/8236"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.6070307, 42.6433582] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272946",
+      "properties": {
+        "addr:city": "Ulster County",
+        "addr:housenumber": "295",
+        "addr:postcode": "12491",
+        "addr:state": "NY",
+        "addr:street": "State Route 375",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - West Hurley 295 State Route 375 - West Hurley",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-679-8121",
+        "ref": "https://stores.hannaford.com/#8905378",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/west-hurley/8444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.10501663558, 42.0054020828]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272947",
+      "properties": {
+        "addr:city": "Jefferson County",
+        "addr:housenumber": "21110",
+        "addr:postcode": "13601",
+        "addr:state": "NY",
+        "addr:street": "US Route 3",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Watertown 21110 US Route 3 - Watertown",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 315-782-7456",
+        "ref": "https://stores.hannaford.com/#8905336",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/watertown/8175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9536844492, 43.97299944268]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272948",
+      "properties": {
+        "addr:city": "Dutchess County",
+        "addr:housenumber": "1490",
+        "addr:postcode": "12590",
+        "addr:state": "NY",
+        "addr:street": "Route 9",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Wappinger Falls 1490 Route 9 - Wappingers Falls",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 845-297-8254",
+        "ref": "https://stores.hannaford.com/#8905295",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/wappingers-falls/8334"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9063233, 41.5899568] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272949",
+      "properties": {
+        "addr:city": "Orange County",
+        "addr:housenumber": "78",
+        "addr:postcode": "12586",
+        "addr:state": "NY",
+        "addr:street": "Oak Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Walden 78 Oak Street - Walden",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-778-2220",
+        "ref": "https://stores.hannaford.com/#8905529",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/walden/8427"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.1918331, 41.5652056] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272950",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "5",
+        "addr:postcode": "12186",
+        "addr:state": "NY",
+        "addr:street": "Maple Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Voorheesville 5 Maple Rd - Voorheesville",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 518-765-2629",
+        "ref": "https://stores.hannaford.com/#8905460",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/voorheesville/8233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92419099808, 42.64859881097]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272951",
+      "properties": {
+        "addr:city": "Columbia County",
+        "addr:housenumber": "2967",
+        "addr:postcode": "12184",
+        "addr:state": "NY",
+        "addr:street": "Route 9",
+        "addr:unit": "400",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Kinderhook 2967 Route 9 - Valatie",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-758-8800",
+        "ref": "https://stores.hannaford.com/#8905380",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/valatie/8364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.69049428695, 42.42773866811]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272952",
+      "properties": {
+        "addr:city": "Oneida County",
+        "addr:housenumber": "1122",
+        "addr:postcode": "13501",
+        "addr:state": "NY",
+        "addr:street": "Mohawk Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Utica Mohawk Drive 1122 Mohawk Street - Utica",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 315-734-0373",
+        "ref": "https://stores.hannaford.com/#8905256",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/utica/8372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.22463589907, 43.09033404031]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272953",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "9",
+        "addr:postcode": "12180",
+        "addr:state": "NY",
+        "addr:street": "Lord Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Brunswick 9 Lord Avenue - Troy",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-271-3832",
+        "ref": "https://stores.hannaford.com/#48356621",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/troy/8450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.65201669868, 42.74388991006]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272954",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:housenumber": "9",
+        "addr:postcode": "12182",
+        "addr:state": "NY",
+        "addr:street": "126th Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Troy 9 126th Street - Troy",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-233-8196",
+        "ref": "https://stores.hannaford.com/#8905557",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/troy/8336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.67135256529, 42.78914354611]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272955",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:postcode": "12803",
+        "addr:state": "NY",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - South Glens Falls 27-41 Gansevoort Rd - South Glens Falls",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-798-7991",
+        "ref": "https://stores.hannaford.com/#8905368",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/south-glens-falls/8380"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.6383943, 43.2857741] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272956",
+      "properties": {
+        "addr:city": "Schenectady County",
+        "addr:housenumber": "1400",
+        "addr:postcode": "12303",
+        "addr:state": "NY",
+        "addr:street": "Altamont Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rotterdam 1400 Altamont Ave - Schenectady",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-357-2050",
+        "ref": "https://stores.hannaford.com/#8905283",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/schenectady/8320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94351899624, 42.78286218387]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272957",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:housenumber": "95",
+        "addr:postcode": "12866",
+        "addr:state": "NY",
+        "addr:street": "Weibel Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Saratoga 95 Weibel Ave - Saratoga Springs",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-587-0360",
+        "ref": "https://stores.hannaford.com/#8905567",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/saratoga-springs/8391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.74703898096, 43.09680634279]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272958",
+      "properties": {
+        "addr:city": "Oneida County",
+        "addr:housenumber": "808",
+        "addr:postcode": "13440",
+        "addr:state": "NY",
+        "addr:street": "West Chestnut Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rome 808 West Chestnut Street - Rome",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 315-336-0201",
+        "ref": "https://stores.hannaford.com/#15553887",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/rome/8449"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.4534149, 43.237297] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272959",
+      "properties": {
+        "addr:city": "Dutchess County",
+        "addr:housenumber": "35",
+        "addr:postcode": "12571",
+        "addr:state": "NY",
+        "addr:street": "Hannaford Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Red Hook 35 Hannaford Drive - Red Hook",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-758-9330",
+        "ref": "https://stores.hannaford.com/#8905413",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/red-hook/8375"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.8814269, 41.9799822] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272960",
+      "properties": {
+        "addr:city": "Warren County",
+        "addr:housenumber": "190",
+        "addr:postcode": "12804",
+        "addr:state": "NY",
+        "addr:street": "Quaker Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Queensbury 190 Quaker Rd - Queensbury",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-798-8676",
+        "ref": "https://stores.hannaford.com/#8905322",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/queensbury/8360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.65640997887, 43.33100377373]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272961",
+      "properties": {
+        "addr:city": "Clinton County",
+        "addr:housenumber": "7",
+        "addr:postcode": "12901",
+        "addr:state": "NY",
+        "addr:street": "Pyramid Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Plattsburgh 7 Pyramid Drive - Plattsburgh",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-562-2204",
+        "ref": "https://stores.hannaford.com/#8905504",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/plattsburgh/8166"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.4957758, 44.7011536] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272962",
+      "properties": {
+        "addr:city": "Orange County",
+        "addr:housenumber": "31",
+        "addr:postcode": "12566",
+        "addr:state": "NY",
+        "addr:street": "Ted Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Pine Bush 31 Ted Drive - Pine Bush",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-744-2113",
+        "ref": "https://stores.hannaford.com/#8905394",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/pine-bush/8344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.29721452296, 41.60523669456]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272963",
+      "properties": {
+        "addr:city": "Dutchess County",
+        "addr:housenumber": "162",
+        "addr:postcode": "12564",
+        "addr:state": "NY",
+        "addr:street": "Route 22",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Pawling 162 Route 22 - Pawling",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-855-0553",
+        "ref": "https://stores.hannaford.com/#8905305",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/pawling/8335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.58296975493, 41.5368661172]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272964",
+      "properties": {
+        "addr:city": "Otsego County",
+        "addr:housenumber": "705",
+        "addr:postcode": "13820",
+        "addr:state": "NY",
+        "addr:street": "State Highway 28",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Oneonta 705 State Highway 28 - Oneonta",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 607-432-0012",
+        "ref": "https://stores.hannaford.com/#8905506",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/oneonta/8328"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0569839, 42.4466438] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272965",
+      "properties": {
+        "addr:city": "Schenectady County",
+        "addr:housenumber": "3333",
+        "addr:postcode": "12304",
+        "addr:state": "NY",
+        "addr:street": "Consaul Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Niskayuna 3333 Consaul Rd - Niskayuna",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-395-9497",
+        "ref": "https://stores.hannaford.com/#8905409",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/niskayuna/8396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89100302884, 42.78337820564]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272966",
+      "properties": {
+        "addr:city": "Orange County",
+        "addr:housenumber": "2636",
+        "addr:postcode": "12553",
+        "addr:state": "NY",
+        "addr:street": "Route 32",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - New Windsor 2636 Route 32 - New Windsor",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 845-562-5169",
+        "ref": "https://stores.hannaford.com/#8905366",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/new-windsor/8331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.05637803803, 41.45261906195]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272967",
+      "properties": {
+        "addr:city": "Oneida County",
+        "addr:housenumber": "50",
+        "addr:postcode": "13413",
+        "addr:state": "NY",
+        "addr:street": "Kellogg Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - New Hartford 50 Kellogg Road - New Hartford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 315-724-0274",
+        "ref": "https://stores.hannaford.com/#8905463",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/new-hartford/8370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.27791261673, 43.05346894003]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272968",
+      "properties": {
+        "addr:city": "Oneida County",
+        "addr:housenumber": "4593",
+        "addr:postcode": "13413",
+        "addr:state": "NY",
+        "addr:street": "Commercial Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Utica 4593 Commercial Dr - New Hartford",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 315-768-1851",
+        "ref": "https://stores.hannaford.com/#8905447",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/new-hartford/8168"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.316405, 43.0881773] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272969",
+      "properties": {
+        "addr:city": "Ulster County",
+        "addr:housenumber": "2066",
+        "addr:postcode": "12548",
+        "addr:state": "NY",
+        "addr:street": "Route 32",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Plattekill 2066 Route 32 - Modena",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-883-7407",
+        "ref": "https://stores.hannaford.com/#8905332",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/modena/8346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.10618424416, 41.66593932113]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272970",
+      "properties": {
+        "addr:city": "Orange County",
+        "addr:housenumber": "30",
+        "addr:postcode": "10941",
+        "addr:state": "NY",
+        "addr:street": "Tower Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Wallkill 30 Tower Drive - Middletown",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "phone": "+1 845-695-1800",
+        "ref": "https://stores.hannaford.com/#8905386",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/middletown/8337"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.3712824, 41.4652335] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272971",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "579",
+        "addr:postcode": "12110",
+        "addr:state": "NY",
+        "addr:street": "Troy Schenectady Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Latham 579 Troy Schenectady Road - Latham",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-782-1750",
+        "ref": "https://stores.hannaford.com/#8905477",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/latham/8386"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.7606352, 42.7557919] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272972",
+      "properties": {
+        "addr:city": "Essex County",
+        "addr:housenumber": "45",
+        "addr:postcode": "12946",
+        "addr:state": "NY",
+        "addr:street": "Hadjis Way",
+        "addr:unit": "6",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Lake Placid 45 Hadjis Way - Lake Placid",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-523-3279",
+        "ref": "https://stores.hannaford.com/#8905443",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/lake-placid/8413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99923189548, 44.2973281992]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272973",
+      "properties": {
+        "addr:city": "Ulster County",
+        "addr:housenumber": "1261",
+        "addr:postcode": "12401",
+        "addr:state": "NY",
+        "addr:street": "Ulster Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Kingston Ulster Ave. 1261 Ulster Ave - Kingston",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 845-336-0325",
+        "ref": "https://stores.hannaford.com/#8905272",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/kingston/8348"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9906441, 41.9680818] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272974",
+      "properties": {
+        "addr:city": "Ulster County",
+        "addr:housenumber": "100",
+        "addr:postcode": "12401",
+        "addr:state": "NY",
+        "addr:street": "Plaza Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Kingston Plaza 100 Plaza Road - Kingston",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 845-339-7480",
+        "ref": "https://stores.hannaford.com/#8905244",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/kingston/8340"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0159272, 41.9366322] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272975",
+      "properties": {
+        "addr:city": "Columbia County",
+        "addr:housenumber": "32",
+        "addr:postcode": "12534",
+        "addr:state": "NY",
+        "addr:street": "Route 82",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Livingston 32 Route 82 - Hudson",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 518-851-2098",
+        "ref": "https://stores.hannaford.com/#8905400",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/hudson/8416"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.7595185, 42.1744364] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272976",
+      "properties": {
+        "addr:city": "Washington County",
+        "addr:housenumber": "3758",
+        "addr:postcode": "12839",
+        "addr:state": "NY",
+        "addr:street": "Burgoyne Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Kingsbury 3758 Burgoyne Avenue - Hudson Falls",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-746-2040",
+        "ref": "https://stores.hannaford.com/#8905422",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/hudson-falls/8395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.57075734998, 43.3199880941]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272977",
+      "properties": {
+        "addr:city": "Ulster County",
+        "addr:housenumber": "3650",
+        "addr:postcode": "12528",
+        "addr:state": "NY",
+        "addr:street": "Route 9W",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Highland 3650 Route 9W - Highland",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 845-691-9150",
+        "ref": "https://stores.hannaford.com/#8905417",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/highland/8341"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.966013, 41.7022613] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272978",
+      "properties": {
+        "addr:city": "Herkimer County",
+        "addr:housenumber": "401",
+        "addr:postcode": "13350",
+        "addr:state": "NY",
+        "addr:street": "East Albany Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Herkimer 401 East Albany St - Herkimer",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 315-866-6030",
+        "ref": "https://stores.hannaford.com/#8905436",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/herkimer/8366"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.9812633, 43.0296732] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272979",
+      "properties": {
+        "addr:city": "Washington County",
+        "addr:housenumber": "1165",
+        "addr:postcode": "12834",
+        "addr:state": "NY",
+        "addr:street": "Route 29",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Greenwich 1165 Route 29 - Greenwich",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1 518-692-3177",
+        "ref": "https://stores.hannaford.com/#8905266",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/greenwich/8333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.51499587297, 43.10426313578]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272980",
+      "properties": {
+        "addr:city": "Fulton County",
+        "addr:housenumber": "235",
+        "addr:postcode": "12078",
+        "addr:state": "NY",
+        "addr:street": "Fifth Avenue Extension",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Gloversville 235 Fifth Ave Ext - Gloversville",
+        "opening_hours": "Mo-Th 07:00-21:00; Fr-Su 07:00-23:00",
+        "phone": "+1 518-725-0847",
+        "ref": "https://stores.hannaford.com/#8905356",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/gloversville/8377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.32179093361, 43.06062620698]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272981",
+      "properties": {
+        "addr:city": "Schenectady County",
+        "addr:housenumber": "262",
+        "addr:postcode": "12302",
+        "addr:state": "NY",
+        "addr:street": "Saratoga Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Glenville 262 Saratoga Rd - Glenville",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-384-0156",
+        "ref": "https://stores.hannaford.com/#8905364",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/glenville/8376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93058806658, 42.86978788146]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272982",
+      "properties": {
+        "addr:city": "Warren County",
+        "addr:housenumber": "175",
+        "addr:postcode": "12801",
+        "addr:state": "NY",
+        "addr:street": "Broad Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Broad St. Glens Falls 175 Broad St - Glens Falls",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-793-0028",
+        "ref": "https://stores.hannaford.com/#8905310",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/glens-falls/8374"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.6618106, 43.3041051] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272983",
+      "properties": {
+        "addr:city": "Schoharie County",
+        "addr:housenumber": "11140",
+        "addr:postcode": "12066",
+        "addr:state": "NY",
+        "addr:street": "Western Turnpike",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Duanesburg 11140 Western Turnpike - Esperance",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 518-875-9410",
+        "ref": "https://stores.hannaford.com/#8905254",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/esperance/8255"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.2485878, 42.761663] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272984",
+      "properties": {
+        "addr:city": "Rensselaer County",
+        "addr:postcode": "12061",
+        "addr:state": "NY",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - East Greenbush 592 Columbia Turnpike - East Greenbush",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-477-6483",
+        "ref": "https://stores.hannaford.com/#8905482",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/east-greenbush/8361"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.710883, 42.596866] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272985",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "180",
+        "addr:postcode": "12054",
+        "addr:state": "NY",
+        "addr:street": "Delaware Plaza",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Delmar 180 Delaware Plaza - Delmar",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-439-7657",
+        "ref": "https://stores.hannaford.com/#8905315",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/delmar/8339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.81067913128, 42.62814894695]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272986",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "96",
+        "addr:postcode": "12205",
+        "addr:state": "NY",
+        "addr:street": "Wolf Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Colonie 96 Wolf Rd - Colonie",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-482-1085",
+        "ref": "https://stores.hannaford.com/#8905571",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/colonie/8362"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.8124734, 42.7175806] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272987",
+      "properties": {
+        "addr:city": "Oneida County",
+        "addr:housenumber": "55",
+        "addr:postcode": "13323",
+        "addr:state": "NY",
+        "addr:street": "Meadow Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Clinton 55 Meadow Street - Clinton",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 315-853-5090",
+        "ref": "https://stores.hannaford.com/#8905473",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/clinton/8313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.38720562124, 43.0421227357]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272988",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:housenumber": "19",
+        "addr:postcode": "12065",
+        "addr:state": "NY",
+        "addr:street": "Clifton Country Road",
+        "addr:unit": "16",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Clifton Park 19 Clifton Country Road - Clifton Park",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-383-4136",
+        "ref": "https://stores.hannaford.com/#8905318",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/clifton-park/8365"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.7831802, 42.8585528] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272989",
+      "properties": {
+        "addr:city": "Greene County",
+        "addr:housenumber": "223",
+        "addr:postcode": "12413",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Cairo 223 Main Street - Cairo",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 518-622-8130",
+        "ref": "https://stores.hannaford.com/#8905348",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/cairo/8415"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9903749, 42.2929428] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272990",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:housenumber": "3",
+        "addr:postcode": "12020",
+        "addr:state": "NY",
+        "addr:street": "Via Rossi Way",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rossi Way Ballston Spa 3 Via Rossi Way - Ballston Spa",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-884-2973",
+        "ref": "https://stores.hannaford.com/#14786653",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/ballston-spa/8447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.84880658707, 42.99230548985]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272991",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:housenumber": "11",
+        "addr:postcode": "12020",
+        "addr:state": "NY",
+        "addr:street": "Trieble Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Milton Ballston Spa 11 Trieble Ave - Ballston Spa",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-885-6384",
+        "ref": "https://stores.hannaford.com/#8905252",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/ballston-spa/8394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.85252847337, 43.04745647499]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272992",
+      "properties": {
+        "addr:city": "Saratoga County",
+        "addr:housenumber": "43",
+        "addr:postcode": "12019",
+        "addr:state": "NY",
+        "addr:street": "Round Lake Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Malta 43 Round Lake Rd - Ballston Lake",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-899-2392",
+        "ref": "https://stores.hannaford.com/#8905440",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/ballston-lake/8267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.81213496561, 42.93436898468]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272993",
+      "properties": {
+        "addr:city": "Montgomery County",
+        "addr:housenumber": "115",
+        "addr:postcode": "12010",
+        "addr:state": "NY",
+        "addr:street": "Hannaford Plaza",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Amsterdam 115 Hannaford Plaza - Amsterdam",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-843-5854",
+        "ref": "https://stores.hannaford.com/#8905264",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/amsterdam/8363"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.1855717, 42.9677168] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272994",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "5239",
+        "addr:postcode": "12009",
+        "addr:state": "NY",
+        "addr:street": "Western Trnpike",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Guilderland 5239 Western Trnpike - Altamont",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 518-355-5814",
+        "ref": "https://stores.hannaford.com/#8905470",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/altamont/8393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9333614707, 42.71650384349]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272995",
+      "properties": {
+        "addr:city": "Albany County",
+        "addr:housenumber": "900",
+        "addr:postcode": "12206",
+        "addr:state": "NY",
+        "addr:street": "Central Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Century Mall Albany 900 Central Ave - Albany",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 518-438-7296",
+        "ref": "https://stores.hannaford.com/#8905559",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ny/albany/8367"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.792397, 42.6798367] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272996",
+      "properties": {
+        "addr:city": "Windsor County",
+        "addr:housenumber": "8",
+        "addr:postcode": "03784",
+        "addr:state": "NH",
+        "addr:street": "Market Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - West Lebanon 8 Market Street - West Lebanon",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-298-6642",
+        "ref": "https://stores.hannaford.com/#8905535",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/west-lebanon/8266"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.3171995, 43.6360226] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272997",
+      "properties": {
+        "addr:city": "Strafford County",
+        "addr:postcode": "03867",
+        "addr:state": "NH",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rochester Milton Rd. 11 Milton Rd - Rochester",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-332-9611",
+        "ref": "https://stores.hannaford.com/#8905250",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/rochester/8317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.97465499309, 43.32090329231]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272998",
+      "properties": {
+        "addr:city": "Strafford County",
+        "addr:housenumber": "290",
+        "addr:postcode": "03867",
+        "addr:state": "NH",
+        "addr:street": "North Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rochester 290 North Main St - Rochester",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-332-9580",
+        "ref": "https://stores.hannaford.com/#8905374",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/rochester/8315"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.9942819, 43.3097461] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-272999",
+      "properties": {
+        "addr:city": "Cheshire County",
+        "addr:housenumber": "752",
+        "addr:postcode": "03461",
+        "addr:state": "NH",
+        "addr:street": "Route 202",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rindge 752 Route 202 - Rindge",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-899-2110",
+        "ref": "https://stores.hannaford.com/#8905516",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/rindge/8180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.03968083929, 42.740822194]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273000",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "2",
+        "addr:postcode": "03077",
+        "addr:state": "NH",
+        "addr:street": "Freetown Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Raymond 2 Freetown Road - Raymond",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-895-0010",
+        "ref": "https://stores.hannaford.com/#8905326",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/raymond/8120"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1611673, 43.0380645] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273001",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "800",
+        "addr:postcode": "03801",
+        "addr:state": "NH",
+        "addr:street": "Islington Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Portsmouth 800 Islington Street - Portsmouth",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-436-6669",
+        "ref": "https://stores.hannaford.com/#8905542",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/portsmouth/8149"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.7714232, 43.0683379] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273002",
+      "properties": {
+        "addr:city": "Grafton County",
+        "addr:housenumber": "389",
+        "addr:postcode": "03264",
+        "addr:state": "NH",
+        "addr:street": "Tenney Mountain Highway",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Plymouth 389 Tenney Mountain Hwy - Plymouth",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-536-3400",
+        "ref": "https://stores.hannaford.com/#8905575",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/plymouth/8248"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.716702, 43.768732] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273003",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "150",
+        "addr:postcode": "03076",
+        "addr:state": "NH",
+        "addr:street": "Bridge Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Pelham 150 Bridge St - Pelham",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-635-3001",
+        "ref": "https://stores.hannaford.com/#8905298",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/pelham/8015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.31822645664, 42.72447272335]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273004",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "174",
+        "addr:postcode": "03261",
+        "addr:state": "NH",
+        "addr:street": "1st New Hampshire Turnpike",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Northwood 174 1st New Hampshire Turnpike - Northwood",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-942-8842",
+        "ref": "https://stores.hannaford.com/#8905308",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/northwood/8160"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1516117, 43.1958937] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273005",
+      "properties": {
+        "addr:city": "Carroll County",
+        "addr:housenumber": "32",
+        "addr:postcode": "03860",
+        "addr:state": "NH",
+        "addr:street": "Mountain Valley Boulevard",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - North Conway 32 Mountain Valley Blvd - North Conway",
+        "opening_hours": "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-356-6341",
+        "ref": "https://stores.hannaford.com/#8905398",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/north-conway/8352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.11201303307, 44.02001561142]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273006",
+      "properties": {
+        "addr:city": "Merrimack County",
+        "addr:housenumber": "295",
+        "addr:postcode": "03257",
+        "addr:state": "NH",
+        "addr:street": "Newport Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - New London 295 Newport Road - New London",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-526-6951",
+        "ref": "https://stores.hannaford.com/#8905377",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/new-london/8246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.00338065624, 43.42292967464]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273007",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "175",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Coliseum Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Nashua 175 Coliseum Ave - Nashua",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 603-889-3700",
+        "ref": "https://stores.hannaford.com/#8905312",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/nashua/8186"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.4987136, 42.760638] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273008",
+      "properties": {
+        "addr:city": "Belknap County",
+        "addr:housenumber": "50",
+        "addr:postcode": "03253",
+        "addr:state": "NH",
+        "addr:street": "NH Route 25",
+        "addr:unit": "5",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Meredith 50 NH Route 25 - Meredith",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-279-1451",
+        "ref": "https://stores.hannaford.com/#8905424",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/meredith/8253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.49759663668, 43.66092533515]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273009",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "859",
+        "addr:postcode": "03104",
+        "addr:state": "NH",
+        "addr:street": "Hanover Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Manchester Hanover 859 Hanover St - Manchester",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-624-4442",
+        "ref": "https://stores.hannaford.com/#8905550",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/manchester/8178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.4284491539, 42.98493878754]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273010",
+      "properties": {
+        "addr:city": "Merrimack County",
+        "addr:housenumber": "140",
+        "addr:postcode": "03104",
+        "addr:state": "NH",
+        "addr:street": "Bicentennial Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Hooksett 140 Bicentennial Dr - Manchester",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-644-2106",
+        "ref": "https://stores.hannaford.com/#8905279",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/manchester/8177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.44931405783, 43.02088419948]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273011",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "201",
+        "addr:postcode": "03103",
+        "addr:state": "NH",
+        "addr:street": "John East Devine Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Manchester 201 John E Devine Dr - Manchester",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-626-4567",
+        "ref": "https://stores.hannaford.com/#8905330",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/manchester/8164"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.441991, 42.9576644] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273012",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "6",
+        "addr:postcode": "03053",
+        "addr:state": "NH",
+        "addr:street": "Hampton Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Londonderry 6 Hampton Drive - Londonderry",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-421-0921",
+        "ref": "https://stores.hannaford.com/#8905481",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/londonderry/8185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.34347019726, 42.86614501813]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273013",
+      "properties": {
+        "addr:city": "Cheshire County",
+        "addr:housenumber": "481",
+        "addr:postcode": "03431",
+        "addr:state": "NH",
+        "addr:street": "West Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Keene 481 West Street - Keene",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1 603-357-2832",
+        "ref": "https://stores.hannaford.com/#8905451",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/keene/8163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.29571998119, 42.9351081217]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273014",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "77",
+        "addr:postcode": "03051",
+        "addr:state": "NH",
+        "addr:street": "Derry Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Hudson 77 Derry Rd - Hudson",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-883-6112",
+        "ref": "https://stores.hannaford.com/#8905519",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/hudson/8183"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.443077, 42.7746734] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273015",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "630",
+        "addr:postcode": "03842",
+        "addr:state": "NH",
+        "addr:street": "Lafayette Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Hampton 630 Lafayette Rd - Hampton",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-926-9808",
+        "ref": "https://stores.hannaford.com/#8905486",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/hampton/8319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.83586871624, 42.94612749866]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273016",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "605",
+        "addr:postcode": "03102",
+        "addr:state": "NH",
+        "addr:street": "Mast Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Goffstown 605 Mast Road - Goffstown",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-626-4488",
+        "ref": "https://stores.hannaford.com/#8905484",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/goffstown/8311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.51132136583, 42.9983935631]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273017",
+      "properties": {
+        "addr:city": "Belknap County",
+        "addr:housenumber": "1425",
+        "addr:postcode": "03249",
+        "addr:state": "NH",
+        "addr:street": "Lake Shore Road",
+        "addr:unit": "D",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Gilford 1425 Lake Shore Road - Gilford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-524-4629",
+        "ref": "https://stores.hannaford.com/#8905289",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/gilford/8402"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.4440488, 43.5616952] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273018",
+      "properties": {
+        "addr:city": "Merrimack County",
+        "addr:housenumber": "952",
+        "addr:postcode": "03235",
+        "addr:state": "NH",
+        "addr:street": "Central Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Franklin 952 Central St - Franklin",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-934-2515",
+        "ref": "https://stores.hannaford.com/#8905569",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/franklin/8318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.62390172482, 43.44909073021]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273019",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "141",
+        "addr:postcode": "03833",
+        "addr:state": "NH",
+        "addr:street": "Portsmouth Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Exeter 141 Portsmouth Ave - Exeter",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-772-1783",
+        "ref": "https://stores.hannaford.com/#8905287",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/exeter/8435"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.9304639, 42.9893042] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273020",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "305",
+        "addr:postcode": "03826",
+        "addr:state": "NH",
+        "addr:street": "Sandown Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Hampstead 305 Sandown Road - East Hampstead",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-329-0182",
+        "ref": "https://stores.hannaford.com/#8905390",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/east-hampstead/8190"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1425491, 42.8925149] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273021",
+      "properties": {
+        "addr:city": "Strafford County",
+        "addr:housenumber": "7",
+        "addr:postcode": "03824",
+        "addr:state": "NH",
+        "addr:street": "Mill Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - Durham 7 Mill Road - Durham",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-868-2500",
+        "ref": "https://stores.hannaford.com/#8905502",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/durham/8440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.92606335878, 43.13355833745]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273022",
+      "properties": {
+        "addr:city": "Strafford County",
+        "addr:housenumber": "833",
+        "addr:postcode": "03820",
+        "addr:state": "NH",
+        "addr:street": "Central Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Dover 833 Central Ave - Dover",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-749-9232",
+        "ref": "https://stores.hannaford.com/#8905546",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/dover/8373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.87822079659, 43.21719446705]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273023",
+      "properties": {
+        "addr:city": "Strafford County",
+        "addr:housenumber": "30",
+        "addr:postcode": "03820",
+        "addr:state": "NH",
+        "addr:street": "Grapevine Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Dover Fields 30 Grapevine Drive - Dover",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-749-2096",
+        "ref": "https://stores.hannaford.com/#8905384",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/dover/8242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.89468955994, 43.16723546767]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273024",
+      "properties": {
+        "addr:city": "Rockingham County",
+        "addr:housenumber": "35",
+        "addr:postcode": "03038",
+        "addr:state": "NH",
+        "addr:street": "Manchester Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Derry 35 Manchester Rd - Derry",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 603-434-5099",
+        "ref": "https://stores.hannaford.com/#8905415",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/derry/8016"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.3373314, 42.9003007] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273025",
+      "properties": {
+        "addr:city": "Merrimack County",
+        "addr:housenumber": "73",
+        "addr:postcode": "03301",
+        "addr:state": "NH",
+        "addr:street": "Fort Eddy Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Concord 73 Fort Eddy Rd - Concord",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-228-2060",
+        "ref": "https://stores.hannaford.com/#8905512",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/concord/8329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.53282864951, 43.21296917934]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273026",
+      "properties": {
+        "addr:city": "Sullivan County",
+        "addr:housenumber": "220",
+        "addr:postcode": "03743",
+        "addr:state": "NH",
+        "addr:street": "Washington Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Claremont 220 Washington St - Claremont",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-543-1681",
+        "ref": "https://stores.hannaford.com/#8905346",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/claremont/8119"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.3238296, 43.3706703] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273027",
+      "properties": {
+        "addr:city": "Carroll County",
+        "addr:postcode": "03864",
+        "addr:state": "NH",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Ossipee 891 NH-16 - Center Ossipee",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 603-539-7531",
+        "ref": "https://stores.hannaford.com/#8905554",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/center-ossipee/8159"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1103213, 43.7015081] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273028",
+      "properties": {
+        "addr:city": "Grafton County",
+        "addr:housenumber": "505",
+        "addr:postcode": "03222",
+        "addr:state": "NH",
+        "addr:street": "Pleasant Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - Bristol 505 Pleasant Street - Bristol",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-19:00",
+        "phone": "+1 603-744-5416",
+        "ref": "https://stores.hannaford.com/#8905466",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/bristol/8441"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.7500058, 43.5844691] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273029",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "7",
+        "addr:postcode": "03110",
+        "addr:state": "NH",
+        "addr:street": "Kilton Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bedford Kilton Rd. 7 Kilton Road - Bedford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-625-5431",
+        "ref": "https://stores.hannaford.com/#8905501",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/bedford/8436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.48076564074, 42.95805573386]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273030",
+      "properties": {
+        "addr:city": "Hillsborough County",
+        "addr:housenumber": "4",
+        "addr:postcode": "03110",
+        "addr:state": "NH",
+        "addr:street": "Jenkins Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bedford Jenkins Rd. 4 Jenkins Road - Bedford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-472-2627",
+        "ref": "https://stores.hannaford.com/#8905430",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/bedford/8305"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.5357543, 42.9220548] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273031",
+      "properties": {
+        "addr:city": "Strafford County",
+        "addr:housenumber": "80",
+        "addr:postcode": "03809",
+        "addr:state": "NH",
+        "addr:street": "Wolfeboro Highway",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Alton 80 Wolfeboro Highway - Alton",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 603-875-4300",
+        "ref": "https://stores.hannaford.com/#8905541",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/nh/alton/8247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.21105879545, 43.4538476637]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273032",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "5",
+        "addr:postcode": "03909",
+        "addr:state": "ME",
+        "addr:street": "Hannaford Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - York 5 Hannaford Drive - York",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-363-5357",
+        "ref": "https://stores.hannaford.com/#8905457",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/york/8384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6688529253, 43.15234624189]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273033",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:postcode": "04096",
+        "addr:state": "ME",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Yarmouth 756 Route #1 - Yarmouth",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-846-5941",
+        "ref": "https://stores.hannaford.com/#8905518",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/yarmouth/8188"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.1798112, 43.8054528] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273034",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "399",
+        "addr:postcode": "04364",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Winthrop 399 Main Street - Winthrop",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-377-3150",
+        "ref": "https://stores.hannaford.com/#8905428",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/winthrop/8289"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.959216, 44.3062369] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273035",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "7",
+        "addr:postcode": "04092",
+        "addr:state": "ME",
+        "addr:street": "Hannaford Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Westbrook 7 Hannaford Drive - Westbrook",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-854-4631",
+        "ref": "https://stores.hannaford.com/#8905499",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/westbrook/8223"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.3551445, 43.675986] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273036",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "107",
+        "addr:postcode": "04090",
+        "addr:state": "ME",
+        "addr:street": "Wells Plaza",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Wells 107 Wells Plaza - Wells",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-646-4111",
+        "ref": "https://stores.hannaford.com/#8905246",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/wells/8389"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.5829671, 43.3019022] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273037",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "190",
+        "addr:postcode": "04901",
+        "addr:state": "ME",
+        "addr:street": "Kennedy Memorial Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Waterville JFK 190 Kennedy Memorial Dr - Waterville",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-873-0788",
+        "ref": "https://stores.hannaford.com/#8905320",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/waterville/8238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.65181559324, 44.54035089083]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273038",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "140",
+        "addr:postcode": "04901",
+        "addr:state": "ME",
+        "addr:street": "Elm Plaza",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Waterville Elm Plaza 140 Elm Plaza - Waterville",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-877-0700",
+        "ref": "https://stores.hannaford.com/#8905281",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/waterville/8229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.64149578477, 44.56869631222]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273039",
+      "properties": {
+        "addr:city": "Lincoln County",
+        "addr:housenumber": "17",
+        "addr:postcode": "04572",
+        "addr:state": "ME",
+        "addr:street": "Kalers Corner",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - Waldoboro 17 Kalers Corner - Waldoboro",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 207-832-4358",
+        "ref": "https://stores.hannaford.com/#8905306",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/waldoboro/8294"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.3854259, 44.1005921] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273040",
+      "properties": {
+        "addr:city": "Androscoggin County",
+        "addr:housenumber": "23",
+        "addr:postcode": "04282",
+        "addr:state": "ME",
+        "addr:street": "Snell Hill Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Turner 23 Snell Hill Road - Turner",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-225-5140",
+        "ref": "https://stores.hannaford.com/#8905353",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/turner/8428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.26087284088, 44.25142411367]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273041",
+      "properties": {
+        "addr:city": "Sagadahoc County",
+        "addr:housenumber": "49",
+        "addr:postcode": "04086",
+        "addr:state": "ME",
+        "addr:street": "Topsham Fair Mall",
+        "addr:unit": "1",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Topsham 49 Topsham Fair Mall - Topsham",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-729-5124",
+        "ref": "https://stores.hannaford.com/#8905453",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/topsham/8187"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.9787345, 43.9394708] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273042",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "71",
+        "addr:postcode": "04084",
+        "addr:state": "ME",
+        "addr:street": "Colonial Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Standish 71 Colonial Drive - Standish",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-642-5533",
+        "ref": "https://stores.hannaford.com/#8905508",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/standish/8349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.54447605276, 43.72970545815]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273043",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "415",
+        "addr:postcode": "04106",
+        "addr:state": "ME",
+        "addr:street": "Philbrook Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - South Portland Maine Mall 415 Philbrook Ave - South Portland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-761-2729",
+        "ref": "https://stores.hannaford.com/#8905438",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/south-portland/8387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.32840549946, 43.63451439861]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273044",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "50",
+        "addr:postcode": "04106",
+        "addr:state": "ME",
+        "addr:street": "Cottage Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - South Portland Mill Creek 50 Cottage Road - South Portland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-799-7359",
+        "ref": "https://stores.hannaford.com/#8905462",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/south-portland/8279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.25035321712, 43.63785153948]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273045",
+      "properties": {
+        "addr:city": "Somerset County",
+        "addr:housenumber": "100",
+        "addr:postcode": "04976",
+        "addr:state": "ME",
+        "addr:street": "Fairgrounds Marketplace",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Skowhegan 100 Fairgrounds Marketplace - Skowhegan",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-858-4800",
+        "ref": "https://stores.hannaford.com/#8905241",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/skowhegan/8330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.72790314818, 44.78081357092]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273046",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "417",
+        "addr:postcode": "04074",
+        "addr:state": "ME",
+        "addr:street": "Payne Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Scarborough Payne Rd 417 Payne Road - Scarborough",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-883-0096",
+        "ref": "https://stores.hannaford.com/#1002780936",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/scarborough/8451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.35047035367, 43.61998021552]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273047",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "31",
+        "addr:postcode": "04074",
+        "addr:state": "ME",
+        "addr:street": "Hannaford Drive Route 1",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Scarborough 31 Hannaford Dr - Scarborough",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-883-7670",
+        "ref": "https://stores.hannaford.com/#8905392",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/scarborough/8342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.3315410018, 43.59500831228]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273048",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "800",
+        "addr:postcode": "04073",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Sanford 800 Main St - Sanford",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-324-1554",
+        "ref": "https://stores.hannaford.com/#8905544",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/sanford/8390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.78259199858, 43.44509095588]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273049",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "532",
+        "addr:postcode": "04072",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Saco 532 Main Street - Saco",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-282-4152",
+        "ref": "https://stores.hannaford.com/#8905472",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/saco/8138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.43525129557, 43.51172451779]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273050",
+      "properties": {
+        "addr:city": "Oxford County",
+        "addr:housenumber": "520",
+        "addr:postcode": "04276",
+        "addr:state": "ME",
+        "addr:street": "Waldo Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rumford 520 Waldo Street - Rumford",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-364-3771",
+        "ref": "https://stores.hannaford.com/#8905468",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/rumford/8358"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.5502887, 44.5551603] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273051",
+      "properties": {
+        "addr:city": "Knox County",
+        "addr:housenumber": "75",
+        "addr:postcode": "04841",
+        "addr:state": "ME",
+        "addr:street": "Maverick Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Rockland 75 Maverick St - Rockland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-594-2173",
+        "ref": "https://stores.hannaford.com/#8905514",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/rockland/8230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.10557031631, 44.1175895099]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273052",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "787",
+        "addr:postcode": "04103",
+        "addr:state": "ME",
+        "addr:street": "Riverside Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Portland Riverside 787 Riverside St - Portland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-878-0191",
+        "ref": "https://stores.hannaford.com/#8905531",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/portland/8354"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.3196408, 43.7018373] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273053",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "295",
+        "addr:postcode": "04101",
+        "addr:state": "ME",
+        "addr:street": "Forest Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Portland Forest Ave. 295 Forest Avenue - Portland",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 207-761-5965",
+        "ref": "https://stores.hannaford.com/#8905376",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/portland/8351"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.2681516, 43.6639522] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273054",
+      "properties": {
+        "addr:city": "Oxford County",
+        "addr:housenumber": "1603",
+        "addr:postcode": "04270",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Oxford 1603 Main Street - Oxford",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-743-2522",
+        "ref": "https://stores.hannaford.com/#8905303",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/oxford/8338"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.524678, 44.1960802] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273055",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "500",
+        "addr:postcode": "04468",
+        "addr:state": "ME",
+        "addr:street": "Stillwater Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Old Town 500 Stillwater Ave - Old Town",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-827-2700",
+        "ref": "https://stores.hannaford.com/#8905465",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/old-town/8133"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.6660799, 44.9260907] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273056",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "797",
+        "addr:postcode": "04062",
+        "addr:state": "ME",
+        "addr:street": "Roosevelt Trail",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - North Windham 797 Roosevelt Trail - North Windham",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-892-2532",
+        "ref": "https://stores.hannaford.com/#8905533",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/north-windham/8345"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.4413146, 43.8407096] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273057",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "23",
+        "addr:postcode": "03906",
+        "addr:state": "ME",
+        "addr:street": "Somersworth Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - North Berwick 23 Somersworth Rd - North Berwick",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-676-2177",
+        "ref": "https://stores.hannaford.com/#8905354",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/north-berwick/8437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.74455525893, 43.29882090415]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273058",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "44",
+        "addr:postcode": "04953",
+        "addr:state": "ME",
+        "addr:street": "Moosehead Trail",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Newport 44 Moosehead Trail - Newport",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 207-368-4733",
+        "ref": "https://stores.hannaford.com/#8905441",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/newport/8443"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.285805, 44.8386415] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273059",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "843",
+        "addr:postcode": "04462",
+        "addr:state": "ME",
+        "addr:street": "Central Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Millinocket 843 Central Street - Millinocket",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
+        "phone": "+1 207-723-8047",
+        "ref": "https://stores.hannaford.com/#8905548",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/millinocket/8155"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.6879845, 45.6585195] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273060",
+      "properties": {
+        "addr:city": "Androscoggin County",
+        "addr:housenumber": "50",
+        "addr:postcode": "04256",
+        "addr:state": "ME",
+        "addr:street": "Pigeon Hill Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/-RN0p3ZMCAgfykCJ2dRTZnlojCd_YPN7PKZ1zJoUxIw/150x150.png",
+        "name": "Hannaford - Mechanic Falls 50 Pigeon Hill Road - Mechanic Falls",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-998-2660",
+        "ref": "https://stores.hannaford.com/#9874324",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/mechanic-falls/8445"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.415581, 44.07816] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273061",
+      "properties": {
+        "addr:city": "Somerset County",
+        "addr:housenumber": "225",
+        "addr:postcode": "04950",
+        "addr:state": "ME",
+        "addr:street": "Upper Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford Supermarket - Madison 225 Upper Main St - Madison",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "phone": "+1 207-696-3949",
+        "ref": "https://stores.hannaford.com/#8905351",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/madison/8254"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.8721746, 44.7973576] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273062",
+      "properties": {
+        "addr:city": "Washington County",
+        "addr:housenumber": "149",
+        "addr:postcode": "04654",
+        "addr:state": "ME",
+        "addr:street": "Dublin Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Machias 149 Dublin Street - Machias",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 207-255-3201",
+        "ref": "https://stores.hannaford.com/#8905293",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/machias/8128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.4659341, 44.7054974] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273063",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "22",
+        "addr:postcode": "04457",
+        "addr:state": "ME",
+        "addr:street": "Goding Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Lincoln 22 Goding Avenue - Lincoln",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
+        "phone": "+1 207-794-6122",
+        "ref": "https://stores.hannaford.com/#8905345",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/lincoln/8140"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.5164297, 45.3608056] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273064",
+      "properties": {
+        "addr:city": "Androscoggin County",
+        "addr:housenumber": "692",
+        "addr:postcode": "04240",
+        "addr:state": "ME",
+        "addr:street": "Sabattus Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Lewiston 692 Sabattus St - Lewiston",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-784-0721",
+        "ref": "https://stores.hannaford.com/#8905497",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/lewiston/8265"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.1789785, 44.1039585] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273065",
+      "properties": {
+        "addr:city": "York County",
+        "addr:housenumber": "65",
+        "addr:postcode": "04043",
+        "addr:state": "ME",
+        "addr:street": "Portland Road",
+        "addr:unit": "9",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Kennebunk 65 Portland Road - Kennebunk",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-985-9135",
+        "ref": "https://stores.hannaford.com/#8905491",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/kennebunk/8403"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.527626, 43.3969556] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273066",
+      "properties": {
+        "addr:city": "Franklin County",
+        "addr:housenumber": "15",
+        "addr:postcode": "04239",
+        "addr:state": "ME",
+        "addr:street": "Jay Plaza Lane",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Jay 15 Jay Plaza Lane - Jay",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-897-4376",
+        "ref": "https://stores.hannaford.com/#8905297",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/jay/8165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.21459132433, 44.50561528466]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273067",
+      "properties": {
+        "addr:city": "Aroostook County",
+        "addr:housenumber": "33",
+        "addr:postcode": "04730",
+        "addr:state": "ME",
+        "addr:street": "Ludlow Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Houlton 33 Ludlow Road - Houlton",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
+        "phone": "+1 207-532-2605",
+        "ref": "https://stores.hannaford.com/#8905404",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/houlton/8439"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.8453237, 46.1421261] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273068",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "77",
+        "addr:postcode": "04444",
+        "addr:state": "ME",
+        "addr:street": "Western Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Hampden 77 Western Ave - Hampden",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-862-5444",
+        "ref": "https://stores.hannaford.com/#8905521",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/hampden/8417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.84518682957, 44.74373282947]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273069",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "130",
+        "addr:postcode": "04039",
+        "addr:state": "ME",
+        "addr:street": "Shaker Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Gray 130 Shaker Road - Gray",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-657-5800",
+        "ref": "https://stores.hannaford.com/#8905274",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/gray/8251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.34355266953, 43.90306313777]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273070",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "99",
+        "addr:postcode": "04038",
+        "addr:state": "ME",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Gorham 99 Main St - Gorham",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-839-6553",
+        "ref": "https://stores.hannaford.com/#8905573",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/gorham/8350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.43829828501, 43.67962411706]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273071",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "40",
+        "addr:postcode": "04345",
+        "addr:state": "ME",
+        "addr:street": "Main Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Gardiner 40 Main Avenue - Gardiner",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-582-3470",
+        "ref": "https://stores.hannaford.com/#8905432",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/gardiner/8220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.77330222726, 44.23157258893]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273072",
+      "properties": {
+        "addr:city": "Franklin County",
+        "addr:housenumber": "131",
+        "addr:postcode": "04938",
+        "addr:state": "ME",
+        "addr:street": "Hannaford Drive",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Farmington 131 Hannaford Drive - Farmington",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-778-0434",
+        "ref": "https://stores.hannaford.com/#8905276",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/farmington/8291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.15130996704, 44.65085656434]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273073",
+      "properties": {
+        "addr:city": "Cumberland County",
+        "addr:housenumber": "65",
+        "addr:postcode": "04105",
+        "addr:state": "ME",
+        "addr:street": "Gray Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Falmouth 65 Gray Road - Falmouth",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-878-0050",
+        "ref": "https://stores.hannaford.com/#8905489",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/falmouth/8222"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.294434, 43.7341912] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273074",
+      "properties": {
+        "addr:city": "Waldo County",
+        "addr:housenumber": "93",
+        "addr:postcode": "04915",
+        "addr:state": "ME",
+        "addr:street": "Lincolnville Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Belfast 93 Lincolnville Ave - Belfast",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-338-5377",
+        "ref": "https://stores.hannaford.com/#8905563",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/belfast/8241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.01814103127, 44.42036000581]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273075",
+      "properties": {
+        "addr:city": "Hancock County",
+        "addr:housenumber": "86",
+        "addr:postcode": "04609",
+        "addr:state": "ME",
+        "addr:street": "Cottage Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bar Harbor 86 Cottage St - Bar Harbor",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 207-288-5680",
+        "ref": "https://stores.hannaford.com/#8905552",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/bar-harbor/8224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.21068078279, 44.38831108333]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273076",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "773",
+        "addr:postcode": "04401",
+        "addr:state": "ME",
+        "addr:street": "Stillwater Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bangor Hogan Road 773 Stillwater Ave - Bangor",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-947-6735",
+        "ref": "https://stores.hannaford.com/#8905523",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/bangor/8110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.74785214663, 44.83458851049]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273077",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "1133",
+        "addr:postcode": "04401",
+        "addr:state": "ME",
+        "addr:street": "Union Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bangor Airport Mall 1133 Union St - Bangor",
+        "opening_hours": "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-942-0100",
+        "ref": "https://stores.hannaford.com/#8905260",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/bangor/8109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.81220175885, 44.81891416035]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273078",
+      "properties": {
+        "addr:city": "Penobscot County",
+        "addr:housenumber": "653",
+        "addr:postcode": "04401",
+        "addr:state": "ME",
+        "addr:street": "Broadway Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Bangor Broadway 653 Broadway St - Bangor",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-947-8338",
+        "ref": "https://stores.hannaford.com/#8905493",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/bangor/8107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.77738595009, 44.82506973751]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273079",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "118",
+        "addr:postcode": "04330",
+        "addr:state": "ME",
+        "addr:street": "Cony Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Augusta Cony 118 Cony Street - Augusta",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-621-2570",
+        "ref": "https://stores.hannaford.com/#8905268",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/augusta/8250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.76426184177, 44.31555994106]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273080",
+      "properties": {
+        "addr:city": "Kennebec County",
+        "addr:housenumber": "29",
+        "addr:postcode": "04330",
+        "addr:state": "ME",
+        "addr:street": "Whitten Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Augusta Turnpike Mall 29 Whitten Rd - Augusta",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-622-3137",
+        "ref": "https://stores.hannaford.com/#8905372",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/augusta/8239"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.812209, 44.3135911] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273081",
+      "properties": {
+        "addr:city": "Androscoggin County",
+        "addr:housenumber": "95",
+        "addr:postcode": "04210",
+        "addr:state": "ME",
+        "addr:street": "Spring Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Auburn 95 Spring Street - Auburn",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 207-784-6497",
+        "ref": "https://stores.hannaford.com/#8905565",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/me/auburn/8347"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.2298941, 44.0963166] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273082",
+      "properties": {
+        "addr:city": "Middlesex County",
+        "addr:housenumber": "55",
+        "addr:postcode": "02451",
+        "addr:state": "MA",
+        "addr:street": "Russell Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Waltham 55 Russell St - Waltham",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 781-893-6776",
+        "ref": "https://stores.hannaford.com/#8905475",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/waltham/8017"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.2445162, 42.3757909] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273083",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "158",
+        "addr:postcode": "01569",
+        "addr:state": "MA",
+        "addr:street": "North Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Uxbridge 158 North Main St - Uxbridge",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 508-278-2487",
+        "ref": "https://stores.hannaford.com/#8905301",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/uxbridge/8014"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.6390782, 42.0820312] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273084",
+      "properties": {
+        "addr:city": "Middlesex County",
+        "addr:housenumber": "18",
+        "addr:postcode": "01469",
+        "addr:state": "MA",
+        "addr:street": "Main Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Townsend 18 Main St - Townsend",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 978-597-5909",
+        "ref": "https://stores.hannaford.com/#8905313",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/townsend/8009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.66005790234, 42.6484015281]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273085",
+      "properties": {
+        "addr:city": "Bristol County",
+        "addr:housenumber": "255",
+        "addr:postcode": "02780",
+        "addr:state": "MA",
+        "addr:street": "Joseph East Warner Boulevard",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Taunton 255 Joseph E Warner Blvd - Taunton",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 508-828-3940",
+        "ref": "https://stores.hannaford.com/#8905358",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/taunton/8383"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1216205, 41.8862563] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273086",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "5",
+        "addr:postcode": "01535",
+        "addr:state": "MA",
+        "addr:street": "Gilbert Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - North Brookfield 5 Gilbert St - North Brookfield",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 508-867-6809",
+        "ref": "https://stores.hannaford.com/#8905455",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/north-brookfield/8011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.08336754707, 42.26659216287]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273087",
+      "properties": {
+        "addr:city": "Plymouth County",
+        "addr:housenumber": "8",
+        "addr:postcode": "02346",
+        "addr:state": "MA",
+        "addr:street": "Merchants Way",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Middleboro 8 Merchants Way - Middleboro",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 508-947-4787",
+        "ref": "https://stores.hannaford.com/#8905537",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/middleboro/8005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.91189593077, 41.88281187381]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273088",
+      "properties": {
+        "addr:city": "Middlesex County",
+        "addr:housenumber": "193",
+        "addr:postcode": "01752",
+        "addr:state": "MA",
+        "addr:street": "Boston Post Road West",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Marlborough 193 Boston Post Rd W - Marlborough",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 508-480-9670",
+        "ref": "https://stores.hannaford.com/#8905324",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/marlborough/8004"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.5897389, 42.3407808] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273089",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "333",
+        "addr:postcode": "01462",
+        "addr:state": "MA",
+        "addr:street": "Mass Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Lunenburg 333 Mass Ave - Lunenburg",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 978-582-0215",
+        "ref": "https://stores.hannaford.com/#8905407",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/lunenburg/8388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.75768092275, 42.5959455049]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273090",
+      "properties": {
+        "addr:city": "Middlesex County",
+        "addr:housenumber": "777",
+        "addr:postcode": "01852",
+        "addr:state": "MA",
+        "addr:street": "Rogers Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Lowell 777 Rogers Street - Lowell",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 978-446-7862",
+        "ref": "https://stores.hannaford.com/#8905525",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/lowell/8327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.27818107605, 42.62881216996]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273091",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "927",
+        "addr:postcode": "01453",
+        "addr:state": "MA",
+        "addr:street": "Merriam Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Leominster Twin City Plaza 927 Merriam Avenue - Leominster",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 978-534-9323",
+        "ref": "https://stores.hannaford.com/#8905561",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/leominster/8012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.7779302597, 42.55269175238]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273092",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "118",
+        "addr:postcode": "01453",
+        "addr:state": "MA",
+        "addr:street": "Lancaster Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Leominster Lancaster St. 118 Lancaster St - Leominster",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 978-537-1327",
+        "ref": "https://stores.hannaford.com/#8905270",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/leominster/8003"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.753343, 42.5212783] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273093",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "21",
+        "addr:postcode": "01440",
+        "addr:state": "MA",
+        "addr:street": "Timpany Boulevard",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Gardner 21 Timpany Blvd - Gardner",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 978-632-6139",
+        "ref": "https://stores.hannaford.com/#8905335",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/gardner/8019"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.9928459, 42.5690237] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273094",
+      "properties": {
+        "addr:city": "Middlesex County",
+        "addr:housenumber": "301",
+        "addr:postcode": "01826",
+        "addr:state": "MA",
+        "addr:street": "Pleasant Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Dracut 301 Pleasant St - Dracut",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 978-459-0059",
+        "ref": "https://stores.hannaford.com/#8905388",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/dracut/8192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.31192058325, 42.66437349643]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273095",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "333",
+        "addr:postcode": "01510",
+        "addr:state": "MA",
+        "addr:street": "Brook Street",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Clinton 333 Brook St - Clinton",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 978-368-7909",
+        "ref": "https://stores.hannaford.com/#8905405",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/clinton/8013"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.6878079, 42.4243718] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273096",
+      "properties": {
+        "addr:city": "Middlesex County",
+        "addr:postcode": "01824",
+        "addr:state": "MA",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Chelmsford 66 Drum Hill - Chelmsford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 978-459-9304",
+        "ref": "https://stores.hannaford.com/#8905495",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/chelmsford/8191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.36083066463, 42.62373821545]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-273097",
+      "properties": {
+        "addr:city": "Worcester County",
+        "addr:housenumber": "150",
+        "addr:postcode": "01331",
+        "addr:state": "MA",
+        "addr:street": "New Athol Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
+        "name": "Hannaford - Orange 150 New Athol Rd - Athol",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1 978-249-7955",
+        "ref": "https://stores.hannaford.com/#8905299",
+        "shop": "supermarket",
+        "website": "https://stores.hannaford.com/ma/athol/8385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.26289778948, 42.58158532521]
+      }
+    }
+  ]
+}

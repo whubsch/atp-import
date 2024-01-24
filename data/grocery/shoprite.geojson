@@ -1,0 +1,5844 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/-269630",
+      "properties": {
+        "addr:city": "Forest Hill",
+        "addr:housenumber": "2101",
+        "addr:postcode": "21050",
+        "addr:state": "MD",
+        "addr:street": "Rockspring Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Forest Hill",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 410-420-8220",
+        "ref": "545",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/545"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.3850233, 39.5753921] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269631",
+      "properties": {
+        "addr:city": "Bel Air",
+        "addr:housenumber": "223",
+        "addr:postcode": "21014",
+        "addr:state": "MD",
+        "addr:street": "North Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Main Street",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 410-838-4130",
+        "ref": "547",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/547"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.355335, 39.5395856] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269632",
+      "properties": {
+        "addr:city": "Aberdeen",
+        "addr:housenumber": "949",
+        "addr:postcode": "21001",
+        "addr:state": "MD",
+        "addr:street": "Beards Hill Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Aberdeen, MD",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 410-272-3100",
+        "ref": "548",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/548"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.1813665, 39.5253454] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269633",
+      "properties": {
+        "addr:city": "Bel Air",
+        "addr:housenumber": "5",
+        "addr:postcode": "21015",
+        "addr:state": "MD",
+        "addr:street": "Bel Air South Parkway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Festival",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 410-569-0939",
+        "ref": "549",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/549"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.327405, 39.4967863] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269634",
+      "properties": {
+        "addr:city": "Belcamp",
+        "addr:housenumber": "1321",
+        "addr:postcode": "21017",
+        "addr:state": "MD",
+        "addr:street": "Riverside Parkway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Riverside",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 410-272-3900",
+        "ref": "551",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/551"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.2473688, 39.4800336] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269635",
+      "properties": {
+        "addr:city": "Cardiff",
+        "addr:housenumber": "1606",
+        "addr:postcode": "21160",
+        "addr:state": "MD",
+        "addr:street": "Dooley Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Cardiff",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 410-452-5980",
+        "ref": "555",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/555"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.3426538, 39.7203296] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269636",
+      "properties": {
+        "addr:city": "Phoenix",
+        "addr:housenumber": "14330",
+        "addr:postcode": "21131",
+        "addr:state": "MD",
+        "addr:street": "Jarrettsville Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Jacksonville",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 410-666-3500",
+        "ref": "563",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/563"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.5602925, 39.5201165] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269637",
+      "properties": {
+        "addr:city": "Parkville",
+        "addr:housenumber": "2401",
+        "addr:postcode": "21234",
+        "addr:state": "MD",
+        "addr:street": "Cleanleigh Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Parkville",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 410-668-1170",
+        "ref": "567",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/567"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.565607, 39.372692] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269638",
+      "properties": {
+        "addr:city": "Baltimore",
+        "addr:housenumber": "4601",
+        "addr:postcode": "21207",
+        "addr:state": "MD",
+        "addr:street": "Liberty Heights Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Howard Park",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 410-664-0240",
+        "ref": "568",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/568"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.6950029, 39.3308655] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269639",
+      "properties": {
+        "addr:city": "Lutherville-Timonium",
+        "addr:housenumber": "37",
+        "addr:postcode": "21093",
+        "addr:state": "MD",
+        "addr:street": "West Aylesbury Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Timonium",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 410-252-1281",
+        "ref": "542",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/542"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.6295847, 39.4373779] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269640",
+      "properties": {
+        "addr:city": "Staten Island",
+        "addr:housenumber": "2656",
+        "addr:postcode": "10306",
+        "addr:state": "NY",
+        "addr:street": "Hylan Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hylan Plaza",
+        "opening_hours": "24/7",
+        "phone": "+1 718-979-3303",
+        "ref": "114",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.11292, 40.56715] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269641",
+      "properties": {
+        "addr:city": "Staten Island",
+        "addr:housenumber": "3010",
+        "addr:postcode": "10309-2510",
+        "addr:state": "NY",
+        "addr:street": "Veterans Road West",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Veterans Rd",
+        "opening_hours": "24/7",
+        "phone": "+1 718-948-4945",
+        "ref": "112",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/112"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.235157, 40.528342] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269642",
+      "properties": {
+        "addr:city": "Plainview",
+        "addr:housenumber": "444",
+        "addr:postcode": "11803",
+        "addr:state": "NY",
+        "addr:street": "Woodbury Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Plainview - Woodbury Rd",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 516-938-0240",
+        "ref": "800",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/800"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.50072, 40.78571] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269643",
+      "properties": {
+        "addr:city": "Bay Shore",
+        "addr:housenumber": "1905",
+        "addr:postcode": "11706",
+        "addr:state": "NY",
+        "addr:street": "Sunrise Highway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bay Shore",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 631-666-7737",
+        "ref": "801",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/801"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.233219, 40.740268] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269644",
+      "properties": {
+        "addr:city": "Uniondale",
+        "addr:housenumber": "1121",
+        "addr:postcode": "11553",
+        "addr:state": "NY",
+        "addr:street": "Jerusalem Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Uniondale",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 516-486-0517",
+        "ref": "804",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/804"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.578885, 40.695726] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269645",
+      "properties": {
+        "addr:city": "Commack",
+        "addr:housenumber": "1",
+        "addr:postcode": "11725",
+        "addr:state": "NY",
+        "addr:street": "Garet Place",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Commack",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 631-864-2224",
+        "ref": "806",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/806"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.288822, 40.807794] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269646",
+      "properties": {
+        "addr:city": "Plainview",
+        "addr:housenumber": "1675",
+        "addr:postcode": "11803",
+        "addr:state": "NY",
+        "addr:street": "Old Country Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Country Pointe",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 516-694-0640",
+        "ref": "807",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/807"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.443907, 40.783384] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269647",
+      "properties": {
+        "addr:city": "Selden",
+        "addr:housenumber": "71",
+        "addr:postcode": "11784",
+        "addr:state": "NY",
+        "addr:street": "College Plaza Selden",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Selden",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 631-561-6050",
+        "ref": "808",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/808"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.047136, 40.866247] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269648",
+      "properties": {
+        "addr:city": "Bethpage",
+        "addr:housenumber": "3901",
+        "addr:postcode": "11714",
+        "addr:state": "NY",
+        "addr:street": "Hempstead Turnpike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bethpage",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 516-731-0130",
+        "ref": "809",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/809"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.4915, 40.7263] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269649",
+      "properties": {
+        "addr:city": "Patchogue",
+        "addr:housenumber": "95",
+        "addr:postcode": "11772",
+        "addr:state": "NY",
+        "addr:street": "Sunrise Highway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Patchogue",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 631-286-5000",
+        "ref": "811",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/811"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.006099, 40.781066] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269650",
+      "properties": {
+        "addr:city": "New Hyde Park",
+        "addr:housenumber": "2335",
+        "addr:postcode": "11042-1200",
+        "addr:state": "NY",
+        "addr:street": "New Hyde Park Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of New Hyde Park",
+        "opening_hours": "24/7",
+        "phone": "+1 516-352-1603",
+        "ref": "812",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/812"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.689777, 40.758134] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269651",
+      "properties": {
+        "addr:city": "Deer Park",
+        "addr:housenumber": "1960",
+        "addr:postcode": "11729",
+        "addr:state": "NY",
+        "addr:street": "Deer Park Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Deer Park",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 631-918-4087",
+        "ref": "814",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/814"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.331979, 40.764329] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269652",
+      "properties": {
+        "addr:city": "Massapequa",
+        "addr:housenumber": "5508",
+        "addr:postcode": "11758",
+        "addr:state": "NY",
+        "addr:street": "Sunrise Highway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Massapequa",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "phone": "+1 516-799-5651",
+        "ref": "815",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/815"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.436986, 40.675679] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269653",
+      "properties": {
+        "addr:city": "Lake Ronkonkoma",
+        "addr:housenumber": "601",
+        "addr:postcode": "11779",
+        "addr:state": "NY",
+        "addr:street": "Portion Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lake Ronkonkoma",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 631-737-0861",
+        "ref": "816",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/816"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.089381, 40.832033] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269654",
+      "properties": {
+        "addr:city": "Port Jefferson Station",
+        "addr:housenumber": "5145",
+        "addr:postcode": "11776",
+        "addr:state": "NY",
+        "addr:street": "Nesconset Highway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Port Jefferson",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 631-476-5717",
+        "ref": "817",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/817"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.050514, 40.922436] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269655",
+      "properties": {
+        "addr:city": "Riverhead",
+        "addr:housenumber": "1510",
+        "addr:postcode": "11901",
+        "addr:state": "NY",
+        "addr:street": "Old Country Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Riverhead",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 631-369-6010",
+        "ref": "819",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/819"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.695122, 40.929037] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269656",
+      "properties": {
+        "addr:city": "Hauppauge",
+        "addr:postcode": "11788",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hauppauge",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 631-979-0110",
+        "ref": "831",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/831"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.20246, 40.82693] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269657",
+      "properties": {
+        "addr:city": "Eddystone",
+        "addr:postcode": "19022",
+        "addr:state": "PA",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Eddystone",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 610-490-1200",
+        "ref": "413",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/413"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.340075, 39.864916] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269658",
+      "properties": {
+        "addr:city": "Wyncote",
+        "addr:postcode": "19095",
+        "addr:state": "PA",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Cheltenham Square",
+        "opening_hours": "Mo-Fr 07:00-00:00",
+        "phone": "+1 215-887-7300",
+        "ref": "426",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/426"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.15855, 40.07433] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269659",
+      "properties": {
+        "addr:city": "Drexel Hill",
+        "addr:housenumber": "5000",
+        "addr:postcode": "19026",
+        "addr:state": "PA",
+        "addr:street": "State Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Drexeline",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 610-622-1100",
+        "ref": "464",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/464"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.3222, 39.94663] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269660",
+      "properties": {
+        "addr:city": "Brookhaven",
+        "addr:housenumber": "5075",
+        "addr:postcode": "19015",
+        "addr:state": "PA",
+        "addr:street": "Edgmont Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brookhaven",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 610-499-3030",
+        "ref": "452",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/452"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.39579, 39.880087] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269661",
+      "properties": {
+        "addr:city": "Glenolden",
+        "addr:housenumber": "140",
+        "addr:postcode": "19036-1224",
+        "addr:state": "PA",
+        "addr:street": "North Macdade Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Glenolden",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 610-461-2572",
+        "ref": "454",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/454"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.290243, 39.908268] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269662",
+      "properties": {
+        "addr:city": "Wilmington",
+        "addr:housenumber": "1600",
+        "addr:postcode": "19804",
+        "addr:state": "DE",
+        "addr:street": "West Newport Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of 1st State Plaza",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 302-999-1227",
+        "ref": "538",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/538"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.627908, 39.714709] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269663",
+      "properties": {
+        "addr:city": "Wilmington",
+        "addr:housenumber": "1300",
+        "addr:postcode": "19803",
+        "addr:state": "DE",
+        "addr:street": "Rocky Run Parkway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brandywine Commons",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 302-477-3270",
+        "ref": "558",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/558"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.548435, 39.824967] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269664",
+      "properties": {
+        "addr:city": "Newark",
+        "addr:housenumber": "19",
+        "addr:postcode": "19713",
+        "addr:state": "DE",
+        "addr:street": "Chestnut Hill Plaza",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Newark, De",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 302-292-1220",
+        "ref": "580",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/580"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.724018, 39.661626] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269665",
+      "properties": {
+        "addr:city": "Bear",
+        "addr:housenumber": "1101",
+        "addr:postcode": "19701",
+        "addr:state": "DE",
+        "addr:street": "Governors Place",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Governor's Square",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 302-392-2900",
+        "ref": "588",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/588"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.663207, 39.628223] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269666",
+      "properties": {
+        "addr:city": "Wilmington",
+        "addr:housenumber": "501",
+        "addr:postcode": "19801",
+        "addr:state": "DE",
+        "addr:street": "South Walnut Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Christina Crossing",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 302-225-6900",
+        "ref": "589",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/589"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.554777, 39.731313] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269667",
+      "properties": {
+        "addr:city": "Newark",
+        "addr:housenumber": "700",
+        "addr:postcode": "19702",
+        "addr:state": "DE",
+        "addr:street": "Plaza Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Four Seasons",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 302-525-8855",
+        "ref": "590",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/590"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.715016, 39.647911] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269668",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "6301",
+        "addr:postcode": "19111",
+        "addr:state": "PA",
+        "addr:street": "Oxford Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Oxford & Levick",
+        "opening_hours": "Mo-Sa 07:00-00:00",
+        "phone": "+1 215-744-9500",
+        "ref": "402",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/402"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.08816, 40.043858] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269669",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "330",
+        "addr:postcode": "19148",
+        "addr:state": "PA",
+        "addr:street": "Oregon Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Whitman Plaza",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 215-271-2711",
+        "ref": "411",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/411"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.155435, 39.913158] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269670",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "1575",
+        "addr:postcode": "19131",
+        "addr:state": "PA",
+        "addr:street": "North 52nd Street",
+        "addr:unit": "400",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Parkside",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 215-220-8700",
+        "ref": "419",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/419"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.2270771, 39.9795865] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269671",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:postcode": "19145",
+        "addr:state": "PA",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Oregon Ave",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 215-336-7300",
+        "ref": "420",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/420"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.191009, 39.927113] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269672",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "2900",
+        "addr:postcode": "19153",
+        "addr:state": "PA",
+        "addr:street": "Island Avenue",
+        "addr:unit": "2946",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Island Avenue",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 215-492-1333",
+        "ref": "423",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/423"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.241849, 39.901572] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269673",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "2800",
+        "addr:postcode": "19129",
+        "addr:state": "PA",
+        "addr:street": "Fox Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Fox Street",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 215-717-1222",
+        "ref": "430",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/430"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.179163, 40.009121] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269674",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "3745",
+        "addr:postcode": "19137",
+        "addr:state": "PA",
+        "addr:street": "Aramingo Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Aramingo",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 215-288-7300",
+        "ref": "436",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/436"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0929, 39.99494] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269675",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:postcode": "19124",
+        "addr:state": "PA",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bridge & Harbison",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 215-288-1260",
+        "ref": "446",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/446"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.06322, 40.01288] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269676",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "9910",
+        "addr:postcode": "19114",
+        "addr:state": "PA",
+        "addr:street": "Frankford Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Morrell Plaza",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "phone": "+1 215-637-1555",
+        "ref": "450",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/450"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.985071, 40.064964] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269677",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "6725",
+        "addr:postcode": "19135",
+        "addr:state": "PA",
+        "addr:street": "Frankford Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Knorr Street",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 215-331-6030",
+        "ref": "462",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/462"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.052578, 40.031788] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269678",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "6901",
+        "addr:postcode": "19128",
+        "addr:state": "PA",
+        "addr:street": "Ridge Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Roxborough",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 215-482-9570",
+        "ref": "519",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/519"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.227439, 40.043998] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269679",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "101",
+        "addr:postcode": "19120",
+        "addr:state": "PA",
+        "addr:street": "East Olney Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Front & Olney",
+        "opening_hours": "Mo-Sa 07:00-00:00",
+        "phone": "+1 215-224-7500",
+        "ref": "537",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/537"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.120672, 40.036415] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269680",
+      "properties": {
+        "addr:city": "Philadelphia",
+        "addr:housenumber": "11000",
+        "addr:postcode": "19116",
+        "addr:state": "PA",
+        "addr:street": "Roosevelt Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Roosevelt Blvd",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 215-673-1200",
+        "ref": "561",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/561"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.008939, 40.102705] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269681",
+      "properties": {
+        "addr:city": "Bronx",
+        "addr:housenumber": "1994",
+        "addr:postcode": "10473",
+        "addr:state": "NY",
+        "addr:street": "Bruckner Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bruckner Blvd",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 718-794-1690",
+        "ref": "102",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/102"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.855307, 40.824064] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269682",
+      "properties": {
+        "addr:city": "College Point",
+        "addr:postcode": "11356",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of 20th Ave",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 718-353-3705",
+        "ref": "204",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/204"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.846859, 40.781684] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269683",
+      "properties": {
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "1080",
+        "addr:postcode": "11230",
+        "addr:state": "NY",
+        "addr:street": "Mcdonald Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brooklyn",
+        "opening_hours": "24/7",
+        "phone": "+1 718-252-5770",
+        "ref": "218",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/218"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.977121, 40.626733] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269684",
+      "properties": {
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "590",
+        "addr:postcode": "11239",
+        "addr:state": "NY",
+        "addr:street": "Gateway Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Gateway Plaza",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 718-647-2423",
+        "ref": "289",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/289"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.876275, 40.652343] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269685",
+      "properties": {
+        "addr:city": "Staten Island",
+        "addr:housenumber": "985",
+        "addr:postcode": "10314",
+        "addr:state": "NY",
+        "addr:street": "Richmond Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Forest & Richmond",
+        "opening_hours": "24/7",
+        "phone": "+1 718-982-8662",
+        "ref": "109",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.148556, 40.622856] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269686",
+      "properties": {
+        "addr:city": "Mullica Hill",
+        "addr:housenumber": "143",
+        "addr:postcode": "08062",
+        "addr:state": "NJ",
+        "addr:street": "Bridgeton Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Mullica Hill",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 856-357-9301",
+        "ref": "546",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/546"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.218655, 39.724291] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269687",
+      "properties": {
+        "addr:city": "Moscow",
+        "addr:housenumber": "921",
+        "addr:postcode": "18444",
+        "addr:state": "PA",
+        "addr:street": "Drinker Turnpike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Daleville",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 570-842-7461",
+        "ref": "414",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/414"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.517868, 41.308322] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269688",
+      "properties": {
+        "addr:city": "Fairless Hills",
+        "addr:housenumber": "547",
+        "addr:postcode": "19030",
+        "addr:state": "PA",
+        "addr:street": "South Oxford Valley Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Fairless Hills",
+        "opening_hours": "Mo-Fr 07:00-23:00",
+        "phone": "+1 215-547-4600",
+        "ref": "427",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/427"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.847445, 40.169405] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269689",
+      "properties": {
+        "addr:city": "East Hartford",
+        "addr:housenumber": "31",
+        "addr:postcode": "06118",
+        "addr:state": "CT",
+        "addr:street": "Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of East Hartford",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 860-895-8390",
+        "ref": "340",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/340"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.618775, 41.728643] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269690",
+      "properties": {
+        "addr:city": "Phillipsburg",
+        "addr:housenumber": "1207",
+        "addr:postcode": "08865",
+        "addr:state": "NJ",
+        "addr:street": "Route 22",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Greenwich",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 908-454-8086",
+        "ref": "437",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/437"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.143415, 40.68015] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269691",
+      "properties": {
+        "addr:city": "Flemington",
+        "addr:postcode": "08822",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Flemington",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 908-782-2553",
+        "ref": "457",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/457"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.855271, 40.497006] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269692",
+      "properties": {
+        "addr:city": "Clinton",
+        "addr:housenumber": "50",
+        "addr:postcode": "08809",
+        "addr:state": "NJ",
+        "addr:street": "Walmart Plaza",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Clinton, NJ",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 908-730-6800",
+        "ref": "497",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/497"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.9232099, 40.6268809] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269693",
+      "properties": {
+        "addr:city": "Cinnaminson",
+        "addr:housenumber": "141",
+        "addr:postcode": "08077",
+        "addr:state": "NJ",
+        "addr:street": "Route 130 South",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Cinnaminson",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-303-7676",
+        "ref": "518",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/518"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.009923, 39.990748] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269694",
+      "properties": {
+        "addr:city": "Norwich",
+        "addr:housenumber": "634",
+        "addr:postcode": "06360",
+        "addr:state": "CT",
+        "addr:street": "West Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Norwich",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 860-887-0409",
+        "ref": "336",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/336"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.101146, 41.513424] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269695",
+      "properties": {
+        "addr:city": "New London",
+        "addr:housenumber": "351",
+        "addr:postcode": "06320",
+        "addr:state": "CT",
+        "addr:street": "North Frontage Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of New London",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 860-447-1424",
+        "ref": "354",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/354"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.11758, 41.3717] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269696",
+      "properties": {
+        "addr:city": "Wharton",
+        "addr:housenumber": "314",
+        "addr:postcode": "07885",
+        "addr:state": "NJ",
+        "addr:street": "Route 15",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wharton",
+        "opening_hours": "24/7",
+        "phone": "+1 973-361-8901",
+        "ref": "487",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/487"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.570405, 40.904952] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269697",
+      "properties": {
+        "addr:city": "Southbury",
+        "addr:housenumber": "775",
+        "addr:postcode": "06488",
+        "addr:state": "CT",
+        "addr:street": "Main Street South",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Southbury",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-262-1477",
+        "ref": "389",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/389"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.22966, 41.463003] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269698",
+      "properties": {
+        "addr:city": "Stamford",
+        "addr:housenumber": "1990",
+        "addr:postcode": "06902",
+        "addr:state": "CT",
+        "addr:street": "West Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Commerce St.-Stamford, CT",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-978-0464",
+        "ref": "397",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/397"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.564922, 41.047371] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269699",
+      "properties": {
+        "addr:city": "Shelton",
+        "addr:housenumber": "875",
+        "addr:postcode": "06484",
+        "addr:state": "CT",
+        "addr:street": "Bridgeport Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Shelton",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-225-9224",
+        "ref": "398",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/398"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.134702, 41.264899] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269700",
+      "properties": {
+        "addr:city": "Canton",
+        "addr:postcode": "06019",
+        "addr:state": "CT",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Canton",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "phone": "+1 860-693-3666",
+        "ref": "367",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/367"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.881104, 41.822048] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269701",
+      "properties": {
+        "addr:city": "Marlton",
+        "addr:housenumber": "307",
+        "addr:postcode": "08053",
+        "addr:state": "NJ",
+        "addr:street": "West Route 70",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Marlton",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-983-7370",
+        "ref": "523",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/523"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.932543, 39.896088] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269702",
+      "properties": {
+        "addr:city": "Mount Laurel",
+        "addr:housenumber": "892",
+        "addr:postcode": "08054",
+        "addr:state": "NJ",
+        "addr:street": "Union Mill Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Union Mill Road",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-365-0341",
+        "ref": "525",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/525"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.91523, 39.937802] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269703",
+      "properties": {
+        "addr:city": "Cherry Hill",
+        "addr:housenumber": "400",
+        "addr:postcode": "08003",
+        "addr:state": "NJ",
+        "addr:street": "East Evesham Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Evesham Road",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-216-1400",
+        "ref": "529",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/529"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.972938, 39.861887] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269704",
+      "properties": {
+        "addr:city": "Cherry Hill",
+        "addr:housenumber": "2240",
+        "addr:postcode": "08002",
+        "addr:state": "NJ",
+        "addr:street": "West Marlton Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Garden State Pavilion",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-910-2300",
+        "ref": "570",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/570"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.042474, 39.929158] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269705",
+      "properties": {
+        "addr:city": "Mount Laurel",
+        "addr:housenumber": "1000",
+        "addr:postcode": "08054",
+        "addr:state": "NJ",
+        "addr:street": "Nixon Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Mt. Laurel",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-439-9700",
+        "ref": "594",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/594"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.965851, 39.937974] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269706",
+      "properties": {
+        "addr:city": "Bound Brook",
+        "addr:housenumber": "611",
+        "addr:postcode": "08805",
+        "addr:state": "NJ",
+        "addr:street": "West Union Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bound Brook",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-302-9299",
+        "ref": "466",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/466"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.552952, 40.570241] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269707",
+      "properties": {
+        "addr:city": "East Windsor",
+        "addr:housenumber": "319",
+        "addr:postcode": "08520",
+        "addr:state": "NJ",
+        "addr:street": "Route 130",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of East Windsor",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 609-448-1040",
+        "ref": "506",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/506"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.528836, 40.279793] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269708",
+      "properties": {
+        "addr:city": "Woodbridge",
+        "addr:housenumber": "877",
+        "addr:postcode": "07095",
+        "addr:state": "NJ",
+        "addr:street": "Saint George Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Woodbridge",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-636-3500",
+        "ref": "522",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/522"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.292634, 40.567563] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269709",
+      "properties": {
+        "addr:city": "North Brunswick",
+        "addr:housenumber": "400",
+        "addr:postcode": "08902",
+        "addr:state": "NJ",
+        "addr:street": "Renaissance Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of North Brunswick",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-940-3112",
+        "ref": "524",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/524"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.489834, 40.433688] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269710",
+      "properties": {
+        "addr:city": "Pennington",
+        "addr:housenumber": "2555",
+        "addr:postcode": "08534",
+        "addr:state": "NJ",
+        "addr:street": "Pennington Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Pennington",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-882-0711",
+        "ref": "533",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/533"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.787115, 40.306228] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269711",
+      "properties": {
+        "addr:city": "Edison",
+        "addr:postcode": "08817",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Edison",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-819-0140",
+        "ref": "573",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/573"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.383819, 40.512056] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269712",
+      "properties": {
+        "addr:city": "East Brunswick",
+        "addr:postcode": "08816",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of East Brunswick",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-257-7575",
+        "ref": "585",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/585"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.396513, 40.456984] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269713",
+      "properties": {
+        "addr:city": "Old Bridge",
+        "addr:housenumber": "2239",
+        "addr:postcode": "08857",
+        "addr:state": "NJ",
+        "addr:street": "U.s. 9",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Old Bridge",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 732-727-3533",
+        "ref": "509",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/509"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.304836, 40.410613] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269714",
+      "properties": {
+        "addr:city": "Carteret",
+        "addr:housenumber": "801",
+        "addr:postcode": "07008",
+        "addr:state": "NJ",
+        "addr:street": "Roosevelt Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Carteret",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 732-541-6457",
+        "ref": "511",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/511"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.228068, 40.589285] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269715",
+      "properties": {
+        "addr:city": "Parsippany",
+        "addr:housenumber": "808",
+        "addr:postcode": "07054",
+        "addr:state": "NJ",
+        "addr:street": "Route 46",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Parsippany",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 973-335-2625",
+        "ref": "355",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/355"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.375503, 40.865489] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269716",
+      "properties": {
+        "addr:city": "Laurel Springs",
+        "addr:housenumber": "1200",
+        "addr:postcode": "08021",
+        "addr:state": "NJ",
+        "addr:street": "Chews Landing Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Chews Landing",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-435-0880",
+        "ref": "507",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/507"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.037698, 39.818195] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269717",
+      "properties": {
+        "addr:city": "Sicklerville",
+        "addr:housenumber": "542",
+        "addr:postcode": "08081",
+        "addr:state": "NJ",
+        "addr:street": "Berlin Cross Keys Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Sicklerville",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-262-0411",
+        "ref": "508",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/508"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.996168, 39.741307] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269718",
+      "properties": {
+        "addr:city": "Washington",
+        "addr:housenumber": "2",
+        "addr:postcode": "07882",
+        "addr:state": "NJ",
+        "addr:street": "Club House Drive at Route 31 South",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Washington, NJ - Rt 31",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 908-835-0761",
+        "ref": "434",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/434"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.9778067, 40.7385818] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269719",
+      "properties": {
+        "addr:city": "Stirling",
+        "addr:housenumber": "1153",
+        "addr:postcode": "07980",
+        "addr:state": "NJ",
+        "addr:street": "Valley Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Stirling",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 908-604-2129",
+        "ref": "443",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/443"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.487877, 40.667276] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269720",
+      "properties": {
+        "addr:city": "Hillsborough",
+        "addr:postcode": "08844",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hillsborough",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 908-359-7400",
+        "ref": "447",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/447"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.643214, 40.500499] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269721",
+      "properties": {
+        "addr:city": "Somerset",
+        "addr:housenumber": "435",
+        "addr:postcode": "08873",
+        "addr:state": "NJ",
+        "addr:street": "Elizabeth Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Somerset",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 732-356-8703",
+        "ref": "451",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/451"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.537774, 40.530764] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269722",
+      "properties": {
+        "addr:city": "Watchung",
+        "addr:housenumber": "1701",
+        "addr:postcode": "07060",
+        "addr:state": "NJ",
+        "addr:street": "Route 22 West",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Watchung",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 908-322-6410",
+        "ref": "473",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/473"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.409831, 40.649892] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269723",
+      "properties": {
+        "addr:city": "Somerville",
+        "addr:housenumber": "1",
+        "addr:postcode": "08876",
+        "addr:state": "NJ",
+        "addr:street": "South Davenport Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Somerville",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 908-231-8100",
+        "ref": "468",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/468"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.615164, 40.56786] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269724",
+      "properties": {
+        "addr:city": "Fairfield",
+        "addr:housenumber": "1975",
+        "addr:postcode": "06825",
+        "addr:state": "CT",
+        "addr:street": "Black Rock Turnpike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Fairfield",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-615-0140",
+        "ref": "399",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/399"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.249904, 41.180002] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269725",
+      "properties": {
+        "addr:city": "Brodheadsville",
+        "addr:housenumber": "107",
+        "addr:postcode": "18322",
+        "addr:state": "PA",
+        "addr:street": "Kinsley Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brodheadsville",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 570-992-2666",
+        "ref": "422",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/422"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.422983, 40.919133] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269726",
+      "properties": {
+        "addr:city": "Bethlehem",
+        "addr:housenumber": "4701",
+        "addr:postcode": "18045",
+        "addr:state": "PA",
+        "addr:street": "Freemansburg Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bethlehem",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 610-865-2439",
+        "ref": "449",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/449"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.295964, 40.649266] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269727",
+      "properties": {
+        "addr:city": "Yardley",
+        "addr:housenumber": "1603",
+        "addr:postcode": "19067",
+        "addr:state": "PA",
+        "addr:street": "Big Oak Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Yardley",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 215-595-0078",
+        "ref": "407",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/407"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.866539, 40.198339] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269728",
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1817",
+        "addr:postcode": "08016",
+        "addr:state": "NJ",
+        "addr:street": "Mount Holly Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Burlington",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 609-387-1602",
+        "ref": "579",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/579"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.841057, 40.053679] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269729",
+      "properties": {
+        "addr:city": "Danbury",
+        "addr:housenumber": "1",
+        "addr:postcode": "06811",
+        "addr:state": "CT",
+        "addr:street": "Padanaram Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Danbury",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 475-329-6114",
+        "ref": "388",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/388"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.456143, 41.413044] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269730",
+      "properties": {
+        "addr:city": "South Plainfield",
+        "addr:housenumber": "3600",
+        "addr:postcode": "07080",
+        "addr:state": "NJ",
+        "addr:street": "Park Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of South Plainfield",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 908-561-2350",
+        "ref": "578",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/578"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.393029, 40.576612] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269731",
+      "properties": {
+        "addr:city": "Vernon",
+        "addr:housenumber": "35",
+        "addr:postcode": "06066",
+        "addr:state": "CT",
+        "addr:street": "Talcottville Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Vernon at Tri City Plaza",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 860-454-2264",
+        "ref": "350",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/350"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.498293, 41.827059] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269732",
+      "properties": {
+        "addr:city": "Stroudsburg",
+        "addr:housenumber": "344",
+        "addr:postcode": "18360",
+        "addr:state": "PA",
+        "addr:street": "Stroud Mall Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Stroudsburg",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 570-424-5715",
+        "ref": "433",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/433"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.224237, 40.990182] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269733",
+      "properties": {
+        "addr:city": "Monmouth Junction",
+        "addr:housenumber": "4154",
+        "addr:postcode": "08852",
+        "addr:state": "NJ",
+        "addr:street": "US Route 1",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of South Brunswick at Heritage Plaza",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-438-5222",
+        "ref": "584",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/584"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.570601, 40.385439] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269734",
+      "properties": {
+        "addr:city": "Matamoras",
+        "addr:housenumber": "111",
+        "addr:postcode": "18336",
+        "addr:state": "PA",
+        "addr:street": "Hulst Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Matamoras",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 570-491-3086",
+        "ref": "463",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/463"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.72233, 41.35204] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269735",
+      "properties": {
+        "addr:city": "Vineland",
+        "addr:housenumber": "3600",
+        "addr:postcode": "08360",
+        "addr:state": "NJ",
+        "addr:street": "East Landis Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Landis",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-691-0106",
+        "ref": "550",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/550"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.959373, 39.484275] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269736",
+      "properties": {
+        "addr:city": "Galloway",
+        "addr:housenumber": "401",
+        "addr:postcode": "08205",
+        "addr:state": "NJ",
+        "addr:street": "South Pitney Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Galloway",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-404-4160",
+        "ref": "600",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/600"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.495583, 39.462527] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269737",
+      "properties": {
+        "addr:city": "Egg Harbor Township",
+        "addr:housenumber": "3003",
+        "addr:postcode": "08234",
+        "addr:state": "NJ",
+        "addr:street": "English Creek Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of English Creek",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 609-645-7553",
+        "ref": "601",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/601"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.613343, 39.433116] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269738",
+      "properties": {
+        "addr:city": "Marmora",
+        "addr:housenumber": "4",
+        "addr:postcode": "08223",
+        "addr:state": "NJ",
+        "addr:street": "West Roosevelt Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Marmora",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 609-545-0410",
+        "ref": "603",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/603"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.64702, 39.264032] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269739",
+      "properties": {
+        "addr:city": "Somers Point",
+        "addr:postcode": "08244",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Somers Point",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "phone": "+1 609-927-8133",
+        "ref": "612",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/612"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.596322, 39.332391] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269740",
+      "properties": {
+        "addr:city": "Absecon",
+        "addr:housenumber": "616",
+        "addr:postcode": "08201",
+        "addr:state": "NJ",
+        "addr:street": "Whitehorse Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Absecon",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 609-646-2448",
+        "ref": "633",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/633"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.511215, 39.433203] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269741",
+      "properties": {
+        "addr:city": "Hammonton",
+        "addr:housenumber": "80",
+        "addr:postcode": "08037",
+        "addr:state": "NJ",
+        "addr:street": "South Whitehorse Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hammonton",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-704-7609",
+        "ref": "642",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/642"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.787151, 39.64485] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269742",
+      "properties": {
+        "addr:city": "Rio Grande Middle Township",
+        "addr:housenumber": "1700",
+        "addr:postcode": "08242",
+        "addr:state": "NJ",
+        "addr:street": "Route 47 South",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Rio Grande",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 609-399-3534",
+        "ref": "643",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/643"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.86887, 39.01197] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269743",
+      "properties": {
+        "addr:city": "Bensalem",
+        "addr:housenumber": "2200",
+        "addr:postcode": "19020",
+        "addr:state": "PA",
+        "addr:street": "Bristol Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bensalem",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 215-757-5491",
+        "ref": "428",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/428"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.9261714, 40.1297662] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269744",
+      "properties": {
+        "addr:city": "Brooklawn",
+        "addr:postcode": "08030",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brooklawn",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 856-742-8700",
+        "ref": "471",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/471"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1171646, 39.8782061] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269745",
+      "properties": {
+        "addr:city": "Lawrenceville",
+        "addr:housenumber": "3373",
+        "addr:postcode": "08648",
+        "addr:state": "NJ",
+        "addr:street": "Brunswick Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lawrenceville",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-275-8555",
+        "ref": "500",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/500"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.6837192, 40.2985097] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269746",
+      "properties": {
+        "addr:city": "Williamstown",
+        "addr:housenumber": "100",
+        "addr:postcode": "08094",
+        "addr:state": "NJ",
+        "addr:street": "South Blackhorse Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Williamstown",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-728-5600",
+        "ref": "504",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/504"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.992193, 39.6884604] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269747",
+      "properties": {
+        "addr:city": "Millville",
+        "addr:postcode": "08332",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Millville",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 856-776-2300",
+        "ref": "505",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/505"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0441375, 39.4206206] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269748",
+      "properties": {
+        "addr:city": "Vineland",
+        "addr:housenumber": "1255",
+        "addr:postcode": "08360",
+        "addr:state": "NJ",
+        "addr:street": "West Landis Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Delsea",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 856-691-9395",
+        "ref": "512",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/512"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.051439, 39.4848819] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269749",
+      "properties": {
+        "addr:city": "Hainesport",
+        "addr:housenumber": "1520",
+        "addr:postcode": "08036",
+        "addr:state": "NJ",
+        "addr:street": "Route 38 East",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hainesport",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 609-518-5200",
+        "ref": "516",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/516"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.808602, 39.981462] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269750",
+      "properties": {
+        "addr:city": "Sewell",
+        "addr:housenumber": "382",
+        "addr:postcode": "08080",
+        "addr:state": "NJ",
+        "addr:street": "Egg Harbor Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Sewell",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 856-582-6330",
+        "ref": "615",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/615"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0773631, 39.7528315] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269751",
+      "properties": {
+        "addr:city": "Croton-on-Hudson",
+        "addr:housenumber": "460",
+        "addr:postcode": "10520",
+        "addr:state": "NY",
+        "addr:street": "South Riverside Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Croton",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 914-271-6400",
+        "ref": "202",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/202"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.8816757, 41.1921736] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269752",
+      "properties": {
+        "addr:city": "Poughkeepsie",
+        "addr:housenumber": "1895",
+        "addr:postcode": "12601",
+        "addr:state": "NY",
+        "addr:street": "South Road",
+        "addr:unit": "3B",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Poughkeepsie",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-298-0024",
+        "ref": "206",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/206"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9217958, 41.6193638] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269753",
+      "properties": {
+        "addr:city": "Manahawkin",
+        "addr:postcode": "08050",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Manahawkin",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 609-597-0091",
+        "ref": "606",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/606"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.270308, 39.6982107] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269754",
+      "properties": {
+        "addr:city": "Lanoka Harbor",
+        "addr:postcode": "08734",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lacey Township",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 609-693-1152",
+        "ref": "609",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/609"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.1874582, 39.8508056] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269755",
+      "properties": {
+        "addr:city": "Spotswood",
+        "addr:housenumber": "380",
+        "addr:postcode": "08884",
+        "addr:state": "NJ",
+        "addr:street": "Summerhill Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Spotswood",
+        "opening_hours": "24/7",
+        "phone": "+1 732-251-5202",
+        "ref": "106",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/106"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.3875099, 40.4075022] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269756",
+      "properties": {
+        "addr:city": "Toms River",
+        "addr:housenumber": "860",
+        "addr:postcode": "08753",
+        "addr:state": "NJ",
+        "addr:street": "Fischer Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Fischer Bay",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 732-270-8833",
+        "ref": "610",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/610"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.2074646, 39.9659716] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269757",
+      "properties": {
+        "addr:city": "Manchester",
+        "addr:housenumber": "1001",
+        "addr:postcode": "08759",
+        "addr:state": "NJ",
+        "addr:street": "Route 70 West",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Manchester, NJ",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 732-657-0700",
+        "ref": "614",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/614"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.3020264, 40.0146708] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269758",
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "07446",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Ramsey",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-934-8989",
+        "ref": "107",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/107"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.1396551, 41.0671898] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269759",
+      "properties": {
+        "addr:city": "Bristol",
+        "addr:postcode": "06010",
+        "addr:state": "CT",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bristol at Farmington Ave",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 860-584-8022",
+        "ref": "316",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/316"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.9029262, 41.6955241] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269760",
+      "properties": {
+        "addr:city": "Wallingford",
+        "addr:housenumber": "846",
+        "addr:postcode": "06492",
+        "addr:state": "CT",
+        "addr:street": "North Colony Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wallingford",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 203-626-7760",
+        "ref": "321",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/321"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.8110849, 41.4789862] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269761",
+      "properties": {
+        "addr:city": "Mount Pocono",
+        "addr:housenumber": "89",
+        "addr:postcode": "18344",
+        "addr:state": "PA",
+        "addr:street": "State Route 940",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Mt Pocono",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 570-839-3885",
+        "ref": "416",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/416"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.356767, 41.124588] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269762",
+      "properties": {
+        "addr:city": "Moosic",
+        "addr:housenumber": "3409",
+        "addr:postcode": "18507",
+        "addr:state": "PA",
+        "addr:street": "Birney Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Birney Plaza",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 570-904-6040",
+        "ref": "429",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/429"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.702144, 41.375784] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269763",
+      "properties": {
+        "addr:city": "Warminster",
+        "addr:housenumber": "942",
+        "addr:postcode": "18974",
+        "addr:state": "PA",
+        "addr:street": "West Street Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Warminster",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 215-328-4700",
+        "ref": "439",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/439"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.108625, 40.20961] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269764",
+      "properties": {
+        "addr:city": "Ewing",
+        "addr:housenumber": "1750",
+        "addr:postcode": "08638",
+        "addr:state": "NJ",
+        "addr:street": "North Olden Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Ewing",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-219-0202",
+        "ref": "514",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/514"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.769471, 40.249662] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269765",
+      "properties": {
+        "addr:city": "Mount Laurel",
+        "addr:housenumber": "127",
+        "addr:postcode": "08054",
+        "addr:state": "NJ",
+        "addr:street": "Ark Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Mount Laurel at Ark Road",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-359-2180",
+        "ref": "515",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/515"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.87003, 39.973776] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269766",
+      "properties": {
+        "addr:city": "Delran",
+        "addr:housenumber": "1310",
+        "addr:postcode": "08075",
+        "addr:state": "NJ",
+        "addr:street": "Fairview Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Delran",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 856-824-1100",
+        "ref": "517",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/517"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.945503, 40.018367] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269767",
+      "properties": {
+        "addr:city": "Hamilton Township",
+        "addr:housenumber": "130",
+        "addr:postcode": "08691",
+        "addr:state": "NJ",
+        "addr:street": "Marketplace Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hamilton Market Place",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-581-5823",
+        "ref": "521",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/521"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.642496, 40.19188] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269768",
+      "properties": {
+        "addr:city": "Upper Deerfield",
+        "addr:housenumber": "1000",
+        "addr:postcode": "08302",
+        "addr:state": "NJ",
+        "addr:street": "North Pearl Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Upper Deerfield",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 856-451-1577",
+        "ref": "526",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/526"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.213233, 39.457366] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269769",
+      "properties": {
+        "addr:city": "West Berlin",
+        "addr:postcode": "08091",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Berlin",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-768-6450",
+        "ref": "531",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/531"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.934481, 39.806977] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269770",
+      "properties": {
+        "addr:city": "Lawnside",
+        "addr:housenumber": "130",
+        "addr:postcode": "8045",
+        "addr:state": "NJ",
+        "addr:street": "North White Horse Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lawnside",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-547-2590",
+        "ref": "534",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/534"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.043639, 39.867741] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269771",
+      "properties": {
+        "addr:city": "Clementon",
+        "addr:postcode": "08021",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Laurel Hill",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-627-6500",
+        "ref": "539",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/539"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.02544, 39.803096] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269772",
+      "properties": {
+        "addr:city": "Medford",
+        "addr:housenumber": "208",
+        "addr:postcode": "08055",
+        "addr:state": "NJ",
+        "addr:street": "Route 70 East",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Medford",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 609-953-7700",
+        "ref": "540",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/540"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.820769, 39.903632] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269773",
+      "properties": {
+        "addr:city": "Glassboro",
+        "addr:housenumber": "201",
+        "addr:postcode": "08028",
+        "addr:state": "NJ",
+        "addr:street": "Dalton Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Glassboro",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-863-3700",
+        "ref": "554",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/554"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.109484, 39.719309] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269774",
+      "properties": {
+        "addr:city": "Hamilton Township",
+        "addr:housenumber": "1225",
+        "addr:postcode": "08690",
+        "addr:state": "NJ",
+        "addr:street": "Route 33 Hamilton Plaza",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hamilton Square",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-890-8088",
+        "ref": "566",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/566"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.664674, 40.22605] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269775",
+      "properties": {
+        "addr:city": "Bordentown",
+        "addr:postcode": "08505",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bordentown",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-298-8700",
+        "ref": "572",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/572"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.703934, 40.173786] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269776",
+      "properties": {
+        "addr:city": "West Chester",
+        "addr:housenumber": "1115",
+        "addr:postcode": "19382",
+        "addr:state": "PA",
+        "addr:street": "West Chester Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of West Chester",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 610-696-4066",
+        "ref": "597",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/597"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.572773, 39.970536] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269777",
+      "properties": {
+        "addr:city": "Hatfield",
+        "addr:housenumber": "170",
+        "addr:postcode": "19440",
+        "addr:state": "PA",
+        "addr:street": "Forty Foot Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hatfield",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 215-368-4440",
+        "ref": "599",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/599"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.317989, 40.266988] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269778",
+      "properties": {
+        "addr:city": "West Deptford",
+        "addr:housenumber": "1077",
+        "addr:postcode": "08096",
+        "addr:state": "NJ",
+        "addr:street": "Mantua Pike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of West Deptford",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 856-468-8700",
+        "ref": "651",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/651"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.170382, 39.804622] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269779",
+      "properties": {
+        "addr:city": "Kearny",
+        "addr:housenumber": "100",
+        "addr:postcode": "07032",
+        "addr:state": "NJ",
+        "addr:street": "Passaic Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Kearny Square",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 201-998-1595",
+        "ref": "166",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/166"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.160296, 40.756877] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269780",
+      "properties": {
+        "addr:city": "Nutley",
+        "addr:housenumber": "437",
+        "addr:postcode": "07110",
+        "addr:state": "NJ",
+        "addr:street": "Franklin Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Nutley",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 973-235-1213",
+        "ref": "111",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.158176, 40.821713] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269781",
+      "properties": {
+        "addr:city": "Lyndhurst",
+        "addr:housenumber": "540",
+        "addr:postcode": "07071",
+        "addr:state": "NJ",
+        "addr:street": "New York Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lyndhurst",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-372-6181",
+        "ref": "113",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/113"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.118779, 40.811994] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269782",
+      "properties": {
+        "addr:city": "Emerson",
+        "addr:housenumber": "425",
+        "addr:postcode": "07630",
+        "addr:state": "NJ",
+        "addr:street": "Old Hook Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Emerson",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 201-262-0012",
+        "ref": "117",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/117"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.006966, 40.981769] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269783",
+      "properties": {
+        "addr:city": "Hoboken",
+        "addr:housenumber": "900",
+        "addr:postcode": "07030",
+        "addr:state": "NJ",
+        "addr:street": "Madison Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hoboken",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 201-792-6070",
+        "ref": "118",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/118"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.036571, 40.749467] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269784",
+      "properties": {
+        "addr:city": "Bayonne",
+        "addr:postcode": "07002",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bayonne-26 Street",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-437-6000",
+        "ref": "119",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/119"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.131019, 40.645915] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269785",
+      "properties": {
+        "addr:city": "Passaic",
+        "addr:housenumber": "503",
+        "addr:postcode": "07055",
+        "addr:state": "NJ",
+        "addr:street": "Paulison Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Passaic on Paulison Ave",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 973-471-0868",
+        "ref": "120",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/120"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.139813, 40.862192] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269786",
+      "properties": {
+        "addr:city": "Rochelle Park",
+        "addr:housenumber": "220",
+        "addr:postcode": "07662",
+        "addr:state": "NJ",
+        "addr:street": "West Passaic Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Rochelle Park",
+        "opening_hours": "24/7",
+        "phone": "+1 201-843-1424",
+        "ref": "121",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/121"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.080496, 40.915267] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269787",
+      "properties": {
+        "addr:city": "Lodi",
+        "addr:housenumber": "175",
+        "addr:postcode": "07644",
+        "addr:state": "NJ",
+        "addr:street": "Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lodi",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 973-365-2287",
+        "ref": "122",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.085012, 40.879585] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269788",
+      "properties": {
+        "addr:city": "Belleville",
+        "addr:housenumber": "726",
+        "addr:postcode": "07109",
+        "addr:state": "NJ",
+        "addr:street": "Washington Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Belleville",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 973-302-8600",
+        "ref": "126",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/126"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.145329, 40.804861] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269789",
+      "properties": {
+        "addr:city": "North Bergen",
+        "addr:housenumber": "3147",
+        "addr:postcode": "07047",
+        "addr:state": "NJ",
+        "addr:street": "Kennedy Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Columbia Park",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-553-5700",
+        "ref": "130",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/130"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.035172, 40.774653] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269790",
+      "properties": {
+        "addr:city": "Hackensack",
+        "addr:housenumber": "500",
+        "addr:postcode": "07601",
+        "addr:state": "NJ",
+        "addr:street": "South River Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hackensack",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-329-7470",
+        "ref": "134",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/134"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.034559, 40.863578] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269791",
+      "properties": {
+        "addr:city": "Wallington",
+        "addr:housenumber": "375",
+        "addr:postcode": "07057",
+        "addr:state": "NJ",
+        "addr:street": "Paterson Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wallington",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-508-8000",
+        "ref": "136",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/136"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.106828, 40.84493] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269792",
+      "properties": {
+        "addr:city": "Jersey City",
+        "addr:postcode": "07302",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Metro Plaza",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-418-0300",
+        "ref": "139",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/139"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.040099, 40.724348] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269793",
+      "properties": {
+        "addr:city": "Wyckoff",
+        "addr:housenumber": "430",
+        "addr:postcode": "07481",
+        "addr:state": "NJ",
+        "addr:street": "Greenwood Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wyckoff",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 201-560-0490",
+        "ref": "140",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/140"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.169846, 41.013517] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269794",
+      "properties": {
+        "addr:city": "New Milford",
+        "addr:housenumber": "250",
+        "addr:postcode": "07646",
+        "addr:state": "NJ",
+        "addr:street": "River Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of New Milford",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-262-8834",
+        "ref": "141",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/141"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.019998, 40.94515] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269795",
+      "properties": {
+        "addr:city": "Palisades Park",
+        "addr:postcode": "07650",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Palisades Park",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 201-461-0219",
+        "ref": "150",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/150"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.004666, 40.851981] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269796",
+      "properties": {
+        "addr:city": "Hillsdale",
+        "addr:housenumber": "372",
+        "addr:postcode": "07642",
+        "addr:state": "NJ",
+        "addr:street": "Broadway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hillsdale",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 201-666-7821",
+        "ref": "151",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/151"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.041369, 41.012753] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269797",
+      "properties": {
+        "addr:city": "Northvale",
+        "addr:housenumber": "246",
+        "addr:postcode": "07647",
+        "addr:state": "NJ",
+        "addr:street": "Livingston Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Northvale",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 201-784-0173",
+        "ref": "153",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/153"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.944856, 41.012466] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269798",
+      "properties": {
+        "addr:city": "Perth Amboy",
+        "addr:postcode": "08861",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Perth Amboy",
+        "opening_hours": "24/7",
+        "phone": "+1 732-442-1717",
+        "ref": "156",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/156"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.287163, 40.516616] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269799",
+      "properties": {
+        "addr:city": "Hillside",
+        "addr:housenumber": "370",
+        "addr:postcode": "07205",
+        "addr:state": "NJ",
+        "addr:street": "Route 22 West",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hillside",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1 908-810-4662",
+        "ref": "159",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/159"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.234321, 40.700405] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269800",
+      "properties": {
+        "addr:city": "Paramus",
+        "addr:housenumber": "224",
+        "addr:postcode": "07652",
+        "addr:state": "NJ",
+        "addr:street": "Route 4 East At Forest Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Paramus",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 201-843-6616",
+        "ref": "160",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/160"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0560669, 40.9156509] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269801",
+      "properties": {
+        "addr:city": "Garwood",
+        "addr:housenumber": "563",
+        "addr:postcode": "07027",
+        "addr:state": "NJ",
+        "addr:street": "North Avenue East",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Garwood",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 908-654-0803",
+        "ref": "162",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/162"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.331156, 40.652125] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269802",
+      "properties": {
+        "addr:city": "Clark",
+        "addr:housenumber": "76",
+        "addr:postcode": "07066",
+        "addr:state": "NJ",
+        "addr:street": "Central Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Clark",
+        "opening_hours": "Mo-Sa 06:00-01:00",
+        "phone": "+1 732-381-7600",
+        "ref": "163",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/163"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.305277, 40.629139] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269803",
+      "properties": {
+        "addr:city": "Linden",
+        "addr:postcode": "07036",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Linden",
+        "opening_hours": "24/7",
+        "phone": "+1 908-523-0707",
+        "ref": "164",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/164"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.247154, 40.618325] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269804",
+      "properties": {
+        "addr:city": "Englewood",
+        "addr:housenumber": "40",
+        "addr:postcode": "07631",
+        "addr:state": "NJ",
+        "addr:street": "Nathaniel Place",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Englewood",
+        "opening_hours": "24/7",
+        "phone": "+1 201-816-8330",
+        "ref": "169",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/169"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.975547, 40.896667] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269805",
+      "properties": {
+        "addr:city": "Elizabeth",
+        "addr:housenumber": "865",
+        "addr:postcode": "07202",
+        "addr:state": "NJ",
+        "addr:street": "West Grand Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Elizabeth",
+        "opening_hours": "24/7",
+        "phone": "+1 908-558-9126",
+        "ref": "191",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/191"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.238914, 40.66384] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269806",
+      "properties": {
+        "addr:city": "Marlboro",
+        "addr:postcode": "07751",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Marlboro",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-617-0404",
+        "ref": "193",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/193"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.305756, 40.342731] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269807",
+      "properties": {
+        "addr:city": "Netcong",
+        "addr:postcode": "07857",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Netcong",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-347-0138",
+        "ref": "201",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/201"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.705331, 40.896848] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269808",
+      "properties": {
+        "addr:city": "Byram Township",
+        "addr:postcode": "07874",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Byram",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-448-9770",
+        "ref": "203",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/203"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.718522, 40.934819] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269809",
+      "properties": {
+        "addr:city": "Little Falls",
+        "addr:postcode": "07424",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Little Falls",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 973-256-0909",
+        "ref": "205",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/205"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.211391, 40.881767] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269810",
+      "properties": {
+        "addr:city": "West Caldwell",
+        "addr:housenumber": "540",
+        "addr:postcode": "07006",
+        "addr:state": "NJ",
+        "addr:street": "Passaic Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of West Caldwell",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 973-575-1770",
+        "ref": "207",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/207"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.296699, 40.848278] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269811",
+      "properties": {
+        "addr:city": "Flanders",
+        "addr:housenumber": "90",
+        "addr:postcode": "07836",
+        "addr:state": "NJ",
+        "addr:street": "Bartley Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Flanders",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-252-5160",
+        "ref": "212",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/212"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.7141307, 40.8349643] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269812",
+      "properties": {
+        "addr:city": "Newton",
+        "addr:housenumber": "127",
+        "addr:postcode": "07860",
+        "addr:state": "NJ",
+        "addr:street": "Water Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Newton",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-383-6900",
+        "ref": "213",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/213"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.744878, 41.065498] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269813",
+      "properties": {
+        "addr:city": "Bloomfield",
+        "addr:housenumber": "1409",
+        "addr:postcode": "07003",
+        "addr:state": "NJ",
+        "addr:street": "Broad Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brookdale",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 973-338-4141",
+        "ref": "215",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.18799, 40.80851] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269814",
+      "properties": {
+        "addr:city": "Pearl River",
+        "addr:housenumber": "26",
+        "addr:postcode": "10965",
+        "addr:state": "NY",
+        "addr:street": "North Middletown Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Pearl River",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1 845-735-4871",
+        "ref": "219",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/219"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.011663, 41.060814] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269815",
+      "properties": {
+        "addr:city": "New City",
+        "addr:postcode": "10956",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of New City",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-638-3218",
+        "ref": "222",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/222"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.987657, 41.149128] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269816",
+      "properties": {
+        "addr:city": "Hackettstown",
+        "addr:postcode": "07840",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Mansfield",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 908-852-1200",
+        "ref": "224",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/224"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.836386, 40.823081] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269817",
+      "properties": {
+        "addr:city": "East Orange",
+        "addr:housenumber": "533",
+        "addr:postcode": "07019",
+        "addr:state": "NJ",
+        "addr:street": "Martin Luther King Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of East Orange",
+        "opening_hours": "24/7",
+        "phone": "+1 973-674-1500",
+        "ref": "225",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/225"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.218697, 40.766396] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269818",
+      "properties": {
+        "addr:city": "Morristown",
+        "addr:housenumber": "178",
+        "addr:postcode": "07960",
+        "addr:state": "NJ",
+        "addr:street": "East Hanover Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Greater Morristown",
+        "opening_hours": "Mo-Su 06:30-23:00",
+        "phone": "+1 973-829-6825",
+        "ref": "245",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/245"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.468915, 40.81393] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269819",
+      "properties": {
+        "addr:city": "Livingston",
+        "addr:housenumber": "483",
+        "addr:postcode": "07039",
+        "addr:state": "NJ",
+        "addr:street": "South Livingston Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Livingston",
+        "opening_hours": "Mo-Su 06:30-23:00",
+        "phone": "+1 973-740-2004",
+        "ref": "247",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/247"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.321517, 40.774985] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269820",
+      "properties": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "14",
+        "addr:postcode": "07436",
+        "addr:state": "NJ",
+        "addr:street": "Post Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Oakland",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 201-337-3900",
+        "ref": "256",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/256"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.256299, 41.014557] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269821",
+      "properties": {
+        "addr:city": "West Milford",
+        "addr:housenumber": "23",
+        "addr:postcode": "07480",
+        "addr:state": "NJ",
+        "addr:street": "Marshall Hill Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of West Milford",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 973-728-3458",
+        "ref": "257",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/257"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.365469, 41.131412] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269822",
+      "properties": {
+        "addr:city": "Union",
+        "addr:housenumber": "2401",
+        "addr:postcode": "07083",
+        "addr:state": "NJ",
+        "addr:street": "US Highway 22 West",
+        "addr:unit": "D",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Union, NJ - Highway 22",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 908-810-6742",
+        "ref": "262",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/262"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.296143, 40.691348] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269823",
+      "properties": {
+        "addr:city": "Stony Point",
+        "addr:housenumber": "22",
+        "addr:postcode": "10980",
+        "addr:state": "NY",
+        "addr:street": "Holt Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Stony Point",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-429-0692",
+        "ref": "268",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/268"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.982361, 41.217865] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269824",
+      "properties": {
+        "addr:city": "Chester",
+        "addr:postcode": "07930",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Chester, NJ",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 908-879-5836",
+        "ref": "273",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/273"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.694819, 40.780841] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269825",
+      "properties": {
+        "addr:city": "Succasunna",
+        "addr:postcode": "07876",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Succasunna",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-584-1322",
+        "ref": "281",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/281"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.649069, 40.868014] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269826",
+      "properties": {
+        "addr:city": "Sparta",
+        "addr:housenumber": "18",
+        "addr:postcode": "07871",
+        "addr:state": "NJ",
+        "addr:street": "North Village Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Sparta",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-729-6900",
+        "ref": "283",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/283"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.656539, 41.076683] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269827",
+      "properties": {
+        "addr:city": "Chatham",
+        "addr:housenumber": "641",
+        "addr:postcode": "07928",
+        "addr:state": "NJ",
+        "addr:street": "Shunpike Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Chatham",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 973-377-4788",
+        "ref": "284",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/284"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.431979, 40.745445] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269828",
+      "properties": {
+        "addr:city": "Rockaway",
+        "addr:postcode": "07866",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Rockaway",
+        "opening_hours": "Mo-Sa 09:00-22:00;24/7",
+        "ref": "287;810",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/287;https://www.shoprite.com/sm/planning/rsid/810"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.536357, 40.884758] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269829",
+      "properties": {
+        "addr:city": "West Nyack",
+        "addr:housenumber": "243",
+        "addr:postcode": "10994",
+        "addr:state": "NY",
+        "addr:street": "East Route 59",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of West Nyack",
+        "opening_hours": "Mo-Su 07:00-10:00",
+        "phone": "+1 845-353-7377",
+        "ref": "288",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/288"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.95894, 41.092798] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269830",
+      "properties": {
+        "addr:city": "Franklin",
+        "addr:postcode": "07416",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Franklin",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+1 973-827-6135",
+        "ref": "291",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/291"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.579127, 41.117562] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269831",
+      "properties": {
+        "addr:city": "Garnerville",
+        "addr:housenumber": "56",
+        "addr:postcode": "10923",
+        "addr:state": "NY",
+        "addr:street": "West Ramapo Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Garnerville",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 845-786-3006",
+        "ref": "292",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/292"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.008654, 41.200295] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269832",
+      "properties": {
+        "addr:city": "Springfield",
+        "addr:housenumber": "727",
+        "addr:postcode": "07081",
+        "addr:state": "NJ",
+        "addr:street": "Morris Turnpike",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Springfield",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 973-376-3028",
+        "ref": "294",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/294"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.331102, 40.718991] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269833",
+      "properties": {
+        "addr:city": "West Orange",
+        "addr:housenumber": "1",
+        "addr:postcode": "07052",
+        "addr:state": "NJ",
+        "addr:street": "Rooney Circle",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Essex Green",
+        "opening_hours": "Mo-Su 06:30-23:00",
+        "phone": "+1 973-736-9374",
+        "ref": "296",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/296"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.255569, 40.79507] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269834",
+      "properties": {
+        "addr:city": "Lincoln Park",
+        "addr:housenumber": "60",
+        "addr:postcode": "07035",
+        "addr:state": "NJ",
+        "addr:street": "Beaver Brook Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Lincoln Park",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 973-694-1080",
+        "ref": "297",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/297"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.31314, 40.93046] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269835",
+      "properties": {
+        "addr:city": "Millburn",
+        "addr:housenumber": "220",
+        "addr:postcode": "07041",
+        "addr:state": "NJ",
+        "addr:street": "Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Millburn",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "+1 973-467-5436",
+        "ref": "298",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/298"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.307334, 40.717988] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269836",
+      "properties": {
+        "addr:city": "Neptune",
+        "addr:housenumber": "2200",
+        "addr:postcode": "07753",
+        "addr:state": "NJ",
+        "addr:street": "Asbury Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Neptune",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-775-4250",
+        "ref": "299",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/299"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.042994, 40.224418] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269837",
+      "properties": {
+        "addr:city": "Bernardsville",
+        "addr:housenumber": "93",
+        "addr:postcode": "07924",
+        "addr:state": "NJ",
+        "addr:street": "Morristown Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bernardsville",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 908-766-3129",
+        "ref": "453",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/453"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.562345, 40.718968] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269838",
+      "properties": {
+        "addr:city": "Branchburg",
+        "addr:housenumber": "3166",
+        "addr:postcode": "08876",
+        "addr:state": "NJ",
+        "addr:street": "Route 22",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Branchburg",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 908-704-3378",
+        "ref": "470",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/470"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.691986, 40.604744] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269839",
+      "properties": {
+        "addr:city": "Piscataway",
+        "addr:postcode": "08854",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Piscataway",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-981-9111",
+        "ref": "552",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/552"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.442585, 40.551542] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269840",
+      "properties": {
+        "addr:city": "Parlin",
+        "addr:housenumber": "2909",
+        "addr:postcode": "08859",
+        "addr:state": "NJ",
+        "addr:street": "Washington Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Ernston Road",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-525-8282",
+        "ref": "553",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/553"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.312848, 40.467509] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269841",
+      "properties": {
+        "addr:city": "Toms River",
+        "addr:housenumber": "2",
+        "addr:postcode": "08753",
+        "addr:state": "NJ",
+        "addr:street": "Route 37 West",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Route 37",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 732-286-4500",
+        "ref": "604",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/604"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.205799, 39.965892] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269842",
+      "properties": {
+        "addr:city": "Freehold",
+        "addr:postcode": "07728",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Freehold",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-462-3120",
+        "ref": "607",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/607"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.275912, 40.243314] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269843",
+      "properties": {
+        "addr:city": "Aberdeen",
+        "addr:housenumber": "318",
+        "addr:postcode": "07747",
+        "addr:state": "NJ",
+        "addr:street": "Lloyd Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Aberdeen, NJ",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-566-9111",
+        "ref": "613",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/613"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.22154, 40.395279] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269844",
+      "properties": {
+        "addr:city": "Montgomery Township",
+        "addr:postcode": "08558",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Montgomery, NJ",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 609-279-9800",
+        "ref": "617",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/617"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.647089, 40.404866] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269845",
+      "properties": {
+        "addr:city": "Shrewsbury",
+        "addr:housenumber": "1151",
+        "addr:postcode": "07702",
+        "addr:state": "NJ",
+        "addr:street": "Shrewsbury Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Shrewsbury",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-380-0411",
+        "ref": "620",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/620"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.065202, 40.313314] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269846",
+      "properties": {
+        "addr:city": "West Long Branch",
+        "addr:postcode": "07764",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of West Long Branch",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-542-5222",
+        "ref": "623",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/623"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.031991, 40.296082] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269847",
+      "properties": {
+        "addr:city": "Hazlet",
+        "addr:housenumber": "3120",
+        "addr:postcode": "07730",
+        "addr:state": "NJ",
+        "addr:street": "State Highway 35",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hazlet",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-264-4110",
+        "ref": "626",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/626"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.183323, 40.419005] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269848",
+      "properties": {
+        "addr:city": "Manasquan",
+        "addr:housenumber": "2433",
+        "addr:postcode": "08736",
+        "addr:state": "NJ",
+        "addr:street": "Highway 34",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wall Township",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-292-9780",
+        "ref": "630",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/630"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.08043, 40.121531] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269849",
+      "properties": {
+        "addr:city": "Howell",
+        "addr:housenumber": "4594",
+        "addr:postcode": "07731",
+        "addr:state": "NJ",
+        "addr:street": "Route 9 South",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Howell",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 848-299-0080",
+        "ref": "631",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/631"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.225153, 40.139954] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269850",
+      "properties": {
+        "addr:city": "Middletown",
+        "addr:postcode": "07748",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Middletown",
+        "opening_hours": "Mo-Sa 07:00-23:00;Su 10:00-19:00",
+        "ref": "634;833",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/833;https://www.shoprite.com/sm/planning/rsid/634"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.127329, 40.403537] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269851",
+      "properties": {
+        "addr:city": "Belmar",
+        "addr:postcode": "07719",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Belmar - Rt. 35 & 18th Ave",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 732-681-0900",
+        "ref": "638",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/638"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.045029, 40.169794] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269852",
+      "properties": {
+        "addr:city": "Brick",
+        "addr:housenumber": "668",
+        "addr:postcode": "08723",
+        "addr:state": "NJ",
+        "addr:street": "Route 70",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bricktown",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 732-477-7906",
+        "ref": "641",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/641"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.144252, 40.061766] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269853",
+      "properties": {
+        "addr:city": "Jackson",
+        "addr:housenumber": "260",
+        "addr:postcode": "08527",
+        "addr:state": "NJ",
+        "addr:street": "North County Line Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Jackson",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 732-886-7009",
+        "ref": "616",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/616"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.293045, 40.139048] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269854",
+      "properties": {
+        "addr:city": "Bayville",
+        "addr:housenumber": "431",
+        "addr:postcode": "08721",
+        "addr:state": "NJ",
+        "addr:street": "Atlantic City Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bayville",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 732-606-0800",
+        "ref": "618",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/618"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.152834, 39.913857] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269855",
+      "properties": {
+        "addr:city": "Waretown",
+        "addr:housenumber": "501",
+        "addr:postcode": "08758",
+        "addr:state": "NJ",
+        "addr:street": "Route 9",
+        "addr:unit": "100",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Waretown",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 609-971-6001",
+        "ref": "619",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/619"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.199049, 39.795905] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269856",
+      "properties": {
+        "addr:city": "Southington",
+        "addr:housenumber": "750",
+        "addr:postcode": "06489",
+        "addr:state": "CT",
+        "addr:street": "Queen Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Southington",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 860-736-0044",
+        "ref": "315",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/315"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.875141, 41.636545] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269857",
+      "properties": {
+        "addr:city": "Clinton",
+        "addr:housenumber": "266",
+        "addr:postcode": "06413",
+        "addr:state": "CT",
+        "addr:street": "East Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Clinton, CT",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 860-669-0107",
+        "ref": "318",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/318"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.501968, 41.27018] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269858",
+      "properties": {
+        "addr:city": "Enfield",
+        "addr:housenumber": "40",
+        "addr:postcode": "06082",
+        "addr:state": "CT",
+        "addr:street": "Hazard Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brookside Plaza",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 860-745-1621",
+        "ref": "319",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/319"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.580462, 41.988055] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269859",
+      "properties": {
+        "addr:city": "Stratford",
+        "addr:housenumber": "250",
+        "addr:postcode": "06614",
+        "addr:state": "CT",
+        "addr:street": "Barnum Avenue Cutoff",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Stratford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-378-4296",
+        "ref": "320",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/320"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.119744, 41.20078] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269860",
+      "properties": {
+        "addr:city": "Hamden",
+        "addr:housenumber": "2100",
+        "addr:postcode": "06514",
+        "addr:state": "CT",
+        "addr:street": "Dixwell Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hamden",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-230-5000",
+        "ref": "324",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/324"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.922289, 41.36965] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269861",
+      "properties": {
+        "addr:city": "Orange",
+        "addr:housenumber": "259",
+        "addr:postcode": "06477",
+        "addr:state": "CT",
+        "addr:street": "Bull Hill Lane",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Orange, CT",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-795-0628",
+        "ref": "325",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/325"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.987141, 41.273704] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269862",
+      "properties": {
+        "addr:city": "East Haven",
+        "addr:housenumber": "745",
+        "addr:postcode": "06513",
+        "addr:state": "CT",
+        "addr:street": "Foxon Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of East Haven",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 475-202-5180",
+        "ref": "326",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/326"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.854753, 41.323544] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269863",
+      "properties": {
+        "addr:city": "Milford",
+        "addr:housenumber": "935",
+        "addr:postcode": "06460",
+        "addr:state": "CT",
+        "addr:street": "Boston Post Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Milford, CT",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-876-7868",
+        "ref": "327",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/327"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.049103, 41.231813] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269864",
+      "properties": {
+        "addr:city": "Manchester",
+        "addr:housenumber": "214",
+        "addr:postcode": "06040",
+        "addr:state": "CT",
+        "addr:street": "Spencer Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Manchester",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 860-645-3240",
+        "ref": "330",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/330"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.57046, 41.765675] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269865",
+      "properties": {
+        "addr:city": "Cromwell",
+        "addr:housenumber": "45",
+        "addr:postcode": "06416",
+        "addr:state": "CT",
+        "addr:street": "Shunpike Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Cromwell",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 860-613-2063",
+        "ref": "331",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/331"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.678278, 41.604201] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269866",
+      "properties": {
+        "addr:city": "Stamford",
+        "addr:housenumber": "200",
+        "addr:postcode": "06902",
+        "addr:state": "CT",
+        "addr:street": "Shippan Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Shippan Ave- Stamford, CT",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-964-9500",
+        "ref": "390",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/390"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.52347, 41.048396] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269867",
+      "properties": {
+        "addr:city": "Stamford",
+        "addr:housenumber": "563",
+        "addr:postcode": "06905",
+        "addr:state": "CT",
+        "addr:street": "Newfield Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "Grade A Market of Newfield Avenue",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-356-1662",
+        "ref": "391",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/391"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.532366, 41.080393] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269868",
+      "properties": {
+        "addr:city": "Brookfield",
+        "addr:housenumber": "143",
+        "addr:postcode": "06804",
+        "addr:state": "CT",
+        "addr:street": "Federal Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Brookfield",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-775-7078",
+        "ref": "392",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/392"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.406313, 41.437047] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269869",
+      "properties": {
+        "addr:city": "Norwalk",
+        "addr:postcode": "06850",
+        "addr:state": "CT",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Norwalk",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-838-0504",
+        "ref": "394",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/394"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.440566, 41.102472] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269870",
+      "properties": {
+        "addr:city": "Stamford",
+        "addr:housenumber": "495",
+        "addr:postcode": "06906",
+        "addr:state": "CT",
+        "addr:street": "Hope Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "Grade A Market of Hope Street",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-325-9991",
+        "ref": "395",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/395"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.521678, 41.076768] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269871",
+      "properties": {
+        "addr:city": "Derby",
+        "addr:housenumber": "49",
+        "addr:postcode": "06418",
+        "addr:state": "CT",
+        "addr:street": "Pershing Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Derby",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 203-736-1001",
+        "ref": "396",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/396"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.086462, 41.330431] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269872",
+      "properties": {
+        "addr:city": "Middletown",
+        "addr:housenumber": "20",
+        "addr:postcode": "10940",
+        "addr:state": "NY",
+        "addr:street": "Lloyds Lane",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wallkill",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-341-2104",
+        "ref": "211",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/211"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.39907, 41.4537223] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269873",
+      "properties": {
+        "addr:city": "Bedford Hills",
+        "addr:housenumber": "747",
+        "addr:postcode": "10507",
+        "addr:state": "NY",
+        "addr:street": "Bedford Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Bedford Hills",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 914-666-7990",
+        "ref": "220",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/220"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.715228, 41.224858] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269874",
+      "properties": {
+        "addr:city": "Monticello",
+        "addr:housenumber": "46",
+        "addr:postcode": "12701",
+        "addr:state": "NY",
+        "addr:street": "Thompson Square",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Monticello",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 845-794-0777",
+        "ref": "227",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/227"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.6729916, 41.6668484] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269875",
+      "properties": {
+        "addr:city": "White Plains",
+        "addr:housenumber": "13",
+        "addr:postcode": "10601",
+        "addr:state": "NY",
+        "addr:street": "City Place",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of White Plains",
+        "opening_hours": "Mo-Sa 07:00-00:00",
+        "phone": "+1 914-539-4500",
+        "ref": "231",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/231"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.7678093, 41.0320538] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269876",
+      "properties": {
+        "addr:city": "Carmel",
+        "addr:housenumber": "184",
+        "addr:postcode": "10512",
+        "addr:state": "NY",
+        "addr:street": "Route 52",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Carmel",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-225-1011",
+        "ref": "235",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/235"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.680262, 41.43613] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269877",
+      "properties": {
+        "addr:city": "Monroe",
+        "addr:postcode": "10950",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Monroe",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-783-4496",
+        "ref": "237",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/237"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.193995, 41.331846] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269878",
+      "properties": {
+        "addr:city": "Montgomery",
+        "addr:housenumber": "99",
+        "addr:postcode": "12549",
+        "addr:state": "NY",
+        "addr:street": "Hawkins Drive",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Montgomery, NY",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-457-4114",
+        "ref": "239",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/239"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.212509, 41.5113673] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269879",
+      "properties": {
+        "addr:city": "Kingston",
+        "addr:housenumber": "801",
+        "addr:postcode": "12401",
+        "addr:state": "NY",
+        "addr:street": "Miron Lane",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Kingston",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-336-7800",
+        "ref": "241",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/241"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.986227, 41.960128] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269880",
+      "properties": {
+        "addr:city": "Chester",
+        "addr:housenumber": "78",
+        "addr:postcode": "10918",
+        "addr:state": "NY",
+        "addr:street": "Brookside Avenue",
+        "addr:unit": "122",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Chester Plaza, NY",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-469-7400",
+        "ref": "242",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/242"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.283795, 41.360385] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269881",
+      "properties": {
+        "addr:city": "LaGrangeville",
+        "addr:postcode": "12540",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of LaGrangeville",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-447-1471",
+        "ref": "244",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/244"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.772687, 41.629522] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269882",
+      "properties": {
+        "addr:city": "Vails Gate",
+        "addr:housenumber": "384",
+        "addr:postcode": "12584",
+        "addr:state": "NY",
+        "addr:street": "Windsor Highway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Vailsgate",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-863-1051",
+        "ref": "260",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/260"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.057237, 41.45761] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269883",
+      "properties": {
+        "addr:city": "Liberty",
+        "addr:housenumber": "1955",
+        "addr:postcode": "12754",
+        "addr:state": "NY",
+        "addr:street": "State Route 52",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Liberty",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "phone": "+1 845-292-3336",
+        "ref": "263",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/263"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.720172, 41.783002] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269884",
+      "properties": {
+        "addr:city": "Ellenville",
+        "addr:housenumber": "1",
+        "addr:postcode": "12428",
+        "addr:state": "NY",
+        "addr:street": "ShopRite Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Ellenville",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 845-647-1090",
+        "ref": "266",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/266"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.381492, 41.731107] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269885",
+      "properties": {
+        "addr:city": "Warwick",
+        "addr:housenumber": "153",
+        "addr:postcode": "10990",
+        "addr:state": "NY",
+        "addr:street": "State Route 94S",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Warwick",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-987-1200",
+        "ref": "267",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/267"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.380962, 41.235802] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269886",
+      "properties": {
+        "addr:city": "Fishkill",
+        "addr:postcode": "12524",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Fishkill",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 845-897-2211",
+        "ref": "269",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/269"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.897792, 41.539643] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269887",
+      "properties": {
+        "addr:city": "Middletown",
+        "addr:housenumber": "125",
+        "addr:postcode": "10940",
+        "addr:state": "NY",
+        "addr:street": "Dolson Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Middletown",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-343-1139",
+        "ref": "272",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/272"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.4266305, 41.429033] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269888",
+      "properties": {
+        "addr:city": "Poughkeepsie",
+        "addr:housenumber": "10",
+        "addr:postcode": "12601",
+        "addr:state": "NY",
+        "addr:street": "Winslow Gate Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of North Poughkeepsie",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-218-6086",
+        "ref": "274",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/274"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.92826, 41.72909] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269889",
+      "properties": {
+        "addr:city": "Yonkers",
+        "addr:housenumber": "278",
+        "addr:postcode": "10710",
+        "addr:state": "NY",
+        "addr:street": "Tuckahoe Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Tuckahoe",
+        "opening_hours": "Mo-Sa 06:00-02:00",
+        "phone": "+1 914-793-2214",
+        "ref": "275",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/275"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.858693, 40.953388] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269890",
+      "properties": {
+        "addr:city": "Thornwood",
+        "addr:housenumber": "960",
+        "addr:postcode": "10594",
+        "addr:state": "NY",
+        "addr:street": "Broadway Route 141",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Thornwood",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 914-747-1108",
+        "ref": "276",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/276"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.779213, 41.125156] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269891",
+      "properties": {
+        "addr:city": "Hudson",
+        "addr:housenumber": "351",
+        "addr:postcode": "12534",
+        "addr:state": "NY",
+        "addr:street": "Fairview Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Hudson",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 518-828-0192",
+        "ref": "277",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/277"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.763559, 42.272047] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269892",
+      "properties": {
+        "addr:city": "Mohegan Lake",
+        "addr:postcode": "10547",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Cortlandt",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 914-737-4335",
+        "ref": "278",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/278"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.868313, 41.313165] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269893",
+      "properties": {
+        "addr:city": "Yonkers",
+        "addr:postcode": "10701",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Greenway Plaza",
+        "opening_hours": "Mo-Sa 07:00-00:00",
+        "phone": "+1 914-376-5429",
+        "ref": "279",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/279"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.900797, 40.933047] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269894",
+      "properties": {
+        "addr:city": "New Paltz",
+        "addr:housenumber": "258",
+        "addr:postcode": "12561",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of New Paltz",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 845-255-5015",
+        "ref": "280",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/280"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.069413, 41.741537] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269895",
+      "properties": {
+        "addr:city": "Scarsdale",
+        "addr:housenumber": "955",
+        "addr:postcode": "10583",
+        "addr:state": "NY",
+        "addr:street": "Central Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Scarsdale",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 914-874-2973",
+        "ref": "290",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/290"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.823111, 40.991499] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269896",
+      "properties": {
+        "addr:city": "New Rochelle",
+        "addr:postcode": "10801",
+        "addr:state": "NY",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of New Rochelle",
+        "opening_hours": "Mo-Sa 06:00-00:00",
+        "phone": "+1 914-740-9764",
+        "ref": "293",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/293"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.778969, 40.916521] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269897",
+      "properties": {
+        "addr:city": "Newark",
+        "addr:housenumber": "206",
+        "addr:postcode": "07103",
+        "addr:state": "NJ",
+        "addr:street": "Springfield Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Newark, NJ",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 973-273-1060",
+        "ref": "216",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/216"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.1883863, 40.7366464] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269898",
+      "properties": {
+        "addr:city": "Wayne",
+        "addr:housenumber": "30",
+        "addr:postcode": "07470",
+        "addr:state": "NJ",
+        "addr:street": "Wayne Hills Mall",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Wayne Hills Mall",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 973-595-0079",
+        "ref": "217",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/217"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.2411923, 40.9625723] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269899",
+      "properties": {
+        "addr:city": "35-07 Broadway",
+        "addr:postcode": "07410",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Fair Lawn",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "phone": "+1 201-796-2398",
+        "ref": "790",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/790"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.101234, 40.925692] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269900",
+      "properties": {
+        "addr:city": "Franklin",
+        "addr:housenumber": "100",
+        "addr:postcode": "07416",
+        "addr:state": "NJ",
+        "addr:street": "State Route 23",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Liquors of Franklin Boro",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 973-827-5787",
+        "ref": "897",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/897"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.581515, 41.102704] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269901",
+      "properties": {
+        "addr:city": "Jersey City",
+        "addr:housenumber": "400",
+        "addr:postcode": "07302",
+        "addr:state": "NJ",
+        "addr:street": "Luis Marin Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Liquors of Jersey City",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-963-6155",
+        "ref": "890",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/890"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.040074, 40.724371] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269902",
+      "properties": {
+        "addr:city": "Paramus",
+        "addr:postcode": "07652",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Liquors of Paramus",
+        "opening_hours": "Mo-Sa 08:00-22:00",
+        "phone": "+1 201-843-7283",
+        "ref": "881",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/881"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.052778, 40.913958] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269903",
+      "properties": {
+        "addr:city": "Rochelle Park",
+        "addr:housenumber": "220",
+        "addr:postcode": "07662",
+        "addr:state": "NJ",
+        "addr:street": "West Passaic Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Liquors of Rochelle Park",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "phone": "+1 201-843-4946",
+        "ref": "752",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/752"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.080509, 40.915295] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269904",
+      "properties": {
+        "addr:city": "Wharton",
+        "addr:housenumber": "306",
+        "addr:postcode": "07885",
+        "addr:state": "NJ",
+        "addr:street": "Route 15",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Liquors of Wharton",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "phone": "+1 973-361-9477",
+        "ref": "886",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/886"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.570378, 40.904969] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269905",
+      "properties": {
+        "addr:city": "Hackettstown",
+        "addr:postcode": "07840",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Hackettstown",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 908-852-3511",
+        "ref": "895",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/895"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.833202, 40.854695] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269906",
+      "properties": {
+        "addr:city": "Bayonne",
+        "addr:housenumber": "583",
+        "addr:postcode": "07002",
+        "addr:state": "NJ",
+        "addr:street": "Avenue C",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Bayonne",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-437-6000",
+        "ref": "885",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/885"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.119283, 40.667457] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269907",
+      "properties": {
+        "addr:city": "Byram Township",
+        "addr:housenumber": "90",
+        "addr:postcode": "07874",
+        "addr:state": "NJ",
+        "addr:street": "Route 206 North",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Byram",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 973-347-2830",
+        "ref": "764",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/764"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.718499, 40.934769] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269908",
+      "properties": {
+        "addr:city": "Cherry Hill",
+        "addr:postcode": "08002",
+        "addr:state": "NJ",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Cherry Hill",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "phone": "+1 856-910-2300",
+        "ref": "901",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/901"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.042514, 39.929203] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269909",
+      "properties": {
+        "addr:city": "Clifton",
+        "addr:housenumber": "895",
+        "addr:postcode": "07011",
+        "addr:state": "NJ",
+        "addr:street": "Paulison Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Clifton",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 973-883-1017",
+        "ref": "905",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/905"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.154913, 40.871485] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269910",
+      "properties": {
+        "addr:city": "Emerson",
+        "addr:housenumber": "425",
+        "addr:postcode": "07630",
+        "addr:state": "NJ",
+        "addr:street": "Old Hook Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Emerson",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-262-6656",
+        "ref": "746",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/746"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.006647, 40.98061] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269911",
+      "properties": {
+        "addr:city": "Englewood",
+        "addr:housenumber": "55",
+        "addr:postcode": "07631",
+        "addr:state": "NJ",
+        "addr:street": "Nathaniel Place",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Englewood",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-816-8266",
+        "ref": "733",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/733"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.975545, 40.896677] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269912",
+      "properties": {
+        "addr:city": "Freehold",
+        "addr:housenumber": "3585",
+        "addr:postcode": "07728",
+        "addr:state": "NJ",
+        "addr:street": "Route 9 North",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Freehold",
+        "opening_hours": "Mo-We 09:00-21:00",
+        "phone": "+1 732-294-8660",
+        "ref": "735",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/735"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.277995, 40.243414] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269913",
+      "properties": {
+        "addr:city": "Hillsdale",
+        "addr:housenumber": "372",
+        "addr:postcode": "07642",
+        "addr:state": "NJ",
+        "addr:street": "Broadway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Hillsdale",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-664-3102",
+        "ref": "738",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/738"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.041411, 41.012762] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269914",
+      "properties": {
+        "addr:city": "Hoboken",
+        "addr:housenumber": "900",
+        "addr:postcode": "07030",
+        "addr:state": "NJ",
+        "addr:street": "Madison Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Hoboken",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-792-4142",
+        "ref": "883",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/883"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.03656, 40.749466] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269915",
+      "properties": {
+        "addr:city": "Little Falls",
+        "addr:housenumber": "171",
+        "addr:postcode": "07424",
+        "addr:state": "NJ",
+        "addr:street": "Browertown Road",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Little Falls",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "phone": "+1 973-256-5551",
+        "ref": "887",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/887"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.211364, 40.881762] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269916",
+      "properties": {
+        "addr:city": "Lodi",
+        "addr:housenumber": "150",
+        "addr:postcode": "07644",
+        "addr:state": "NJ",
+        "addr:street": "Main Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Lodi",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 973-365-2399",
+        "ref": "880",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/880"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.085, 40.879584] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269917",
+      "properties": {
+        "addr:city": "Lyndhurst",
+        "addr:housenumber": "540",
+        "addr:postcode": "07071",
+        "addr:state": "NJ",
+        "addr:street": "New York Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Lyndhurst",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-935-3838",
+        "ref": "723",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/723"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.118642, 40.812131] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269918",
+      "properties": {
+        "addr:city": "Neptune",
+        "addr:housenumber": "2200",
+        "addr:postcode": "07753",
+        "addr:state": "NJ",
+        "addr:street": "Route 66",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Neptune",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 732-775-8653",
+        "ref": "781",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/781"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.042817, 40.224616] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269919",
+      "properties": {
+        "addr:city": "Netcong",
+        "addr:housenumber": "75",
+        "addr:postcode": "07857",
+        "addr:state": "NJ",
+        "addr:street": "Route 46",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Netcong",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 973-347-0137",
+        "ref": "755",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/755"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.705332, 40.896855] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269920",
+      "properties": {
+        "addr:city": "Northvale",
+        "addr:housenumber": "246",
+        "addr:postcode": "07647",
+        "addr:state": "NJ",
+        "addr:street": "Livingston Street",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Northvale",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-767-8543",
+        "ref": "791",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/791"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.944889, 41.012486] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269921",
+      "properties": {
+        "addr:city": "Sparta",
+        "addr:housenumber": "16",
+        "addr:postcode": "07871",
+        "addr:state": "NJ",
+        "addr:street": "North Village Boulevard",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Sparta",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 973-729-2337",
+        "ref": "908",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/908"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.657532, 41.077027] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269922",
+      "properties": {
+        "addr:city": "Vineland",
+        "addr:housenumber": "3666",
+        "addr:postcode": "08361",
+        "addr:state": "NJ",
+        "addr:street": "East Landis Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Vineland",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 856-696-5555",
+        "ref": "894",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/894"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.959332, 39.484227] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269923",
+      "properties": {
+        "addr:city": "Wallington",
+        "addr:housenumber": "375",
+        "addr:postcode": "07057",
+        "addr:state": "NJ",
+        "addr:street": "Paterson Avenue",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Wallington",
+        "opening_hours": "Mo-Th 09:00-21:00",
+        "phone": "+1 201-528-7440",
+        "ref": "902",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/902"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.106626, 40.844815] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269924",
+      "properties": {
+        "addr:city": "Wantage",
+        "addr:housenumber": "766",
+        "addr:postcode": "07461",
+        "addr:state": "NJ",
+        "addr:street": "Route 23",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Wantage",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1 732-702-2385",
+        "ref": "907",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/907"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.6171471, 41.2247272] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269925",
+      "properties": {
+        "addr:city": "Hackettstown",
+        "addr:housenumber": "57",
+        "addr:postcode": "07840",
+        "addr:state": "NJ",
+        "addr:street": "Route 46",
+        "addr:unit": "204",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite Wines & Spirits of Wash. Township",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+1 973-534-4271",
+        "ref": "889",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/889"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.81367, 40.84445] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-269926",
+      "properties": {
+        "addr:city": "Pelham",
+        "addr:housenumber": "847",
+        "addr:postcode": "10803",
+        "addr:state": "NY",
+        "addr:street": "Pelham Parkway",
+        "brand": "ShopRite",
+        "brand:wikidata": "Q7501097",
+        "name": "ShopRite of Pelham Parkway",
+        "opening_hours": "Mo-Sa 07:00-23:00",
+        "phone": "+1 718-569-4544",
+        "ref": "190",
+        "shop": "supermarket",
+        "website": "https://www.shoprite.com/sm/planning/rsid/190"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.8231223, 40.8931936] }
+    }
+  ]
+}

@@ -1,0 +1,2802 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/-276804",
+      "properties": {
+        "addr:city": "Depew",
+        "addr:housenumber": "4777",
+        "addr:postcode": "14043",
+        "addr:state": "NY",
+        "addr:street": "Transit Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3280",
+        "ref": "220",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6969256, 42.8677235] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276805",
+      "properties": {
+        "addr:city": "Depew",
+        "addr:housenumber": "6363",
+        "addr:postcode": "14043",
+        "addr:state": "NY",
+        "addr:street": "Transit Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-601-0180",
+        "ref": "237",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.696351, 42.930925] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276806",
+      "properties": {
+        "addr:city": "Dansville",
+        "addr:housenumber": "35",
+        "addr:postcode": "14437",
+        "addr:state": "NY",
+        "addr:street": "Franklin Plaza",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-335-2140",
+        "ref": "520",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.7021369, 42.561727] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276807",
+      "properties": {
+        "addr:city": "Coxsackie",
+        "addr:housenumber": "44",
+        "addr:postcode": "12192",
+        "addr:state": "NY",
+        "addr:street": "Hope Plaza",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-731-6173",
+        "ref": "724",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.806616, 42.394323] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276808",
+      "properties": {
+        "addr:city": "Corinth",
+        "addr:housenumber": "100",
+        "addr:postcode": "12822",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-654-6779",
+        "ref": "700",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.834155, 43.246911] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276809",
+      "properties": {
+        "addr:city": "Clifton Springs",
+        "addr:housenumber": "3",
+        "addr:postcode": "14432",
+        "addr:state": "NY",
+        "addr:street": "Clifton Springs Plaza",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-462-9055",
+        "ref": "433",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.14132699999, 42.969154]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276810",
+      "properties": {
+        "addr:city": "Clay",
+        "addr:housenumber": "8417",
+        "addr:postcode": "13027",
+        "addr:state": "NY",
+        "addr:street": "Oswego Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-652-4934",
+        "ref": "368",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.2574733, 43.1784225] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276811",
+      "properties": {
+        "addr:city": "Chittenango",
+        "addr:housenumber": "800",
+        "addr:postcode": "13037",
+        "addr:state": "NY",
+        "addr:street": "West Genesee Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-687-9224",
+        "ref": "359",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.862908, 43.053864] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276812",
+      "properties": {
+        "addr:city": "Chestertown",
+        "addr:housenumber": "6308",
+        "addr:postcode": "12817",
+        "addr:state": "NY",
+        "addr:street": "U.s. 9",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-494-7111",
+        "ref": "712",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.80009999999, 43.649833]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276813",
+      "properties": {
+        "addr:city": "Cheektowaga",
+        "addr:housenumber": "3870",
+        "addr:postcode": "14215",
+        "addr:state": "NY",
+        "addr:street": "Harlem Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-836-0433",
+        "ref": "44",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.78501039999, 42.9489084]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276814",
+      "properties": {
+        "addr:city": "Cheektowaga",
+        "addr:housenumber": "3865",
+        "addr:postcode": "14225",
+        "addr:state": "NY",
+        "addr:street": "Union Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-684-5927",
+        "ref": "202",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.7541401, 42.9198661] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276815",
+      "properties": {
+        "addr:city": "Cheektowaga",
+        "addr:housenumber": "700",
+        "addr:postcode": "14225",
+        "addr:state": "NY",
+        "addr:street": "Thruway Plaza Drive",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-929-0380",
+        "ref": "131",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.7804309, 42.904088] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276816",
+      "properties": {
+        "addr:city": "Cazenovia",
+        "addr:housenumber": "71",
+        "addr:postcode": "13035",
+        "addr:state": "NY",
+        "addr:street": "Nelson Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-655-4565",
+        "ref": "367",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.8462138, 42.9282888] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276817",
+      "properties": {
+        "addr:city": "Carmel",
+        "addr:housenumber": "1936",
+        "addr:postcode": "10512",
+        "addr:state": "NY",
+        "addr:street": "US Route 6",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 845-225-4151",
+        "ref": "535",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.663724, 41.411912] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276818",
+      "properties": {
+        "addr:city": "Canastota",
+        "addr:postcode": "13032",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-697-2700",
+        "ref": "360",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.752117, 43.069713] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276819",
+      "properties": {
+        "addr:city": "Canandaigua",
+        "addr:housenumber": "5150",
+        "addr:postcode": "14424",
+        "addr:state": "NY",
+        "addr:street": "North Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-394-5120",
+        "ref": "432",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.297259, 42.904359] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276820",
+      "properties": {
+        "addr:city": "Northfield",
+        "addr:housenumber": "63",
+        "addr:postcode": "05663",
+        "addr:state": "VT",
+        "addr:street": "Plaze Drive",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 802-485-8878",
+        "ref": "741",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.655666, 44.161487] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276821",
+      "properties": {
+        "addr:city": "Hardwick",
+        "addr:housenumber": "82",
+        "addr:postcode": "05843",
+        "addr:state": "VT",
+        "addr:street": "VT Route 15W",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 802-472-6504",
+        "ref": "742",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.360273, 44.503384] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276822",
+      "properties": {
+        "addr:city": "Youngsville",
+        "addr:housenumber": "28",
+        "addr:postcode": "16371",
+        "addr:state": "PA",
+        "addr:street": "Railroad Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-563-4366",
+        "ref": "669",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.3173018, 41.850246] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276823",
+      "properties": {
+        "addr:city": "Westfield",
+        "addr:housenumber": "198",
+        "addr:postcode": "16950",
+        "addr:state": "PA",
+        "addr:street": "West Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-367-2320",
+        "ref": "620",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.542718, 41.918287] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276824",
+      "properties": {
+        "addr:city": "Wellsboro",
+        "addr:housenumber": "11",
+        "addr:postcode": "16901",
+        "addr:state": "PA",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 570-724-5426",
+        "ref": "676",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.2988571, 41.749877] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276825",
+      "properties": {
+        "addr:city": "Waterford",
+        "addr:postcode": "16441",
+        "addr:state": "PA",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-796-6711",
+        "ref": "667",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.9838664, 41.941886] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276826",
+      "properties": {
+        "addr:city": "Warren",
+        "addr:housenumber": "74",
+        "addr:postcode": "16365",
+        "addr:state": "PA",
+        "addr:street": "Market Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-726-3660",
+        "ref": "603",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.144049, 41.84302] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276827",
+      "properties": {
+        "addr:city": "Union City",
+        "addr:postcode": "16438",
+        "addr:state": "PA",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-438-7614",
+        "ref": "668",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.8437926, 41.8996743] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276828",
+      "properties": {
+        "addr:city": "Troy",
+        "addr:housenumber": "684",
+        "addr:postcode": "16947",
+        "addr:state": "PA",
+        "addr:street": "Elmira Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 570-297-2475",
+        "ref": "677",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.7788952, 41.7901778] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276829",
+      "properties": {
+        "addr:city": "Towanda",
+        "addr:postcode": "18848",
+        "addr:state": "PA",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 570-265-7006",
+        "ref": "680",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.3898391, 41.7725677] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276830",
+      "properties": {
+        "addr:city": "Sheffield",
+        "addr:housenumber": "9",
+        "addr:postcode": "16347",
+        "addr:state": "PA",
+        "addr:street": "Leather Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-968-3014",
+        "ref": "671",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.0320719, 41.7025527] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276831",
+      "properties": {
+        "addr:city": "Sayre",
+        "addr:housenumber": "3014",
+        "addr:postcode": "18840",
+        "addr:state": "PA",
+        "addr:street": "North Elmira Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 570-882-9188",
+        "ref": "650",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.783018, 41.7884026] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276832",
+      "properties": {
+        "addr:city": "Meadville",
+        "addr:postcode": "16335",
+        "addr:state": "PA",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-724-4025",
+        "ref": "670",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.1514484, 41.6414438] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276833",
+      "properties": {
+        "addr:city": "Kane",
+        "addr:housenumber": "525",
+        "addr:postcode": "16735",
+        "addr:state": "PA",
+        "addr:street": "North Fraley Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-837-7812",
+        "ref": "672",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.8122616, 41.6670991] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276834",
+      "properties": {
+        "addr:city": "Erie",
+        "addr:postcode": "16508",
+        "addr:state": "PA",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-864-4958",
+        "ref": "665",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.0927298, 42.1090023] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276835",
+      "properties": {
+        "addr:city": "Erie",
+        "addr:housenumber": "1702",
+        "addr:postcode": "16510",
+        "addr:state": "PA",
+        "addr:street": "East 38th Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-455-7482",
+        "ref": "601",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.030626, 42.116941] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276836",
+      "properties": {
+        "addr:city": "Canton",
+        "addr:postcode": "17724",
+        "addr:state": "PA",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 570-673-3838",
+        "ref": "678",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.8462246, 41.6558641] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276837",
+      "properties": {
+        "addr:city": "Bradford",
+        "addr:housenumber": "150",
+        "addr:postcode": "16701",
+        "addr:state": "PA",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 814-363-9901",
+        "ref": "610",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6376485, 41.9596338] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276838",
+      "properties": {
+        "addr:city": "Williamsville",
+        "addr:postcode": "14221",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-632-7411",
+        "ref": "276",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.755498, 42.961076] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276839",
+      "properties": {
+        "addr:city": "Williamsville",
+        "addr:housenumber": "2351",
+        "addr:postcode": "14221",
+        "addr:state": "NY",
+        "addr:street": "Maple Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3200",
+        "ref": "224",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.699069, 42.988395] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276840",
+      "properties": {
+        "addr:city": "Westfield",
+        "addr:housenumber": "121",
+        "addr:postcode": "14787",
+        "addr:state": "NY",
+        "addr:street": "East Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-326-4965",
+        "ref": "279",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.573905, 42.325411] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276841",
+      "properties": {
+        "addr:city": "West Seneca",
+        "addr:housenumber": "355",
+        "addr:postcode": "14224",
+        "addr:state": "NY",
+        "addr:street": "Orchard Park Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-517-3000",
+        "ref": "49",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.785014, 42.831836] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276842",
+      "properties": {
+        "addr:city": "West Seneca",
+        "addr:housenumber": "800",
+        "addr:postcode": "14224",
+        "addr:state": "NY",
+        "addr:street": "Harlem Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-823-8948",
+        "ref": "212",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.788544, 42.86665] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276843",
+      "properties": {
+        "addr:city": "Wellsville",
+        "addr:housenumber": "111",
+        "addr:postcode": "14895",
+        "addr:state": "NY",
+        "addr:street": "Bolivar Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-593-0166",
+        "ref": "249",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.962529, 42.127258] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276844",
+      "properties": {
+        "addr:city": "Watkins Glen",
+        "addr:postcode": "14891",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-535-4064",
+        "ref": "576",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.866733, 42.369691] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276845",
+      "properties": {
+        "addr:city": "Waterloo",
+        "addr:housenumber": "1963",
+        "addr:postcode": "13165",
+        "addr:state": "NY",
+        "addr:street": "Kingdom Plaza",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-539-8866",
+        "ref": "565",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.8342728, 42.9044078] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276846",
+      "properties": {
+        "addr:city": "Warsaw",
+        "addr:housenumber": "2382",
+        "addr:postcode": "14569",
+        "addr:state": "NY",
+        "addr:street": "Route 19",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-786-0660",
+        "ref": "247",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.1240102, 42.7736599] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276847",
+      "properties": {
+        "addr:city": "Walworth",
+        "addr:postcode": "14568",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-986-4009",
+        "ref": "428",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.27798999999, 43.13803]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276848",
+      "properties": {
+        "addr:city": "Town of Niagara",
+        "addr:housenumber": "4235",
+        "addr:postcode": "14305",
+        "addr:state": "NY",
+        "addr:street": "Military Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-297-3410",
+        "ref": "130",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.999589, 43.125599] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276849",
+      "properties": {
+        "addr:city": "Tonawanda",
+        "addr:housenumber": "150",
+        "addr:postcode": "14150",
+        "addr:state": "NY",
+        "addr:street": "Niagara Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-693-5700",
+        "ref": "228",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.883653, 43.020329] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276850",
+      "properties": {
+        "addr:city": "Tonawanda",
+        "addr:housenumber": "890",
+        "addr:postcode": "14150",
+        "addr:state": "NY",
+        "addr:street": "Young Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-692-8254",
+        "ref": "226",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.85818, 43.001933] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276851",
+      "properties": {
+        "addr:city": "Tannersville",
+        "addr:housenumber": "6350",
+        "addr:postcode": "12485",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-589-0048",
+        "ref": "725",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.133751, 42.195644] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276852",
+      "properties": {
+        "addr:city": "Syracuse",
+        "addr:housenumber": "700",
+        "addr:postcode": "13208",
+        "addr:state": "NY",
+        "addr:street": "1st North Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-470-0980",
+        "ref": "373",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.148956, 43.069379] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276853",
+      "properties": {
+        "addr:city": "Syracuse",
+        "addr:housenumber": "181",
+        "addr:postcode": "13206",
+        "addr:state": "NY",
+        "addr:street": "Shop City Plaza",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-437-5201",
+        "ref": "369",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.1186533, 43.0737733] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276854",
+      "properties": {
+        "addr:city": "Syracuse",
+        "addr:housenumber": "620",
+        "addr:postcode": "13210",
+        "addr:state": "NY",
+        "addr:street": "Nottingham Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-446-1652",
+        "ref": "362",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.1092501, 43.0217252] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276855",
+      "properties": {
+        "addr:city": "Stamford",
+        "addr:housenumber": "127",
+        "addr:postcode": "12167",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-652-5114",
+        "ref": "722",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.620757, 42.40995] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276856",
+      "properties": {
+        "addr:city": "Springville",
+        "addr:postcode": "14141",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-592-8241",
+        "ref": "233",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6672482, 42.5083952] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276857",
+      "properties": {
+        "addr:city": "Spencerport",
+        "addr:housenumber": "27",
+        "addr:postcode": "14559",
+        "addr:state": "NY",
+        "addr:street": "Slayton Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-352-2100",
+        "ref": "453",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.7996532, 43.1908797] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276858",
+      "properties": {
+        "addr:city": "Skaneateles",
+        "addr:housenumber": "40",
+        "addr:postcode": "13152",
+        "addr:state": "NY",
+        "addr:street": "Fennell Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-685-7424",
+        "ref": "366",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.4331932, 42.9481892] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276859",
+      "properties": {
+        "addr:city": "Silver Creek",
+        "addr:housenumber": "140",
+        "addr:postcode": "14136",
+        "addr:state": "NY",
+        "addr:street": "Central Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-934-3431",
+        "ref": "278",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.1731438, 42.54569] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276860",
+      "properties": {
+        "addr:city": "Schroon Lake",
+        "addr:housenumber": "1103",
+        "addr:postcode": "21870",
+        "addr:state": "NY",
+        "addr:street": "Route 9",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-532-7885",
+        "ref": "719",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.762596, 43.837637] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276861",
+      "properties": {
+        "addr:city": "Sandy Creek",
+        "addr:housenumber": "6103",
+        "addr:postcode": "13145",
+        "addr:state": "NY",
+        "addr:street": "North Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-387-5212",
+        "ref": "595",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.086425, 43.646961] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276862",
+      "properties": {
+        "addr:city": "Sanborn",
+        "addr:housenumber": "2956",
+        "addr:postcode": "14132",
+        "addr:state": "NY",
+        "addr:street": "Saunders Settlement Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-731-7344",
+        "ref": "32",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.8839239, 43.142452] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276863",
+      "properties": {
+        "addr:city": "Rochester",
+        "addr:housenumber": "1601",
+        "addr:postcode": "14625",
+        "addr:state": "NY",
+        "addr:street": "Penfield Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-264-0820",
+        "ref": "417",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.496386, 43.133249] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276864",
+      "properties": {
+        "addr:city": "Rochester",
+        "addr:housenumber": "450",
+        "addr:postcode": "14611",
+        "addr:state": "NY",
+        "addr:street": "West Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-512-4100",
+        "ref": "401",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.6504474, 43.1499951] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276865",
+      "properties": {
+        "addr:city": "Rochester",
+        "addr:postcode": "14616",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-663-4400",
+        "ref": "418",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.6998233, 43.2236861] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276866",
+      "properties": {
+        "addr:city": "Rochester",
+        "addr:housenumber": "285",
+        "addr:postcode": "14605",
+        "addr:state": "NY",
+        "addr:street": "Upper Falls Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-454-4430",
+        "ref": "460",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.610083, 43.169739] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276867",
+      "properties": {
+        "addr:city": "Riverside",
+        "addr:housenumber": "360",
+        "addr:postcode": "14830",
+        "addr:state": "NY",
+        "addr:street": "West Pulteney Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-936-3923",
+        "ref": "540",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.0769996, 42.1532586] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276868",
+      "properties": {
+        "addr:city": "Rhinebeck",
+        "addr:housenumber": "6726",
+        "addr:postcode": "12572",
+        "addr:state": "NY",
+        "addr:street": "Route 9",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 845-876-7800",
+        "ref": "531",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.900193, 41.946414] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276869",
+      "properties": {
+        "addr:city": "Randolph",
+        "addr:postcode": "14772",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-358-6577",
+        "ref": "273",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.999805, 42.15795] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276870",
+      "properties": {
+        "addr:city": "Pulaski",
+        "addr:housenumber": "3830",
+        "addr:postcode": "13142",
+        "addr:state": "NY",
+        "addr:street": "Rome Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-298-1081",
+        "ref": "585",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.117519, 43.558888] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276871",
+      "properties": {
+        "addr:city": "Penn Yan",
+        "addr:housenumber": "321",
+        "addr:postcode": "14527",
+        "addr:state": "NY",
+        "addr:street": "Liberty Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-536-2508",
+        "ref": "566",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.0569511, 42.6619273] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276872",
+      "properties": {
+        "addr:city": "Orchard Park",
+        "addr:housenumber": "3201",
+        "addr:postcode": "14127",
+        "addr:state": "NY",
+        "addr:street": "Southwestern Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-677-2569",
+        "ref": "108",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.748756, 42.795831] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276873",
+      "properties": {
+        "addr:city": "Ontario",
+        "addr:housenumber": "6272",
+        "addr:postcode": "14519",
+        "addr:state": "NY",
+        "addr:street": "Furnace Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-524-3550",
+        "ref": "413",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.28072, 43.226553] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276874",
+      "properties": {
+        "addr:city": "Olean",
+        "addr:housenumber": "2401",
+        "addr:postcode": "14760",
+        "addr:state": "NY",
+        "addr:street": "West State Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-373-1021",
+        "ref": "206",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.4571202, 42.0771358] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276875",
+      "properties": {
+        "addr:city": "Northville",
+        "addr:housenumber": "201",
+        "addr:postcode": "12134",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-863-6776",
+        "ref": "721",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.173515, 43.227716] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276876",
+      "properties": {
+        "addr:city": "North Tonawanda",
+        "addr:housenumber": "301",
+        "addr:postcode": "14120",
+        "addr:state": "NY",
+        "addr:street": "Meadow Drive",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-743-4350",
+        "ref": "240",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.874796, 43.050751] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276877",
+      "properties": {
+        "addr:city": "North Syracuse",
+        "addr:postcode": "13212",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-458-0032",
+        "ref": "361",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.1407965, 43.1179216] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276878",
+      "properties": {
+        "addr:city": "North Creek",
+        "addr:housenumber": "273",
+        "addr:postcode": "12853",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-251-4669",
+        "ref": "716",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.987548, 43.700532] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276879",
+      "properties": {
+        "addr:city": "North Boston",
+        "addr:housenumber": "7375",
+        "addr:postcode": "14110",
+        "addr:state": "NY",
+        "addr:street": "Boston State Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-649-8671",
+        "ref": "70",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.76574, 42.684398] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276880",
+      "properties": {
+        "addr:city": "Niagara Falls",
+        "addr:housenumber": "7200",
+        "addr:postcode": "14304",
+        "addr:state": "NY",
+        "addr:street": "Niagara Falls Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-513-2200",
+        "ref": "22",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.9817164, 43.0881478] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276881",
+      "properties": {
+        "addr:city": "Niagara Falls",
+        "addr:housenumber": "1000",
+        "addr:postcode": "14301",
+        "addr:state": "NY",
+        "addr:street": "Portage Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-513-2170",
+        "ref": "9",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.052125, 43.098644] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276882",
+      "properties": {
+        "addr:city": "Newfane",
+        "addr:housenumber": "2555",
+        "addr:postcode": "14108",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-778-5094",
+        "ref": "39",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.71015, 43.290776] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276883",
+      "properties": {
+        "addr:city": "New Paltz",
+        "addr:housenumber": "271",
+        "addr:postcode": "12561",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 845-256-0121",
+        "ref": "532",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.06921779999, 41.7449333]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276884",
+      "properties": {
+        "addr:city": "Mexico",
+        "addr:housenumber": "3385",
+        "addr:postcode": "13114",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-963-7053",
+        "ref": "594",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.2392969, 43.459014] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276885",
+      "properties": {
+        "addr:city": "Medina",
+        "addr:housenumber": "11200",
+        "addr:postcode": "14103",
+        "addr:state": "NY",
+        "addr:street": "Maple Ridge Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-798-2590",
+        "ref": "248",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.399519, 43.205185] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276886",
+      "properties": {
+        "addr:city": "Mayville",
+        "addr:housenumber": "640",
+        "addr:postcode": "14757",
+        "addr:state": "NY",
+        "addr:street": "South Erie Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-753-7670",
+        "ref": "270",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.496785, 42.24374] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276887",
+      "properties": {
+        "addr:city": "Manlius",
+        "addr:housenumber": "119",
+        "addr:postcode": "13104",
+        "addr:state": "NY",
+        "addr:street": "West Seneca Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-682-7261",
+        "ref": "365",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.981596, 43.000473] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276888",
+      "properties": {
+        "addr:city": "Lowville",
+        "addr:postcode": "13367",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-376-6311",
+        "ref": "574",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.4828654, 43.7818903] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276889",
+      "properties": {
+        "addr:city": "Lockport",
+        "addr:housenumber": "7134",
+        "addr:postcode": "14094",
+        "addr:state": "NY",
+        "addr:street": "Rochester Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-434-3990",
+        "ref": "275",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.641198, 43.181165] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276890",
+      "properties": {
+        "addr:city": "Lockport",
+        "addr:housenumber": "5827",
+        "addr:postcode": "14094",
+        "addr:state": "NY",
+        "addr:street": "South Transit",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-439-4366",
+        "ref": "21",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6947409, 43.141423] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276891",
+      "properties": {
+        "addr:city": "Lockport",
+        "addr:postcode": "14094",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-439-8900",
+        "ref": "38",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6777401, 43.2252692] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276892",
+      "properties": {
+        "addr:city": "Lewiston",
+        "addr:housenumber": "906",
+        "addr:postcode": "14092",
+        "addr:state": "NY",
+        "addr:street": "Center Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-215-1350",
+        "ref": "115",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.031134, 43.171905] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276893",
+      "properties": {
+        "addr:city": "LeRoy",
+        "addr:housenumber": "128",
+        "addr:postcode": "14482",
+        "addr:state": "NY",
+        "addr:street": "West Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-768-8549",
+        "ref": "246",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.004968, 42.979619] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276894",
+      "properties": {
+        "addr:city": "Lansing",
+        "addr:housenumber": "2300",
+        "addr:postcode": "14850",
+        "addr:state": "NY",
+        "addr:street": "North Triphammer Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-257-4952",
+        "ref": "522",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.48665, 42.481699] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276895",
+      "properties": {
+        "addr:city": "Lagrangeville",
+        "addr:housenumber": "16",
+        "addr:postcode": "12540",
+        "addr:state": "NY",
+        "addr:street": "Jon J Wagner Way",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 845-473-0454",
+        "ref": "533",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.7953406, 41.6678746] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276896",
+      "properties": {
+        "addr:city": "Jamestown",
+        "addr:housenumber": "738",
+        "addr:postcode": "14701",
+        "addr:state": "NY",
+        "addr:street": "Foote Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-484-7243",
+        "ref": "274",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.2287528, 42.080585] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276897",
+      "properties": {
+        "addr:city": "Jamestown",
+        "addr:housenumber": "2000",
+        "addr:postcode": "14701",
+        "addr:state": "NY",
+        "addr:street": "Washington Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-665-1100",
+        "ref": "209",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.244637, 42.109277] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276898",
+      "properties": {
+        "addr:city": "Irondequoit",
+        "addr:housenumber": "999",
+        "addr:postcode": "14621",
+        "addr:state": "NY",
+        "addr:street": "East Ridge Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-342-3803",
+        "ref": "429",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.589542, 43.195478] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276899",
+      "properties": {
+        "addr:city": "Hoosick Falls",
+        "addr:housenumber": "21501",
+        "addr:postcode": "12090",
+        "addr:state": "NY",
+        "addr:street": "NY State RT 22",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-686-5649",
+        "ref": "723",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.339953, 42.845265] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276900",
+      "properties": {
+        "addr:city": "Hilton",
+        "addr:housenumber": "98",
+        "addr:postcode": "14468",
+        "addr:state": "NY",
+        "addr:street": "South Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-392-6770",
+        "ref": "452",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.79020129999, 43.2860595]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276901",
+      "properties": {
+        "addr:city": "Henrietta",
+        "addr:housenumber": "1215",
+        "addr:postcode": "14623",
+        "addr:state": "NY",
+        "addr:street": "Jefferson Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-292-0117",
+        "ref": "416",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.599606, 43.085947] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276902",
+      "properties": {
+        "addr:city": "Hannibal",
+        "addr:housenumber": "409",
+        "addr:postcode": "13074",
+        "addr:state": "NY",
+        "addr:street": "Fulton Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-564-6318",
+        "ref": "599",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.5730345, 43.3231975] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276903",
+      "properties": {
+        "addr:city": "Hancock",
+        "addr:housenumber": "16",
+        "addr:postcode": "13783",
+        "addr:state": "NY",
+        "addr:street": "West Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-637-3369",
+        "ref": "726",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.283488, 41.954983] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276904",
+      "properties": {
+        "addr:city": "Hamlin",
+        "addr:housenumber": "1800",
+        "addr:postcode": "14464",
+        "addr:state": "NY",
+        "addr:street": "Lake Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-964-2920",
+        "ref": "450",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.918745, 43.2926519] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276905",
+      "properties": {
+        "addr:city": "Hamburg",
+        "addr:housenumber": "4250",
+        "addr:postcode": "14075",
+        "addr:state": "NY",
+        "addr:street": "McKinley Parkway",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3225",
+        "ref": "215",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.813127, 42.768149] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276906",
+      "properties": {
+        "addr:city": "Hamburg",
+        "addr:postcode": "14075",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3300",
+        "ref": "236",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.824311, 42.72776] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276907",
+      "properties": {
+        "addr:city": "Greenville",
+        "addr:housenumber": "11573",
+        "addr:postcode": "12083",
+        "addr:state": "NY",
+        "addr:street": "State Route 32",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-966-5396",
+        "ref": "720",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.022077, 42.41536] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276908",
+      "properties": {
+        "addr:city": "Grand Island",
+        "addr:housenumber": "2140",
+        "addr:postcode": "14072",
+        "addr:state": "NY",
+        "addr:street": "Grand Island Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-775-1138",
+        "ref": "119",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.962231, 43.018617] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276909",
+      "properties": {
+        "addr:city": "Gates",
+        "addr:housenumber": "2345",
+        "addr:postcode": "14624",
+        "addr:state": "NY",
+        "addr:street": "Buffalo Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-247-8040",
+        "ref": "403",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.710906, 43.146087] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276910",
+      "properties": {
+        "addr:city": "Frewsburg",
+        "addr:housenumber": "20",
+        "addr:postcode": "14738",
+        "addr:state": "NY",
+        "addr:street": "Center Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-569-6460",
+        "ref": "754",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.160788, 42.053385] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276911",
+      "properties": {
+        "addr:city": "Fayetteville",
+        "addr:housenumber": "350",
+        "addr:postcode": "13066",
+        "addr:state": "NY",
+        "addr:street": "Towne Drive",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-637-8039",
+        "ref": "363",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.019536, 43.0314819] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276912",
+      "properties": {
+        "addr:city": "Farmington",
+        "addr:housenumber": "6179",
+        "addr:postcode": "14425",
+        "addr:state": "NY",
+        "addr:street": "Route 96",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-742-4100",
+        "ref": "435",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.34481829999, 42.974415]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276913",
+      "properties": {
+        "addr:city": "Falconer",
+        "addr:housenumber": "110",
+        "addr:postcode": "14733",
+        "addr:state": "NY",
+        "addr:street": "South Work Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-665-1150",
+        "ref": "272",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.197147, 42.117775] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276914",
+      "properties": {
+        "addr:city": "Evans",
+        "addr:housenumber": "9049",
+        "addr:postcode": "14006",
+        "addr:state": "NY",
+        "addr:street": "Erie Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-549-2220",
+        "ref": "262",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.04710969999, 42.6388218]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276915",
+      "properties": {
+        "addr:city": "Elmira",
+        "addr:postcode": "14904",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-734-8147",
+        "ref": "578",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.595786, 42.362536] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276916",
+      "properties": {
+        "addr:city": "Elmira",
+        "addr:postcode": "14903",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-739-0095",
+        "ref": "542",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.807734, 42.089796] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276917",
+      "properties": {
+        "addr:city": "Ellicottville",
+        "addr:housenumber": "64",
+        "addr:postcode": "14731",
+        "addr:state": "NY",
+        "addr:street": "East Washington Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-699-2353",
+        "ref": "271",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.669556, 42.277009] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276918",
+      "properties": {
+        "addr:city": "Elizabethtown",
+        "addr:housenumber": "335",
+        "addr:postcode": "12932",
+        "addr:state": "NY",
+        "addr:street": "Court Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-873-6589",
+        "ref": "710",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.597029, 44.2130988] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276919",
+      "properties": {
+        "addr:city": "Elbridge",
+        "addr:housenumber": "227",
+        "addr:postcode": "13060",
+        "addr:state": "NY",
+        "addr:street": "East Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-689-3781",
+        "ref": "374",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.4398592, 43.0358802] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276920",
+      "properties": {
+        "addr:city": "East Aurora",
+        "addr:housenumber": "65",
+        "addr:postcode": "14052",
+        "addr:state": "NY",
+        "addr:street": "Grey Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-655-3206",
+        "ref": "118",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6321339, 42.767356] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276921",
+      "properties": {
+        "addr:city": "Dunkirk",
+        "addr:housenumber": "3955",
+        "addr:postcode": "14048",
+        "addr:state": "NY",
+        "addr:street": "Vineyard Drive",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-366-2050",
+        "ref": "264",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.3168289, 42.4587343] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276922",
+      "properties": {
+        "addr:city": "DeWitt",
+        "addr:housenumber": "4410",
+        "addr:postcode": "13214",
+        "addr:state": "NY",
+        "addr:street": "East Genesee Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-446-6421",
+        "ref": "371",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.0674436, 43.035166] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276923",
+      "properties": {
+        "addr:city": "Derby",
+        "addr:housenumber": "6914",
+        "addr:postcode": "14047",
+        "addr:state": "NY",
+        "addr:street": "Erie Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-947-4019",
+        "ref": "268",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.9861481, 42.6985262] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276924",
+      "properties": {
+        "addr:city": "Depew",
+        "addr:housenumber": "5175",
+        "addr:postcode": "14043",
+        "addr:state": "NY",
+        "addr:street": "Broadway",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3440",
+        "ref": "114",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.683488, 42.898872] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276925",
+      "properties": {
+        "addr:city": "Camillus",
+        "addr:housenumber": "5335",
+        "addr:postcode": "13031",
+        "addr:state": "NY",
+        "addr:street": "West Genesee Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-487-0787",
+        "ref": "358",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.2718874, 43.0411326] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276926",
+      "properties": {
+        "addr:city": "Camden",
+        "addr:postcode": "13316",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-245-4745",
+        "ref": "586",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.747964, 43.3345138] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276927",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "1989",
+        "addr:postcode": "14210",
+        "addr:state": "NY",
+        "addr:street": "Seneca Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-824-1124",
+        "ref": "66",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.8118987, 42.8571861] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276928",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "1275",
+        "addr:postcode": "14208",
+        "addr:state": "NY",
+        "addr:street": "Jefferson Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-816-0038",
+        "ref": "250",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.852962, 42.909746] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276929",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "425",
+        "addr:postcode": "14201",
+        "addr:state": "NY",
+        "addr:street": "Niagara Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-852-6112",
+        "ref": "113",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.886379, 42.896132] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276930",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "1460",
+        "addr:postcode": "14220",
+        "addr:state": "NY",
+        "addr:street": "South Park Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-2050",
+        "ref": "213",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.829994, 42.858147] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276931",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "345",
+        "addr:postcode": "14207",
+        "addr:state": "NY",
+        "addr:street": "Amherst Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-2170",
+        "ref": "210",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.8911036, 42.9377771] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276932",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:postcode": "14223",
+        "addr:state": "NY",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-874-4991",
+        "ref": "239",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.87039, 42.981969] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276933",
+      "properties": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "2101",
+        "addr:postcode": "14207",
+        "addr:state": "NY",
+        "addr:street": "Elmwood Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-0050",
+        "ref": "232",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.8783148, 42.9558745] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276934",
+      "properties": {
+        "addr:city": "Brighton",
+        "addr:housenumber": "1900",
+        "addr:postcode": "14618",
+        "addr:state": "NY",
+        "addr:street": "Clinton Avenue South",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-442-2990",
+        "ref": "412",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.5928789, 43.1205443] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276935",
+      "properties": {
+        "addr:city": "Boonville",
+        "addr:housenumber": "261",
+        "addr:postcode": "13309",
+        "addr:state": "NY",
+        "addr:street": "Utica Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-942-3000",
+        "ref": "598",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.317895, 43.467816] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276936",
+      "properties": {
+        "addr:city": "Bolton Landing",
+        "addr:housenumber": "4976",
+        "addr:postcode": "12814",
+        "addr:state": "NY",
+        "addr:street": "Lakeshore Drive",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-644-2069",
+        "ref": "702",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.653865, 43.558342] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276937",
+      "properties": {
+        "addr:city": "Bath",
+        "addr:housenumber": "309",
+        "addr:postcode": "14810",
+        "addr:state": "NY",
+        "addr:street": "West Morris Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 607-776-1015",
+        "ref": "539",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.326799, 42.333885] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276938",
+      "properties": {
+        "addr:city": "Batavia",
+        "addr:housenumber": "390",
+        "addr:postcode": "14020",
+        "addr:state": "NY",
+        "addr:street": "West Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-343-9373",
+        "ref": "245",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.204361, 43.006405] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276939",
+      "properties": {
+        "addr:city": "Baldwinsville",
+        "addr:housenumber": "2265",
+        "addr:postcode": "13027",
+        "addr:state": "NY",
+        "addr:street": "Downer Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-635-3536",
+        "ref": "357",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.349901, 43.151991] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276940",
+      "properties": {
+        "addr:city": "Avon",
+        "addr:housenumber": "600",
+        "addr:postcode": "14414",
+        "addr:state": "NY",
+        "addr:street": "Dream Valley Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-226-2730",
+        "ref": "431",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.733822, 42.910709] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276941",
+      "properties": {
+        "addr:city": "Ausable Forks",
+        "addr:housenumber": "14228",
+        "addr:postcode": "12912",
+        "addr:state": "NY",
+        "addr:street": "NYS Route 9N",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 518-647-5480",
+        "ref": "717",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.67591929999, 44.4410824]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276942",
+      "properties": {
+        "addr:city": "Auburn",
+        "addr:housenumber": "352",
+        "addr:postcode": "13021",
+        "addr:state": "NY",
+        "addr:street": "West Genesee Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-252-7995",
+        "ref": "504",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.590395, 42.919051] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276943",
+      "properties": {
+        "addr:city": "Attica",
+        "addr:housenumber": "150",
+        "addr:postcode": "14011",
+        "addr:state": "NY",
+        "addr:street": "Prospect Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-591-8092",
+        "ref": "277",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.2776246, 42.8690264] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276944",
+      "properties": {
+        "addr:city": "Arcade",
+        "addr:housenumber": "658",
+        "addr:postcode": "14009",
+        "addr:state": "NY",
+        "addr:street": "West Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-492-0067",
+        "ref": "238",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.4513619, 42.5322351] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276945",
+      "properties": {
+        "addr:city": "Amherst",
+        "addr:housenumber": "3980",
+        "addr:postcode": "14226",
+        "addr:state": "NY",
+        "addr:street": "Maple Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-0075",
+        "ref": "41",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.815742, 42.991987] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276946",
+      "properties": {
+        "addr:city": "Amherst",
+        "addr:housenumber": "9660",
+        "addr:postcode": "14051",
+        "addr:state": "NY",
+        "addr:street": "Transit Road",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3525",
+        "ref": "227",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6969697, 43.0329078] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276947",
+      "properties": {
+        "addr:city": "Amherst",
+        "addr:housenumber": "3035",
+        "addr:postcode": "14228",
+        "addr:state": "NY",
+        "addr:street": "Niagara Falls Boulevard",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-0025",
+        "ref": "207",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.82168, 43.037108] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276948",
+      "properties": {
+        "addr:city": "Amherst",
+        "addr:housenumber": "3500",
+        "addr:postcode": "14226",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-515-3240",
+        "ref": "42",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.818579, 42.958762] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276949",
+      "properties": {
+        "addr:city": "Alden",
+        "addr:housenumber": "12775",
+        "addr:postcode": "14004",
+        "addr:state": "NY",
+        "addr:street": "Broadway Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 716-505-1450",
+        "ref": "261",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.5098749, 42.894046] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276950",
+      "properties": {
+        "addr:city": "Albion",
+        "addr:housenumber": "408",
+        "addr:postcode": "14411",
+        "addr:state": "NY",
+        "addr:street": "West Avenue",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 585-589-2548",
+        "ref": "451",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.205386, 43.239567] }
+    },
+    {
+      "type": "Feature",
+      "id": "node/-276951",
+      "properties": {
+        "addr:city": "Adams",
+        "addr:housenumber": "10916",
+        "addr:postcode": "13605",
+        "addr:state": "NY",
+        "addr:street": "Us Route 11",
+        "brand": "Tops",
+        "brand:wikidata": "Q7825137",
+        "name": "Tops",
+        "official_name": "Tops Friendly Markets",
+        "phone": "+1 315-232-2222",
+        "ref": "596",
+        "shop": "supermarket"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.01904, 43.82594] }
+    }
+  ]
+}
