@@ -1,4 +1,4 @@
-import re
+import regex
 import os
 import json
 import datetime
@@ -31,8 +31,18 @@ def all_the_same(tags: list[dict], key: str) -> bool:
     return all(item[key] == tags[0][key] for item in tags[1:])
 
 
+def us_replace(value: str) -> str:
+    if "U.S." in value:
+        return value.replace("U.S.", "US")
+    return value
+
+def mc_replace(value: str) -> str:
+    mc_match = regex.search(r"(.*\bMc)([a-z])(.*)", value)
+    if mc_match:
+        return mc_match.group(1) + mc_match.group(2).title() + mc_match.group(3)
+    return value
+
 for file in files:
-    print(f"Processing {file}...")
     with open(file, "r") as f:
         contents: dict = json.load(f)
 
@@ -40,9 +50,11 @@ for file in files:
     if "dataset_attributes" in contents:
         try:
             if contents["dataset_attributes"]["cleaning"]["version"] == version:
-                break
+                print(f"Skipping {file}...")
+                continue
         except KeyError:
-            continue
+            pass
+        print(f"Processing {file}...")
         contents["dataset_attributes"]["cleaning"] = clean_data
     else:
         contents["dataset_attributes"] = {"cleaning": clean_data}
@@ -54,10 +66,9 @@ for file in files:
         feature["properties"] for feature in contents["features"]
     ]
     for repeat_tag in repeat_tags:
-        if all(
-            feature.get(repeat_tag) == features[0].get(repeat_tag)
-            for feature in features
-        ) and any(feature.get(repeat_tag) for feature in features):
+        if all_the_same(features, repeat_tag) and any(
+            feature.get(repeat_tag) for feature in features
+        ):
             wipe_repeat_tags.append(repeat_tag)
 
     for obj in contents["features"]:
@@ -68,12 +79,11 @@ for file in files:
 
         for name_tag in ["name", "branch"]:
             if name_tag in objt:
-                if "U.S." in objt[name_tag]:
-                    objt[name_tag] = objt[name_tag].replace("U.S.", "US")
+                objt[name_tag] = mc_replace(us_replace(objt[name_tag]))
 
                 # change likely 'St' to 'Saint'
-                objt[name_tag] = re.sub(
-                    r"^(St.?)( .+)$", "Saint\2", objt[name_tag], flags=re.IGNORECASE
+                objt[name_tag] = regex.sub(
+                    r"^(St.?)( .+)$", "Saint\2", objt[name_tag], flags=regex.IGNORECASE
                 )
                 objt[name_tag] = get_title(objt[name_tag]).replace("  ", " ")
 
@@ -83,8 +93,8 @@ for file in files:
                     objt.pop(addr_tag, None)
 
                 # split up ATP-generated address field
-                address_match = re.match(
-                    r"([0-9]+)(?:-?([A-Z]+))? ([a-zA-Z .'][a-zA-Z .'0-9]+)",
+                address_match = regex.match(
+                    r"([0-9]+)(?:-?([A-Z]+))? ([a-zA-Z .'0-9]+)",
                     objt[addr_tag],
                 )
                 if address_match:
@@ -100,34 +110,33 @@ for file in files:
 
         if "addr:city" in objt:
             # title-case upper cased cities
-            objt["addr:city"] = get_title(objt["addr:city"])
+            objt["addr:city"] = mc_replace(get_title(objt["addr:city"]))
 
         if "addr:street" in objt:
-            if "U.S." in objt["addr:street"]:
-                objt["addr:street"] = objt["addr:street"].replace("U.S.", "US")
+            objt["addr:street"] = mc_replace(us_replace(objt["addr:street"]))
 
             # change likely 'St' to 'Saint'
-            objt["addr:street"] = re.sub(
+            objt["addr:street"] = regex.sub(
                 r"^(St.?)( .+)$", "Saint\2", objt["addr:street"]
             )
-            suite_match = re.search(r"^(St.?)( .+)$", objt["addr:street"])
+            suite_match = regex.search(r"^(St.?)( .+)$", objt["addr:street"])
             if suite_match:
                 objt["addr:street"] = suite_match.group(1)
                 objt["addr:unit"] = suite_match.group(2)
 
             # expand common street and word abbreviations
             for abbr, replacement in (name_expand | street_expand).items():
-                objt["addr:street"] = re.sub(
+                objt["addr:street"] = regex.sub(
                     rf"(\b(?:{abbr})\b\.?)",
                     replacement.title(),
                     objt["addr:street"],
-                    flags=re.IGNORECASE,
+                    flags=regex.IGNORECASE,
                 )
 
             # expand directionals
             for abbr, replacement in direction_expand.items():
                 abbr_fill = r"\.?".join(list(abbr))
-                objt["addr:street"] = re.sub(
+                objt["addr:street"] = regex.sub(
                     rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr_fill}\b\.?)(?! (?:Street|Avenue))",
                     replacement,
                     objt["addr:street"],
@@ -135,7 +144,7 @@ for file in files:
 
         if "addr:housenumber" in objt:
             # pull out unit numbers
-            unit_match = re.search(
+            unit_match = regex.search(
                 r"^([0-9]+)[ -]?([A-Za-z]+)$", objt["addr:housenumber"]
             )
             if unit_match:
@@ -149,11 +158,11 @@ for file in files:
                     objt[phone_tag] = objt[phone_tag].split(";")[0]
 
                 # format US and Canada phone numbers
-                phone_valid = re.search(
+                phone_valid = regex.search(
                     r"^\(?(?:\+? ?1?[ -.]*)?(?:\(?([0-9]{3})\)?[ -.]*)([0-9]{3})[ -.]*([0-9]{4})$",
                     objt[phone_tag],
                 )
-                phone_perf = re.search(
+                phone_perf = regex.search(
                     r"^\+1 [0-9]{3}-[0-9]{3}-[0-9]{4}$", objt[phone_tag]
                 )
                 if phone_valid and not phone_perf:
@@ -164,7 +173,7 @@ for file in files:
         for web_tag in ["url", "website", "contact:website"]:
             if web_tag in objt:
                 # remove url tracking parameters
-                web_match = re.match(
+                web_match = regex.match(
                     r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*", objt[web_tag]
                 )
                 if web_match:
@@ -172,7 +181,7 @@ for file in files:
 
         if "addr:postcode" in objt:
             # remove extraneous postcode digits
-            post_match = re.match(r"([0-9]{5})-?0{4}", objt["addr:postcode"])
+            post_match = regex.match(r"([0-9]{5})-?0{4}", objt["addr:postcode"])
             if post_match:
                 objt["addr:postcode"] = post_match.group(1)
 
