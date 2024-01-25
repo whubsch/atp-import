@@ -64,10 +64,13 @@ for file in files:
         for tag in useless_tags + wipe_repeat_tags:
             objt.pop(tag, None)
 
-        if "name" in objt:
-            # change likely 'St' to 'Saint'
-            objt["name"] = re.sub(r"^(St.?)( .+)$", "Saint\2", objt["name"])
-            objt["name"] = get_title(objt["name"])
+        for name_tag in ["name", "branch"]:
+            if name_tag in objt:
+                # change likely 'St' to 'Saint'
+                objt[name_tag] = re.sub(
+                    r"^(St.?)( .+)$", "Saint\2", objt[name_tag], flags=re.IGNORECASE
+                )
+                objt[name_tag] = get_title(objt[name_tag]).replace("  ", " ")
 
         for addr_tag in ["addr:street_address", "addr:full"]:
             if addr_tag in objt:
@@ -81,7 +84,9 @@ for file in files:
                 )
                 if address_match:
                     objt["addr:housenumber"] = address_match.group(1)
-                    objt["addr:street"] = get_title(address_match.group(3)).rstrip()
+                    objt["addr:street"] = (
+                        get_title(address_match.group(3)).rstrip().replace("  ", " ")
+                    )
                     if address_match.group(2):
                         objt["addr:unit"] = address_match.group(2)
                     objt.pop(addr_tag, None)
@@ -110,7 +115,7 @@ for file in files:
             # expand directionals
             for abbr, replacement in direction_expand.items():
                 objt["addr:street"] = re.sub(
-                    rf"(?<!^(?:Avenue|Street) )(\b{abbr}\b\.?)(?! (?:Street|Avenue))",
+                    rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr}\b\.?)(?! (?:Street|Avenue))",
                     replacement,
                     objt["addr:street"],
                 )
