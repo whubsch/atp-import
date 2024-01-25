@@ -8,6 +8,7 @@ from resources import (
     name_expand,
     useless_tags,
     repeat_tags,
+    overlap_tags,
 )
 
 version = "0.1.0"
@@ -37,10 +38,11 @@ for file in files:
 
     clean_data = {"version": version, "datetime": str(datetime.datetime.now().date())}
     if "dataset_attributes" in contents:
-        if "cleaning" in contents["dataset_attributes"]:
-            if "version" in contents["dataset_attributes"]["cleaning"]:
-                if contents["dataset_attributes"]["cleaning"]["version"] == version:
-                    break
+        try:
+            if contents["dataset_attributes"]["cleaning"]["version"] == version:
+                break
+        except KeyError:
+            continue
         contents["dataset_attributes"]["cleaning"] = clean_data
     else:
         contents["dataset_attributes"] = {"cleaning": clean_data}
@@ -66,6 +68,9 @@ for file in files:
 
         for name_tag in ["name", "branch"]:
             if name_tag in objt:
+                if "U.S." in objt[name_tag]:
+                    objt[name_tag] = objt[name_tag].replace("U.S.", "US")
+
                 # change likely 'St' to 'Saint'
                 objt[name_tag] = re.sub(
                     r"^(St.?)( .+)$", "Saint\2", objt[name_tag], flags=re.IGNORECASE
@@ -98,10 +103,17 @@ for file in files:
             objt["addr:city"] = get_title(objt["addr:city"])
 
         if "addr:street" in objt:
+            if "U.S." in objt["addr:street"]:
+                objt["addr:street"] = objt["addr:street"].replace("U.S.", "US")
+
             # change likely 'St' to 'Saint'
             objt["addr:street"] = re.sub(
                 r"^(St.?)( .+)$", "Saint\2", objt["addr:street"]
             )
+            suite_match = re.search(r"^(St.?)( .+)$", objt["addr:street"])
+            if suite_match:
+                objt["addr:street"] = suite_match.group(1)
+                objt["addr:unit"] = suite_match.group(2)
 
             # expand common street and word abbreviations
             for abbr, replacement in (name_expand | street_expand).items():
@@ -114,8 +126,9 @@ for file in files:
 
             # expand directionals
             for abbr, replacement in direction_expand.items():
+                abbr_fill = r"\.?".join(list(abbr))
                 objt["addr:street"] = re.sub(
-                    rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr}\b\.?)(?! (?:Street|Avenue))",
+                    rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr_fill}\b\.?)(?! (?:Street|Avenue))",
                     replacement,
                     objt["addr:street"],
                 )
@@ -147,6 +160,21 @@ for file in files:
                     objt[
                         phone_tag
                     ] = f"+1 {phone_valid.group(1)}-{phone_valid.group(2)}-{phone_valid.group(3)}"
+
+        for web_tag in ["url", "website", "contact:website"]:
+            if web_tag in objt:
+                # remove url tracking parameters
+                web_match = re.match(
+                    r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*", objt[web_tag]
+                )
+                if web_match:
+                    objt[web_tag] = web_match.group(1)
+
+        if "addr:postcode" in objt:
+            # remove extraneous postcode digits
+            post_match = re.match(r"([0-9]{5})-?0{4}", objt["addr:postcode"])
+            if post_match:
+                objt["addr:postcode"] = post_match.group(1)
 
         obj["properties"] = objt
 

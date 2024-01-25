@@ -17,6 +17,11 @@ repeat_tags = [
     "contact:email",
 ]
 
+overlap_tags = [
+    ["website", "contact:website", "url"],
+    ["phone", "contact:phone"],
+]
+
 direction_expand = {
     "N": "North",
     "E": "East",
