@@ -11,7 +11,7 @@ from resources import (
     overlap_tags,
 )
 
-version = "0.1.0"
+version = "0.1.1"
 
 folder_path = "./data"
 
@@ -28,7 +28,9 @@ def get_title(value: str) -> str:
 
 
 def all_the_same(tags: list[dict], key: str) -> bool:
-    return all(item[key] == tags[0][key] for item in tags[1:])
+    if key in tags:
+        return all(item[key] == tags[0][key] for item in tags[1:])
+    return False
 
 
 def us_replace(value: str) -> str:
@@ -36,10 +38,17 @@ def us_replace(value: str) -> str:
         return value.replace("U.S.", "US")
     return value
 
+
 def mc_replace(value: str) -> str:
     mc_match = regex.search(r"(.*\bMc)([a-z])(.*)", value)
     if mc_match:
         return mc_match.group(1) + mc_match.group(2).title() + mc_match.group(3)
+    return value
+
+def ord_replace(value: str) -> str:
+    ord_match = regex.search(r"(\b[0-9]+[SNRT][tTdDhH]\b)", value)
+    if ord_match:
+        return value.replace(ord_match.group(1), ord_match.group(1).lower())
     return value
 
 for file in files:
@@ -79,7 +88,7 @@ for file in files:
 
         for name_tag in ["name", "branch"]:
             if name_tag in objt:
-                objt[name_tag] = mc_replace(us_replace(objt[name_tag]))
+                objt[name_tag] = ord_replace(mc_replace(us_replace(objt[name_tag])))
 
                 # change likely 'St' to 'Saint'
                 objt[name_tag] = regex.sub(
@@ -113,7 +122,7 @@ for file in files:
             objt["addr:city"] = mc_replace(get_title(objt["addr:city"]))
 
         if "addr:street" in objt:
-            objt["addr:street"] = mc_replace(us_replace(objt["addr:street"]))
+            objt["addr:street"] = ord_replace(mc_replace(us_replace(objt["addr:street"])))
 
             # change likely 'St' to 'Saint'
             objt["addr:street"] = regex.sub(
