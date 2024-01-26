@@ -20,10 +20,7 @@
         "addr:street": "West Marlton Pike",
         "addr:postcode": "08002"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.042474, 39.929158]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.042474, 39.929158] }
     },
     {
       "type": "Feature",
@@ -43,10 +40,7 @@
         "phone": "+1 856-359-2180",
         "addr:postcode": "08054"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.87003, 39.973776]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.87003, 39.973776] }
     },
     {
       "type": "Feature",
@@ -66,10 +60,7 @@
         "addr:housenumber": "18",
         "addr:postcode": "07871"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.656539, 41.076683]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.656539, 41.076683] }
     },
     {
       "type": "Feature",
@@ -89,10 +80,7 @@
         "branch": "Middletown",
         "addr:postcode": "10940"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.4266305, 41.429033]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.4266305, 41.429033] }
     },
     {
       "type": "Feature",
@@ -112,10 +100,7 @@
         "addr:state": "CT",
         "addr:postcode": "06484"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.134702, 41.264899]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.134702, 41.264899] }
     },
     {
       "type": "Feature",
@@ -135,10 +120,7 @@
         "phone": "+1 203-626-7760",
         "addr:postcode": "06492"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.8110849, 41.4789862]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.8110849, 41.4789862] }
     },
     {
       "type": "Feature",
@@ -158,10 +140,7 @@
         "addr:postcode": "07480",
         "addr:housenumber": "23"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.365469, 41.131412]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.365469, 41.131412] }
     },
     {
       "type": "Feature",
@@ -181,10 +160,7 @@
         "name": "ShopRite",
         "addr:state": "NY"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.057237, 41.45761]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.057237, 41.45761] }
     },
     {
       "type": "Feature",
@@ -204,10 +180,7 @@
         "ref": "808",
         "addr:street": "College Plaza Selden"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.047136, 40.866247]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.047136, 40.866247] }
     },
     {
       "type": "Feature",
@@ -227,10 +200,7 @@
         "addr:postcode": "06360",
         "opening_hours": "Mo-Sa 07:00-21:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.101146, 41.513424]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.101146, 41.513424] }
     },
     {
       "type": "Feature",
@@ -250,10 +220,7 @@
         "name": "ShopRite",
         "addr:postcode": "08884"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.3875099, 40.4075022]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.3875099, 40.4075022] }
     },
     {
       "type": "Feature",
@@ -271,10 +238,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.836386, 40.823081]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.836386, 40.823081] }
     },
     {
       "type": "Feature",
@@ -292,10 +256,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.193995, 41.331846]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.193995, 41.331846] }
     },
     {
       "type": "Feature",
@@ -315,10 +276,7 @@
         "addr:state": "CT",
         "phone": "+1 860-895-8390"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.618775, 41.728643]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.618775, 41.728643] }
     },
     {
       "type": "Feature",
@@ -338,10 +296,7 @@
         "addr:postcode": "11803",
         "branch": "Plainview "
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.50072, 40.78571]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.50072, 40.78571] }
     },
     {
       "type": "Feature",
@@ -361,10 +316,7 @@
         "addr:city": "Sewell",
         "ref": "615"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.0773631, 39.7528315]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.0773631, 39.7528315] }
     },
     {
       "type": "Feature",
@@ -384,10 +336,7 @@
         "addr:street": "Bartley Road",
         "addr:city": "Flanders"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.7141307, 40.8349643]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.7141307, 40.8349643] }
     },
     {
       "type": "Feature",
@@ -407,10 +356,7 @@
         "addr:postcode": "10940",
         "addr:street": "Lloyds Lane"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.39907, 41.4537223]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.39907, 41.4537223] }
     },
     {
       "type": "Feature",
@@ -430,10 +376,7 @@
         "ref": "289",
         "addr:postcode": "11239"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.876275, 40.652343]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.876275, 40.652343] }
     },
     {
       "type": "Feature",
@@ -453,10 +396,7 @@
         "addr:postcode": "21234",
         "addr:city": "Parkville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.565607, 39.372692]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.565607, 39.372692] }
     },
     {
       "type": "Feature",
@@ -476,10 +416,7 @@
         "phone": "+1 609-275-8555",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.6837192, 40.2985097]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.6837192, 40.2985097] }
     },
     {
       "type": "Feature",
@@ -497,10 +434,7 @@
         "ref": "193",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.305756, 40.342731]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.305756, 40.342731] }
     },
     {
       "type": "Feature",
@@ -519,10 +453,7 @@
         "addr:housenumber": "563",
         "ref": "391"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.532366, 41.080393]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.532366, 41.080393] }
     },
     {
       "type": "Feature",
@@ -542,10 +473,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/537",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.120672, 40.036415]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.120672, 40.036415] }
     },
     {
       "type": "Feature",
@@ -565,10 +493,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/548",
         "phone": "+1 410-272-3100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.1813665, 39.5253454]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.1813665, 39.5253454] }
     },
     {
       "type": "Feature",
@@ -588,10 +513,7 @@
         "addr:street": "Whitehorse Pike",
         "addr:postcode": "08201"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.511215, 39.433203]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.511215, 39.433203] }
     },
     {
       "type": "Feature",
@@ -611,10 +533,7 @@
         "addr:postcode": "07027",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.331156, 40.652125]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.331156, 40.652125] }
     },
     {
       "type": "Feature",
@@ -634,10 +553,7 @@
         "name": "ShopRite",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.854753, 41.323544]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.854753, 41.323544] }
     },
     {
       "type": "Feature",
@@ -657,10 +573,7 @@
         "addr:city": "Philadelphia",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.0929, 39.99494]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.0929, 39.99494] }
     },
     {
       "type": "Feature",
@@ -680,10 +593,7 @@
         "name": "ShopRite",
         "addr:postcode": "08360"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.959373, 39.484275]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.959373, 39.484275] }
     },
     {
       "type": "Feature",
@@ -703,10 +613,7 @@
         "name": "ShopRite",
         "addr:postcode": "07642"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.041369, 41.012753]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.041369, 41.012753] }
     },
     {
       "type": "Feature",
@@ -726,10 +633,7 @@
         "ref": "318",
         "addr:street": "East Main Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.501968, 41.27018]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.501968, 41.27018] }
     },
     {
       "type": "Feature",
@@ -749,10 +653,7 @@
         "addr:state": "PA",
         "branch": "Whitman Plaza"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.155435, 39.913158]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.155435, 39.913158] }
     },
     {
       "type": "Feature",
@@ -772,10 +673,7 @@
         "addr:city": "South Plainfield",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.393029, 40.576612]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.393029, 40.576612] }
     },
     {
       "type": "Feature",
@@ -795,10 +693,7 @@
         "branch": "Wallington",
         "addr:city": "Wallington"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.106828, 40.84493]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.106828, 40.84493] }
     },
     {
       "type": "Feature",
@@ -818,10 +713,7 @@
         "addr:postcode": "08723",
         "ref": "641"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.144252, 40.061766]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.144252, 40.061766] }
     },
     {
       "type": "Feature",
@@ -841,10 +733,7 @@
         "addr:housenumber": "19",
         "addr:street": "Chestnut Hill Plaza"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.724018, 39.661626]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.724018, 39.661626] }
     },
     {
       "type": "Feature",
@@ -864,10 +753,7 @@
         "addr:street": "Kinsley Drive",
         "branch": "Brodheadsville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.422983, 40.919133]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.422983, 40.919133] }
     },
     {
       "type": "Feature",
@@ -887,10 +773,7 @@
         "addr:postcode": "07662",
         "branch": "Rochelle Park"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.080496, 40.915267]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.080496, 40.915267] }
     },
     {
       "type": "Feature",
@@ -910,10 +793,7 @@
         "ref": "626",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.183323, 40.419005]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.183323, 40.419005] }
     },
     {
       "type": "Feature",
@@ -933,10 +813,7 @@
         "addr:state": "PA",
         "phone": "+1 610-622-1100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.3222, 39.94663]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.3222, 39.94663] }
     },
     {
       "type": "Feature",
@@ -954,10 +831,7 @@
         "phone": "+1 908-359-7400",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.643214, 40.500499]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.643214, 40.500499] }
     },
     {
       "type": "Feature",
@@ -977,10 +851,7 @@
         "ref": "113",
         "addr:city": "Lyndhurst"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.118779, 40.811994]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.118779, 40.811994] }
     },
     {
       "type": "Feature",
@@ -998,10 +869,7 @@
         "opening_hours": "Mo-Sa 07:00-23:00",
         "addr:postcode": "07728"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.275912, 40.243314]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.275912, 40.243314] }
     },
     {
       "type": "Feature",
@@ -1020,10 +888,7 @@
         "addr:housenumber": "220",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.080509, 40.915295]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.080509, 40.915295] }
     },
     {
       "type": "Feature",
@@ -1043,10 +908,7 @@
         "addr:postcode": "11776",
         "website": "https://www.shoprite.com/sm/planning/rsid/817"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.050514, 40.922436]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.050514, 40.922436] }
     },
     {
       "type": "Feature",
@@ -1066,10 +928,7 @@
         "addr:housenumber": "808",
         "addr:postcode": "07054"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.375503, 40.865489]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.375503, 40.865489] }
     },
     {
       "type": "Feature",
@@ -1089,10 +948,7 @@
         "phone": "+1 610-696-4066",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.572773, 39.970536]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.572773, 39.970536] }
     },
     {
       "type": "Feature",
@@ -1112,10 +968,7 @@
         "phone": "+1 908-766-3129",
         "addr:city": "Bernardsville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.562345, 40.718968]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.562345, 40.718968] }
     },
     {
       "type": "Feature",
@@ -1135,10 +988,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/217",
         "addr:postcode": "07470"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.2411923, 40.9625723]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.2411923, 40.9625723] }
     },
     {
       "type": "Feature",
@@ -1157,10 +1007,7 @@
         "phone": "+1 732-294-8660",
         "addr:postcode": "07728"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.277995, 40.243414]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.277995, 40.243414] }
     },
     {
       "type": "Feature",
@@ -1180,10 +1027,7 @@
         "addr:postcode": "08534",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.787115, 40.306228]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.787115, 40.306228] }
     },
     {
       "type": "Feature",
@@ -1201,10 +1045,7 @@
         "ref": "539",
         "addr:city": "Clementon"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.02544, 39.803096]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.02544, 39.803096] }
     },
     {
       "type": "Feature",
@@ -1224,10 +1065,7 @@
         "branch": "Springfield",
         "addr:city": "Springfield"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.331102, 40.718991]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.331102, 40.718991] }
     },
     {
       "type": "Feature",
@@ -1245,10 +1083,7 @@
         "branch": "Greenway Plaza",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.900797, 40.933047]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.900797, 40.933047] }
     },
     {
       "type": "Feature",
@@ -1268,10 +1103,7 @@
         "phone": "+1 856-439-9700",
         "addr:postcode": "08054"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.965851, 39.937974]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.965851, 39.937974] }
     },
     {
       "type": "Feature",
@@ -1291,10 +1123,7 @@
         "addr:postcode": "08075",
         "ref": "517"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.945503, 40.018367]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.945503, 40.018367] }
     },
     {
       "type": "Feature",
@@ -1314,10 +1143,7 @@
         "addr:street": "Shunpike Road",
         "opening_hours": "Mo-Sa 07:00-21:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.431979, 40.745445]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.431979, 40.745445] }
     },
     {
       "type": "Feature",
@@ -1337,10 +1163,7 @@
         "addr:postcode": "12601",
         "addr:housenumber": "10"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.92826, 41.72909]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.92826, 41.72909] }
     },
     {
       "type": "Feature",
@@ -1358,10 +1181,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.881104, 41.822048]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.881104, 41.822048] }
     },
     {
       "type": "Feature",
@@ -1381,10 +1201,7 @@
         "opening_hours": "Mo-Sa 07:00-22:00",
         "addr:housenumber": "89"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.356767, 41.124588]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.356767, 41.124588] }
     },
     {
       "type": "Feature",
@@ -1405,10 +1222,7 @@
         "branch": "Union",
         "phone": "+1 908-810-6742"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.296143, 40.691348]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.296143, 40.691348] }
     },
     {
       "type": "Feature",
@@ -1428,10 +1242,7 @@
         "addr:postcode": "12754",
         "addr:housenumber": "1955"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.720172, 41.783002]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.720172, 41.783002] }
     },
     {
       "type": "Feature",
@@ -1451,10 +1262,7 @@
         "opening_hours": "Mo-Sa 07:00-21:00",
         "branch": "New London"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.11758, 41.3717]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.11758, 41.3717] }
     },
     {
       "type": "Feature",
@@ -1474,10 +1282,7 @@
         "addr:housenumber": "3901",
         "addr:postcode": "11714"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.4915, 40.7263]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.4915, 40.7263] }
     },
     {
       "type": "Feature",
@@ -1497,10 +1302,7 @@
         "addr:street": "Fischer Boulevard",
         "branch": "Fischer Bay"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.2074646, 39.9659716]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.2074646, 39.9659716] }
     },
     {
       "type": "Feature",
@@ -1520,10 +1322,7 @@
         "addr:street": "Martin Luther King Boulevard",
         "phone": "+1 973-674-1500"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.218697, 40.766396]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.218697, 40.766396] }
     },
     {
       "type": "Feature",
@@ -1543,10 +1342,7 @@
         "addr:housenumber": "99",
         "addr:postcode": "12549"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.212509, 41.5113673]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.212509, 41.5113673] }
     },
     {
       "type": "Feature",
@@ -1566,10 +1362,7 @@
         "addr:street": "Sunrise Highway",
         "branch": "Bay Shore"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.233219, 40.740268]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.233219, 40.740268] }
     },
     {
       "type": "Feature",
@@ -1589,10 +1382,7 @@
         "opening_hours": "Mo-Sa 07:00-21:00",
         "addr:housenumber": "1207"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.143415, 40.68015]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.143415, 40.68015] }
     },
     {
       "type": "Feature",
@@ -1612,10 +1402,7 @@
         "phone": "+1 914-271-6400",
         "addr:street": "South Riverside Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8816757, 41.1921736]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.8816757, 41.1921736] }
     },
     {
       "type": "Feature",
@@ -1635,10 +1422,7 @@
         "addr:postcode": "07860",
         "addr:street": "Water Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.744878, 41.065498]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.744878, 41.065498] }
     },
     {
       "type": "Feature",
@@ -1658,10 +1442,7 @@
         "addr:city": "Bedford Hills",
         "branch": "Bedford Hills"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.715228, 41.224858]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.715228, 41.224858] }
     },
     {
       "type": "Feature",
@@ -1681,10 +1462,7 @@
         "branch": "Forest & Richmond",
         "ref": "109"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.148556, 40.622856]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.148556, 40.622856] }
     },
     {
       "type": "Feature",
@@ -1704,10 +1482,7 @@
         "name": "ShopRite",
         "phone": "+1 410-664-0240"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6950029, 39.3308655]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.6950029, 39.3308655] }
     },
     {
       "type": "Feature",
@@ -1727,10 +1502,7 @@
         "addr:city": "Williamstown",
         "branch": "Williamstown"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.992193, 39.6884604]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.992193, 39.6884604] }
     },
     {
       "type": "Feature",
@@ -1748,10 +1520,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.705331, 40.896848]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.705331, 40.896848] }
     },
     {
       "type": "Feature",
@@ -1771,10 +1540,7 @@
         "name": "ShopRite",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.406313, 41.437047]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.406313, 41.437047] }
     },
     {
       "type": "Feature",
@@ -1794,10 +1560,7 @@
         "opening_hours": "Mo-Sa 07:00-22:00",
         "phone": "+1 215-673-1200"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.008939, 40.102705]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.008939, 40.102705] }
     },
     {
       "type": "Feature",
@@ -1817,10 +1580,7 @@
         "addr:street": "Bel Air South Parkway",
         "addr:city": "Bel Air"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.327405, 39.4967863]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.327405, 39.4967863] }
     },
     {
       "type": "Feature",
@@ -1840,10 +1600,7 @@
         "addr:street": "South Whitehorse Pike",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.787151, 39.64485]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.787151, 39.64485] }
     },
     {
       "type": "Feature",
@@ -1863,10 +1620,7 @@
         "phone": "+1 732-381-7600",
         "addr:housenumber": "76"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.305277, 40.629139]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.305277, 40.629139] }
     },
     {
       "type": "Feature",
@@ -1886,10 +1640,7 @@
         "addr:state": "CT",
         "addr:postcode": "06460"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.049103, 41.231813]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.049103, 41.231813] }
     },
     {
       "type": "Feature",
@@ -1907,10 +1658,7 @@
         "branch": "Bridge & Harbison",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.06322, 40.01288]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.06322, 40.01288] }
     },
     {
       "type": "Feature",
@@ -1930,10 +1678,7 @@
         "opening_hours": "Mo-Sa 07:00-23:00",
         "addr:street": "South Pitney Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.495583, 39.462527]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.495583, 39.462527] }
     },
     {
       "type": "Feature",
@@ -1953,10 +1698,7 @@
         "name": "ShopRite",
         "addr:city": "Northvale"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.944856, 41.012466]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.944856, 41.012466] }
     },
     {
       "type": "Feature",
@@ -1976,10 +1718,7 @@
         "addr:state": "CT",
         "ref": "319"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.580462, 41.988055]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.580462, 41.988055] }
     },
     {
       "type": "Feature",
@@ -2000,10 +1739,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/419",
         "phone": "+1 215-220-8700"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.2270771, 39.9795865]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.2270771, 39.9795865] }
     },
     {
       "type": "Feature",
@@ -2023,10 +1759,7 @@
         "addr:postcode": "06066",
         "addr:housenumber": "35"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.498293, 41.827059]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.498293, 41.827059] }
     },
     {
       "type": "Feature",
@@ -2044,10 +1777,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Su 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.040099, 40.724348]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.040099, 40.724348] }
     },
     {
       "type": "Feature",
@@ -2067,10 +1797,7 @@
         "addr:street": "North County Line Road",
         "ref": "616"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.293045, 40.139048]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.293045, 40.139048] }
     },
     {
       "type": "Feature",
@@ -2090,10 +1817,7 @@
         "addr:housenumber": "1101",
         "addr:street": "Governors Place"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.663207, 39.628223]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.663207, 39.628223] }
     },
     {
       "type": "Feature",
@@ -2113,10 +1837,7 @@
         "addr:city": "Bethlehem",
         "phone": "+1 610-865-2439"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.295964, 40.649266]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.295964, 40.649266] }
     },
     {
       "type": "Feature",
@@ -2136,10 +1857,7 @@
         "phone": "+1 973-365-2287",
         "branch": "Lodi"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.085012, 40.879585]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.085012, 40.879585] }
     },
     {
       "type": "Feature",
@@ -2159,10 +1877,7 @@
         "branch": "Wall Township",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.08043, 40.121531]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.08043, 40.121531] }
     },
     {
       "type": "Feature",
@@ -2182,10 +1897,7 @@
         "addr:state": "PA",
         "addr:city": "Brookhaven"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.39579, 39.880087]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.39579, 39.880087] }
     },
     {
       "type": "Feature",
@@ -2205,10 +1917,7 @@
         "name": "ShopRite",
         "addr:postcode": "08873"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.537774, 40.530764]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.537774, 40.530764] }
     },
     {
       "type": "Feature",
@@ -2228,10 +1937,7 @@
         "addr:postcode": "07630",
         "addr:street": "Old Hook Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.006966, 40.981769]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.006966, 40.981769] }
     },
     {
       "type": "Feature",
@@ -2251,10 +1957,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/613",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.22154, 40.395279]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.22154, 40.395279] }
     },
     {
       "type": "Feature",
@@ -2273,10 +1976,7 @@
         "phone": "+1 973-361-9477",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.570378, 40.904969]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.570378, 40.904969] }
     },
     {
       "type": "Feature",
@@ -2296,10 +1996,7 @@
         "ref": "819",
         "addr:postcode": "11901"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.695122, 40.929037]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.695122, 40.929037] }
     },
     {
       "type": "Feature",
@@ -2319,10 +2016,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/507",
         "addr:postcode": "08021"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.037698, 39.818195]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.037698, 39.818195] }
     },
     {
       "type": "Feature",
@@ -2342,10 +2036,7 @@
         "branch": "Hatfield",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.317989, 40.266988]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.317989, 40.266988] }
     },
     {
       "type": "Feature",
@@ -2365,10 +2056,7 @@
         "opening_hours": "Mo-Sa 07:00-23:00",
         "addr:city": "Branchburg"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.691986, 40.604744]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.691986, 40.604744] }
     },
     {
       "type": "Feature",
@@ -2385,10 +2073,7 @@
         "shop": "supermarket",
         "website": "https://www.shoprite.com/sm/planning/rsid/790"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.101234, 40.925692]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.101234, 40.925692] }
     },
     {
       "type": "Feature",
@@ -2406,10 +2091,7 @@
         "addr:postcode": "08817",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.383819, 40.512056]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.383819, 40.512056] }
     },
     {
       "type": "Feature",
@@ -2429,10 +2111,7 @@
         "addr:postcode": "08055",
         "addr:street": "Route 70 East"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.820769, 39.903632]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.820769, 39.903632] }
     },
     {
       "type": "Feature",
@@ -2452,10 +2131,7 @@
         "name": "ShopRite",
         "addr:postcode": "07052"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.255569, 40.79507]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.255569, 40.79507] }
     },
     {
       "type": "Feature",
@@ -2475,10 +2151,7 @@
         "addr:state": "NY",
         "branch": "New Paltz"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.069413, 41.741537]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.069413, 41.741537] }
     },
     {
       "type": "Feature",
@@ -2498,10 +2171,7 @@
         "phone": "+1 732-302-9299",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.552952, 40.570241]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.552952, 40.570241] }
     },
     {
       "type": "Feature",
@@ -2521,10 +2191,7 @@
         "addr:postcode": "08691",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.642496, 40.19188]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.642496, 40.19188] }
     },
     {
       "type": "Feature",
@@ -2541,10 +2208,7 @@
         "shop": "supermarket",
         "addr:city": "Rockaway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.536357, 40.884758]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.536357, 40.884758] }
     },
     {
       "type": "Feature",
@@ -2564,10 +2228,7 @@
         "addr:postcode": "10710",
         "addr:city": "Yonkers"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.858693, 40.953388]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.858693, 40.953388] }
     },
     {
       "type": "Feature",
@@ -2587,10 +2248,7 @@
         "phone": "+1 856-983-7370",
         "addr:postcode": "08053"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.932543, 39.896088]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.932543, 39.896088] }
     },
     {
       "type": "Feature",
@@ -2610,10 +2268,7 @@
         "addr:housenumber": "3409",
         "ref": "429"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.702144, 41.375784]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.702144, 41.375784] }
     },
     {
       "type": "Feature",
@@ -2633,10 +2288,7 @@
         "addr:housenumber": "22",
         "addr:city": "Stony Point"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.982361, 41.217865]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.982361, 41.217865] }
     },
     {
       "type": "Feature",
@@ -2656,10 +2308,7 @@
         "addr:city": "Ellenville",
         "addr:postcode": "12428"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.381492, 41.731107]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.381492, 41.731107] }
     },
     {
       "type": "Feature",
@@ -2679,10 +2328,7 @@
         "ref": "487",
         "addr:postcode": "07885"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.570405, 40.904952]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.570405, 40.904952] }
     },
     {
       "type": "Feature",
@@ -2702,10 +2348,7 @@
         "addr:street": "Sunrise Highway",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.006099, 40.781066]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.006099, 40.781066] }
     },
     {
       "type": "Feature",
@@ -2725,10 +2368,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/614",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.3020264, 40.0146708]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.3020264, 40.0146708] }
     },
     {
       "type": "Feature",
@@ -2748,10 +2388,7 @@
         "addr:city": "Morristown",
         "phone": "+1 973-829-6825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.468915, 40.81393]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.468915, 40.81393] }
     },
     {
       "type": "Feature",
@@ -2771,10 +2408,7 @@
         "name": "ShopRite",
         "addr:state": "NY"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.986227, 41.960128]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.986227, 41.960128] }
     },
     {
       "type": "Feature",
@@ -2792,10 +2426,7 @@
         "opening_hours": "Mo-Sa 07:00-21:00",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.855271, 40.497006]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.855271, 40.497006] }
     },
     {
       "type": "Feature",
@@ -2815,10 +2446,7 @@
         "ref": "804",
         "website": "https://www.shoprite.com/sm/planning/rsid/804"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.578885, 40.695726]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.578885, 40.695726] }
     },
     {
       "type": "Feature",
@@ -2839,10 +2467,7 @@
         "addr:postcode": "12601",
         "branch": "Poughkeepsie"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9217958, 41.6193638]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9217958, 41.6193638] }
     },
     {
       "type": "Feature",
@@ -2862,10 +2487,7 @@
         "addr:street": "Broad Street",
         "addr:city": "Bloomfield"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.18799, 40.80851]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.18799, 40.80851] }
     },
     {
       "type": "Feature",
@@ -2885,10 +2507,7 @@
         "phone": "+1 845-794-0777",
         "addr:housenumber": "46"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.6729916, 41.6668484]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.6729916, 41.6668484] }
     },
     {
       "type": "Feature",
@@ -2908,10 +2527,7 @@
         "addr:postcode": "21093",
         "branch": "Timonium"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6295847, 39.4373779]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.6295847, 39.4373779] }
     },
     {
       "type": "Feature",
@@ -2931,10 +2547,7 @@
         "addr:street": "Bridgeton Pike",
         "phone": "+1 856-357-9301"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.218655, 39.724291]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.218655, 39.724291] }
     },
     {
       "type": "Feature",
@@ -2952,10 +2565,7 @@
         "shop": "supermarket",
         "ref": "505"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.0441375, 39.4206206]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.0441375, 39.4206206] }
     },
     {
       "type": "Feature",
@@ -2973,10 +2583,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.718522, 40.934819]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.718522, 40.934819] }
     },
     {
       "type": "Feature",
@@ -2994,10 +2601,7 @@
         "shop": "supermarket",
         "website": "https://www.shoprite.com/sm/planning/rsid/394"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.440566, 41.102472]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.440566, 41.102472] }
     },
     {
       "type": "Feature",
@@ -3017,10 +2621,7 @@
         "ref": "102",
         "addr:street": "Bruckner Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.855307, 40.824064]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.855307, 40.824064] }
     },
     {
       "type": "Feature",
@@ -3040,10 +2641,7 @@
         "phone": "+1 410-272-3900",
         "addr:street": "Riverside Parkway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.2473688, 39.4800336]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.2473688, 39.4800336] }
     },
     {
       "type": "Feature",
@@ -3063,10 +2661,7 @@
         "phone": "+1 609-399-3534",
         "addr:postcode": "08242"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.86887, 39.01197]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.86887, 39.01197] }
     },
     {
       "type": "Feature",
@@ -3084,10 +2679,7 @@
         "shop": "supermarket",
         "phone": "+1 908-523-0707"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.247154, 40.618325]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.247154, 40.618325] }
     },
     {
       "type": "Feature",
@@ -3107,10 +2699,7 @@
         "addr:state": "CT",
         "addr:postcode": "06040"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.57046, 41.765675]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.57046, 41.765675] }
     },
     {
       "type": "Feature",
@@ -3130,10 +2719,7 @@
         "addr:housenumber": "9910",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.985071, 40.064964]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.985071, 40.064964] }
     },
     {
       "type": "Feature",
@@ -3153,10 +2739,7 @@
         "addr:postcode": "08234",
         "addr:city": "Egg Harbor Township"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.613343, 39.433116]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.613343, 39.433116] }
     },
     {
       "type": "Feature",
@@ -3174,10 +2757,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.287163, 40.516616]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.287163, 40.516616] }
     },
     {
       "type": "Feature",
@@ -3197,10 +2777,7 @@
         "name": "ShopRite",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.119744, 41.20078]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.119744, 41.20078] }
     },
     {
       "type": "Feature",
@@ -3218,10 +2795,7 @@
         "branch": "Oregon Avenue",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.191009, 39.927113]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.191009, 39.927113] }
     },
     {
       "type": "Feature",
@@ -3241,10 +2815,7 @@
         "phone": "+1 570-424-5715",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.224237, 40.990182]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.224237, 40.990182] }
     },
     {
       "type": "Feature",
@@ -3264,10 +2835,7 @@
         "branch": "Wyckoff",
         "addr:postcode": "07481"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.169846, 41.013517]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.169846, 41.013517] }
     },
     {
       "type": "Feature",
@@ -3287,10 +2855,7 @@
         "branch": "Bayville",
         "ref": "618"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.152834, 39.913857]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.152834, 39.913857] }
     },
     {
       "type": "Feature",
@@ -3310,10 +2875,7 @@
         "addr:street": "South Walnut Street",
         "phone": "+1 302-225-6900"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.554777, 39.731313]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.554777, 39.731313] }
     },
     {
       "type": "Feature",
@@ -3333,10 +2895,7 @@
         "branch": "Yardley",
         "ref": "407"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.866539, 40.198339]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.866539, 40.198339] }
     },
     {
       "type": "Feature",
@@ -3356,10 +2915,7 @@
         "phone": "+1 973-302-8600",
         "addr:city": "Belleville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.145329, 40.804861]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.145329, 40.804861] }
     },
     {
       "type": "Feature",
@@ -3379,10 +2935,7 @@
         "addr:city": "Howell",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.225153, 40.139954]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.225153, 40.139954] }
     },
     {
       "type": "Feature",
@@ -3402,10 +2955,7 @@
         "addr:postcode": "19036-1224",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.290243, 39.908268]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.290243, 39.908268] }
     },
     {
       "type": "Feature",
@@ -3424,10 +2974,7 @@
         "addr:city": "Wantage",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.6171471, 41.2247272]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.6171471, 41.2247272] }
     },
     {
       "type": "Feature",
@@ -3447,10 +2994,7 @@
         "name": "ShopRite",
         "addr:housenumber": "1701"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.409831, 40.649892]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.409831, 40.649892] }
     },
     {
       "type": "Feature",
@@ -3470,10 +3014,7 @@
         "addr:street": "Madison Street",
         "addr:postcode": "07030"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.036571, 40.749467]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.036571, 40.749467] }
     },
     {
       "type": "Feature",
@@ -3491,10 +3032,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.647089, 40.404866]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.647089, 40.404866] }
     },
     {
       "type": "Feature",
@@ -3511,10 +3049,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.833202, 40.854695]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.833202, 40.854695] }
     },
     {
       "type": "Feature",
@@ -3532,10 +3067,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.20246, 40.82693]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.20246, 40.82693] }
     },
     {
       "type": "Feature",
@@ -3555,10 +3087,7 @@
         "ref": "508",
         "branch": "Sicklerville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.996168, 39.741307]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.996168, 39.741307] }
     },
     {
       "type": "Feature",
@@ -3578,10 +3107,7 @@
         "addr:street": "Mantua Pike",
         "addr:postcode": "08096"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.170382, 39.804622]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.170382, 39.804622] }
     },
     {
       "type": "Feature",
@@ -3599,10 +3125,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.442585, 40.551542]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.442585, 40.551542] }
     },
     {
       "type": "Feature",
@@ -3621,10 +3144,7 @@
         "addr:street": "State Route 23",
         "addr:housenumber": "100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.581515, 41.102704]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.581515, 41.102704] }
     },
     {
       "type": "Feature",
@@ -3644,10 +3164,7 @@
         "phone": "+1 631-918-4087",
         "ref": "814"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.331979, 40.764329]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.331979, 40.764329] }
     },
     {
       "type": "Feature",
@@ -3665,10 +3182,7 @@
         "opening_hours": "Mo-Sa 07:00-23:00",
         "addr:postcode": "08816"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.396513, 40.456984]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.396513, 40.456984] }
     },
     {
       "type": "Feature",
@@ -3688,10 +3202,7 @@
         "phone": "+1 856-863-3700",
         "addr:street": "Dalton Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.109484, 39.719309]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.109484, 39.719309] }
     },
     {
       "type": "Feature",
@@ -3711,10 +3222,7 @@
         "phone": "+1 973-694-1080",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.31314, 40.93046]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.31314, 40.93046] }
     },
     {
       "type": "Feature",
@@ -3734,10 +3242,7 @@
         "name": "ShopRite",
         "addr:state": "NY"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.823111, 40.991499]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.823111, 40.991499] }
     },
     {
       "type": "Feature",
@@ -3757,10 +3262,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/506",
         "ref": "506"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.528836, 40.279793]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.528836, 40.279793] }
     },
     {
       "type": "Feature",
@@ -3779,10 +3281,7 @@
         "shop": "supermarket",
         "website": "https://www.shoprite.com/sm/planning/rsid/905"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.154913, 40.871485]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.154913, 40.871485] }
     },
     {
       "type": "Feature",
@@ -3802,10 +3301,7 @@
         "branch": "Upper Deerfield",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.213233, 39.457366]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.213233, 39.457366] }
     },
     {
       "type": "Feature",
@@ -3825,10 +3321,7 @@
         "addr:postcode": "10994",
         "opening_hours": "Mo-Su 07:00-10:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.95894, 41.092798]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.95894, 41.092798] }
     },
     {
       "type": "Feature",
@@ -3848,10 +3341,7 @@
         "addr:state": "NY",
         "addr:street": "Broadway Route 141"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.779213, 41.125156]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.779213, 41.125156] }
     },
     {
       "type": "Feature",
@@ -3871,10 +3361,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/525",
         "addr:postcode": "08054"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.91523, 39.937802]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.91523, 39.937802] }
     },
     {
       "type": "Feature",
@@ -3894,10 +3381,7 @@
         "ref": "439",
         "phone": "+1 215-328-4700"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.108625, 40.20961]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.108625, 40.20961] }
     },
     {
       "type": "Feature",
@@ -3915,10 +3399,7 @@
         "shop": "supermarket",
         "website": "https://www.shoprite.com/sm/planning/rsid/273"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.694819, 40.780841]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.694819, 40.780841] }
     },
     {
       "type": "Feature",
@@ -3938,10 +3419,7 @@
         "branch": "Warwick",
         "ref": "267"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.380962, 41.235802]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.380962, 41.235802] }
     },
     {
       "type": "Feature",
@@ -3961,10 +3439,7 @@
         "addr:city": "Southbury",
         "branch": "Southbury"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.22966, 41.463003]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.22966, 41.463003] }
     },
     {
       "type": "Feature",
@@ -3984,10 +3459,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/812",
         "phone": "+1 516-352-1603"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.689777, 40.758134]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.689777, 40.758134] }
     },
     {
       "type": "Feature",
@@ -4005,10 +3477,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Su 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1396551, 41.0671898]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.1396551, 41.0671898] }
     },
     {
       "type": "Feature",
@@ -4028,10 +3497,7 @@
         "ref": "247",
         "addr:street": "South Livingston Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.321517, 40.774985]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.321517, 40.774985] }
     },
     {
       "type": "Feature",
@@ -4052,10 +3518,7 @@
         "addr:city": "Chester",
         "addr:housenumber": "78"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.283795, 41.360385]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.283795, 41.360385] }
     },
     {
       "type": "Feature",
@@ -4075,10 +3538,7 @@
         "branch": "Clinton",
         "opening_hours": "Mo-Sa 07:00-21:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.9232099, 40.6268809]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.9232099, 40.6268809] }
     },
     {
       "type": "Feature",
@@ -4098,10 +3558,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/806",
         "addr:postcode": "11725"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.288822, 40.807794]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.288822, 40.807794] }
     },
     {
       "type": "Feature",
@@ -4119,10 +3576,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/606",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.270308, 39.6982107]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.270308, 39.6982107] }
     },
     {
       "type": "Feature",
@@ -4142,10 +3596,7 @@
         "addr:postcode": "10965",
         "ref": "219"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.011663, 41.060814]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.011663, 41.060814] }
     },
     {
       "type": "Feature",
@@ -4165,10 +3616,7 @@
         "addr:city": "White Plains",
         "branch": "White Plains"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7678093, 41.0320538]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.7678093, 41.0320538] }
     },
     {
       "type": "Feature",
@@ -4188,10 +3636,7 @@
         "addr:state": "PA",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.517868, 41.308322]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.517868, 41.308322] }
     },
     {
       "type": "Feature",
@@ -4211,10 +3656,7 @@
         "addr:city": "Staten Island",
         "addr:postcode": "10306"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.11292, 40.56715]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.11292, 40.56715] }
     },
     {
       "type": "Feature",
@@ -4234,10 +3676,7 @@
         "phone": "+1 856-691-9395",
         "addr:postcode": "08360"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.051439, 39.4848819]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.051439, 39.4848819] }
     },
     {
       "type": "Feature",
@@ -4255,10 +3694,7 @@
         "shop": "supermarket",
         "addr:city": "Little Falls"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.211391, 40.881767]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.211391, 40.881767] }
     },
     {
       "type": "Feature",
@@ -4277,10 +3713,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/395",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.521678, 41.076768]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.521678, 41.076768] }
     },
     {
       "type": "Feature",
@@ -4300,10 +3733,7 @@
         "addr:street": "Dooley Road",
         "addr:postcode": "21160"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.3426538, 39.7203296]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.3426538, 39.7203296] }
     },
     {
       "type": "Feature",
@@ -4321,10 +3751,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.846859, 40.781684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.846859, 40.781684] }
     },
     {
       "type": "Feature",
@@ -4344,10 +3771,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/428",
         "ref": "428"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.9261714, 40.1297662]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.9261714, 40.1297662] }
     },
     {
       "type": "Feature",
@@ -4367,10 +3791,7 @@
         "phone": "+1 201-816-8330",
         "branch": "Englewood"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.975547, 40.896667]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.975547, 40.896667] }
     },
     {
       "type": "Feature",
@@ -4390,10 +3811,7 @@
         "addr:state": "CT",
         "addr:housenumber": "45"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.678278, 41.604201]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.678278, 41.604201] }
     },
     {
       "type": "Feature",
@@ -4413,10 +3831,7 @@
         "addr:city": "Philadelphia",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.052578, 40.031788]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.052578, 40.031788] }
     },
     {
       "type": "Feature",
@@ -4436,10 +3851,7 @@
         "addr:housenumber": "2101",
         "addr:postcode": "21050"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.3850233, 39.5753921]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.3850233, 39.5753921] }
     },
     {
       "type": "Feature",
@@ -4459,10 +3871,7 @@
         "addr:postcode": "08223",
         "branch": "Marmora"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.64702, 39.264032]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.64702, 39.264032] }
     },
     {
       "type": "Feature",
@@ -4482,10 +3891,7 @@
         "branch": "Hillside",
         "phone": "+1 908-810-4662"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.234321, 40.700405]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.234321, 40.700405] }
     },
     {
       "type": "Feature",
@@ -4505,10 +3911,7 @@
         "addr:state": "CT",
         "addr:street": "Dixwell Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.922289, 41.36965]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.922289, 41.36965] }
     },
     {
       "type": "Feature",
@@ -4529,10 +3932,7 @@
         "addr:housenumber": "2900",
         "addr:unit": "2946"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.241849, 39.901572]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.241849, 39.901572] }
     },
     {
       "type": "Feature",
@@ -4552,10 +3952,7 @@
         "addr:street": "US Route 1",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.570601, 40.385439]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.570601, 40.385439] }
     },
     {
       "type": "Feature",
@@ -4575,10 +3972,7 @@
         "name": "ShopRite",
         "addr:street": "River Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.019998, 40.94515]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.019998, 40.94515] }
     },
     {
       "type": "Feature",
@@ -4599,10 +3993,7 @@
         "ref": "619",
         "website": "https://www.shoprite.com/sm/planning/rsid/619"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.199049, 39.795905]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.199049, 39.795905] }
     },
     {
       "type": "Feature",
@@ -4622,10 +4013,7 @@
         "name": "ShopRite",
         "branch": "Four Seasons"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.715016, 39.647911]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.715016, 39.647911] }
     },
     {
       "type": "Feature",
@@ -4645,10 +4033,7 @@
         "addr:housenumber": "1817",
         "addr:city": "Burlington"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.841057, 40.053679]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.841057, 40.053679] }
     },
     {
       "type": "Feature",
@@ -4668,10 +4053,7 @@
         "addr:housenumber": "3147",
         "addr:postcode": "07047"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.035172, 40.774653]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.035172, 40.774653] }
     },
     {
       "type": "Feature",
@@ -4688,10 +4070,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.127329, 40.403537]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.127329, 40.403537] }
     },
     {
       "type": "Feature",
@@ -4711,10 +4090,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/538",
         "ref": "538"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.627908, 39.714709]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.627908, 39.714709] }
     },
     {
       "type": "Feature",
@@ -4734,10 +4110,7 @@
         "addr:postcode": "08876",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.615164, 40.56786]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.615164, 40.56786] }
     },
     {
       "type": "Feature",
@@ -4757,10 +4130,7 @@
         "addr:street": "Route 46",
         "addr:housenumber": "57"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.81367, 40.84445]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.81367, 40.84445] }
     },
     {
       "type": "Feature",
@@ -4778,10 +4148,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Su 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.131019, 40.645915]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.131019, 40.645915] }
     },
     {
       "type": "Feature",
@@ -4801,10 +4168,7 @@
         "opening_hours": "Mo-Sa 07:00-23:00",
         "addr:city": "Shrewsbury"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.065202, 40.313314]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.065202, 40.313314] }
     },
     {
       "type": "Feature",
@@ -4823,10 +4187,7 @@
         "addr:housenumber": "583",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.119283, 40.667457]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.119283, 40.667457] }
     },
     {
       "type": "Feature",
@@ -4844,10 +4205,7 @@
         "opening_hours": "Mo-Su 07:00-23:00",
         "addr:postcode": "19022"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.340075, 39.864916]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.340075, 39.864916] }
     },
     {
       "type": "Feature",
@@ -4867,10 +4225,7 @@
         "branch": "Washington",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.9778067, 40.7385818]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.9778067, 40.7385818] }
     },
     {
       "type": "Feature",
@@ -4890,10 +4245,7 @@
         "addr:postcode": "07032",
         "branch": "Kearny Square"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.160296, 40.756877]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.160296, 40.756877] }
     },
     {
       "type": "Feature",
@@ -4913,10 +4265,7 @@
         "phone": "+1 732-525-8282",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.312848, 40.467509]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.312848, 40.467509] }
     },
     {
       "type": "Feature",
@@ -4935,10 +4284,7 @@
         "shop": "supermarket",
         "name": "ShopRite Liquors of Jersey City"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.040074, 40.724371]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.040074, 40.724371] }
     },
     {
       "type": "Feature",
@@ -4958,10 +4304,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/815",
         "addr:postcode": "11758"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.436986, 40.675679]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.436986, 40.675679] }
     },
     {
       "type": "Feature",
@@ -4981,10 +4324,7 @@
         "opening_hours": "Mo-Sa 07:00-22:00",
         "website": "https://www.shoprite.com/sm/planning/rsid/509"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.304836, 40.410613]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.304836, 40.410613] }
     },
     {
       "type": "Feature",
@@ -5004,10 +4344,7 @@
         "opening_hours": "Mo-Sa 07:00-23:00",
         "addr:postcode": "08690"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.664674, 40.22605]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.664674, 40.22605] }
     },
     {
       "type": "Feature",
@@ -5027,10 +4364,7 @@
         "opening_hours": "Mo-Sa 07:00-21:00",
         "addr:postcode": "07041"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.307334, 40.717988]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.307334, 40.717988] }
     },
     {
       "type": "Feature",
@@ -5048,10 +4382,7 @@
         "shop": "supermarket",
         "branch": "New Rochelle"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.778969, 40.916521]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.778969, 40.916521] }
     },
     {
       "type": "Feature",
@@ -5071,10 +4402,7 @@
         "addr:postcode": "07095",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.292634, 40.567563]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.292634, 40.567563] }
     },
     {
       "type": "Feature",
@@ -5092,10 +4420,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Su 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.934481, 39.806977]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.934481, 39.806977] }
     },
     {
       "type": "Feature",
@@ -5113,10 +4438,7 @@
         "ref": "291",
         "phone": "+1 973-827-6135"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.579127, 41.117562]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.579127, 41.117562] }
     },
     {
       "type": "Feature",
@@ -5136,10 +4458,7 @@
         "addr:postcode": "12534",
         "phone": "+1 518-828-0192"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.763559, 42.272047]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.763559, 42.272047] }
     },
     {
       "type": "Feature",
@@ -5159,10 +4478,7 @@
         "ref": "529",
         "website": "https://www.shoprite.com/sm/planning/rsid/529"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.972938, 39.861887]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.972938, 39.861887] }
     },
     {
       "type": "Feature",
@@ -5182,10 +4498,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/514",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.769471, 40.249662]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.769471, 40.249662] }
     },
     {
       "type": "Feature",
@@ -5203,10 +4516,7 @@
         "phone": "+1 973-584-1322",
         "ref": "281"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.649069, 40.868014]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.649069, 40.868014] }
     },
     {
       "type": "Feature",
@@ -5224,10 +4534,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.897792, 41.539643]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.897792, 41.539643] }
     },
     {
       "type": "Feature",
@@ -5247,10 +4554,7 @@
         "addr:state": "CT",
         "addr:street": "West Main Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.564922, 41.047371]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.564922, 41.047371] }
     },
     {
       "type": "Feature",
@@ -5268,10 +4572,7 @@
         "shop": "supermarket",
         "addr:city": "Bristol"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.9029262, 41.6955241]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.9029262, 41.6955241] }
     },
     {
       "type": "Feature",
@@ -5291,10 +4592,7 @@
         "addr:housenumber": "14",
         "branch": "Oakland"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.256299, 41.014557]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.256299, 41.014557] }
     },
     {
       "type": "Feature",
@@ -5312,10 +4610,7 @@
         "shop": "supermarket",
         "addr:city": "LaGrangeville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.772687, 41.629522]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.772687, 41.629522] }
     },
     {
       "type": "Feature",
@@ -5335,10 +4630,7 @@
         "addr:postcode": "08077",
         "website": "https://www.shoprite.com/sm/planning/rsid/518"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.009923, 39.990748]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.009923, 39.990748] }
     },
     {
       "type": "Feature",
@@ -5358,10 +4650,7 @@
         "addr:postcode": "11803",
         "website": "https://www.shoprite.com/sm/planning/rsid/807"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.443907, 40.783384]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.443907, 40.783384] }
     },
     {
       "type": "Feature",
@@ -5379,10 +4668,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/609",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1874582, 39.8508056]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.1874582, 39.8508056] }
     },
     {
       "type": "Feature",
@@ -5400,10 +4686,7 @@
         "phone": "+1 845-638-3218",
         "addr:postcode": "10956"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.987657, 41.149128]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.987657, 41.149128] }
     },
     {
       "type": "Feature",
@@ -5423,10 +4706,7 @@
         "addr:postcode": "10512",
         "addr:street": "Route 52"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.680262, 41.43613]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.680262, 41.43613] }
     },
     {
       "type": "Feature",
@@ -5446,10 +4726,7 @@
         "addr:state": "PA",
         "addr:street": "South Oxford Valley Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.847445, 40.169405]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.847445, 40.169405] }
     },
     {
       "type": "Feature",
@@ -5469,10 +4746,7 @@
         "addr:city": "Staten Island",
         "phone": "+1 718-948-4945"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.235157, 40.528342]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.235157, 40.528342] }
     },
     {
       "type": "Feature",
@@ -5492,10 +4766,7 @@
         "addr:street": "Route 38 East",
         "ref": "516"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.808602, 39.981462]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.808602, 39.981462] }
     },
     {
       "type": "Feature",
@@ -5515,10 +4786,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/207",
         "addr:street": "Passaic Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.296699, 40.848278]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.296699, 40.848278] }
     },
     {
       "type": "Feature",
@@ -5538,10 +4806,7 @@
         "addr:state": "CT",
         "addr:housenumber": "49"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.086462, 41.330431]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.086462, 41.330431] }
     },
     {
       "type": "Feature",
@@ -5561,10 +4826,7 @@
         "addr:street": "McDonald Avenue",
         "phone": "+1 718-252-5770"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.977121, 40.626733]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.977121, 40.626733] }
     },
     {
       "type": "Feature",
@@ -5584,10 +4846,7 @@
         "ref": "563",
         "addr:street": "Jarrettsville Pike"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.5602925, 39.5201165]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.5602925, 39.5201165] }
     },
     {
       "type": "Feature",
@@ -5605,10 +4864,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/471",
         "addr:postcode": "08030"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.1171646, 39.8782061]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.1171646, 39.8782061] }
     },
     {
       "type": "Feature",
@@ -5628,10 +4884,7 @@
         "branch": "Elizabeth",
         "phone": "+1 908-558-9126"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.238914, 40.66384]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.238914, 40.66384] }
     },
     {
       "type": "Feature",
@@ -5651,10 +4904,7 @@
         "branch": "Shippan Avenue",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.52347, 41.048396]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.52347, 41.048396] }
     },
     {
       "type": "Feature",
@@ -5674,10 +4924,7 @@
         "addr:street": "North Main Street",
         "addr:city": "Bel Air"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.355335, 39.5395856]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.355335, 39.5395856] }
     },
     {
       "type": "Feature",
@@ -5697,10 +4944,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/519",
         "ref": "519"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.227439, 40.043998]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.227439, 40.043998] }
     },
     {
       "type": "Feature",
@@ -5718,10 +4962,7 @@
         "brand": "ShopRite",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.596322, 39.332391]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.596322, 39.332391] }
     },
     {
       "type": "Feature",
@@ -5741,10 +4982,7 @@
         "addr:street": "Route 4 East At Forest Avenue",
         "addr:postcode": "07652"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0560669, 40.9156509]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.0560669, 40.9156509] }
     },
     {
       "type": "Feature",
@@ -5764,10 +5002,7 @@
         "addr:postcode": "06477",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.987141, 41.273704]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.987141, 41.273704] }
     },
     {
       "type": "Feature",
@@ -5787,10 +5022,7 @@
         "addr:state": "PA",
         "addr:street": "Fox Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.179163, 40.009121]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.179163, 40.009121] }
     },
     {
       "type": "Feature",
@@ -5810,10 +5042,7 @@
         "name": "ShopRite",
         "addr:state": "PA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.72233, 41.35204]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.72233, 41.35204] }
     },
     {
       "type": "Feature",
@@ -5831,10 +5060,7 @@
         "shop": "supermarket",
         "phone": "+1 201-461-0219"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.004666, 40.851981]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.004666, 40.851981] }
     },
     {
       "type": "Feature",
@@ -5854,10 +5080,7 @@
         "addr:postcode": "06489",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.875141, 41.636545]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.875141, 41.636545] }
     },
     {
       "type": "Feature",
@@ -5877,10 +5100,7 @@
         "addr:state": "PA",
         "addr:street": "Oxford Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.08816, 40.043858]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.08816, 40.043858] }
     },
     {
       "type": "Feature",
@@ -5900,10 +5120,7 @@
         "ref": "388",
         "addr:state": "CT"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.456143, 41.413044]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.456143, 41.413044] }
     },
     {
       "type": "Feature",
@@ -5923,10 +5140,7 @@
         "ref": "134",
         "addr:street": "South River Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.034559, 40.863578]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.034559, 40.863578] }
     },
     {
       "type": "Feature",
@@ -5944,10 +5158,7 @@
         "ref": "638",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.045029, 40.169794]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.045029, 40.169794] }
     },
     {
       "type": "Feature",
@@ -5967,10 +5178,7 @@
         "addr:housenumber": "1300",
         "website": "https://www.shoprite.com/sm/planning/rsid/558"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.548435, 39.824967]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.548435, 39.824967] }
     },
     {
       "type": "Feature",
@@ -5990,10 +5198,7 @@
         "addr:state": "CT",
         "phone": "+1 203-615-0140"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.249904, 41.180002]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.249904, 41.180002] }
     },
     {
       "type": "Feature",
@@ -6013,10 +5218,7 @@
         "branch": "Pelham Parkway",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8231223, 40.8931936]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.8231223, 40.8931936] }
     },
     {
       "type": "Feature",
@@ -6036,10 +5238,7 @@
         "addr:city": "Passaic",
         "addr:street": "Paulison Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.139813, 40.862192]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.139813, 40.862192] }
     },
     {
       "type": "Feature",
@@ -6057,10 +5256,7 @@
         "shop": "supermarket",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.031991, 40.296082]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.031991, 40.296082] }
     },
     {
       "type": "Feature",
@@ -6078,10 +5274,7 @@
         "branch": "Cheltenham Square",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.15855, 40.07433]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.15855, 40.07433] }
     },
     {
       "type": "Feature",
@@ -6101,10 +5294,7 @@
         "addr:postcode": "07980",
         "opening_hours": "Mo-Sa 07:00-22:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.487877, 40.667276]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.487877, 40.667276] }
     },
     {
       "type": "Feature",
@@ -6124,10 +5314,7 @@
         "name": "ShopRite",
         "addr:postcode": "07110"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.158176, 40.821713]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.158176, 40.821713] }
     },
     {
       "type": "Feature",
@@ -6147,10 +5334,7 @@
         "website": "https://www.shoprite.com/sm/planning/rsid/604",
         "ref": "604"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.205799, 39.965892]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.205799, 39.965892] }
     },
     {
       "type": "Feature",
@@ -6167,10 +5351,7 @@
         "addr:city": "Paramus",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.052778, 40.913958]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.052778, 40.913958] }
     },
     {
       "type": "Feature",
@@ -6190,10 +5371,7 @@
         "addr:postcode": "11779",
         "phone": "+1 631-737-0861"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.089381, 40.832033]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.089381, 40.832033] }
     },
     {
       "type": "Feature",
@@ -6213,10 +5391,7 @@
         "ref": "511",
         "phone": "+1 732-541-6457"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.228068, 40.589285]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.228068, 40.589285] }
     },
     {
       "type": "Feature",
@@ -6234,10 +5409,7 @@
         "phone": "+1 609-298-8700",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.703934, 40.173786]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.703934, 40.173786] }
     },
     {
       "type": "Feature",
@@ -6257,10 +5429,7 @@
         "addr:city": "Neptune",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.042994, 40.224418]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.042994, 40.224418] }
     },
     {
       "type": "Feature",
@@ -6280,10 +5449,7 @@
         "addr:postcode": "07103",
         "addr:street": "Springfield Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1883863, 40.7366464]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.1883863, 40.7366464] }
     },
     {
       "type": "Feature",
@@ -6303,10 +5469,7 @@
         "addr:city": "North Brunswick",
         "opening_hours": "Mo-Sa 07:00-23:00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.489834, 40.433688]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.489834, 40.433688] }
     },
     {
       "type": "Feature",
@@ -6326,10 +5489,7 @@
         "name": "ShopRite",
         "addr:street": "North White Horse Pike"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.043639, 39.867741]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.043639, 39.867741] }
     },
     {
       "type": "Feature",
@@ -6349,10 +5509,7 @@
         "addr:postcode": "10923",
         "addr:housenumber": "56"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.008654, 41.200295]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.008654, 41.200295] }
     },
     {
       "type": "Feature",
@@ -6370,10 +5527,7 @@
         "shop": "supermarket",
         "addr:city": "Mohegan Lake"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.868313, 41.313165]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.868313, 41.313165] }
     }
   ]
 }
