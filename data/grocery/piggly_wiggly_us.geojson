@@ -65,7 +65,7 @@
         "addr:housenumber": "18150",
         "addr:postcode": "70401",
         "addr:state": "LA",
-        "addr:street": "HWY 190 East",
+        "addr:street": "Highway 190 East",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -2645,7 +2645,7 @@
         "addr:housenumber": "130",
         "addr:postcode": "37074",
         "addr:state": "TN",
-        "addr:street": "Mcmurry Boulevard",
+        "addr:street": "McMurry Boulevard",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -3102,7 +3102,7 @@
         "addr:housenumber": "18147",
         "addr:postcode": "29042",
         "addr:state": "SC",
-        "addr:street": "Heritage HWY",
+        "addr:street": "Heritage Highway",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -3230,7 +3230,7 @@
       "type": "Feature",
       "id": "node/-259980",
       "properties": {
-        "addr:city": "St. Matthews",
+        "addr:city": "Saint Matthews",
         "addr:housenumber": "615",
         "addr:postcode": "29135",
         "addr:state": "SC",
@@ -3517,7 +3517,7 @@
       "type": "Feature",
       "id": "node/-259995",
       "properties": {
-        "addr:city": "St. George",
+        "addr:city": "Saint George",
         "addr:housenumber": "5583",
         "addr:postcode": "29477",
         "addr:state": "SC",
@@ -4753,7 +4753,7 @@
       "type": "Feature",
       "id": "node/-260062",
       "properties": {
-        "addr:city": "St. George Island",
+        "addr:city": "Saint George Island",
         "addr:housenumber": "244",
         "addr:postcode": "32328",
         "addr:state": "FL",
@@ -4776,7 +4776,7 @@
         "addr:housenumber": "18680",
         "addr:postcode": "32351",
         "addr:state": "FL",
-        "addr:street": "Bluestar HWY",
+        "addr:street": "Bluestar Highway",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -5397,7 +5397,7 @@
         "addr:housenumber": "2500",
         "addr:postcode": "35207",
         "addr:state": "AL",
-        "addr:street": "29TH Avenue North",
+        "addr:street": "29th Avenue North",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -6885,7 +6885,7 @@
         "addr:housenumber": "620",
         "addr:postcode": "36863",
         "addr:state": "AL",
-        "addr:street": "Cherry Valley Shpg Center",
+        "addr:street": "Cherry Valley Shopping Center",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -7653,7 +7653,7 @@
         "addr:housenumber": "604",
         "addr:postcode": "28501",
         "addr:state": "NC",
-        "addr:street": "North Mclewean Street",
+        "addr:street": "North McLewean Street",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -8435,7 +8435,7 @@
       "type": "Feature",
       "id": "node/-260261",
       "properties": {
-        "addr:city": "Mcrae",
+        "addr:city": "McRae",
         "addr:housenumber": "48",
         "addr:postcode": "31055",
         "addr:state": "GA",
@@ -9151,5 +9151,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-84.8804886, 31.0295945] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

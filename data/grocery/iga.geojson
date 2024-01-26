@@ -824,7 +824,7 @@
       "type": "Feature",
       "id": "node/-220987",
       "properties": {
-        "addr:city": "St. Stephens",
+        "addr:city": "Saint Stephens",
         "addr:housenumber": "3931",
         "addr:postcode": "29479",
         "addr:state": "SC",
@@ -1296,7 +1296,7 @@
       "type": "Feature",
       "id": "node/-221012",
       "properties": {
-        "addr:city": "St. Maries",
+        "addr:city": "Saint Maries",
         "addr:housenumber": "105",
         "addr:postcode": "83861",
         "addr:state": "ID",
@@ -1693,7 +1693,7 @@
       "type": "Feature",
       "id": "node/-221033",
       "properties": {
-        "addr:city": "St. Joseph",
+        "addr:city": "Saint Joseph",
         "addr:housenumber": "205",
         "addr:postcode": "61873",
         "addr:state": "IL",
@@ -2112,7 +2112,7 @@
         "addr:housenumber": "1137",
         "addr:postcode": "42347",
         "addr:state": "KY",
-        "addr:street": "HWY 231 South",
+        "addr:street": "Highway 231 South",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
         "name": "Hometown IGA",
@@ -2580,7 +2580,7 @@
       "type": "Feature",
       "id": "node/-221081",
       "properties": {
-        "addr:city": "St. Albans",
+        "addr:city": "Saint Albans",
         "addr:housenumber": "2500",
         "addr:postcode": "25177",
         "addr:state": "WV",
@@ -3212,7 +3212,7 @@
         "addr:street": "North Country Road 435",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Mt Plymouth IGA Fresh Market",
+        "name": "Mount Plymouth IGA Fresh Market",
         "phone": "+1 330-925-9502",
         "ref": "Mt Plymouth IGA Fresh Market",
         "shop": "supermarket",
@@ -4207,7 +4207,7 @@
       "type": "Feature",
       "id": "node/-221167",
       "properties": {
-        "addr:city": "St. Henry",
+        "addr:city": "Saint Henry",
         "addr:housenumber": "451",
         "addr:postcode": "45883",
         "addr:state": "OH",
@@ -5496,7 +5496,7 @@
         "addr:street": "Crab Orchard Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Mt. Vernon IGA",
+        "name": "Mount Vernon IGA",
         "phone": "+1 602-870-3600",
         "ref": "Mt. Vernon IGA",
         "shop": "supermarket",
@@ -5546,7 +5546,7 @@
       "type": "Feature",
       "id": "node/-221238",
       "properties": {
-        "addr:city": "Mcdowell",
+        "addr:city": "McDowell",
         "addr:housenumber": "9623",
         "addr:postcode": "41647",
         "addr:state": "KY",
@@ -6018,7 +6018,7 @@
         "addr:street": "East 4th Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "E.C. Porter IGA",
+        "name": "EastC. Porter IGA",
         "phone": "+1 606-864-5145",
         "shop": "supermarket",
         "website": "https://porter.iga.com"
@@ -9720,7 +9720,7 @@
         "addr:street": "Litchfield Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "The Market CT - Northville",
+        "name": "The Market Court - Northville",
         "phone": "+1 860-274-0372",
         "ref": "The Market CT - Northville",
         "shop": "supermarket",
@@ -9853,7 +9853,7 @@
         "addr:street": "Bantam Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "The Market CT - Bantam",
+        "name": "The Market Court - Bantam",
         "phone": "+1 860-567-8647",
         "ref": "The Market CT - Bantam",
         "shop": "supermarket",
@@ -11164,7 +11164,7 @@
       "type": "Feature",
       "id": "node/-221538",
       "properties": {
-        "addr:city": "St. Pauls",
+        "addr:city": "Saint Pauls",
         "addr:housenumber": "406",
         "addr:postcode": "28384",
         "addr:state": "NC",
@@ -13267,7 +13267,7 @@
         "addr:street": "East Shotwell Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Pic N Sav/Cost Plus",
+        "name": "Pic North Sav/Cost Plus",
         "phone": "+1 229-248-0832",
         "ref": "Pic N Sav/Cost Plus #656",
         "shop": "supermarket"
@@ -13350,5 +13350,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-85.05927, 38.75193] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

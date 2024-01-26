@@ -2,7 +2,8 @@
   "type": "FeatureCollection",
   "dataset_attributes": {
     "@spider": "winndixie",
-    "spider:collection_time": "2024-01-21T16:43:55.736379"
+    "spider:collection_time": "2024-01-21T16:43:55.736379",
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
   },
   "features": [
     {
@@ -115,7 +116,7 @@
         "addr:state": "FL",
         "addr:postcode": "32277",
         "addr:country": "US",
-        "name": "Ft Caroline Trading Post",
+        "name": "Fort Caroline Trading Post",
         "phone": "+1 904-743-0251",
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=51",
         "brand": "Winn Dixie",
@@ -213,7 +214,7 @@
         "addr:state": "FL",
         "addr:postcode": "32210",
         "addr:country": "US",
-        "name": "Cedar Hills Shopping Ctr Liquor",
+        "name": "Cedar Hills Shopping Center Liquor",
         "phone": "+1 904-771-2822",
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=183",
         "brand": "Winn Dixie",
@@ -849,7 +850,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "96076",
-        "addr:street": "LOFTON SQUARE ct"
+        "addr:street": "LOFTON SQUARE Court"
       },
       "geometry": { "type": "Point", "coordinates": [-81.544405, 30.623985] }
     },
@@ -918,7 +919,7 @@
       "properties": {
         "ref": "182",
         "shop": "supermarket",
-        "addr:city": "St Augustine",
+        "addr:city": "Saint Augustine",
         "addr:state": "FL",
         "addr:postcode": "32084",
         "addr:country": "US",
@@ -957,7 +958,7 @@
       "properties": {
         "ref": "77",
         "shop": "supermarket",
-        "addr:city": "St Augustine",
+        "addr:city": "Saint Augustine",
         "addr:state": "FL",
         "addr:postcode": "32084",
         "addr:country": "US",
@@ -1017,7 +1018,7 @@
       "properties": {
         "ref": "130",
         "shop": "supermarket",
-        "addr:city": "St Augustine",
+        "addr:city": "Saint Augustine",
         "addr:state": "FL",
         "addr:postcode": "32084",
         "addr:country": "US",
@@ -1037,7 +1038,7 @@
       "properties": {
         "ref": "129",
         "shop": "supermarket",
-        "addr:city": "St Augustine",
+        "addr:city": "Saint Augustine",
         "addr:state": "FL",
         "addr:postcode": "32080",
         "addr:country": "US",
@@ -1056,7 +1057,7 @@
       "properties": {
         "ref": "112",
         "shop": "supermarket",
-        "addr:city": "St Augustine",
+        "addr:city": "Saint Augustine",
         "addr:state": "FL",
         "addr:postcode": "32086",
         "addr:country": "US",
@@ -1076,7 +1077,7 @@
       "properties": {
         "ref": "113",
         "shop": "supermarket",
-        "addr:city": "St Augustine",
+        "addr:city": "Saint Augustine",
         "addr:state": "FL",
         "addr:postcode": "32086",
         "addr:country": "US",
@@ -1202,7 +1203,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1115",
-        "addr:street": "North Summit St"
+        "addr:street": "North Summit Street"
       },
       "geometry": { "type": "Point", "coordinates": [-81.512274, 29.44738] }
     },
@@ -1273,7 +1274,7 @@
         "addr:state": "FL",
         "addr:postcode": "32025",
         "addr:country": "US",
-        "name": "Lake City Shopping Ctr-Liquor",
+        "name": "Lake City Shopping Center-Liquor",
         "phone": "+1 386-755-5907",
         "website": "https://www.winndixie.com/storedetails/lake city/fl?search=82",
         "brand": "Winn Dixie",
@@ -1338,7 +1339,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "300",
-        "addr:street": "SouthW. 16Th Avenue"
+        "addr:street": "SouthW. 16th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-82.328984, 29.637477] }
     },
@@ -1367,7 +1368,7 @@
       "properties": {
         "ref": "19",
         "shop": "supermarket",
-        "addr:city": "St Simons Island",
+        "addr:city": "Saint Simons Island",
         "addr:state": "GA",
         "addr:postcode": "31522",
         "addr:country": "US",
@@ -1510,7 +1511,7 @@
         "addr:state": "FL",
         "addr:postcode": "32174",
         "addr:country": "US",
-        "name": "Ormond Beach Shopping Ctr Liqu",
+        "name": "Ormond Beach Shopping Center Liqu",
         "phone": "+1 386-671-4881",
         "website": "https://www.winndixie.com/storedetails/ormond beach/fl?search=2310",
         "brand": "Winn Dixie",
@@ -1686,7 +1687,7 @@
         "addr:state": "FL",
         "addr:postcode": "32118",
         "addr:country": "US",
-        "name": "W-D Plaza",
+        "name": "West-D Plaza",
         "phone": "+1 386-253-7713",
         "website": "https://www.winndixie.com/storedetails/daytona beach shores/fl?search=2263",
         "brand": "Winn Dixie",
@@ -1824,7 +1825,7 @@
         "addr:state": "FL",
         "addr:postcode": "32626",
         "addr:country": "US",
-        "name": "Chiefland Regional Shopping Ct",
+        "name": "Chiefland Regional Shopping Court",
         "phone": "+1 352-493-1938",
         "website": "https://www.winndixie.com/storedetails/chiefland/fl?search=148",
         "brand": "Winn Dixie",
@@ -1844,7 +1845,7 @@
         "addr:state": "FL",
         "addr:postcode": "32626",
         "addr:country": "US",
-        "name": "Chiefland Regional Shopping Ct",
+        "name": "Chiefland Regional Shopping Court",
         "phone": "+1 352-493-0839",
         "website": "https://www.winndixie.com/storedetails/chiefland/fl?search=168",
         "brand": "Winn Dixie",
@@ -2244,7 +2245,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3200",
-        "addr:street": "North Ashley St."
+        "addr:street": "North Ashley Street"
       },
       "geometry": { "type": "Point", "coordinates": [-83.293779, 30.875189] }
     },
@@ -2463,7 +2464,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1202",
-        "addr:street": "West Main St."
+        "addr:street": "West Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.345064, 28.837476] }
     },
@@ -2502,7 +2503,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1202",
-        "addr:street": "West Main St."
+        "addr:street": "West Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.34524, 28.837507] }
     },
@@ -2642,7 +2643,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "601",
-        "addr:street": "East Main St"
+        "addr:street": "East Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-81.498586, 28.674083] }
     },
@@ -2662,7 +2663,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "611",
-        "addr:street": "East Main St"
+        "addr:street": "East Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-81.49806, 28.67406] }
     },
@@ -2714,7 +2715,7 @@
         "addr:state": "FL",
         "addr:postcode": "32714",
         "addr:country": "US",
-        "name": "West Town Shopping Ctr Liquor",
+        "name": "West Town Shopping Center Liquor",
         "phone": "+1 407-788-0138",
         "website": "https://www.winndixie.com/storedetails/altamonte springs/fl?search=2389",
         "brand": "Winn Dixie",
@@ -2800,7 +2801,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1122",
-        "addr:street": "North Main St"
+        "addr:street": "North Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.112327, 28.682463] }
     },
@@ -2854,7 +2855,7 @@
         "addr:state": "FL",
         "addr:postcode": "34448",
         "addr:country": "US",
-        "name": "Homosassa Regional Shopping Ct",
+        "name": "Homosassa Regional Shopping Court",
         "phone": "+1 352-628-0079",
         "website": "https://www.winndixie.com/storedetails/homosassa/fl?search=2239",
         "brand": "Winn Dixie",
@@ -2874,7 +2875,7 @@
         "addr:state": "FL",
         "addr:postcode": "34448",
         "addr:country": "US",
-        "name": "Homosassa Regional Shopping Ct",
+        "name": "Homosassa Regional Shopping Court",
         "phone": "+1 352-628-1918",
         "website": "https://www.winndixie.com/storedetails/homosassa/fl?search=2223",
         "brand": "Winn Dixie",
@@ -3080,7 +3081,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1564",
-        "addr:street": "Harrison St"
+        "addr:street": "Harrison Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.820767, 28.586814] }
     },
@@ -3200,7 +3201,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1245",
-        "addr:street": "South Jefferson St."
+        "addr:street": "South Jefferson Street"
       },
       "geometry": { "type": "Point", "coordinates": [-83.871285, 30.53512] }
     },
@@ -3961,7 +3962,7 @@
         "addr:state": "FL",
         "addr:postcode": "32301",
         "addr:country": "US",
-        "name": "Magnolia Squ.Shopping Ctr- Liq",
+        "name": "Magnolia Squ.Shopping Center- Liq",
         "phone": "+1 850-656-7800",
         "website": "https://www.winndixie.com/storedetails/tallahassee/fl?search=90",
         "brand": "Winn Dixie",
@@ -4175,7 +4176,7 @@
         "addr:state": "FL",
         "addr:postcode": "33592",
         "addr:country": "US",
-        "name": "University East Shopping Ctr",
+        "name": "University East Shopping Center",
         "phone": "+1 656-347-1053",
         "website": "https://www.winndixie.com/storedetails/thonotosassa/fl?search=778",
         "brand": "Winn Dixie",
@@ -4195,7 +4196,7 @@
         "addr:state": "FL",
         "addr:postcode": "33592",
         "addr:country": "US",
-        "name": "University East Shopping Ctr",
+        "name": "University East Shopping Center",
         "phone": "+1 813-986-5798",
         "website": "https://www.winndixie.com/storedetails/thonotosassa/fl?search=777",
         "brand": "Winn Dixie",
@@ -4374,7 +4375,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "123",
-        "addr:street": "West Alexander St."
+        "addr:street": "West Alexander Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.123127, 27.987258] }
     },
@@ -4393,7 +4394,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "205",
-        "addr:street": "West Alexander St."
+        "addr:street": "West Alexander Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.12349, 27.987091] }
     },
@@ -4469,7 +4470,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "8837",
-        "addr:street": "North 56Th St."
+        "addr:street": "North 56th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.392041, 28.02918] }
     },
@@ -4913,7 +4914,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1360",
-        "addr:street": "Tampa St."
+        "addr:street": "Tampa Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.76275, 28.067005] }
     },
@@ -4927,7 +4928,7 @@
         "addr:state": "FL",
         "addr:postcode": "32905",
         "addr:country": "US",
-        "name": "Marketplace Shopping Ctr Liquo",
+        "name": "Marketplace Shopping Center Liquo",
         "phone": "+1 321-728-3786",
         "website": "https://www.winndixie.com/storedetails/palm bay/fl?search=2351",
         "brand": "Winn Dixie",
@@ -5136,7 +5137,6 @@
       "properties": {
         "ref": "648",
         "shop": "supermarket",
-        "addr:full": "11136 4th Street North",
         "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33716",
@@ -5145,7 +5145,9 @@
         "phone": "+1 727-217-9594",
         "website": "https://www.winndixie.com/storedetails/saint petersburg/fl?search=648",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "11136",
+        "addr:street": "4th Street North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.640436, 27.873527] }
     },
@@ -5155,8 +5157,7 @@
       "properties": {
         "ref": "649",
         "shop": "supermarket",
-        "addr:full": "11100 4TH STREET NORTH",
-        "addr:city": "St Petersburg",
+        "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33716",
         "addr:country": "US",
@@ -5164,7 +5165,9 @@
         "phone": "+1 727-577-7095",
         "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=649",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "11100",
+        "addr:street": "4th Street North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.640385, 27.873141] }
     },
@@ -5222,7 +5225,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1632",
-        "addr:street": "West Jefferson St"
+        "addr:street": "West Jefferson Street"
       },
       "geometry": { "type": "Point", "coordinates": [-84.597621, 30.586995] }
     },
@@ -5292,7 +5295,6 @@
       "properties": {
         "ref": "681",
         "shop": "supermarket",
-        "addr:full": "6501 102 AVE NORTH",
         "addr:city": "Pinellas Park",
         "addr:state": "FL",
         "addr:postcode": "33782",
@@ -5301,7 +5303,9 @@
         "phone": "+1 727-541-2070",
         "website": "https://www.winndixie.com/storedetails/pinellas park/fl?search=681",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "6501",
+        "addr:street": "102 Avenue North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.727062, 27.866016] }
     },
@@ -5311,8 +5315,7 @@
       "properties": {
         "ref": "698",
         "shop": "supermarket",
-        "addr:full": "1049 62 AVE NORTH",
-        "addr:city": "St Petersburg",
+        "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33702",
         "addr:country": "US",
@@ -5320,7 +5323,9 @@
         "phone": "+1 727-525-4632",
         "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=698",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "1049",
+        "addr:street": "62 Avenue North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.648756, 27.829885] }
     },
@@ -5330,8 +5335,7 @@
       "properties": {
         "ref": "756",
         "shop": "supermarket",
-        "addr:full": "1047 62 AVE NORTH",
-        "addr:city": "St Petersburg",
+        "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33702",
         "addr:country": "US",
@@ -5339,7 +5343,9 @@
         "phone": "+1 727-527-2786",
         "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=756",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "1047",
+        "addr:street": "62 Avenue North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.648511, 27.829614] }
     },
@@ -5425,7 +5431,6 @@
       "properties": {
         "ref": "2443",
         "shop": "supermarket",
-        "addr:full": "3327 9Th Street N.",
         "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33704",
@@ -5433,7 +5438,9 @@
         "phone": "+1 727-823-3538",
         "website": "https://www.winndixie.com/storedetails/saint petersburg/fl?search=2443",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "3327",
+        "addr:street": "9th Street North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.645617, 27.802555] }
     },
@@ -5484,7 +5491,6 @@
       "properties": {
         "ref": "684",
         "shop": "supermarket",
-        "addr:full": "5802 54TH AVENUE NORTH",
         "addr:city": "Kenneth City",
         "addr:state": "FL",
         "addr:postcode": "33709",
@@ -5493,7 +5499,9 @@
         "phone": "+1 727-544-7211",
         "website": "https://www.winndixie.com/storedetails/kenneth city/fl?search=684",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "5802",
+        "addr:street": "54th Avenue North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.713081, 27.81969] }
     },
@@ -5581,7 +5589,6 @@
       "properties": {
         "ref": "2410",
         "shop": "supermarket",
-        "addr:full": "3350 22nd Avenue N",
         "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33713",
@@ -5589,7 +5596,9 @@
         "phone": "+1 727-323-2900",
         "website": "https://www.winndixie.com/storedetails/saint petersburg/fl?search=2410",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "3350",
+        "addr:street": "22nd Avenue North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.678096, 27.790684] }
     },
@@ -5599,7 +5608,6 @@
       "properties": {
         "ref": "2409",
         "shop": "supermarket",
-        "addr:full": "2139 34th St N",
         "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33713",
@@ -5607,7 +5615,9 @@
         "phone": "+1 727-323-2900",
         "website": "https://www.winndixie.com/storedetails/saint petersburg/fl?search=2409",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "2139",
+        "addr:street": "34th St North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.677986, 27.790524] }
     },
@@ -5617,8 +5627,7 @@
       "properties": {
         "ref": "671",
         "shop": "supermarket",
-        "addr:full": "1050 58 STREET NORTH",
-        "addr:city": "St Petersburg",
+        "addr:city": "Saint Petersburg",
         "addr:state": "FL",
         "addr:postcode": "33710",
         "addr:country": "US",
@@ -5626,7 +5635,9 @@
         "phone": "+1 727-345-0063",
         "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=671",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "1050",
+        "addr:street": "58 Street North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.71281, 27.78319] }
     },
@@ -5912,7 +5923,6 @@
       "properties": {
         "ref": "2448",
         "shop": "supermarket",
-        "addr:full": "515 7th St. W",
         "addr:city": "Palmetto",
         "addr:state": "FL",
         "addr:postcode": "34220",
@@ -5920,7 +5930,9 @@
         "phone": "+1 941-722-1954",
         "website": "https://www.winndixie.com/storedetails/palmetto/fl?search=2448",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "515",
+        "addr:street": "7th St. West"
       },
       "geometry": { "type": "Point", "coordinates": [-82.570098, 27.51638] }
     },
@@ -5930,7 +5942,6 @@
       "properties": {
         "ref": "2449",
         "shop": "supermarket",
-        "addr:full": "519 7th Street",
         "addr:city": "Palmetto",
         "addr:state": "FL",
         "addr:postcode": "34220",
@@ -5938,7 +5949,9 @@
         "phone": "+1 941-723-0400",
         "website": "https://www.winndixie.com/storedetails/palmetto/fl?search=2449",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "519",
+        "addr:street": "7th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.570453, 27.516449] }
     },
@@ -5948,7 +5961,6 @@
       "properties": {
         "ref": "2366",
         "shop": "supermarket",
-        "addr:full": "2950 9TH STREET SW",
         "addr:city": "Vero Beach",
         "addr:state": "FL",
         "addr:postcode": "32968",
@@ -5956,7 +5968,9 @@
         "phone": "+1 772-562-4303",
         "website": "https://www.winndixie.com/storedetails/vero beach/fl?search=2366",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "2950",
+        "addr:street": "9th Street Sw"
       },
       "geometry": { "type": "Point", "coordinates": [-80.416719, 27.58849] }
     },
@@ -5966,7 +5980,6 @@
       "properties": {
         "ref": "2376",
         "shop": "supermarket",
-        "addr:full": "2950 9TH STREET SW, Unit 100",
         "addr:city": "Vero Beach",
         "addr:state": "FL",
         "addr:postcode": "32968",
@@ -5974,7 +5987,9 @@
         "phone": "+1 772-562-8785",
         "website": "https://www.winndixie.com/storedetails/vero beach/fl?search=2376",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "2950",
+        "addr:street": "9th Street Sw"
       },
       "geometry": { "type": "Point", "coordinates": [-80.416549, 27.588329] }
     },
@@ -6022,7 +6037,6 @@
       "properties": {
         "ref": "755",
         "shop": "supermarket",
-        "addr:full": "1006 53rd AVE E",
         "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34203",
@@ -6030,7 +6044,9 @@
         "phone": "+1 941-753-5940",
         "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=755",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "1006",
+        "addr:street": "53rd Avenue East"
       },
       "geometry": { "type": "Point", "coordinates": [-82.554212, 27.446405] }
     },
@@ -6040,7 +6056,6 @@
       "properties": {
         "ref": "630",
         "shop": "supermarket",
-        "addr:full": "1010 53RD AVENUE E",
         "addr:city": "Oneco",
         "addr:state": "FL",
         "addr:postcode": "34203",
@@ -6048,7 +6063,9 @@
         "phone": "+1 941-727-2790",
         "website": "https://www.winndixie.com/storedetails/oneco/fl?search=630",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "1010",
+        "addr:street": "53rd Avenue East"
       },
       "geometry": { "type": "Point", "coordinates": [-82.553859, 27.446305] }
     },
@@ -6078,7 +6095,6 @@
       "properties": {
         "ref": "2519",
         "shop": "supermarket",
-        "addr:full": "5802 14Th St. W",
         "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34207",
@@ -6086,7 +6102,9 @@
         "phone": "+1 941-751-4394",
         "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=2519",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "5802",
+        "addr:street": "14th St. West"
       },
       "geometry": { "type": "Point", "coordinates": [-82.576876, 27.438145] }
     },
@@ -6096,7 +6114,6 @@
       "properties": {
         "ref": "2520",
         "shop": "supermarket",
-        "addr:full": "5824 14th Street West",
         "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34207",
@@ -6104,7 +6121,9 @@
         "phone": "+1 941-751-4394",
         "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=2520",
         "brand": "Winn Dixie",
-        "brand:wikidata": "Q1264366"
+        "brand:wikidata": "Q1264366",
+        "addr:housenumber": "5824",
+        "addr:street": "14th Street West"
       },
       "geometry": { "type": "Point", "coordinates": [-82.576772, 27.437898] }
     },
@@ -6196,7 +6215,7 @@
         "addr:state": "FL",
         "addr:postcode": "34232",
         "addr:country": "US",
-        "name": "Sarasota Towne Ctr Liquor",
+        "name": "Sarasota Towne Center Liquor",
         "phone": "+1 941-341-9788",
         "website": "https://www.winndixie.com/storedetails/sarasota/fl?search=665",
         "brand": "Winn Dixie",
@@ -6568,7 +6587,7 @@
         "addr:state": "FL",
         "addr:postcode": "33980",
         "addr:country": "US",
-        "name": "Kings Crossing Shopping Ctr",
+        "name": "Kings Crossing Shopping Center",
         "phone": "+1 941-629-2662",
         "website": "https://www.winndixie.com/storedetails/port charlotte/fl?search=737",
         "brand": "Winn Dixie",
@@ -6588,7 +6607,7 @@
         "addr:state": "FL",
         "addr:postcode": "33980",
         "addr:country": "US",
-        "name": "Kings Crossing Shopping Ctr",
+        "name": "Kings Crossing Shopping Center",
         "phone": "+1 941-624-2550",
         "website": "https://www.winndixie.com/storedetails/port charlotte/fl?search=769",
         "brand": "Winn Dixie",
@@ -6733,7 +6752,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "4100",
-        "addr:street": "Mccall Road"
+        "addr:street": "McCall Road"
       },
       "geometry": { "type": "Point", "coordinates": [-82.270533, 26.933842] }
     },
@@ -6753,7 +6772,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "4104",
-        "addr:street": "Mccall Road"
+        "addr:street": "McCall Road"
       },
       "geometry": { "type": "Point", "coordinates": [-82.27072, 26.933544] }
     },
@@ -6831,7 +6850,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1951",
-        "addr:street": "South Mccall Road"
+        "addr:street": "South McCall Road"
       },
       "geometry": { "type": "Point", "coordinates": [-82.336097, 26.936556] }
     },
@@ -6945,7 +6964,7 @@
         "addr:state": "FL",
         "addr:postcode": "32444",
         "addr:country": "US",
-        "name": "Lynn Haven Shopping Ctr Liquor",
+        "name": "Lynn Haven Shopping Center Liquor",
         "phone": "+1 850-271-2023",
         "website": "https://www.winndixie.com/storedetails/lynn haven/fl?search=455",
         "brand": "Winn Dixie",
@@ -6991,7 +7010,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3157",
-        "addr:street": "West 23Rd Street"
+        "addr:street": "West 23rd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-85.703042, 30.188649] }
     },
@@ -7011,7 +7030,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3149",
-        "addr:street": "West 23Rd Street"
+        "addr:street": "West 23rd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-85.703201, 30.188948] }
     },
@@ -7275,7 +7294,7 @@
       "properties": {
         "ref": "726",
         "shop": "supermarket",
-        "addr:city": "St James City",
+        "addr:city": "Saint James City",
         "addr:state": "FL",
         "addr:postcode": "33956",
         "addr:country": "US",
@@ -7657,7 +7676,7 @@
         "addr:state": "FL",
         "addr:postcode": "33462",
         "addr:country": "US",
-        "name": "Lantana Village Shopping Ctr",
+        "name": "Lantana Village Shopping Center",
         "phone": "+1 561-586-5820",
         "website": "https://www.winndixie.com/storedetails/lantana/fl?search=271",
         "brand": "Winn Dixie",
@@ -8319,7 +8338,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "941",
-        "addr:street": "Sw 24Th Street"
+        "addr:street": "Sw 24th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.155107, 26.093293] }
     },
@@ -8339,7 +8358,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3850",
-        "addr:street": "North 46Th Avenue"
+        "addr:street": "North 46th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.191354, 26.045574] }
     },
@@ -8513,7 +8532,7 @@
         "addr:state": "FL",
         "addr:postcode": "33179",
         "addr:country": "US",
-        "name": "California Club Shopping Ctr",
+        "name": "California Club Shopping Center",
         "phone": "+1 305-653-2657",
         "website": "https://www.winndixie.com/storedetails/miami/fl?search=357",
         "brand": "Winn Dixie",
@@ -8619,7 +8638,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "15450",
-        "addr:street": "Nw 77Th Court"
+        "addr:street": "Nw 77th Court"
       },
       "geometry": { "type": "Point", "coordinates": [-80.328383, 25.914987] }
     },
@@ -8639,7 +8658,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "17221",
-        "addr:street": "Nw 27Th Avenue"
+        "addr:street": "Nw 27th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.243674, 25.931368] }
     },
@@ -8679,7 +8698,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "14900",
-        "addr:street": "Nw 7Th Avenue"
+        "addr:street": "Nw 7th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.213112, 25.911535] }
     },
@@ -8699,7 +8718,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3805",
-        "addr:street": "Ne 163Rd St"
+        "addr:street": "Ne 163rd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.133684, 25.931471] }
     },
@@ -8758,7 +8777,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11030",
-        "addr:street": "NorthW. 7Th Avenue"
+        "addr:street": "NorthW. 7th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.211565, 25.875889] }
     },
@@ -8778,7 +8797,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "10505",
-        "addr:street": "Nw 41St Street"
+        "addr:street": "Nw 41st Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.366902, 25.812752] }
     },
@@ -8817,7 +8836,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1150",
-        "addr:street": "Nw 54Th Street"
+        "addr:street": "Nw 54th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.21509, 25.823458] }
     },
@@ -8857,7 +8876,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3807",
-        "addr:street": "Northwest 7th St"
+        "addr:street": "Northwest 7th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.258702, 25.780823] }
     },
@@ -8876,7 +8895,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1155",
-        "addr:street": "Nw 11Th St"
+        "addr:street": "Nw 11th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.213134, 25.785014] }
     },
@@ -8916,7 +8935,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11241",
-        "addr:street": "SouthW. 40Th Street"
+        "addr:street": "SouthW. 40th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.376413, 25.734548] }
     },
@@ -8974,7 +8993,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3275",
-        "addr:street": "Sw 22Nd Street"
+        "addr:street": "Sw 22nd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.247618, 25.750826] }
     },
@@ -9054,7 +9073,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "8710",
-        "addr:street": "Sw 72Nd Street"
+        "addr:street": "Sw 72nd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.334701, 25.700957] }
     },
@@ -9134,7 +9153,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "12095",
-        "addr:street": "Southwest 152nd St."
+        "addr:street": "Southwest 152nd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.388337, 25.628006] }
     },
@@ -9194,7 +9213,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "18302",
-        "addr:street": "Sw 137Th Avenue"
+        "addr:street": "Sw 137th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.414972, 25.597582] }
     },
@@ -9453,7 +9472,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1235",
-        "addr:street": "South Mckenzie St."
+        "addr:street": "South McKenzie Street"
       },
       "geometry": { "type": "Point", "coordinates": [-87.681462, 30.393225] }
     },
@@ -9533,7 +9552,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "105300",
-        "addr:street": "OVERSEAS HWY Unit A"
+        "addr:street": "OVERSEAS Highway Unit A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.384464, 25.160419] }
     },
@@ -9725,13 +9744,13 @@
         "addr:state": "AL",
         "addr:postcode": "36604",
         "addr:country": "US",
-        "name": "Weinacker'S Shopping Center",
+        "name": "Weinacker'South Shopping Center",
         "phone": "+1 251-471-3115",
         "website": "https://www.winndixie.com/storedetails/mobile/al?search=1333",
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1550",
-        "addr:street": "Government St"
+        "addr:street": "Government Street"
       },
       "geometry": { "type": "Point", "coordinates": [-88.075305, 30.680424] }
     },
@@ -9811,7 +9830,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5827",
-        "addr:street": "HWY 90 West",
+        "addr:street": "Highway 90 West",
         "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-88.169954, 30.553891] }
@@ -9826,7 +9845,7 @@
         "addr:state": "AL",
         "addr:postcode": "36619",
         "addr:country": "US",
-        "name": "West Gate Plaza S.C.",
+        "name": "West Gate Plaza SouthC.",
         "phone": "+1 251-602-1818",
         "website": "https://www.winndixie.com/storedetails/mobile/al?search=572",
         "brand": "Winn Dixie",
@@ -10011,7 +10030,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "10",
-        "addr:street": "Mcfarland Boulevard"
+        "addr:street": "McFarland Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-87.552496, 33.237257] }
     },
@@ -10191,7 +10210,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "4400",
-        "addr:street": "Hardy St"
+        "addr:street": "Hardy Street"
       },
       "geometry": { "type": "Point", "coordinates": [-89.354168, 31.322699] }
     },
@@ -10425,7 +10444,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5400",
-        "addr:street": "Tchoupitoulas St"
+        "addr:street": "Tchoupitoulas Street"
       },
       "geometry": { "type": "Point", "coordinates": [-90.11686, 29.916084] }
     },

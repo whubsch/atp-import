@@ -2453,7 +2453,7 @@
       "type": "Feature",
       "id": "node/-135342",
       "properties": {
-        "addr:city": "St. Louis",
+        "addr:city": "Saint Louis",
         "addr:housenumber": "4577",
         "addr:postcode": "63108",
         "addr:state": "MO",
@@ -2609,7 +2609,7 @@
       "type": "Feature",
       "id": "node/-135349",
       "properties": {
-        "addr:city": "St. Paul",
+        "addr:city": "Saint Paul",
         "addr:housenumber": "1575",
         "addr:postcode": "55104",
         "addr:state": "MN",
@@ -4454,7 +4454,7 @@
         "addr:housenumber": "4771",
         "addr:postcode": "M2N5M5",
         "addr:state": "ON",
-        "addr:street": "Yonge Str",
+        "addr:street": "Yonge Street",
         "branch": "Yonge and Sheppard",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
@@ -6144,7 +6144,7 @@
         "addr:postcode": "90403",
         "addr:state": "CA",
         "addr:street": "Wilshire Boulevard",
-        "branch": "23rd & Wilshire Blvd",
+        "branch": "23rd & Wilshire Boulevard",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -7752,7 +7752,7 @@
         "addr:postcode": "21209",
         "addr:state": "MD",
         "addr:street": "Smith Avenue",
-        "branch": "Mt. Washington",
+        "branch": "Mount Washington",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -7815,7 +7815,7 @@
         "addr:postcode": "10022",
         "addr:state": "NY",
         "addr:street": "East 57th Street",
-        "branch": "Midtown East (E 57th St)",
+        "branch": "Midtown East (East 57th St)",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -8292,7 +8292,7 @@
         "addr:postcode": "89119",
         "addr:state": "NV",
         "addr:street": "Las Vegas Boulevard",
-        "branch": "Las Vegas Blvd",
+        "branch": "Las Vegas Boulevard",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -9488,7 +9488,7 @@
       "type": "Feature",
       "id": "node/-135667",
       "properties": {
-        "addr:city": "St. Louis",
+        "addr:city": "Saint Louis",
         "addr:housenumber": "1601",
         "addr:postcode": "63144",
         "addr:state": "MO",
@@ -10308,7 +10308,7 @@
         "addr:postcode": "80246",
         "addr:state": "CO",
         "addr:street": "South Colorado Boulevard",
-        "branch": "Colorado Blvd",
+        "branch": "Colorado Boulevard",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -11376,5 +11376,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-90.117495, 29.921124] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

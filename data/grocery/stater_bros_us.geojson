@@ -612,7 +612,7 @@
         "addr:street": "East Avenue South",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Palmdale/Avenue S",
+        "name": "Stater Bros. Markets Palmdale/Avenue South",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-266-1076",
         "ref": "130",
@@ -3381,5 +3381,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-117.3679824, 33.6868861] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

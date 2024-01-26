@@ -2680,7 +2680,7 @@
       "type": "Feature",
       "id": "node/-220351",
       "properties": {
-        "addr:city": "St Charles",
+        "addr:city": "Saint Charles",
         "addr:housenumber": "652",
         "addr:postcode": "60174",
         "addr:state": "IL",
@@ -2742,7 +2742,7 @@
       "type": "Feature",
       "id": "node/-220354",
       "properties": {
-        "addr:city": "St Charles",
+        "addr:city": "Saint Charles",
         "addr:housenumber": "2073",
         "addr:postcode": "60174",
         "addr:state": "IL",
@@ -5998,7 +5998,7 @@
       "type": "Feature",
       "id": "node/-220500",
       "properties": {
-        "addr:city": "St Charles",
+        "addr:city": "Saint Charles",
         "addr:housenumber": "652",
         "addr:postcode": "60174",
         "addr:state": "IL",
@@ -6020,7 +6020,7 @@
       "type": "Feature",
       "id": "node/-220501",
       "properties": {
-        "addr:city": "St Charles",
+        "addr:city": "Saint Charles",
         "addr:housenumber": "2038",
         "addr:postcode": "60174",
         "addr:state": "IL",
@@ -28580,7 +28580,7 @@
         "addr:housenumber": "1980",
         "addr:postcode": "86403",
         "addr:state": "AZ",
-        "addr:street": "Mcculloch Boulevard",
+        "addr:street": "McCulloch Boulevard",
         "amenity": "pharmacy",
         "brand": "Albertsons",
         "brand:wikidata": "Q2831861",
@@ -32270,7 +32270,7 @@
         "addr:housenumber": "1980",
         "addr:postcode": "86403",
         "addr:state": "AZ",
-        "addr:street": "Mcculloch Boulevard",
+        "addr:street": "McCulloch Boulevard",
         "brand": "Albertsons",
         "brand:wikidata": "Q2831861",
         "image": "https://dynl.mktgcdn.com/p/fPO9PXHOSN4jz92IZcCOEP63GHd-ufYx7YzjGhJiXUU/150x150.jpg",
@@ -34336,7 +34336,7 @@
         "addr:housenumber": "14",
         "addr:postcode": "02143",
         "addr:state": "MA",
-        "addr:street": "Mcgrath Highway",
+        "addr:street": "McGrath Highway",
         "brand": "Star Market",
         "brand:wikidata": "Q7600795",
         "image": "https://dynl.mktgcdn.com/p/x8zRyi_Up71qxH3csDFGA8JW_V_Z0jN_omOD9qf8aTc/150x150.png",
@@ -47455,7 +47455,7 @@
         "addr:housenumber": "535",
         "addr:postcode": "92879",
         "addr:state": "CA",
-        "addr:street": "North Mckinley Street",
+        "addr:street": "North McKinley Street",
         "brand": "Vons",
         "brand:wikidata": "Q7941609",
         "image": "https://dynl.mktgcdn.com/p/kxYJucLDS0Yjsud5fNd-vakOc9OWeE4vWs_7eQBWvX0/150x150.png",
@@ -53391,7 +53391,7 @@
         "addr:housenumber": "535",
         "addr:postcode": "92879",
         "addr:state": "CA",
-        "addr:street": "North Mckinley Street",
+        "addr:street": "North McKinley Street",
         "amenity": "pharmacy",
         "brand": "Vons",
         "brand:wikidata": "Q7941609",
@@ -53590,5 +53590,8 @@
         "coordinates": [-117.75148228564, 33.86720426537]
       }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

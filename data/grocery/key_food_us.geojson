@@ -362,7 +362,7 @@
       "type": "Feature",
       "id": "node/-265671",
       "properties": {
-        "addr:city": "St. Cloud",
+        "addr:city": "Saint Cloud",
         "addr:housenumber": "2401",
         "addr:postcode": "34769",
         "addr:state": "FL",
@@ -823,7 +823,7 @@
         "addr:housenumber": "8700",
         "addr:postcode": "33183",
         "addr:state": "FL",
-        "addr:street": "Southwest 137th CT",
+        "addr:street": "Southwest 137th Court",
         "brand": "Key Food",
         "brand:wikidata": "Q6398037",
         "name": "Sabor Tropical Supermarket",
@@ -4552,7 +4552,7 @@
         "addr:state": "NY",
         "brand": "Key Food",
         "brand:wikidata": "Q6398037",
-        "name": "Fresh N Save Marketplace",
+        "name": "Fresh North Save Marketplace",
         "opening_hours": "24/7",
         "phone": "+1 718-706-6563",
         "ref": "1448",
@@ -4801,7 +4801,7 @@
         "addr:state": "NY",
         "brand": "Key Food",
         "brand:wikidata": "Q6398037",
-        "name": "Fresh N Save Marketplace",
+        "name": "Fresh North Save Marketplace",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 718-651-4923",
         "ref": "1444",
@@ -5170,7 +5170,7 @@
         "addr:street": "Roosevelt Avenue",
         "brand": "Key Food",
         "brand:wikidata": "Q6398037",
-        "name": "Fresh N Save Marketplace",
+        "name": "Fresh North Save Marketplace",
         "opening_hours": "24/7",
         "phone": "+1 718-424-1349",
         "ref": "1446",
@@ -5377,7 +5377,7 @@
         "addr:state": "NY",
         "brand": "Key Food",
         "brand:wikidata": "Q6398037",
-        "name": "Fresh N Save Marketplace",
+        "name": "Fresh North Save Marketplace",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 718-386-5501",
         "ref": "1450",
@@ -6810,7 +6810,7 @@
       "type": "Feature",
       "id": "node/-266006",
       "properties": {
-        "addr:city": "St. Albans",
+        "addr:city": "Saint Albans",
         "addr:postcode": "11434-1326",
         "addr:state": "NY",
         "brand": "Key Food",
@@ -7921,5 +7921,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-71.4683392, 41.8210549] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

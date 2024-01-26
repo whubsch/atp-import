@@ -14,12 +14,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Ellsworth 225 High Street - Ellsworth",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-667-5300",
         "ref": "https://stores.hannaford.com/#8905350",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/ellsworth/8123"
+        "website": "https://stores.hannaford.com/me/ellsworth/8123",
+        "branch": "Ellsworth"
       },
       "geometry": {
         "type": "Point",
@@ -38,12 +39,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Waterboro 20 Sokokis Trail - East Waterboro",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-247-8000",
         "ref": "https://stores.hannaford.com/#8905328",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/east-waterboro/8221"
+        "website": "https://stores.hannaford.com/me/east-waterboro/8221",
+        "branch": "Waterboro"
       },
       "geometry": {
         "type": "Point",
@@ -62,12 +64,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Dexter 37 Church Street - Dexter",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
         "phone": "+1 207-924-6410",
         "ref": "https://stores.hannaford.com/#8905418",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/dexter/8442"
+        "website": "https://stores.hannaford.com/me/dexter/8442",
+        "branch": "Dexter"
       },
       "geometry": { "type": "Point", "coordinates": [-69.2885045, 45.0257664] }
     },
@@ -83,12 +86,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Damariscotta 469 Main Street - Damariscotta",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-563-8131",
         "ref": "https://stores.hannaford.com/#8905449",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/damariscotta/8141"
+        "website": "https://stores.hannaford.com/me/damariscotta/8141",
+        "branch": "Damariscotta"
       },
       "geometry": {
         "type": "Point",
@@ -107,12 +111,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - China 33 Hannaford Drive - China",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-445-3385",
         "ref": "https://stores.hannaford.com/#8905402",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/china/8287"
+        "website": "https://stores.hannaford.com/me/china/8287",
+        "branch": "China"
       },
       "geometry": {
         "type": "Point",
@@ -131,12 +136,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Caribou 114 High Street - Caribou",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
         "phone": "+1 207-498-8824",
         "ref": "https://stores.hannaford.com/#8905262",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/caribou/8438"
+        "website": "https://stores.hannaford.com/me/caribou/8438",
+        "branch": "Caribou"
       },
       "geometry": { "type": "Point", "coordinates": [-68.0087288, 46.8612424] }
     },
@@ -152,12 +158,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Camden 145 Elm Street - Camden",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-236-8577",
         "ref": "https://stores.hannaford.com/#8905291",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/camden/8151"
+        "website": "https://stores.hannaford.com/me/camden/8151",
+        "branch": "Camden"
       },
       "geometry": { "type": "Point", "coordinates": [-69.0787449, 44.2009716] }
     },
@@ -173,12 +180,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Buxton 21 Hannaford Drive - Buxton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-929-3100",
         "ref": "https://stores.hannaford.com/#8905334",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/buxton/8226"
+        "website": "https://stores.hannaford.com/me/buxton/8226",
+        "branch": "Buxton"
       },
       "geometry": {
         "type": "Point",
@@ -197,12 +205,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bucksport 370 Main Street - Bucksport",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
         "phone": "+1 207-469-3282",
         "ref": "https://stores.hannaford.com/#8905420",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/bucksport/8152"
+        "website": "https://stores.hannaford.com/me/bucksport/8152",
+        "branch": "Bucksport"
       },
       "geometry": { "type": "Point", "coordinates": [-68.7853357, 44.5705357] }
     },
@@ -243,12 +252,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Brunswick 35 Elm St - Brunswick",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-725-6683",
         "ref": "https://stores.hannaford.com/#8905411",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/brunswick/8231"
+        "website": "https://stores.hannaford.com/me/brunswick/8231",
+        "branch": "Brunswick"
       },
       "geometry": {
         "type": "Point",
@@ -267,12 +277,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bridgton 109 Portland Road - Bridgton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-647-2015",
         "ref": "https://stores.hannaford.com/#8905248",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/bridgton/8167"
+        "website": "https://stores.hannaford.com/me/bridgton/8167",
+        "branch": "Bridgton"
       },
       "geometry": { "type": "Point", "coordinates": [-70.7028636, 44.045894] }
     },
@@ -288,12 +299,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Brewer 383 Wilson St - Brewer",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-989-2500",
         "ref": "https://stores.hannaford.com/#8905426",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/brewer/8173"
+        "website": "https://stores.hannaford.com/me/brewer/8173",
+        "branch": "Brewer"
       },
       "geometry": { "type": "Point", "coordinates": [-68.7539233, 44.7830371] }
     },
@@ -330,12 +342,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/0D0wyU1cqZOradPnrHNwPcAoDQIFUmPaw5Qz5mow7vw/196x196.png",
-        "name": "Hannaford - Blue Hill 15 South Street - Blue Hill",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
         "phone": "+1 207-374-5137",
         "ref": "https://stores.hannaford.com/#91347305",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/blue-hill/8452"
+        "website": "https://stores.hannaford.com/me/blue-hill/8452",
+        "branch": "Blue Hill"
       },
       "geometry": {
         "type": "Point",
@@ -354,12 +367,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Biddeford 299 Elm Street - Biddeford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-284-8677",
         "ref": "https://stores.hannaford.com/#8905382",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/biddeford/8225"
+        "website": "https://stores.hannaford.com/me/biddeford/8225",
+        "branch": "Biddeford"
       },
       "geometry": { "type": "Point", "coordinates": [-70.4652606, 43.4869577] }
     },
@@ -375,12 +389,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Williston 78 Marshall Avenue - Williston",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
         "phone": "+1 802-878-0032",
         "ref": "https://stores.hannaford.com/#8905527",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/williston/8398"
+        "website": "https://stores.hannaford.com/vt/williston/8398",
+        "branch": "Williston"
       },
       "geometry": { "type": "Point", "coordinates": [-73.1137244, 44.4456989] }
     },
@@ -396,12 +411,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Swanton 139 First Street - Swanton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 802-868-2637",
         "ref": "https://stores.hannaford.com/#8905277",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/swanton/8408"
+        "website": "https://stores.hannaford.com/vt/swanton/8408",
+        "branch": "Swanton"
       },
       "geometry": { "type": "Point", "coordinates": [-73.111422, 44.9226964] }
     },
@@ -417,12 +433,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - St Albans 290 Highgate Commons Road - St Albans",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-21:00",
         "phone": "+1 802-524-2157",
         "ref": "https://stores.hannaford.com/#8905370",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/st-albans/8355"
+        "website": "https://stores.hannaford.com/vt/st-albans/8355",
+        "branch": "Saint Albans"
       },
       "geometry": {
         "type": "Point",
@@ -441,12 +458,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Shelburne Rd. South Burlington 935 Shelburne Road - South Burlington",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 802-864-0105",
         "ref": "https://stores.hannaford.com/#15373493",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/south-burlington/8448"
+        "website": "https://stores.hannaford.com/vt/south-burlington/8448",
+        "branch": "Shelburne Road South Burlington"
       },
       "geometry": { "type": "Point", "coordinates": [-73.2097253, 44.44167] }
     },
@@ -462,12 +480,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Dorset St. South Burlington 217 Dorset St - South Burlington",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 802-863-6311",
         "ref": "https://stores.hannaford.com/#8905339",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/south-burlington/8357"
+        "website": "https://stores.hannaford.com/vt/south-burlington/8357",
+        "branch": "Dorset St. South Burlington"
       },
       "geometry": { "type": "Point", "coordinates": [-73.1837005, 44.4624486] }
     },
@@ -483,12 +502,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rutland 318 South Main St - Rutland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
         "phone": "+1 802-775-8900",
         "ref": "https://stores.hannaford.com/#8905396",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/rutland/8306"
+        "website": "https://stores.hannaford.com/vt/rutland/8306",
+        "branch": "Rutland"
       },
       "geometry": {
         "type": "Point",
@@ -507,12 +527,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Morrisville 80 Fairgrounds Plaza - Morrisville",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 802-888-9848",
         "ref": "https://stores.hannaford.com/#8905539",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/morrisville/8162"
+        "website": "https://stores.hannaford.com/vt/morrisville/8162",
+        "branch": "Morrisville"
       },
       "geometry": {
         "type": "Point",
@@ -531,12 +552,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Milton 259 Route 7 South - Milton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
         "phone": "+1 802-893-0554",
         "ref": "https://stores.hannaford.com/#8905360",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/milton/8274"
+        "website": "https://stores.hannaford.com/vt/milton/8274",
+        "branch": "Milton 259 Route"
       },
       "geometry": { "type": "Point", "coordinates": [-73.1223745, 44.6236486] }
     },
@@ -553,12 +575,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Middlebury 260 Court St - Middlebury",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 802-388-1017",
         "ref": "https://stores.hannaford.com/#8905362",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/middlebury/8121"
+        "website": "https://stores.hannaford.com/vt/middlebury/8121",
+        "branch": "Middlebury"
       },
       "geometry": {
         "type": "Point",
@@ -578,12 +601,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Essex Junction 21 Essex Way - Essex Junction",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 06:00-23:00; Su 07:00-22:00",
         "phone": "+1 802-878-0274",
         "ref": "https://stores.hannaford.com/#8905343",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/essex-junction/8353"
+        "website": "https://stores.hannaford.com/vt/essex-junction/8353",
+        "branch": "Essex Junction"
       },
       "geometry": { "type": "Point", "coordinates": [-73.0838589, 44.5072114] }
     },
@@ -599,12 +623,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Enosburg Falls 71 Jay View Drive - Enosburg Falls",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 802-933-6657",
         "ref": "https://stores.hannaford.com/#8905509",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/enosburg-falls/8308"
+        "website": "https://stores.hannaford.com/vt/enosburg-falls/8308",
+        "branch": "Enosburg Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-72.7957012, 44.9125883] }
     },
@@ -621,12 +646,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - North Ave. Burlington 1127 North Avenue - Burlington",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 06:00-23:00; Su 07:00-23:00",
         "phone": "+1 802-862-8040",
         "ref": "https://stores.hannaford.com/#8905258",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/burlington/8161"
+        "website": "https://stores.hannaford.com/vt/burlington/8161",
+        "branch": "North Avenue Burlington"
       },
       "geometry": { "type": "Point", "coordinates": [-73.2467749, 44.5062784] }
     },
@@ -643,12 +669,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Brattleboro 896 Putney Rd - Brattleboro",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-21:00",
         "phone": "+1 802-254-1160",
         "ref": "https://stores.hannaford.com/#8905555",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/brattleboro/8397"
+        "website": "https://stores.hannaford.com/vt/brattleboro/8397",
+        "branch": "Brattleboro"
       },
       "geometry": {
         "type": "Point",
@@ -691,12 +718,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bradford 586 Lower Plain - Bradford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 802-222-3370",
         "ref": "https://stores.hannaford.com/#8905479",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/bradford/8426"
+        "website": "https://stores.hannaford.com/vt/bradford/8426",
+        "branch": "Bradford"
       },
       "geometry": { "type": "Point", "coordinates": [-72.1226966, 43.9841836] }
     },
@@ -713,12 +741,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bennington 141 Hannaford Sq - Bennington",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 802-442-1521",
         "ref": "https://stores.hannaford.com/#8905285",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/bennington/8301"
+        "website": "https://stores.hannaford.com/vt/bennington/8301",
+        "branch": "Bennington"
       },
       "geometry": { "type": "Point", "coordinates": [-73.2222906, 42.906845] }
     },
@@ -734,12 +763,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Barre 456 South Barre Road - Barre",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
         "phone": "+1 802-479-3326",
         "ref": "https://stores.hannaford.com/#8905445",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/vt/barre/8129"
+        "website": "https://stores.hannaford.com/vt/barre/8129",
+        "branch": "Barre"
       },
       "geometry": { "type": "Point", "coordinates": [-72.5061386, 44.1741814] }
     },
@@ -755,12 +785,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Wynantskill 40 Main Street - Wynantskill",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-283-0538",
         "ref": "https://stores.hannaford.com/#8905434",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/wynantskill/8392"
+        "website": "https://stores.hannaford.com/ny/wynantskill/8392",
+        "branch": "Wynantskill"
       },
       "geometry": {
         "type": "Point",
@@ -779,12 +810,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - West Sand Lake 3703 Route 43 - West Sand Lake",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 518-674-2846",
         "ref": "https://stores.hannaford.com/#8905577",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/west-sand-lake/8236"
+        "website": "https://stores.hannaford.com/ny/west-sand-lake/8236",
+        "branch": "West Sand Lake 3703 Route"
       },
       "geometry": { "type": "Point", "coordinates": [-73.6070307, 42.6433582] }
     },
@@ -800,12 +832,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - West Hurley 295 State Route 375 - West Hurley",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 845-679-8121",
         "ref": "https://stores.hannaford.com/#8905378",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/west-hurley/8444"
+        "website": "https://stores.hannaford.com/ny/west-hurley/8444",
+        "branch": "West Hurley 295 State Route"
       },
       "geometry": {
         "type": "Point",
@@ -824,12 +857,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Watertown 21110 US Route 3 - Watertown",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 315-782-7456",
         "ref": "https://stores.hannaford.com/#8905336",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/watertown/8175"
+        "website": "https://stores.hannaford.com/ny/watertown/8175",
+        "branch": "Watertown 21110 US Route"
       },
       "geometry": {
         "type": "Point",
@@ -848,12 +882,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Wappinger Falls 1490 Route 9 - Wappingers Falls",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-00:00",
         "phone": "+1 845-297-8254",
         "ref": "https://stores.hannaford.com/#8905295",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/wappingers-falls/8334"
+        "website": "https://stores.hannaford.com/ny/wappingers-falls/8334",
+        "branch": "Wappinger Falls 1490 Route"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9063233, 41.5899568] }
     },
@@ -869,12 +904,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Walden 78 Oak Street - Walden",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 845-778-2220",
         "ref": "https://stores.hannaford.com/#8905529",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/walden/8427"
+        "website": "https://stores.hannaford.com/ny/walden/8427",
+        "branch": "Walden"
       },
       "geometry": { "type": "Point", "coordinates": [-74.1918331, 41.5652056] }
     },
@@ -890,12 +926,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Voorheesville 5 Maple Rd - Voorheesville",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 518-765-2629",
         "ref": "https://stores.hannaford.com/#8905460",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/voorheesville/8233"
+        "website": "https://stores.hannaford.com/ny/voorheesville/8233",
+        "branch": "Voorheesville"
       },
       "geometry": {
         "type": "Point",
@@ -915,12 +952,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Kinderhook 2967 Route 9 - Valatie",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-758-8800",
         "ref": "https://stores.hannaford.com/#8905380",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/valatie/8364"
+        "website": "https://stores.hannaford.com/ny/valatie/8364",
+        "branch": "Kinderhook 2967 Route"
       },
       "geometry": {
         "type": "Point",
@@ -939,12 +977,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Utica Mohawk Drive 1122 Mohawk Street - Utica",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 315-734-0373",
         "ref": "https://stores.hannaford.com/#8905256",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/utica/8372"
+        "website": "https://stores.hannaford.com/ny/utica/8372",
+        "branch": "Utica Mohawk Drive"
       },
       "geometry": {
         "type": "Point",
@@ -963,12 +1002,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Brunswick 9 Lord Avenue - Troy",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-271-3832",
         "ref": "https://stores.hannaford.com/#48356621",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/troy/8450"
+        "website": "https://stores.hannaford.com/ny/troy/8450",
+        "branch": "Brunswick"
       },
       "geometry": {
         "type": "Point",
@@ -987,12 +1027,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Troy 9 126th Street - Troy",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-233-8196",
         "ref": "https://stores.hannaford.com/#8905557",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/troy/8336"
+        "website": "https://stores.hannaford.com/ny/troy/8336",
+        "branch": "Troy 9"
       },
       "geometry": {
         "type": "Point",
@@ -1009,12 +1050,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - South Glens Falls 27-41 Gansevoort Rd - South Glens Falls",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-798-7991",
         "ref": "https://stores.hannaford.com/#8905368",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/south-glens-falls/8380"
+        "website": "https://stores.hannaford.com/ny/south-glens-falls/8380",
+        "branch": "South Glens Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-73.6383943, 43.2857741] }
     },
@@ -1030,12 +1072,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rotterdam 1400 Altamont Ave - Schenectady",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-357-2050",
         "ref": "https://stores.hannaford.com/#8905283",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/schenectady/8320"
+        "website": "https://stores.hannaford.com/ny/schenectady/8320",
+        "branch": "Rotterdam"
       },
       "geometry": {
         "type": "Point",
@@ -1054,12 +1097,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Saratoga 95 Weibel Ave - Saratoga Springs",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-587-0360",
         "ref": "https://stores.hannaford.com/#8905567",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/saratoga-springs/8391"
+        "website": "https://stores.hannaford.com/ny/saratoga-springs/8391",
+        "branch": "Saratoga"
       },
       "geometry": {
         "type": "Point",
@@ -1078,12 +1122,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rome 808 West Chestnut Street - Rome",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 315-336-0201",
         "ref": "https://stores.hannaford.com/#15553887",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/rome/8449"
+        "website": "https://stores.hannaford.com/ny/rome/8449",
+        "branch": "Rome"
       },
       "geometry": { "type": "Point", "coordinates": [-75.4534149, 43.237297] }
     },
@@ -1099,12 +1144,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Red Hook 35 Hannaford Drive - Red Hook",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 845-758-9330",
         "ref": "https://stores.hannaford.com/#8905413",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/red-hook/8375"
+        "website": "https://stores.hannaford.com/ny/red-hook/8375",
+        "branch": "Red Hook"
       },
       "geometry": { "type": "Point", "coordinates": [-73.8814269, 41.9799822] }
     },
@@ -1120,12 +1166,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Queensbury 190 Quaker Rd - Queensbury",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-798-8676",
         "ref": "https://stores.hannaford.com/#8905322",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/queensbury/8360"
+        "website": "https://stores.hannaford.com/ny/queensbury/8360",
+        "branch": "Queensbury"
       },
       "geometry": {
         "type": "Point",
@@ -1144,12 +1191,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Plattsburgh 7 Pyramid Drive - Plattsburgh",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-562-2204",
         "ref": "https://stores.hannaford.com/#8905504",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/plattsburgh/8166"
+        "website": "https://stores.hannaford.com/ny/plattsburgh/8166",
+        "branch": "Plattsburgh"
       },
       "geometry": { "type": "Point", "coordinates": [-73.4957758, 44.7011536] }
     },
@@ -1165,12 +1213,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Pine Bush 31 Ted Drive - Pine Bush",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 845-744-2113",
         "ref": "https://stores.hannaford.com/#8905394",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/pine-bush/8344"
+        "website": "https://stores.hannaford.com/ny/pine-bush/8344",
+        "branch": "Pine Bush"
       },
       "geometry": {
         "type": "Point",
@@ -1189,12 +1238,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Pawling 162 Route 22 - Pawling",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 845-855-0553",
         "ref": "https://stores.hannaford.com/#8905305",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/pawling/8335"
+        "website": "https://stores.hannaford.com/ny/pawling/8335",
+        "branch": "Pawling 162 Route"
       },
       "geometry": {
         "type": "Point",
@@ -1213,12 +1263,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Oneonta 705 State Highway 28 - Oneonta",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 607-432-0012",
         "ref": "https://stores.hannaford.com/#8905506",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/oneonta/8328"
+        "website": "https://stores.hannaford.com/ny/oneonta/8328",
+        "branch": "Oneonta 705 State Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-75.0569839, 42.4466438] }
     },
@@ -1234,12 +1285,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Niskayuna 3333 Consaul Rd - Niskayuna",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-395-9497",
         "ref": "https://stores.hannaford.com/#8905409",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/niskayuna/8396"
+        "website": "https://stores.hannaford.com/ny/niskayuna/8396",
+        "branch": "Niskayuna"
       },
       "geometry": {
         "type": "Point",
@@ -1258,12 +1310,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - New Windsor 2636 Route 32 - New Windsor",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-00:00",
         "phone": "+1 845-562-5169",
         "ref": "https://stores.hannaford.com/#8905366",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/new-windsor/8331"
+        "website": "https://stores.hannaford.com/ny/new-windsor/8331",
+        "branch": "New Windsor 2636 Route"
       },
       "geometry": {
         "type": "Point",
@@ -1282,12 +1335,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - New Hartford 50 Kellogg Road - New Hartford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 315-724-0274",
         "ref": "https://stores.hannaford.com/#8905463",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/new-hartford/8370"
+        "website": "https://stores.hannaford.com/ny/new-hartford/8370",
+        "branch": "New Hartford"
       },
       "geometry": {
         "type": "Point",
@@ -1306,12 +1360,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Utica 4593 Commercial Dr - New Hartford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 315-768-1851",
         "ref": "https://stores.hannaford.com/#8905447",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/new-hartford/8168"
+        "website": "https://stores.hannaford.com/ny/new-hartford/8168",
+        "branch": "Utica"
       },
       "geometry": { "type": "Point", "coordinates": [-75.316405, 43.0881773] }
     },
@@ -1327,12 +1382,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Plattekill 2066 Route 32 - Modena",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 845-883-7407",
         "ref": "https://stores.hannaford.com/#8905332",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/modena/8346"
+        "website": "https://stores.hannaford.com/ny/modena/8346",
+        "branch": "Plattekill 2066 Route"
       },
       "geometry": {
         "type": "Point",
@@ -1351,12 +1407,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Wallkill 30 Tower Drive - Middletown",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-00:00",
         "phone": "+1 845-695-1800",
         "ref": "https://stores.hannaford.com/#8905386",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/middletown/8337"
+        "website": "https://stores.hannaford.com/ny/middletown/8337",
+        "branch": "Wallkill"
       },
       "geometry": { "type": "Point", "coordinates": [-74.3712824, 41.4652335] }
     },
@@ -1372,12 +1429,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Latham 579 Troy Schenectady Road - Latham",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-782-1750",
         "ref": "https://stores.hannaford.com/#8905477",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/latham/8386"
+        "website": "https://stores.hannaford.com/ny/latham/8386",
+        "branch": "Latham"
       },
       "geometry": { "type": "Point", "coordinates": [-73.7606352, 42.7557919] }
     },
@@ -1394,12 +1452,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Lake Placid 45 Hadjis Way - Lake Placid",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-523-3279",
         "ref": "https://stores.hannaford.com/#8905443",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/lake-placid/8413"
+        "website": "https://stores.hannaford.com/ny/lake-placid/8413",
+        "branch": "Lake Placid"
       },
       "geometry": {
         "type": "Point",
@@ -1418,12 +1477,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Kingston Ulster Ave. 1261 Ulster Ave - Kingston",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 845-336-0325",
         "ref": "https://stores.hannaford.com/#8905272",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/kingston/8348"
+        "website": "https://stores.hannaford.com/ny/kingston/8348",
+        "branch": "Kingston Ulster Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9906441, 41.9680818] }
     },
@@ -1439,12 +1499,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Kingston Plaza 100 Plaza Road - Kingston",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 845-339-7480",
         "ref": "https://stores.hannaford.com/#8905244",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/kingston/8340"
+        "website": "https://stores.hannaford.com/ny/kingston/8340",
+        "branch": "Kingston Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-74.0159272, 41.9366322] }
     },
@@ -1460,12 +1521,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Livingston 32 Route 82 - Hudson",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 518-851-2098",
         "ref": "https://stores.hannaford.com/#8905400",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/hudson/8416"
+        "website": "https://stores.hannaford.com/ny/hudson/8416",
+        "branch": "Livingston 32 Route"
       },
       "geometry": { "type": "Point", "coordinates": [-73.7595185, 42.1744364] }
     },
@@ -1481,12 +1543,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Kingsbury 3758 Burgoyne Avenue - Hudson Falls",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-746-2040",
         "ref": "https://stores.hannaford.com/#8905422",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/hudson-falls/8395"
+        "website": "https://stores.hannaford.com/ny/hudson-falls/8395",
+        "branch": "Kingsbury"
       },
       "geometry": {
         "type": "Point",
@@ -1505,12 +1568,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Highland 3650 Route 9W - Highland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 845-691-9150",
         "ref": "https://stores.hannaford.com/#8905417",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/highland/8341"
+        "website": "https://stores.hannaford.com/ny/highland/8341",
+        "branch": "Highland 3650 Route"
       },
       "geometry": { "type": "Point", "coordinates": [-73.966013, 41.7022613] }
     },
@@ -1526,12 +1590,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Herkimer 401 East Albany St - Herkimer",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 315-866-6030",
         "ref": "https://stores.hannaford.com/#8905436",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/herkimer/8366"
+        "website": "https://stores.hannaford.com/ny/herkimer/8366",
+        "branch": "Herkimer"
       },
       "geometry": { "type": "Point", "coordinates": [-74.9812633, 43.0296732] }
     },
@@ -1547,12 +1612,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Greenwich 1165 Route 29 - Greenwich",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
         "phone": "+1 518-692-3177",
         "ref": "https://stores.hannaford.com/#8905266",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/greenwich/8333"
+        "website": "https://stores.hannaford.com/ny/greenwich/8333",
+        "branch": "Greenwich 1165 Route"
       },
       "geometry": {
         "type": "Point",
@@ -1571,12 +1637,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Gloversville 235 Fifth Ave Ext - Gloversville",
+        "name": "Hannaford",
         "opening_hours": "Mo-Th 07:00-21:00; Fr-Su 07:00-23:00",
         "phone": "+1 518-725-0847",
         "ref": "https://stores.hannaford.com/#8905356",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/gloversville/8377"
+        "website": "https://stores.hannaford.com/ny/gloversville/8377",
+        "branch": "Gloversville"
       },
       "geometry": {
         "type": "Point",
@@ -1595,12 +1662,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Glenville 262 Saratoga Rd - Glenville",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-384-0156",
         "ref": "https://stores.hannaford.com/#8905364",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/glenville/8376"
+        "website": "https://stores.hannaford.com/ny/glenville/8376",
+        "branch": "Glenville"
       },
       "geometry": {
         "type": "Point",
@@ -1619,12 +1687,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Broad St. Glens Falls 175 Broad St - Glens Falls",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-793-0028",
         "ref": "https://stores.hannaford.com/#8905310",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/glens-falls/8374"
+        "website": "https://stores.hannaford.com/ny/glens-falls/8374",
+        "branch": "Broad St. Glens Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-73.6618106, 43.3041051] }
     },
@@ -1640,12 +1709,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Duanesburg 11140 Western Turnpike - Esperance",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 518-875-9410",
         "ref": "https://stores.hannaford.com/#8905254",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/esperance/8255"
+        "website": "https://stores.hannaford.com/ny/esperance/8255",
+        "branch": "Duanesburg"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2485878, 42.761663] }
     },
@@ -1659,12 +1729,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - East Greenbush 592 Columbia Turnpike - East Greenbush",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-477-6483",
         "ref": "https://stores.hannaford.com/#8905482",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/east-greenbush/8361"
+        "website": "https://stores.hannaford.com/ny/east-greenbush/8361",
+        "branch": "East Greenbush"
       },
       "geometry": { "type": "Point", "coordinates": [-73.710883, 42.596866] }
     },
@@ -1680,12 +1751,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Delmar 180 Delaware Plaza - Delmar",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-439-7657",
         "ref": "https://stores.hannaford.com/#8905315",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/delmar/8339"
+        "website": "https://stores.hannaford.com/ny/delmar/8339",
+        "branch": "Delmar"
       },
       "geometry": {
         "type": "Point",
@@ -1704,12 +1776,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Colonie 96 Wolf Rd - Colonie",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-482-1085",
         "ref": "https://stores.hannaford.com/#8905571",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/colonie/8362"
+        "website": "https://stores.hannaford.com/ny/colonie/8362",
+        "branch": "Colonie"
       },
       "geometry": { "type": "Point", "coordinates": [-73.8124734, 42.7175806] }
     },
@@ -1725,12 +1798,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Clinton 55 Meadow Street - Clinton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 315-853-5090",
         "ref": "https://stores.hannaford.com/#8905473",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/clinton/8313"
+        "website": "https://stores.hannaford.com/ny/clinton/8313",
+        "branch": "Clinton"
       },
       "geometry": {
         "type": "Point",
@@ -1750,12 +1824,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Clifton Park 19 Clifton Country Road - Clifton Park",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-383-4136",
         "ref": "https://stores.hannaford.com/#8905318",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/clifton-park/8365"
+        "website": "https://stores.hannaford.com/ny/clifton-park/8365",
+        "branch": "Clifton Park"
       },
       "geometry": { "type": "Point", "coordinates": [-73.7831802, 42.8585528] }
     },
@@ -1771,12 +1846,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Cairo 223 Main Street - Cairo",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 518-622-8130",
         "ref": "https://stores.hannaford.com/#8905348",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/cairo/8415"
+        "website": "https://stores.hannaford.com/ny/cairo/8415",
+        "branch": "Cairo"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9903749, 42.2929428] }
     },
@@ -1792,12 +1868,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rossi Way Ballston Spa 3 Via Rossi Way - Ballston Spa",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-884-2973",
         "ref": "https://stores.hannaford.com/#14786653",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/ballston-spa/8447"
+        "website": "https://stores.hannaford.com/ny/ballston-spa/8447",
+        "branch": "Rossi Way Ballston Spa"
       },
       "geometry": {
         "type": "Point",
@@ -1816,12 +1893,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Milton Ballston Spa 11 Trieble Ave - Ballston Spa",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-885-6384",
         "ref": "https://stores.hannaford.com/#8905252",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/ballston-spa/8394"
+        "website": "https://stores.hannaford.com/ny/ballston-spa/8394",
+        "branch": "Milton Ballston Spa"
       },
       "geometry": {
         "type": "Point",
@@ -1840,12 +1918,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Malta 43 Round Lake Rd - Ballston Lake",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-899-2392",
         "ref": "https://stores.hannaford.com/#8905440",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/ballston-lake/8267"
+        "website": "https://stores.hannaford.com/ny/ballston-lake/8267",
+        "branch": "Malta"
       },
       "geometry": {
         "type": "Point",
@@ -1864,12 +1943,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Amsterdam 115 Hannaford Plaza - Amsterdam",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-843-5854",
         "ref": "https://stores.hannaford.com/#8905264",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/amsterdam/8363"
+        "website": "https://stores.hannaford.com/ny/amsterdam/8363",
+        "branch": "Amsterdam"
       },
       "geometry": { "type": "Point", "coordinates": [-74.1855717, 42.9677168] }
     },
@@ -1885,12 +1965,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Guilderland 5239 Western Trnpike - Altamont",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-23:00",
         "phone": "+1 518-355-5814",
         "ref": "https://stores.hannaford.com/#8905470",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/altamont/8393"
+        "website": "https://stores.hannaford.com/ny/altamont/8393",
+        "branch": "Guilderland"
       },
       "geometry": {
         "type": "Point",
@@ -1909,12 +1990,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Century Mall Albany 900 Central Ave - Albany",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 518-438-7296",
         "ref": "https://stores.hannaford.com/#8905559",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ny/albany/8367"
+        "website": "https://stores.hannaford.com/ny/albany/8367",
+        "branch": "Century Mall Albany"
       },
       "geometry": { "type": "Point", "coordinates": [-73.792397, 42.6798367] }
     },
@@ -1930,12 +2012,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - West Lebanon 8 Market Street - West Lebanon",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-298-6642",
         "ref": "https://stores.hannaford.com/#8905535",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/west-lebanon/8266"
+        "website": "https://stores.hannaford.com/nh/west-lebanon/8266",
+        "branch": "West Lebanon"
       },
       "geometry": { "type": "Point", "coordinates": [-72.3171995, 43.6360226] }
     },
@@ -1949,12 +2032,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rochester Milton Rd. 11 Milton Rd - Rochester",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-332-9611",
         "ref": "https://stores.hannaford.com/#8905250",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/rochester/8317"
+        "website": "https://stores.hannaford.com/nh/rochester/8317",
+        "branch": "Rochester Milton Road"
       },
       "geometry": {
         "type": "Point",
@@ -1973,12 +2057,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rochester 290 North Main St - Rochester",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-332-9580",
         "ref": "https://stores.hannaford.com/#8905374",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/rochester/8315"
+        "website": "https://stores.hannaford.com/nh/rochester/8315",
+        "branch": "Rochester"
       },
       "geometry": { "type": "Point", "coordinates": [-70.9942819, 43.3097461] }
     },
@@ -1994,12 +2079,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rindge 752 Route 202 - Rindge",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-899-2110",
         "ref": "https://stores.hannaford.com/#8905516",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/rindge/8180"
+        "website": "https://stores.hannaford.com/nh/rindge/8180",
+        "branch": "Rindge 752 Route"
       },
       "geometry": {
         "type": "Point",
@@ -2018,12 +2104,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Raymond 2 Freetown Road - Raymond",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-895-0010",
         "ref": "https://stores.hannaford.com/#8905326",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/raymond/8120"
+        "website": "https://stores.hannaford.com/nh/raymond/8120",
+        "branch": "Raymond"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1611673, 43.0380645] }
     },
@@ -2039,12 +2126,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Portsmouth 800 Islington Street - Portsmouth",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-436-6669",
         "ref": "https://stores.hannaford.com/#8905542",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/portsmouth/8149"
+        "website": "https://stores.hannaford.com/nh/portsmouth/8149",
+        "branch": "Portsmouth"
       },
       "geometry": { "type": "Point", "coordinates": [-70.7714232, 43.0683379] }
     },
@@ -2060,12 +2148,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Plymouth 389 Tenney Mountain Hwy - Plymouth",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-536-3400",
         "ref": "https://stores.hannaford.com/#8905575",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/plymouth/8248"
+        "website": "https://stores.hannaford.com/nh/plymouth/8248",
+        "branch": "Plymouth"
       },
       "geometry": { "type": "Point", "coordinates": [-71.716702, 43.768732] }
     },
@@ -2081,12 +2170,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Pelham 150 Bridge St - Pelham",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-635-3001",
         "ref": "https://stores.hannaford.com/#8905298",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/pelham/8015"
+        "website": "https://stores.hannaford.com/nh/pelham/8015",
+        "branch": "Pelham"
       },
       "geometry": {
         "type": "Point",
@@ -2105,12 +2195,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Northwood 174 1st New Hampshire Turnpike - Northwood",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-942-8842",
         "ref": "https://stores.hannaford.com/#8905308",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/northwood/8160"
+        "website": "https://stores.hannaford.com/nh/northwood/8160",
+        "branch": "Northwood 174"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1516117, 43.1958937] }
     },
@@ -2126,12 +2217,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - North Conway 32 Mountain Valley Blvd - North Conway",
+        "name": "Hannaford",
         "opening_hours": "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-356-6341",
         "ref": "https://stores.hannaford.com/#8905398",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/north-conway/8352"
+        "website": "https://stores.hannaford.com/nh/north-conway/8352",
+        "branch": "North Conway"
       },
       "geometry": {
         "type": "Point",
@@ -2150,12 +2242,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - New London 295 Newport Road - New London",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-526-6951",
         "ref": "https://stores.hannaford.com/#8905377",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/new-london/8246"
+        "website": "https://stores.hannaford.com/nh/new-london/8246",
+        "branch": "New London"
       },
       "geometry": {
         "type": "Point",
@@ -2174,12 +2267,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Nashua 175 Coliseum Ave - Nashua",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 06:00-22:00",
         "phone": "+1 603-889-3700",
         "ref": "https://stores.hannaford.com/#8905312",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/nashua/8186"
+        "website": "https://stores.hannaford.com/nh/nashua/8186",
+        "branch": "Nashua"
       },
       "geometry": { "type": "Point", "coordinates": [-71.4987136, 42.760638] }
     },
@@ -2196,12 +2290,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Meredith 50 NH Route 25 - Meredith",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-279-1451",
         "ref": "https://stores.hannaford.com/#8905424",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/meredith/8253"
+        "website": "https://stores.hannaford.com/nh/meredith/8253",
+        "branch": "Meredith 50 NH Route"
       },
       "geometry": {
         "type": "Point",
@@ -2220,12 +2315,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Manchester Hanover 859 Hanover St - Manchester",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-624-4442",
         "ref": "https://stores.hannaford.com/#8905550",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/manchester/8178"
+        "website": "https://stores.hannaford.com/nh/manchester/8178",
+        "branch": "Manchester Hanover"
       },
       "geometry": {
         "type": "Point",
@@ -2244,12 +2340,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Hooksett 140 Bicentennial Dr - Manchester",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-644-2106",
         "ref": "https://stores.hannaford.com/#8905279",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/manchester/8177"
+        "website": "https://stores.hannaford.com/nh/manchester/8177",
+        "branch": "Hooksett"
       },
       "geometry": {
         "type": "Point",
@@ -2268,12 +2365,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Manchester 201 John E Devine Dr - Manchester",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-626-4567",
         "ref": "https://stores.hannaford.com/#8905330",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/manchester/8164"
+        "website": "https://stores.hannaford.com/nh/manchester/8164",
+        "branch": "Manchester"
       },
       "geometry": { "type": "Point", "coordinates": [-71.441991, 42.9576644] }
     },
@@ -2289,12 +2387,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Londonderry 6 Hampton Drive - Londonderry",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-421-0921",
         "ref": "https://stores.hannaford.com/#8905481",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/londonderry/8185"
+        "website": "https://stores.hannaford.com/nh/londonderry/8185",
+        "branch": "Londonderry"
       },
       "geometry": {
         "type": "Point",
@@ -2313,12 +2412,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Keene 481 West Street - Keene",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
         "phone": "+1 603-357-2832",
         "ref": "https://stores.hannaford.com/#8905451",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/keene/8163"
+        "website": "https://stores.hannaford.com/nh/keene/8163",
+        "branch": "Keene"
       },
       "geometry": {
         "type": "Point",
@@ -2337,12 +2437,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Hudson 77 Derry Rd - Hudson",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-883-6112",
         "ref": "https://stores.hannaford.com/#8905519",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/hudson/8183"
+        "website": "https://stores.hannaford.com/nh/hudson/8183",
+        "branch": "Hudson"
       },
       "geometry": { "type": "Point", "coordinates": [-71.443077, 42.7746734] }
     },
@@ -2358,12 +2459,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Hampton 630 Lafayette Rd - Hampton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-926-9808",
         "ref": "https://stores.hannaford.com/#8905486",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/hampton/8319"
+        "website": "https://stores.hannaford.com/nh/hampton/8319",
+        "branch": "Hampton"
       },
       "geometry": {
         "type": "Point",
@@ -2382,12 +2484,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Goffstown 605 Mast Road - Goffstown",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-626-4488",
         "ref": "https://stores.hannaford.com/#8905484",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/goffstown/8311"
+        "website": "https://stores.hannaford.com/nh/goffstown/8311",
+        "branch": "Goffstown"
       },
       "geometry": {
         "type": "Point",
@@ -2407,12 +2510,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Gilford 1425 Lake Shore Road - Gilford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-524-4629",
         "ref": "https://stores.hannaford.com/#8905289",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/gilford/8402"
+        "website": "https://stores.hannaford.com/nh/gilford/8402",
+        "branch": "Gilford"
       },
       "geometry": { "type": "Point", "coordinates": [-71.4440488, 43.5616952] }
     },
@@ -2428,12 +2532,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Franklin 952 Central St - Franklin",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-934-2515",
         "ref": "https://stores.hannaford.com/#8905569",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/franklin/8318"
+        "website": "https://stores.hannaford.com/nh/franklin/8318",
+        "branch": "Franklin"
       },
       "geometry": {
         "type": "Point",
@@ -2452,12 +2557,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Exeter 141 Portsmouth Ave - Exeter",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-772-1783",
         "ref": "https://stores.hannaford.com/#8905287",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/exeter/8435"
+        "website": "https://stores.hannaford.com/nh/exeter/8435",
+        "branch": "Exeter"
       },
       "geometry": { "type": "Point", "coordinates": [-70.9304639, 42.9893042] }
     },
@@ -2473,12 +2579,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Hampstead 305 Sandown Road - East Hampstead",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-329-0182",
         "ref": "https://stores.hannaford.com/#8905390",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/east-hampstead/8190"
+        "website": "https://stores.hannaford.com/nh/east-hampstead/8190",
+        "branch": "Hampstead"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1425491, 42.8925149] }
     },
@@ -2518,12 +2625,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Dover 833 Central Ave - Dover",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-749-9232",
         "ref": "https://stores.hannaford.com/#8905546",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/dover/8373"
+        "website": "https://stores.hannaford.com/nh/dover/8373",
+        "branch": "Dover"
       },
       "geometry": {
         "type": "Point",
@@ -2542,12 +2650,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Dover Fields 30 Grapevine Drive - Dover",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-749-2096",
         "ref": "https://stores.hannaford.com/#8905384",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/dover/8242"
+        "website": "https://stores.hannaford.com/nh/dover/8242",
+        "branch": "Dover Fields"
       },
       "geometry": {
         "type": "Point",
@@ -2566,12 +2675,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Derry 35 Manchester Rd - Derry",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 603-434-5099",
         "ref": "https://stores.hannaford.com/#8905415",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/derry/8016"
+        "website": "https://stores.hannaford.com/nh/derry/8016",
+        "branch": "Derry"
       },
       "geometry": { "type": "Point", "coordinates": [-71.3373314, 42.9003007] }
     },
@@ -2587,12 +2697,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Concord 73 Fort Eddy Rd - Concord",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-228-2060",
         "ref": "https://stores.hannaford.com/#8905512",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/concord/8329"
+        "website": "https://stores.hannaford.com/nh/concord/8329",
+        "branch": "Concord"
       },
       "geometry": {
         "type": "Point",
@@ -2611,12 +2722,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Claremont 220 Washington St - Claremont",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-543-1681",
         "ref": "https://stores.hannaford.com/#8905346",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/claremont/8119"
+        "website": "https://stores.hannaford.com/nh/claremont/8119",
+        "branch": "Claremont"
       },
       "geometry": { "type": "Point", "coordinates": [-72.3238296, 43.3706703] }
     },
@@ -2630,12 +2742,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Ossipee 891 NH-16 - Center Ossipee",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 603-539-7531",
         "ref": "https://stores.hannaford.com/#8905554",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/center-ossipee/8159"
+        "website": "https://stores.hannaford.com/nh/center-ossipee/8159",
+        "branch": "Ossipee"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1103213, 43.7015081] }
     },
@@ -2672,12 +2785,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bedford Kilton Rd. 7 Kilton Road - Bedford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-625-5431",
         "ref": "https://stores.hannaford.com/#8905501",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/bedford/8436"
+        "website": "https://stores.hannaford.com/nh/bedford/8436",
+        "branch": "Bedford Kilton Road"
       },
       "geometry": {
         "type": "Point",
@@ -2696,12 +2810,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bedford Jenkins Rd. 4 Jenkins Road - Bedford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 603-472-2627",
         "ref": "https://stores.hannaford.com/#8905430",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/bedford/8305"
+        "website": "https://stores.hannaford.com/nh/bedford/8305",
+        "branch": "Bedford Jenkins Road"
       },
       "geometry": { "type": "Point", "coordinates": [-71.5357543, 42.9220548] }
     },
@@ -2717,12 +2832,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Alton 80 Wolfeboro Highway - Alton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
         "phone": "+1 603-875-4300",
         "ref": "https://stores.hannaford.com/#8905541",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/nh/alton/8247"
+        "website": "https://stores.hannaford.com/nh/alton/8247",
+        "branch": "Alton"
       },
       "geometry": {
         "type": "Point",
@@ -2741,12 +2857,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - York 5 Hannaford Drive - York",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-363-5357",
         "ref": "https://stores.hannaford.com/#8905457",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/york/8384"
+        "website": "https://stores.hannaford.com/me/york/8384",
+        "branch": "York"
       },
       "geometry": {
         "type": "Point",
@@ -2763,12 +2880,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Yarmouth 756 Route #1 - Yarmouth",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-846-5941",
         "ref": "https://stores.hannaford.com/#8905518",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/yarmouth/8188"
+        "website": "https://stores.hannaford.com/me/yarmouth/8188",
+        "branch": "Yarmouth"
       },
       "geometry": { "type": "Point", "coordinates": [-70.1798112, 43.8054528] }
     },
@@ -2784,12 +2902,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Winthrop 399 Main Street - Winthrop",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-377-3150",
         "ref": "https://stores.hannaford.com/#8905428",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/winthrop/8289"
+        "website": "https://stores.hannaford.com/me/winthrop/8289",
+        "branch": "Winthrop"
       },
       "geometry": { "type": "Point", "coordinates": [-69.959216, 44.3062369] }
     },
@@ -2805,12 +2924,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Westbrook 7 Hannaford Drive - Westbrook",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-854-4631",
         "ref": "https://stores.hannaford.com/#8905499",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/westbrook/8223"
+        "website": "https://stores.hannaford.com/me/westbrook/8223",
+        "branch": "Westbrook"
       },
       "geometry": { "type": "Point", "coordinates": [-70.3551445, 43.675986] }
     },
@@ -2826,12 +2946,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Wells 107 Wells Plaza - Wells",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-646-4111",
         "ref": "https://stores.hannaford.com/#8905246",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/wells/8389"
+        "website": "https://stores.hannaford.com/me/wells/8389",
+        "branch": "Wells"
       },
       "geometry": { "type": "Point", "coordinates": [-70.5829671, 43.3019022] }
     },
@@ -2847,12 +2968,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Waterville JFK 190 Kennedy Memorial Dr - Waterville",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-873-0788",
         "ref": "https://stores.hannaford.com/#8905320",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/waterville/8238"
+        "website": "https://stores.hannaford.com/me/waterville/8238",
+        "branch": "Waterville JFK"
       },
       "geometry": {
         "type": "Point",
@@ -2871,12 +2993,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Waterville Elm Plaza 140 Elm Plaza - Waterville",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-877-0700",
         "ref": "https://stores.hannaford.com/#8905281",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/waterville/8229"
+        "website": "https://stores.hannaford.com/me/waterville/8229",
+        "branch": "Waterville Elm Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -2916,12 +3039,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Turner 23 Snell Hill Road - Turner",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-225-5140",
         "ref": "https://stores.hannaford.com/#8905353",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/turner/8428"
+        "website": "https://stores.hannaford.com/me/turner/8428",
+        "branch": "Turner"
       },
       "geometry": {
         "type": "Point",
@@ -2941,12 +3065,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Topsham 49 Topsham Fair Mall - Topsham",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-729-5124",
         "ref": "https://stores.hannaford.com/#8905453",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/topsham/8187"
+        "website": "https://stores.hannaford.com/me/topsham/8187",
+        "branch": "Topsham"
       },
       "geometry": { "type": "Point", "coordinates": [-69.9787345, 43.9394708] }
     },
@@ -2962,12 +3087,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Standish 71 Colonial Drive - Standish",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-642-5533",
         "ref": "https://stores.hannaford.com/#8905508",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/standish/8349"
+        "website": "https://stores.hannaford.com/me/standish/8349",
+        "branch": "Standish"
       },
       "geometry": {
         "type": "Point",
@@ -2986,12 +3112,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - South Portland Maine Mall 415 Philbrook Ave - South Portland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-761-2729",
         "ref": "https://stores.hannaford.com/#8905438",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/south-portland/8387"
+        "website": "https://stores.hannaford.com/me/south-portland/8387",
+        "branch": "South Portland Maine Mall"
       },
       "geometry": {
         "type": "Point",
@@ -3010,12 +3137,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - South Portland Mill Creek 50 Cottage Road - South Portland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-799-7359",
         "ref": "https://stores.hannaford.com/#8905462",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/south-portland/8279"
+        "website": "https://stores.hannaford.com/me/south-portland/8279",
+        "branch": "South Portland Mill Creek"
       },
       "geometry": {
         "type": "Point",
@@ -3034,12 +3162,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Skowhegan 100 Fairgrounds Marketplace - Skowhegan",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-858-4800",
         "ref": "https://stores.hannaford.com/#8905241",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/skowhegan/8330"
+        "website": "https://stores.hannaford.com/me/skowhegan/8330",
+        "branch": "Skowhegan"
       },
       "geometry": {
         "type": "Point",
@@ -3058,12 +3187,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Scarborough Payne Rd 417 Payne Road - Scarborough",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-883-0096",
         "ref": "https://stores.hannaford.com/#1002780936",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/scarborough/8451"
+        "website": "https://stores.hannaford.com/me/scarborough/8451",
+        "branch": "Scarborough Payne Road"
       },
       "geometry": {
         "type": "Point",
@@ -3082,12 +3212,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Scarborough 31 Hannaford Dr - Scarborough",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-883-7670",
         "ref": "https://stores.hannaford.com/#8905392",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/scarborough/8342"
+        "website": "https://stores.hannaford.com/me/scarborough/8342",
+        "branch": "Scarborough"
       },
       "geometry": {
         "type": "Point",
@@ -3106,12 +3237,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Sanford 800 Main St - Sanford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-324-1554",
         "ref": "https://stores.hannaford.com/#8905544",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/sanford/8390"
+        "website": "https://stores.hannaford.com/me/sanford/8390",
+        "branch": "Sanford"
       },
       "geometry": {
         "type": "Point",
@@ -3130,12 +3262,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Saco 532 Main Street - Saco",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-282-4152",
         "ref": "https://stores.hannaford.com/#8905472",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/saco/8138"
+        "website": "https://stores.hannaford.com/me/saco/8138",
+        "branch": "Saco"
       },
       "geometry": {
         "type": "Point",
@@ -3154,12 +3287,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rumford 520 Waldo Street - Rumford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-364-3771",
         "ref": "https://stores.hannaford.com/#8905468",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/rumford/8358"
+        "website": "https://stores.hannaford.com/me/rumford/8358",
+        "branch": "Rumford"
       },
       "geometry": { "type": "Point", "coordinates": [-70.5502887, 44.5551603] }
     },
@@ -3175,12 +3309,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Rockland 75 Maverick St - Rockland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-594-2173",
         "ref": "https://stores.hannaford.com/#8905514",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/rockland/8230"
+        "website": "https://stores.hannaford.com/me/rockland/8230",
+        "branch": "Rockland"
       },
       "geometry": {
         "type": "Point",
@@ -3199,12 +3334,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Portland Riverside 787 Riverside St - Portland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-878-0191",
         "ref": "https://stores.hannaford.com/#8905531",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/portland/8354"
+        "website": "https://stores.hannaford.com/me/portland/8354",
+        "branch": "Portland Riverside"
       },
       "geometry": { "type": "Point", "coordinates": [-70.3196408, 43.7018373] }
     },
@@ -3220,12 +3356,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Portland Forest Ave. 295 Forest Avenue - Portland",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 207-761-5965",
         "ref": "https://stores.hannaford.com/#8905376",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/portland/8351"
+        "website": "https://stores.hannaford.com/me/portland/8351",
+        "branch": "Portland Forest Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-70.2681516, 43.6639522] }
     },
@@ -3241,12 +3378,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Oxford 1603 Main Street - Oxford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-743-2522",
         "ref": "https://stores.hannaford.com/#8905303",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/oxford/8338"
+        "website": "https://stores.hannaford.com/me/oxford/8338",
+        "branch": "Oxford"
       },
       "geometry": { "type": "Point", "coordinates": [-70.524678, 44.1960802] }
     },
@@ -3262,12 +3400,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Old Town 500 Stillwater Ave - Old Town",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-827-2700",
         "ref": "https://stores.hannaford.com/#8905465",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/old-town/8133"
+        "website": "https://stores.hannaford.com/me/old-town/8133",
+        "branch": "Old Town"
       },
       "geometry": { "type": "Point", "coordinates": [-68.6660799, 44.9260907] }
     },
@@ -3283,12 +3422,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - North Windham 797 Roosevelt Trail - North Windham",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-892-2532",
         "ref": "https://stores.hannaford.com/#8905533",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/north-windham/8345"
+        "website": "https://stores.hannaford.com/me/north-windham/8345",
+        "branch": "North Windham"
       },
       "geometry": { "type": "Point", "coordinates": [-70.4413146, 43.8407096] }
     },
@@ -3304,7 +3444,7 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford Supermarket - North Berwick 23 Somersworth Rd - North Berwick",
+        "name": "Hannaford Supermarket - North Berwick 23 Somersworth Road - North Berwick",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-676-2177",
         "ref": "https://stores.hannaford.com/#8905354",
@@ -3328,12 +3468,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Newport 44 Moosehead Trail - Newport",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
         "phone": "+1 207-368-4733",
         "ref": "https://stores.hannaford.com/#8905441",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/newport/8443"
+        "website": "https://stores.hannaford.com/me/newport/8443",
+        "branch": "Newport"
       },
       "geometry": { "type": "Point", "coordinates": [-69.285805, 44.8386415] }
     },
@@ -3349,12 +3490,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Millinocket 843 Central Street - Millinocket",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
         "phone": "+1 207-723-8047",
         "ref": "https://stores.hannaford.com/#8905548",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/millinocket/8155"
+        "website": "https://stores.hannaford.com/me/millinocket/8155",
+        "branch": "Millinocket"
       },
       "geometry": { "type": "Point", "coordinates": [-68.6879845, 45.6585195] }
     },
@@ -3370,12 +3512,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/-RN0p3ZMCAgfykCJ2dRTZnlojCd_YPN7PKZ1zJoUxIw/150x150.png",
-        "name": "Hannaford - Mechanic Falls 50 Pigeon Hill Road - Mechanic Falls",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-998-2660",
         "ref": "https://stores.hannaford.com/#9874324",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/mechanic-falls/8445"
+        "website": "https://stores.hannaford.com/me/mechanic-falls/8445",
+        "branch": "Mechanic Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-70.415581, 44.07816] }
     },
@@ -3412,12 +3555,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Machias 149 Dublin Street - Machias",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
         "phone": "+1 207-255-3201",
         "ref": "https://stores.hannaford.com/#8905293",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/machias/8128"
+        "website": "https://stores.hannaford.com/me/machias/8128",
+        "branch": "Machias"
       },
       "geometry": { "type": "Point", "coordinates": [-67.4659341, 44.7054974] }
     },
@@ -3433,12 +3577,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Lincoln 22 Goding Avenue - Lincoln",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
         "phone": "+1 207-794-6122",
         "ref": "https://stores.hannaford.com/#8905345",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/lincoln/8140"
+        "website": "https://stores.hannaford.com/me/lincoln/8140",
+        "branch": "Lincoln"
       },
       "geometry": { "type": "Point", "coordinates": [-68.5164297, 45.3608056] }
     },
@@ -3454,12 +3599,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Lewiston 692 Sabattus St - Lewiston",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-784-0721",
         "ref": "https://stores.hannaford.com/#8905497",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/lewiston/8265"
+        "website": "https://stores.hannaford.com/me/lewiston/8265",
+        "branch": "Lewiston"
       },
       "geometry": { "type": "Point", "coordinates": [-70.1789785, 44.1039585] }
     },
@@ -3476,12 +3622,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Kennebunk 65 Portland Road - Kennebunk",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-985-9135",
         "ref": "https://stores.hannaford.com/#8905491",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/kennebunk/8403"
+        "website": "https://stores.hannaford.com/me/kennebunk/8403",
+        "branch": "Kennebunk"
       },
       "geometry": { "type": "Point", "coordinates": [-70.527626, 43.3969556] }
     },
@@ -3497,12 +3644,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Jay 15 Jay Plaza Lane - Jay",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-897-4376",
         "ref": "https://stores.hannaford.com/#8905297",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/jay/8165"
+        "website": "https://stores.hannaford.com/me/jay/8165",
+        "branch": "Jay"
       },
       "geometry": {
         "type": "Point",
@@ -3521,12 +3669,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Houlton 33 Ludlow Road - Houlton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
         "phone": "+1 207-532-2605",
         "ref": "https://stores.hannaford.com/#8905404",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/houlton/8439"
+        "website": "https://stores.hannaford.com/me/houlton/8439",
+        "branch": "Houlton"
       },
       "geometry": { "type": "Point", "coordinates": [-67.8453237, 46.1421261] }
     },
@@ -3542,12 +3691,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Hampden 77 Western Ave - Hampden",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-862-5444",
         "ref": "https://stores.hannaford.com/#8905521",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/hampden/8417"
+        "website": "https://stores.hannaford.com/me/hampden/8417",
+        "branch": "Hampden"
       },
       "geometry": {
         "type": "Point",
@@ -3566,12 +3716,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Gray 130 Shaker Road - Gray",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-657-5800",
         "ref": "https://stores.hannaford.com/#8905274",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/gray/8251"
+        "website": "https://stores.hannaford.com/me/gray/8251",
+        "branch": "Gray"
       },
       "geometry": {
         "type": "Point",
@@ -3590,12 +3741,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Gorham 99 Main St - Gorham",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-839-6553",
         "ref": "https://stores.hannaford.com/#8905573",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/gorham/8350"
+        "website": "https://stores.hannaford.com/me/gorham/8350",
+        "branch": "Gorham"
       },
       "geometry": {
         "type": "Point",
@@ -3614,12 +3766,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Gardiner 40 Main Avenue - Gardiner",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-582-3470",
         "ref": "https://stores.hannaford.com/#8905432",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/gardiner/8220"
+        "website": "https://stores.hannaford.com/me/gardiner/8220",
+        "branch": "Gardiner"
       },
       "geometry": {
         "type": "Point",
@@ -3638,12 +3791,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Farmington 131 Hannaford Drive - Farmington",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-778-0434",
         "ref": "https://stores.hannaford.com/#8905276",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/farmington/8291"
+        "website": "https://stores.hannaford.com/me/farmington/8291",
+        "branch": "Farmington"
       },
       "geometry": {
         "type": "Point",
@@ -3662,12 +3816,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Falmouth 65 Gray Road - Falmouth",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-878-0050",
         "ref": "https://stores.hannaford.com/#8905489",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/falmouth/8222"
+        "website": "https://stores.hannaford.com/me/falmouth/8222",
+        "branch": "Falmouth"
       },
       "geometry": { "type": "Point", "coordinates": [-70.294434, 43.7341912] }
     },
@@ -3683,12 +3838,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Belfast 93 Lincolnville Ave - Belfast",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-338-5377",
         "ref": "https://stores.hannaford.com/#8905563",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/belfast/8241"
+        "website": "https://stores.hannaford.com/me/belfast/8241",
+        "branch": "Belfast"
       },
       "geometry": {
         "type": "Point",
@@ -3707,12 +3863,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bar Harbor 86 Cottage St - Bar Harbor",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 207-288-5680",
         "ref": "https://stores.hannaford.com/#8905552",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/bar-harbor/8224"
+        "website": "https://stores.hannaford.com/me/bar-harbor/8224",
+        "branch": "Bar Harbor"
       },
       "geometry": {
         "type": "Point",
@@ -3731,12 +3888,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bangor Hogan Road 773 Stillwater Ave - Bangor",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-947-6735",
         "ref": "https://stores.hannaford.com/#8905523",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/bangor/8110"
+        "website": "https://stores.hannaford.com/me/bangor/8110",
+        "branch": "Bangor Hogan Road"
       },
       "geometry": {
         "type": "Point",
@@ -3755,12 +3913,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bangor Airport Mall 1133 Union St - Bangor",
+        "name": "Hannaford",
         "opening_hours": "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-942-0100",
         "ref": "https://stores.hannaford.com/#8905260",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/bangor/8109"
+        "website": "https://stores.hannaford.com/me/bangor/8109",
+        "branch": "Bangor Airport Mall"
       },
       "geometry": {
         "type": "Point",
@@ -3779,12 +3938,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Bangor Broadway 653 Broadway St - Bangor",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-947-8338",
         "ref": "https://stores.hannaford.com/#8905493",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/bangor/8107"
+        "website": "https://stores.hannaford.com/me/bangor/8107",
+        "branch": "Bangor Broadway"
       },
       "geometry": {
         "type": "Point",
@@ -3803,12 +3963,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Augusta Cony 118 Cony Street - Augusta",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-621-2570",
         "ref": "https://stores.hannaford.com/#8905268",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/augusta/8250"
+        "website": "https://stores.hannaford.com/me/augusta/8250",
+        "branch": "Augusta Cony"
       },
       "geometry": {
         "type": "Point",
@@ -3827,12 +3988,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Augusta Turnpike Mall 29 Whitten Rd - Augusta",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-622-3137",
         "ref": "https://stores.hannaford.com/#8905372",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/augusta/8239"
+        "website": "https://stores.hannaford.com/me/augusta/8239",
+        "branch": "Augusta Turnpike Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-69.812209, 44.3135911] }
     },
@@ -3848,12 +4010,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Auburn 95 Spring Street - Auburn",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 207-784-6497",
         "ref": "https://stores.hannaford.com/#8905565",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/me/auburn/8347"
+        "website": "https://stores.hannaford.com/me/auburn/8347",
+        "branch": "Auburn"
       },
       "geometry": { "type": "Point", "coordinates": [-70.2298941, 44.0963166] }
     },
@@ -3869,12 +4032,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Waltham 55 Russell St - Waltham",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 781-893-6776",
         "ref": "https://stores.hannaford.com/#8905475",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/waltham/8017"
+        "website": "https://stores.hannaford.com/ma/waltham/8017",
+        "branch": "Waltham"
       },
       "geometry": { "type": "Point", "coordinates": [-71.2445162, 42.3757909] }
     },
@@ -3890,12 +4054,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Uxbridge 158 North Main St - Uxbridge",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 508-278-2487",
         "ref": "https://stores.hannaford.com/#8905301",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/uxbridge/8014"
+        "website": "https://stores.hannaford.com/ma/uxbridge/8014",
+        "branch": "Uxbridge"
       },
       "geometry": { "type": "Point", "coordinates": [-71.6390782, 42.0820312] }
     },
@@ -3911,12 +4076,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Townsend 18 Main St - Townsend",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 978-597-5909",
         "ref": "https://stores.hannaford.com/#8905313",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/townsend/8009"
+        "website": "https://stores.hannaford.com/ma/townsend/8009",
+        "branch": "Townsend"
       },
       "geometry": {
         "type": "Point",
@@ -3935,12 +4101,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Taunton 255 Joseph E Warner Blvd - Taunton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 508-828-3940",
         "ref": "https://stores.hannaford.com/#8905358",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/taunton/8383"
+        "website": "https://stores.hannaford.com/ma/taunton/8383",
+        "branch": "Taunton"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1216205, 41.8862563] }
     },
@@ -3956,12 +4123,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - North Brookfield 5 Gilbert St - North Brookfield",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 508-867-6809",
         "ref": "https://stores.hannaford.com/#8905455",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/north-brookfield/8011"
+        "website": "https://stores.hannaford.com/ma/north-brookfield/8011",
+        "branch": "North Brookfield"
       },
       "geometry": {
         "type": "Point",
@@ -3980,12 +4148,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Middleboro 8 Merchants Way - Middleboro",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 508-947-4787",
         "ref": "https://stores.hannaford.com/#8905537",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/middleboro/8005"
+        "website": "https://stores.hannaford.com/ma/middleboro/8005",
+        "branch": "Middleboro"
       },
       "geometry": {
         "type": "Point",
@@ -4004,12 +4173,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Marlborough 193 Boston Post Rd W - Marlborough",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 508-480-9670",
         "ref": "https://stores.hannaford.com/#8905324",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/marlborough/8004"
+        "website": "https://stores.hannaford.com/ma/marlborough/8004",
+        "branch": "Marlborough"
       },
       "geometry": { "type": "Point", "coordinates": [-71.5897389, 42.3407808] }
     },
@@ -4025,12 +4195,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Lunenburg 333 Mass Ave - Lunenburg",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 978-582-0215",
         "ref": "https://stores.hannaford.com/#8905407",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/lunenburg/8388"
+        "website": "https://stores.hannaford.com/ma/lunenburg/8388",
+        "branch": "Lunenburg"
       },
       "geometry": {
         "type": "Point",
@@ -4049,12 +4220,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Lowell 777 Rogers Street - Lowell",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 978-446-7862",
         "ref": "https://stores.hannaford.com/#8905525",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/lowell/8327"
+        "website": "https://stores.hannaford.com/ma/lowell/8327",
+        "branch": "Lowell"
       },
       "geometry": {
         "type": "Point",
@@ -4073,12 +4245,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Leominster Twin City Plaza 927 Merriam Avenue - Leominster",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 978-534-9323",
         "ref": "https://stores.hannaford.com/#8905561",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/leominster/8012"
+        "website": "https://stores.hannaford.com/ma/leominster/8012",
+        "branch": "Leominster Twin City Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -4097,12 +4270,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Leominster Lancaster St. 118 Lancaster St - Leominster",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 978-537-1327",
         "ref": "https://stores.hannaford.com/#8905270",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/leominster/8003"
+        "website": "https://stores.hannaford.com/ma/leominster/8003",
+        "branch": "Leominster Lancaster St."
       },
       "geometry": { "type": "Point", "coordinates": [-71.753343, 42.5212783] }
     },
@@ -4118,12 +4292,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Gardner 21 Timpany Blvd - Gardner",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 978-632-6139",
         "ref": "https://stores.hannaford.com/#8905335",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/gardner/8019"
+        "website": "https://stores.hannaford.com/ma/gardner/8019",
+        "branch": "Gardner"
       },
       "geometry": { "type": "Point", "coordinates": [-71.9928459, 42.5690237] }
     },
@@ -4139,12 +4314,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Dracut 301 Pleasant St - Dracut",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 978-459-0059",
         "ref": "https://stores.hannaford.com/#8905388",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/dracut/8192"
+        "website": "https://stores.hannaford.com/ma/dracut/8192",
+        "branch": "Dracut"
       },
       "geometry": {
         "type": "Point",
@@ -4163,12 +4339,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Clinton 333 Brook St - Clinton",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-21:00",
         "phone": "+1 978-368-7909",
         "ref": "https://stores.hannaford.com/#8905405",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/clinton/8013"
+        "website": "https://stores.hannaford.com/ma/clinton/8013",
+        "branch": "Clinton"
       },
       "geometry": { "type": "Point", "coordinates": [-71.6878079, 42.4243718] }
     },
@@ -4182,12 +4359,13 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Chelmsford 66 Drum Hill - Chelmsford",
+        "name": "Hannaford",
         "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+1 978-459-9304",
         "ref": "https://stores.hannaford.com/#8905495",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/chelmsford/8191"
+        "website": "https://stores.hannaford.com/ma/chelmsford/8191",
+        "branch": "Chelmsford"
       },
       "geometry": {
         "type": "Point",
@@ -4206,17 +4384,21 @@
         "brand": "Hannaford",
         "brand:wikidata": "Q5648760",
         "image": "https://dynl.mktgcdn.com/p/yw1BVz_OtLuaTxOasldXnoQBT_5EmQCD0s4QSV93LNk/150x150.png",
-        "name": "Hannaford - Orange 150 New Athol Rd - Athol",
+        "name": "Hannaford",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "phone": "+1 978-249-7955",
         "ref": "https://stores.hannaford.com/#8905299",
         "shop": "supermarket",
-        "website": "https://stores.hannaford.com/ma/athol/8385"
+        "website": "https://stores.hannaford.com/ma/athol/8385",
+        "branch": "Orange"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-72.26289778948, 42.58158532521]
       }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }

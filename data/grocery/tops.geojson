@@ -1797,7 +1797,7 @@
         "addr:housenumber": "21501",
         "addr:postcode": "12090",
         "addr:state": "NY",
-        "addr:street": "NY State RT 22",
+        "addr:street": "NY State Route 22",
         "brand": "Tops",
         "brand:wikidata": "Q7825137",
         "name": "Tops",
@@ -2798,5 +2798,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-76.01904, 43.82594] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+  }
 }
