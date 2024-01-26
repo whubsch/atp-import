@@ -68,22 +68,28 @@ def direct_expand(match: regex.Match) -> str:
     raise ValueError
 
 
+# pre-compile regex for speed
+abbr_join = "|".join((name_expand | street_expand).keys())
+abbr_join_comp = regex.compile(rf"(\b(?:{abbr_join})\b\.?)")
+
+dir_fill = "|".join([r"\.?".join(list(abbr)) for abbr in direction_expand.keys()])
+dir_fill_comp = regex.compile(
+    rf"(?<!(?:^(?:Avenue|Street) |\.))(\b(?:{dir_fill})\b\.?)(?! (?:Street|Avenue))",
+    flags=regex.IGNORECASE,
+)
+
+
 def abbrs(value: str) -> str:
     value = ord_replace(us_replace(mc_replace(value))).replace("  ", " ")
 
     # expand common street and word abbreviations
-    abbr_join = "|".join((name_expand | street_expand).keys())
-    value = regex.sub(
-        rf"(\b(?:{abbr_join})\b\.?)",
+    value = abbr_join_comp.sub(
         name_street_expand,
         value,
-        flags=regex.IGNORECASE,
     )
 
     # expand directionals
-    abbr_fill = "|".join([r"\.?".join(list(abbr)) for abbr in direction_expand.keys()])
-    value = regex.sub(
-        rf"(?<!(?:^(?:Avenue|Street) |\.))(\b(?:{abbr_fill})\b\.?)(?! (?:Street|Avenue))",
+    value = dir_fill_comp.sub(
         direct_expand,
         value,
     )
@@ -107,7 +113,10 @@ for file in files:
         try:
             if contents["dataset_attributes"]["cleaning"]["version"] == version:
                 print_value(
-                    "skipping", file, features[0]["properties"].get("brand"), len(features)
+                    "skipping",
+                    file,
+                    features[0]["properties"].get("brand"),
+                    len(features),
                 )
                 continue
         except KeyError:
@@ -160,8 +169,11 @@ for file in files:
                     objt["addr:street"] = (
                         get_title(address_match.group(3)).rstrip().replace("  ", " ")
                     )
-                    if address_match.group(2):
-                        objt["addr:unit"] = address_match.group(2)
+                    objt.update(
+                        {"addr:unit": address_match.group(2)}
+                        if address_match.group(2)
+                        else {}
+                    )
                     objt.pop(addr_tag, None)
                     objt.pop("addr:full", None)
                     break
@@ -198,8 +210,11 @@ for file in files:
         for phone_tag in ["phone", "contact:phone", "fax"]:
             if phone_tag in objt:
                 # split up multiple phone numbers
-                if ";" in objt[phone_tag]:
-                    objt[phone_tag] = objt[phone_tag].split(";")[0]
+                objt.update(
+                    {phone_tag: objt[phone_tag].split(";")[0]}
+                    if ";" in objt[phone_tag]
+                    else {}
+                )
 
                 # format US and Canada phone numbers
                 phone_valid = regex.search(
@@ -209,10 +224,13 @@ for file in files:
                 phone_perf = regex.search(
                     r"^\+1 [0-9]{3}-[0-9]{3}-[0-9]{4}$", objt[phone_tag]
                 )
-                if phone_valid and not phone_perf:
-                    objt[
-                        phone_tag
-                    ] = f"+1 {phone_valid.group(1)}-{phone_valid.group(2)}-{phone_valid.group(3)}"
+                objt.update(
+                    {
+                        phone_tag: f"+1 {phone_valid.group(1)}-{phone_valid.group(2)}-{phone_valid.group(3)}"
+                    }
+                    if phone_valid and not phone_perf
+                    else {}
+                )
 
         for web_tag in ["url", "website", "contact:website"]:
             if web_tag in objt:
