@@ -239,7 +239,7 @@ for file in files:
                     r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*",
                     r"\1",
                     objt[web_tag],
-                )
+                ).lower()
 
         if "addr:postcode" in objt:
             # remove extraneous postcode digits
@@ -249,5 +249,5 @@ for file in files:
 
         obj["properties"] = objt
 
-    # with open(file, "w") as f:
-    #     json.dump(contents, f)
+    with open(file, "w") as f:
+        json.dump(contents, f)

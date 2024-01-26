@@ -32,12 +32,13 @@
         "addr:street": "Armory Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Barstow",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-252-5422",
         "ref": "101",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/101"
+        "website": "https://www.staterbros.com/stores/101",
+        "branch": "Barstow"
       },
       "geometry": { "type": "Point", "coordinates": [-117.0133465, 34.885142] }
     },
@@ -52,12 +53,13 @@
         "addr:street": "California 14",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Mojave",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-824-2719",
         "ref": "102",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/102"
+        "website": "https://www.staterbros.com/stores/102",
+        "branch": "Mojave"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1735421, 35.0681961] }
     },
@@ -72,12 +74,13 @@
         "addr:street": "Magnolia Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Rimpau",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-736-1399",
         "ref": "103",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/103"
+        "website": "https://www.staterbros.com/stores/103",
+        "branch": "Rimpau"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5464238, 33.86553] }
     },
@@ -112,12 +115,13 @@
         "addr:street": "North Azusa Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets West Covina",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 626-915-4951",
         "ref": "106",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/106"
+        "website": "https://www.staterbros.com/stores/106",
+        "branch": "West Covina"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9094355, 34.0771874] }
     },
@@ -132,12 +136,13 @@
         "addr:street": "Kendall Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Shandin Hills",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-882-0461",
         "ref": "107",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/107"
+        "website": "https://www.staterbros.com/stores/107",
+        "branch": "Shandin Hills"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3035727, 34.1632945] }
     },
@@ -152,12 +157,13 @@
         "addr:street": "West Holt Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Ontario Village",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-988-7343",
         "ref": "108",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/108"
+        "website": "https://www.staterbros.com/stores/108",
+        "branch": "Ontario Village"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6595345, 34.0643352] }
     },
@@ -172,12 +178,13 @@
         "addr:street": "North China Lake Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Ridgecrest",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-375-5557",
         "ref": "109",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/109"
+        "website": "https://www.staterbros.com/stores/109",
+        "branch": "Ridgecrest"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6679603, 35.6351491] }
     },
@@ -212,12 +219,13 @@
         "addr:street": "Newport Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets South Sun City",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-672-6780",
         "ref": "111",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/111"
+        "website": "https://www.staterbros.com/stores/111",
+        "branch": "South Sun City"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2068872, 33.6864465] }
     },
@@ -232,12 +240,13 @@
         "addr:street": "Barton Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets West Redlands",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-798-0072",
         "ref": "112",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/112"
+        "website": "https://www.staterbros.com/stores/112",
+        "branch": "West Redlands"
       },
       "geometry": { "type": "Point", "coordinates": [-117.207071, 34.04829] }
     },
@@ -252,12 +261,13 @@
         "addr:street": "West Nuevo Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Perris",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-657-1823",
         "ref": "113",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/113"
+        "website": "https://www.staterbros.com/stores/113",
+        "branch": "North Perris"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2272629, 33.7997009] }
     },
@@ -272,12 +282,13 @@
         "addr:street": "Iowa Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Blaine/Iowa",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-686-1032",
         "ref": "114",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/114"
+        "website": "https://www.staterbros.com/stores/114",
+        "branch": "Blaine"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3415367, 33.9857597] }
     },
@@ -312,12 +323,13 @@
         "addr:street": "Phelan Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Phelan",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-868-2315",
         "ref": "116",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/116"
+        "website": "https://www.staterbros.com/stores/116",
+        "branch": "Phelan"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5736566, 34.4250313] }
     },
@@ -332,12 +344,13 @@
         "addr:street": "East Washington Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Colton/Washington",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-423-0720",
         "ref": "117",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/117"
+        "website": "https://www.staterbros.com/stores/117",
+        "branch": "Colton"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2913264, 34.0500112] }
     },
@@ -352,12 +365,13 @@
         "addr:street": "Bear Valley Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Victorville",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-241-8924",
         "ref": "118",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/118"
+        "website": "https://www.staterbros.com/stores/118",
+        "branch": "Victorville"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3630247, 34.471833] }
     },
@@ -372,12 +386,13 @@
         "addr:street": "Florida Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets East Hemet",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-927-8555",
         "ref": "119",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/119"
+        "website": "https://www.staterbros.com/stores/119",
+        "branch": "East Hemet"
       },
       "geometry": { "type": "Point", "coordinates": [-116.9037808, 33.7490846] }
     },
@@ -392,12 +407,13 @@
         "addr:street": "East Foothill Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets South Rialto",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-874-5195",
         "ref": "12",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/12"
+        "website": "https://www.staterbros.com/stores/12",
+        "branch": "South Rialto"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3606339, 34.1067714] }
     },
@@ -412,12 +428,13 @@
         "addr:street": "Twentynine Palms Highway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets East Yucca Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-365-2415",
         "ref": "120",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/120"
+        "website": "https://www.staterbros.com/stores/120",
+        "branch": "East Yucca Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-116.3975517, 34.1297192] }
     },
@@ -452,12 +469,13 @@
         "addr:street": "Main Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Main/Maple",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-244-2299",
         "ref": "122",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/122"
+        "website": "https://www.staterbros.com/stores/122",
+        "branch": "Main"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3468426, 34.4272334] }
     },
@@ -472,12 +490,13 @@
         "addr:street": "Hook Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Victorville",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-243-5533",
         "ref": "123",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/123"
+        "website": "https://www.staterbros.com/stores/123",
+        "branch": "North Victorville"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3317152, 34.5201637] }
     },
@@ -492,12 +511,13 @@
         "addr:street": "El Toro Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Laguna Woods",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 949-598-3235",
         "ref": "124",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/124"
+        "website": "https://www.staterbros.com/stores/124",
+        "branch": "Laguna Woods"
       },
       "geometry": { "type": "Point", "coordinates": [-117.731424, 33.6083455] }
     },
@@ -512,12 +532,13 @@
         "addr:street": "Bryant Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Oak Glen",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-790-3636",
         "ref": "125",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/125"
+        "website": "https://www.staterbros.com/stores/125",
+        "branch": "Oak Glen"
       },
       "geometry": { "type": "Point", "coordinates": [-117.0325144, 34.0474508] }
     },
@@ -532,12 +553,13 @@
         "addr:street": "East Vista Chino",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Palm Springs",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-416-2551",
         "ref": "126",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/126"
+        "website": "https://www.staterbros.com/stores/126",
+        "branch": "Palm Springs"
       },
       "geometry": { "type": "Point", "coordinates": [-116.5259633, 33.8439683] }
     },
@@ -552,12 +574,13 @@
         "addr:street": "Ramon Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Cathedral City",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-770-9950",
         "ref": "127",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/127"
+        "website": "https://www.staterbros.com/stores/127",
+        "branch": "Cathedral City"
       },
       "geometry": { "type": "Point", "coordinates": [-116.4561129, 33.814937] }
     },
@@ -572,12 +595,13 @@
         "addr:street": "California 111",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets La Quinta",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-564-5388",
         "ref": "128",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/128"
+        "website": "https://www.staterbros.com/stores/128",
+        "branch": "La Quinta"
       },
       "geometry": { "type": "Point", "coordinates": [-116.2923775, 33.7150647] }
     },
@@ -592,12 +616,13 @@
         "addr:street": "East Bastanchury Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Bastanchury",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-257-0460",
         "ref": "129",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/129"
+        "website": "https://www.staterbros.com/stores/129",
+        "branch": "Bastanchury"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9110777, 33.8982987] }
     },
@@ -612,12 +637,13 @@
         "addr:street": "East Avenue South",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Palmdale/Avenue South",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-266-1076",
         "ref": "130",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/130"
+        "website": "https://www.staterbros.com/stores/130",
+        "branch": "Palmdale"
       },
       "geometry": { "type": "Point", "coordinates": [-118.083462, 34.5595517] }
     },
@@ -632,12 +658,13 @@
         "addr:street": "North State College Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets State College",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-991-5310",
         "ref": "131",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/131"
+        "website": "https://www.staterbros.com/stores/131",
+        "branch": "State College"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8903877, 33.849521] }
     },
@@ -652,12 +679,13 @@
         "addr:street": "Orangethorpe Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Buena Park",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-522-1222",
         "ref": "132",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/132"
+        "website": "https://www.staterbros.com/stores/132",
+        "branch": "Buena Park"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0016826, 33.8602979] }
     },
@@ -672,12 +700,13 @@
         "addr:street": "North Harbor Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets La Habra",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-694-3896",
         "ref": "133",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/133"
+        "website": "https://www.staterbros.com/stores/133",
+        "branch": "La Habra"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9343282, 33.939982] }
     },
@@ -692,12 +721,13 @@
         "addr:street": "La Mirada Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets La Mirada",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-943-3783",
         "ref": "134",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/134"
+        "website": "https://www.staterbros.com/stores/134",
+        "branch": "La Mirada"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0106491, 33.9155899] }
     },
@@ -712,12 +742,13 @@
         "addr:street": "East Imperial Highway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Placentia",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-528-6997",
         "ref": "135",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/135"
+        "website": "https://www.staterbros.com/stores/135",
+        "branch": "Placentia"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8432403, 33.9058116] }
     },
@@ -732,12 +763,13 @@
         "addr:street": "North Euclid Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Fullerton",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-871-8725",
         "ref": "136",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/136"
+        "website": "https://www.staterbros.com/stores/136",
+        "branch": "Fullerton"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9426379, 33.8732266] }
     },
@@ -752,12 +784,13 @@
         "addr:street": "Temecula Parkway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Red Hawk",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-303-1244",
         "ref": "138",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/138"
+        "website": "https://www.staterbros.com/stores/138",
+        "branch": "Red Hawk"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1014872, 33.4783228] }
     },
@@ -772,12 +805,13 @@
         "addr:street": "Hancock Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Murrieta",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-677-4117",
         "ref": "139",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/139"
+        "website": "https://www.staterbros.com/stores/139",
+        "branch": "Murrieta"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1822121, 33.571041] }
     },
@@ -792,12 +826,13 @@
         "addr:street": "Mission Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Rubidoux",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-686-1506",
         "ref": "14",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/14"
+        "website": "https://www.staterbros.com/stores/14",
+        "branch": "Rubidoux"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4055226, 33.9976104] }
     },
@@ -812,12 +847,13 @@
         "addr:street": "Sierra Highway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Santa Clarita",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-298-7988",
         "ref": "141",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/141"
+        "website": "https://www.staterbros.com/stores/141",
+        "branch": "Santa Clarita"
       },
       "geometry": { "type": "Point", "coordinates": [-118.4647928, 34.4039223] }
     },
@@ -832,12 +868,13 @@
         "addr:street": "El Toro Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets El Toro",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 949-581-3440",
         "ref": "142",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/142"
+        "website": "https://www.staterbros.com/stores/142",
+        "branch": "El Toro"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6799945, 33.6386736] }
     },
@@ -852,12 +889,13 @@
         "addr:street": "La Paz Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets La Paz",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 949-643-0511",
         "ref": "143",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/143"
+        "website": "https://www.staterbros.com/stores/143",
+        "branch": "La Paz"
       },
       "geometry": { "type": "Point", "coordinates": [-117.706126, 33.57205] }
     },
@@ -872,12 +910,13 @@
         "addr:street": "East Avenue J",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets East Lancaster",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-948-1885",
         "ref": "144",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/144"
+        "website": "https://www.staterbros.com/stores/144",
+        "branch": "East Lancaster"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0957717, 34.6883211] }
     },
@@ -892,12 +931,13 @@
         "addr:street": "47th Street East",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Palmdale/47th Street",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-285-9184",
         "ref": "145",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/145"
+        "website": "https://www.staterbros.com/stores/145",
+        "branch": "Palmdale"
       },
       "geometry": { "type": "Point", "coordinates": [-118.043557, 34.5593251] }
     },
@@ -912,12 +952,13 @@
         "addr:street": "West Avenue L",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets West Lancaster",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 661-943-2545",
         "ref": "146",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/146"
+        "website": "https://www.staterbros.com/stores/146",
+        "branch": "West Lancaster"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1823879, 34.6615931] }
     },
@@ -932,12 +973,13 @@
         "addr:street": "Adams Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Huntington Beach",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-963-0949",
         "ref": "147",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/147"
+        "website": "https://www.staterbros.com/stores/147",
+        "branch": "Huntington Beach"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9524334, 33.672322] }
     },
@@ -952,12 +994,13 @@
         "addr:street": "Warner Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Warner",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-841-3612",
         "ref": "148",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/148"
+        "website": "https://www.staterbros.com/stores/148",
+        "branch": "Warner"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0047935, 33.7169217] }
     },
@@ -972,12 +1015,13 @@
         "addr:street": "Camino De Los Mares",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets San Clemente",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 949-496-8283",
         "ref": "149",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/149"
+        "website": "https://www.staterbros.com/stores/149",
+        "branch": "San Clemente"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6536601, 33.4589886] }
     },
@@ -992,12 +1036,13 @@
         "addr:street": "Mulberry Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Whittier",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-941-7711",
         "ref": "15",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/15"
+        "website": "https://www.staterbros.com/stores/15",
+        "branch": "Whittier"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0278488, 33.9413707] }
     },
@@ -1012,12 +1057,13 @@
         "addr:street": "Mission Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Mission",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-754-3770",
         "ref": "150",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/150"
+        "website": "https://www.staterbros.com/stores/150",
+        "branch": "Mission"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3332416, 33.2265052] }
     },
@@ -1032,12 +1078,13 @@
         "addr:street": "East Mission Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets San Marcos",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-741-5052",
         "ref": "152",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/152"
+        "website": "https://www.staterbros.com/stores/152",
+        "branch": "San Marcos"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1295085, 33.1368528] }
     },
@@ -1052,12 +1099,13 @@
         "addr:street": "Alondra Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Paramount",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-633-5721",
         "ref": "153",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/153"
+        "website": "https://www.staterbros.com/stores/153",
+        "branch": "Paramount"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1484188, 33.8887993] }
     },
@@ -1072,12 +1120,13 @@
         "addr:street": "Firestone Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Firestone",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-929-1878",
         "ref": "154",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/154"
+        "website": "https://www.staterbros.com/stores/154",
+        "branch": "Firestone"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0930645, 33.9179681] }
     },
@@ -1092,12 +1141,13 @@
         "addr:street": "Firestone Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Downey",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-923-0394",
         "ref": "155",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/155"
+        "website": "https://www.staterbros.com/stores/155",
+        "branch": "Downey"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1419832, 33.9439647] }
     },
@@ -1112,12 +1162,13 @@
         "addr:street": "Sycamore Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Vista",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-727-7080",
         "ref": "156",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/156"
+        "website": "https://www.staterbros.com/stores/156",
+        "branch": "Vista"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2190152, 33.1629724] }
     },
@@ -1132,12 +1183,13 @@
         "addr:street": "North Santa Fe Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Santa Fe",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-726-8485",
         "ref": "157",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/157"
+        "website": "https://www.staterbros.com/stores/157",
+        "branch": "Santa Fe"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2435255, 33.220409] }
     },
@@ -1152,12 +1204,13 @@
         "addr:street": "North El Camino Real",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Encinitas",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-943-7738",
         "ref": "158",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/158"
+        "website": "https://www.staterbros.com/stores/158",
+        "branch": "Encinitas"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2666012, 33.0667222] }
     },
@@ -1172,12 +1225,13 @@
         "addr:street": "Valley View Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Cypress",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-761-1662",
         "ref": "159",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/159"
+        "website": "https://www.staterbros.com/stores/159",
+        "branch": "Cypress"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0292934, 33.8160383] }
     },
@@ -1192,12 +1246,13 @@
         "addr:street": "East Spring Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Long Beach",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-429-5611",
         "ref": "160",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/160"
+        "website": "https://www.staterbros.com/stores/160",
+        "branch": "Long Beach"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1055926, 33.8113918] }
     },
@@ -1232,12 +1287,13 @@
         "addr:street": "Poway Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Poway",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 858-486-3771",
         "ref": "162",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/162"
+        "website": "https://www.staterbros.com/stores/162",
+        "branch": "Poway"
       },
       "geometry": { "type": "Point", "coordinates": [-117.0372962, 32.9558928] }
     },
@@ -1252,12 +1308,13 @@
         "addr:street": "Main Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Ramona",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-789-9915",
         "ref": "163",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/163"
+        "website": "https://www.staterbros.com/stores/163",
+        "branch": "Ramona"
       },
       "geometry": { "type": "Point", "coordinates": [-116.8787491, 33.0349958] }
     },
@@ -1272,12 +1329,13 @@
         "addr:street": "East Chapman Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Orange",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-997-7445",
         "ref": "165",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/165"
+        "website": "https://www.staterbros.com/stores/165",
+        "branch": "Orange"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8179046, 33.7891893] }
     },
@@ -1292,12 +1350,13 @@
         "addr:street": "South Brookhurst Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets West Anaheim",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-774-3933",
         "ref": "166",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/166"
+        "website": "https://www.staterbros.com/stores/166",
+        "branch": "West Anaheim"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9579417, 33.8242788] }
     },
@@ -1312,12 +1371,13 @@
         "addr:street": "Carmel Mountain Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets San Diego",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 858-484-1281",
         "ref": "167",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/167"
+        "website": "https://www.staterbros.com/stores/167",
+        "branch": "San Diego"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1138232, 32.959563] }
     },
@@ -1332,12 +1392,13 @@
         "addr:street": "Amar Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Grand",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-598-6534",
         "ref": "168",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/168"
+        "website": "https://www.staterbros.com/stores/168",
+        "branch": "Grand"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8521681, 34.042833] }
     },
@@ -1352,12 +1413,13 @@
         "addr:street": "Chino Hills Parkway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Chino Hills",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-591-5405",
         "ref": "169",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/169"
+        "website": "https://www.staterbros.com/stores/169",
+        "branch": "Chino Hills"
       },
       "geometry": { "type": "Point", "coordinates": [-117.7588692, 33.9938562] }
     },
@@ -1372,12 +1434,13 @@
         "addr:street": "Eagle Glen Parkway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Eagle Glen",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-372-2692",
         "ref": "170",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/170"
+        "website": "https://www.staterbros.com/stores/170",
+        "branch": "Eagle Glen"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5232587, 33.8229453] }
     },
@@ -1392,12 +1455,13 @@
         "addr:street": "Hidden Valley Parkway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Hidden Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-372-1100",
         "ref": "171",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/171"
+        "website": "https://www.staterbros.com/stores/171",
+        "branch": "Hidden Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5554079, 33.8982862] }
     },
@@ -1412,12 +1476,13 @@
         "addr:street": "Iris Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Moreno Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-924-1717",
         "ref": "172",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/172"
+        "website": "https://www.staterbros.com/stores/172",
+        "branch": "Moreno Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2087778, 33.8920361] }
     },
@@ -1452,12 +1517,13 @@
         "addr:street": "Hidden Springs Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Clinton Keith",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-678-3191",
         "ref": "174",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/174"
+        "website": "https://www.staterbros.com/stores/174",
+        "branch": "Clinton Keith"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2478351, 33.5970735] }
     },
@@ -1472,12 +1538,13 @@
         "addr:street": "Summit Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Falcon Ridge",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-463-2490",
         "ref": "175",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/175"
+        "website": "https://www.staterbros.com/stores/175",
+        "branch": "Falcon Ridge"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4755511, 34.1513359] }
     },
@@ -1492,12 +1559,13 @@
         "addr:street": "US 395",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Adelanto",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-246-7705",
         "ref": "176",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/176"
+        "website": "https://www.staterbros.com/stores/176",
+        "branch": "Adelanto"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4015871, 34.5079102] }
     },
@@ -1512,12 +1580,13 @@
         "addr:street": "Benton Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets French Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-926-6432",
         "ref": "177",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/177"
+        "website": "https://www.staterbros.com/stores/177",
+        "branch": "French Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1236028, 33.5924514] }
     },
@@ -1532,12 +1601,13 @@
         "addr:street": "Apple Valley Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Bear Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-240-2214",
         "ref": "178",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/178"
+        "website": "https://www.staterbros.com/stores/178",
+        "branch": "Bear Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-117.240513, 34.4740919] }
     },
@@ -1552,12 +1622,13 @@
         "addr:street": "Sierra Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Sierra Crossroads",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-428-4545",
         "ref": "179",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/179"
+        "website": "https://www.staterbros.com/stores/179",
+        "branch": "Sierra Crossroads"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4338086, 34.0498001] }
     },
@@ -1572,12 +1643,13 @@
         "addr:street": "East Colton Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Redlands",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-792-3900",
         "ref": "18",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/18"
+        "website": "https://www.staterbros.com/stores/18",
+        "branch": "North Redlands"
       },
       "geometry": { "type": "Point", "coordinates": [-117.181894, 34.0637972] }
     },
@@ -1632,12 +1704,13 @@
         "addr:street": "Greenspot Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets East Highland",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-863-7600",
         "ref": "182",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/182"
+        "website": "https://www.staterbros.com/stores/182",
+        "branch": "East Highland"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1720914, 34.1112474] }
     },
@@ -1652,12 +1725,13 @@
         "addr:street": "Vista Chino",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Cathedral City",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-327-9295",
         "ref": "183",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/183"
+        "website": "https://www.staterbros.com/stores/183",
+        "branch": "North Cathedral City"
       },
       "geometry": { "type": "Point", "coordinates": [-116.4779085, 33.8460347] }
     },
@@ -1672,12 +1746,13 @@
         "addr:street": "Schaefer Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Euclid/Schaefer",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-627-6665",
         "ref": "184",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/184"
+        "website": "https://www.staterbros.com/stores/184",
+        "branch": "Euclid"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6525601, 34.0033434] }
     },
@@ -1692,12 +1767,13 @@
         "addr:street": "Moreno Beach Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Moreno Beach",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-242-1461",
         "ref": "185",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/185"
+        "website": "https://www.staterbros.com/stores/185",
+        "branch": "Moreno Beach"
       },
       "geometry": { "type": "Point", "coordinates": [-117.175609, 33.9114124] }
     },
@@ -1712,12 +1788,13 @@
         "addr:street": "Gateway Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Bressi Ranch",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-929-7900",
         "ref": "186",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/186"
+        "website": "https://www.staterbros.com/stores/186",
+        "branch": "Bressi Ranch"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2517203, 33.1264932] }
     },
@@ -1752,12 +1829,13 @@
         "addr:street": "Barton Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Grand Terrace",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-824-1053",
         "ref": "188",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/188"
+        "website": "https://www.staterbros.com/stores/188",
+        "branch": "Grand Terrace"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3202837, 34.0327835] }
     },
@@ -1772,12 +1850,13 @@
         "addr:street": "Mission Trail",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Lake Elsinore",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-245-5802",
         "ref": "189",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/189"
+        "website": "https://www.staterbros.com/stores/189",
+        "branch": "Lake Elsinore"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2981965, 33.6531034] }
     },
@@ -1792,12 +1871,13 @@
         "addr:street": "North Garey Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Pomona",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-629-9244",
         "ref": "19",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/19"
+        "website": "https://www.staterbros.com/stores/19",
+        "branch": "North Pomona"
       },
       "geometry": { "type": "Point", "coordinates": [-117.7532803, 34.06822] }
     },
@@ -1812,12 +1892,13 @@
         "addr:street": "Main Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Hesperia",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-244-1503",
         "ref": "190",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/190"
+        "website": "https://www.staterbros.com/stores/190",
+        "branch": "Hesperia"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2946147, 34.4220356] }
     },
@@ -1832,12 +1913,13 @@
         "addr:street": "East Lugonia Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Redlands/Lugonia",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-794-0105",
         "ref": "191",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/191"
+        "website": "https://www.staterbros.com/stores/191",
+        "branch": "Redlands"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1402624, 34.0715338] }
     },
@@ -1852,12 +1934,13 @@
         "addr:street": "Mary Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Victoria",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-682-3101",
         "ref": "192",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/192"
+        "website": "https://www.staterbros.com/stores/192",
+        "branch": "Victoria"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3865102, 33.9345274] }
     },
@@ -1872,12 +1955,13 @@
         "addr:street": "Pigeon Pass Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Moreno Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-924-2575",
         "ref": "193",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/193"
+        "website": "https://www.staterbros.com/stores/193",
+        "branch": "North Moreno Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2628352, 33.9477121] }
     },
@@ -1892,12 +1976,13 @@
         "addr:street": "North Grand Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Covina",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 626-543-1104",
         "ref": "194",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/194"
+        "website": "https://www.staterbros.com/stores/194",
+        "branch": "Covina"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8735779, 34.0978529] }
     },
@@ -1912,12 +1997,13 @@
         "addr:street": "West Florida Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Sanderson",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-537-1190",
         "ref": "195",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/195"
+        "website": "https://www.staterbros.com/stores/195",
+        "branch": "Sanderson"
       },
       "geometry": { "type": "Point", "coordinates": [-117.0046318, 33.7465647] }
     },
@@ -1932,12 +2018,13 @@
         "addr:street": "East Los Angeles Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Simi Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 805-416-7151",
         "ref": "196",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/196"
+        "website": "https://www.staterbros.com/stores/196",
+        "branch": "Simi Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-118.784064, 34.2704087] }
     },
@@ -1952,12 +2039,13 @@
         "addr:street": "Newport Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Menifee",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-723-6141",
         "ref": "197",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/197"
+        "website": "https://www.staterbros.com/stores/197",
+        "branch": "Menifee"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1526308, 33.6838301] }
     },
@@ -1972,12 +2060,13 @@
         "addr:street": "Kensington Park Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Tustin",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 657-235-6641",
         "ref": "198",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/198"
+        "website": "https://www.staterbros.com/stores/198",
+        "branch": "Tustin"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8163973, 33.7114798] }
     },
@@ -1992,12 +2081,13 @@
         "addr:street": "River Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets River Road",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-893-9251",
         "ref": "199",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/199"
+        "website": "https://www.staterbros.com/stores/199",
+        "branch": "River Road"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5903871, 33.9152434] }
     },
@@ -2032,12 +2122,13 @@
         "addr:street": "Day Creek Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Day Creek",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-646-1148",
         "ref": "200",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/200"
+        "website": "https://www.staterbros.com/stores/200",
+        "branch": "Day Creek"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5388778, 34.1225697] }
     },
@@ -2052,12 +2143,13 @@
         "addr:street": "East Alessandro Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Mission Grove",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-565-5426",
         "ref": "201",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/201"
+        "website": "https://www.staterbros.com/stores/201",
+        "branch": "Mission Grove"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3246225, 33.9162587] }
     },
@@ -2072,12 +2164,13 @@
         "addr:street": "Allen Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Pasadena",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 626-788-4092",
         "ref": "202",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/202"
+        "website": "https://www.staterbros.com/stores/202",
+        "branch": "Pasadena"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1118903, 34.1699706] }
     },
@@ -2092,12 +2185,13 @@
         "addr:street": "Crown Valley Parkway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Ladera Ranch",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 949-462-9696",
         "ref": "203",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/203"
+        "website": "https://www.staterbros.com/stores/203",
+        "branch": "Ladera Ranch"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6312475, 33.5642049] }
     },
@@ -2113,12 +2207,13 @@
         "addr:unit": "E",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Ontario Ranch",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-627-1472",
         "ref": "204",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/204"
+        "website": "https://www.staterbros.com/stores/204",
+        "branch": "Ontario Ranch"
       },
       "geometry": { "type": "Point", "coordinates": [-117.577033, 33.9998198] }
     },
@@ -2233,12 +2328,13 @@
         "addr:street": "La Sierra Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets La Sierra",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-343-2580",
         "ref": "22",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/22"
+        "website": "https://www.staterbros.com/stores/22",
+        "branch": "La Sierra"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4877085, 33.9162227] }
     },
@@ -2253,12 +2349,13 @@
         "addr:street": "Yucaipa Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Yucaipa",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-790-0060",
         "ref": "23",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/23"
+        "website": "https://www.staterbros.com/stores/23",
+        "branch": "Yucaipa"
       },
       "geometry": { "type": "Point", "coordinates": [-117.0532961, 34.03495] }
     },
@@ -2273,12 +2370,13 @@
         "addr:street": "East Highland Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets del Rosa",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-882-3214",
         "ref": "24",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/24"
+        "website": "https://www.staterbros.com/stores/24",
+        "branch": "del Rosa"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2541087, 34.1368811] }
     },
@@ -2293,12 +2391,13 @@
         "addr:street": "Newport Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Newport",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 949-646-2324",
         "ref": "25",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/25"
+        "website": "https://www.staterbros.com/stores/25",
+        "branch": "Newport"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9088806, 33.650578] }
     },
@@ -2333,12 +2432,13 @@
         "addr:street": "East Collins Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Collins",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-538-5550",
         "ref": "28",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/28"
+        "website": "https://www.staterbros.com/stores/28",
+        "branch": "Collins"
       },
       "geometry": { "type": "Point", "coordinates": [-117.834701, 33.8017449] }
     },
@@ -2353,12 +2453,13 @@
         "addr:street": "West Edinger Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Edinger",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-437-0750",
         "ref": "29",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/29"
+        "website": "https://www.staterbros.com/stores/29",
+        "branch": "Edinger"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9051216, 33.7263288] }
     },
@@ -2373,12 +2474,13 @@
         "addr:street": "East Valley Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Colton",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-825-5186",
         "ref": "3",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/3"
+        "website": "https://www.staterbros.com/stores/3",
+        "branch": "Colton"
       },
       "geometry": { "type": "Point", "coordinates": [-117.323359, 34.0675068] }
     },
@@ -2393,12 +2495,13 @@
         "addr:street": "Chapman Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Chapman",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-539-6556",
         "ref": "32",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/32"
+        "website": "https://www.staterbros.com/stores/32",
+        "branch": "Chapman"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9771597, 33.7880472] }
     },
@@ -2453,12 +2556,13 @@
         "addr:street": "Red Hill Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Red Hill",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-544-1812",
         "ref": "37",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/37"
+        "website": "https://www.staterbros.com/stores/37",
+        "branch": "Red Hill"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8178707, 33.732062] }
     },
@@ -2473,12 +2577,13 @@
         "addr:street": "North Tustin Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Santa Clara",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-543-9034",
         "ref": "40",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/40"
+        "website": "https://www.staterbros.com/stores/40",
+        "branch": "Santa Clara"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8369125, 33.7681535] }
     },
@@ -2513,12 +2618,13 @@
         "addr:street": "East Baseline Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Rialto",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-875-4471",
         "ref": "43",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/43"
+        "website": "https://www.staterbros.com/stores/43",
+        "branch": "North Rialto"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3692677, 34.1227754] }
     },
@@ -2533,12 +2639,13 @@
         "addr:street": "Hamner Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Norco",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-734-1838",
         "ref": "44",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/44"
+        "website": "https://www.staterbros.com/stores/44",
+        "branch": "Norco"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5603158, 33.9225744] }
     },
@@ -2553,12 +2660,13 @@
         "addr:street": "North Mountain Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Upland",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-982-3514",
         "ref": "45",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/45"
+        "website": "https://www.staterbros.com/stores/45",
+        "branch": "Upland"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6708935, 34.105407] }
     },
@@ -2573,12 +2681,13 @@
         "addr:street": "East Stetson Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets State Street",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-925-5545",
         "ref": "46",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/46"
+        "website": "https://www.staterbros.com/stores/46",
+        "branch": "State Street"
       },
       "geometry": { "type": "Point", "coordinates": [-116.970065, 33.7308799] }
     },
@@ -2593,12 +2702,13 @@
         "addr:street": "Foothill Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets La Verne",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-593-1591",
         "ref": "48",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/48"
+        "website": "https://www.staterbros.com/stores/48",
+        "branch": "La Verne"
       },
       "geometry": { "type": "Point", "coordinates": [-117.7662807, 34.1123637] }
     },
@@ -2613,12 +2723,13 @@
         "addr:street": "West Foothill Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Towne Avenue",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-624-0619",
         "ref": "49",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/49"
+        "website": "https://www.staterbros.com/stores/49",
+        "branch": "Towne Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-117.73549, 34.107878] }
     },
@@ -2633,12 +2744,13 @@
         "addr:street": "Sierra Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets North Fontana",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-427-8200",
         "ref": "5",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/5"
+        "website": "https://www.staterbros.com/stores/5",
+        "branch": "North Fontana"
       },
       "geometry": { "type": "Point", "coordinates": [-117.436775, 34.104389] }
     },
@@ -2653,12 +2765,13 @@
         "addr:street": "Riverside Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Chino",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-627-3015",
         "ref": "52",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/52"
+        "website": "https://www.staterbros.com/stores/52",
+        "branch": "Chino"
       },
       "geometry": { "type": "Point", "coordinates": [-117.7016897, 34.0182366] }
     },
@@ -2712,12 +2825,13 @@
         "addr:street": "West Arrow Highway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets San Dimas",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-599-1374",
         "ref": "56",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/56"
+        "website": "https://www.staterbros.com/stores/56",
+        "branch": "San Dimas"
       },
       "geometry": { "type": "Point", "coordinates": [-117.836363, 34.1075111] }
     },
@@ -2752,12 +2866,13 @@
         "addr:street": "East Highland Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Palm",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-864-0122",
         "ref": "58",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/58"
+        "website": "https://www.staterbros.com/stores/58",
+        "branch": "Palm"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2079233, 34.1357701] }
     },
@@ -2772,12 +2887,13 @@
         "addr:street": "West Philadelphia Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets South Ontario",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-984-0517",
         "ref": "59",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/59"
+        "website": "https://www.staterbros.com/stores/59",
+        "branch": "South Ontario"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6699769, 34.0327024] }
     },
@@ -2792,12 +2908,13 @@
         "addr:street": "East Route 66",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Glendora",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 626-963-0513",
         "ref": "6",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/6"
+        "website": "https://www.staterbros.com/stores/6",
+        "branch": "Glendora"
       },
       "geometry": { "type": "Point", "coordinates": [-117.830375, 34.1270537] }
     },
@@ -2812,12 +2929,13 @@
         "addr:street": "Yorba Linda Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Yorba Linda",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-777-3893",
         "ref": "60",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/60"
+        "website": "https://www.staterbros.com/stores/60",
+        "branch": "Yorba Linda"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8099858, 33.889921] }
     },
@@ -2832,12 +2950,13 @@
         "addr:street": "Bloomington Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Bloomington",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-877-0090",
         "ref": "61",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/61"
+        "website": "https://www.staterbros.com/stores/61",
+        "branch": "Bloomington"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3894949, 34.0744852] }
     },
@@ -2852,12 +2971,13 @@
         "addr:street": "Border Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Corona",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-734-2470",
         "ref": "62",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/62"
+        "website": "https://www.staterbros.com/stores/62",
+        "branch": "Corona"
       },
       "geometry": { "type": "Point", "coordinates": [-117.5942512, 33.8693734] }
     },
@@ -2872,12 +2992,13 @@
         "addr:street": "North Mountain Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Mountain Plaza",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-981-3237",
         "ref": "65",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/65"
+        "website": "https://www.staterbros.com/stores/65",
+        "branch": "Mountain Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6718102, 34.1222029] }
     },
@@ -2892,12 +3013,13 @@
         "addr:street": "Kellogg Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Anaheim",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-779-2020",
         "ref": "66",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/66"
+        "website": "https://www.staterbros.com/stores/66",
+        "branch": "Anaheim"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8050396, 33.86604] }
     },
@@ -2912,12 +3034,13 @@
         "addr:street": "Colima Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Rowland Heights",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-598-6619",
         "ref": "67",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/67"
+        "website": "https://www.staterbros.com/stores/67",
+        "branch": "Rowland Heights"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8701074, 33.9862908] }
     },
@@ -2932,12 +3055,13 @@
         "addr:street": "Jurupa Road",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Glen Avon",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-685-1266",
         "ref": "69",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/69"
+        "website": "https://www.staterbros.com/stores/69",
+        "branch": "Glen Avon"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4830497, 33.9985258] }
     },
@@ -2952,12 +3076,13 @@
         "addr:street": "Alondra Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Norwalk",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 562-921-3908",
         "ref": "70",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/70"
+        "website": "https://www.staterbros.com/stores/70",
+        "branch": "Norwalk"
       },
       "geometry": { "type": "Point", "coordinates": [-118.065536, 33.8884102] }
     },
@@ -2992,12 +3117,13 @@
         "addr:street": "Central Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Montclair",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-621-4637",
         "ref": "73",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/73"
+        "website": "https://www.staterbros.com/stores/73",
+        "branch": "Montclair"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6888586, 34.079996] }
     },
@@ -3012,12 +3138,13 @@
         "addr:street": "Florida Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Stanford",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-652-2388",
         "ref": "75",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/75"
+        "website": "https://www.staterbros.com/stores/75",
+        "branch": "Stanford"
       },
       "geometry": { "type": "Point", "coordinates": [-116.9316848, 33.7467912] }
     },
@@ -3032,12 +3159,13 @@
         "addr:street": "Warner Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Fountain Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 714-775-6343",
         "ref": "77",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/77"
+        "website": "https://www.staterbros.com/stores/77",
+        "branch": "Fountain Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9352435, 33.7170771] }
     },
@@ -3072,12 +3200,13 @@
         "addr:street": "West Highland Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Highland",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-886-1517",
         "ref": "8",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/8"
+        "website": "https://www.staterbros.com/stores/8",
+        "branch": "Highland"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3081454, 34.1351622] }
     },
@@ -3092,12 +3221,13 @@
         "addr:street": "Van Buren Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Woodcrest",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-780-2261",
         "ref": "80",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/80"
+        "website": "https://www.staterbros.com/stores/80",
+        "branch": "Woodcrest"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3649867, 33.8835768] }
     },
@@ -3152,12 +3282,13 @@
         "addr:street": "Palm Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Desert Hot Springs",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-329-1533",
         "ref": "84",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/84"
+        "website": "https://www.staterbros.com/stores/84",
+        "branch": "Desert Hot Springs"
       },
       "geometry": { "type": "Point", "coordinates": [-116.5004305, 33.952498] }
     },
@@ -3172,12 +3303,13 @@
         "addr:street": "East 4th Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Vineyard",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-989-7615",
         "ref": "85",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/85"
+        "website": "https://www.staterbros.com/stores/85",
+        "branch": "Vineyard"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6096528, 34.0785318] }
     },
@@ -3212,12 +3344,13 @@
         "addr:street": "Limonite Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Mira Loma",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-734-4330",
         "ref": "88",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/88"
+        "website": "https://www.staterbros.com/stores/88",
+        "branch": "Mira Loma"
       },
       "geometry": { "type": "Point", "coordinates": [-117.524859, 33.974855] }
     },
@@ -3232,12 +3365,13 @@
         "addr:street": "Limonite Avenue",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets de Anza",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-681-3142",
         "ref": "90",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/90"
+        "website": "https://www.staterbros.com/stores/90",
+        "branch": "de Anza"
       },
       "geometry": { "type": "Point", "coordinates": [-117.4524593, 33.9773662] }
     },
@@ -3272,12 +3406,13 @@
         "addr:street": "California 189",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Lake Arrowhead",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-337-5854",
         "ref": "92",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/92"
+        "website": "https://www.staterbros.com/stores/92",
+        "branch": "Lake Arrowhead"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1905317, 34.2505226] }
     },
@@ -3292,12 +3427,13 @@
         "addr:street": "California 111",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Indio",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-347-5823",
         "ref": "94",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/94"
+        "website": "https://www.staterbros.com/stores/94",
+        "branch": "Indio"
       },
       "geometry": { "type": "Point", "coordinates": [-116.2504868, 33.7086819] }
     },
@@ -3312,12 +3448,13 @@
         "addr:street": "Arrow Boulevard",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Fontana/Arrow",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 909-427-8208",
         "ref": "95",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/95"
+        "website": "https://www.staterbros.com/stores/95",
+        "branch": "Fontana"
       },
       "geometry": { "type": "Point", "coordinates": [-117.408557, 34.1009398] }
     },
@@ -3332,12 +3469,13 @@
         "addr:street": "Twentynine Palms Highway",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Yucca Valley",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-365-9877",
         "ref": "96",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/96"
+        "website": "https://www.staterbros.com/stores/96",
+        "branch": "Yucca Valley"
       },
       "geometry": { "type": "Point", "coordinates": [-116.4185591, 34.1210853] }
     },
@@ -3352,12 +3490,13 @@
         "addr:street": "Main Street",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Eighth & Main",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 760-244-1630",
         "ref": "97",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/97"
+        "website": "https://www.staterbros.com/stores/97",
+        "branch": "Eighth "
       },
       "geometry": { "type": "Point", "coordinates": [-117.3195309, 34.422561] }
     },
@@ -3372,12 +3511,13 @@
         "addr:street": "Lakeshore Drive",
         "brand": "Stater Bros.",
         "brand:wikidata": "Q7604016",
-        "name": "Stater Bros. Markets Elsinore/Lakeshore",
+        "name": "Stater Bros. Markets",
         "opening_hours": "Mo-Su 06:00-23:00",
         "phone": "+1 951-674-1349",
         "ref": "98",
         "shop": "supermarket",
-        "website": "https://www.staterbros.com/stores/98"
+        "website": "https://www.staterbros.com/stores/98",
+        "branch": "Elsinore"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3679824, 33.6868861] }
     }
