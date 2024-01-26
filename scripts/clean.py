@@ -45,11 +45,13 @@ def mc_replace(value: str) -> str:
         return mc_match.group(1) + mc_match.group(2).title() + mc_match.group(3)
     return value
 
+
 def ord_replace(value: str) -> str:
     ord_match = regex.search(r"(\b[0-9]+[SNRT][tTdDhH]\b)", value)
     if ord_match:
         return value.replace(ord_match.group(1), ord_match.group(1).lower())
     return value
+
 
 for file in files:
     with open(file, "r") as f:
@@ -92,9 +94,27 @@ for file in files:
 
                 # change likely 'St' to 'Saint'
                 objt[name_tag] = regex.sub(
-                    r"^(St.?)( .+)$", "Saint\2", objt[name_tag], flags=regex.IGNORECASE
+                    r"^(St.?)( .+)$", r"Saint\2", objt[name_tag], flags=regex.IGNORECASE
                 )
                 objt[name_tag] = get_title(objt[name_tag]).replace("  ", " ")
+
+                # expand common street and word abbreviations
+                for abbr, replacement in (name_expand | street_expand).items():
+                    objt[name_tag] = regex.sub(
+                        rf"(\b(?:{abbr})\b\.?)",
+                        replacement.title(),
+                        objt[name_tag],
+                        flags=regex.IGNORECASE,
+                    )
+
+                # expand directionals
+                for abbr, replacement in direction_expand.items():
+                    abbr_fill = r"\.?".join(list(abbr))
+                    objt[name_tag] = regex.sub(
+                        rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr_fill}\b\.?)(?! (?:Street|Avenue))",
+                        replacement,
+                        objt[name_tag],
+                    )
 
         for addr_tag in ["addr:street_address", "addr:full"]:
             if addr_tag in objt:
@@ -122,11 +142,16 @@ for file in files:
             objt["addr:city"] = mc_replace(get_title(objt["addr:city"]))
 
         if "addr:street" in objt:
-            objt["addr:street"] = ord_replace(mc_replace(us_replace(objt["addr:street"])))
+            objt["addr:street"] = ord_replace(
+                mc_replace(us_replace(objt["addr:street"]))
+            )
 
             # change likely 'St' to 'Saint'
             objt["addr:street"] = regex.sub(
-                r"^(St.?)( .+)$", "Saint\2", objt["addr:street"]
+                r"^(St.?)( .+)$", r"Saint\2", objt["addr:street"]
+            )
+            objt["addr:street"] = regex.sub(
+                r"St.?( [NESW]\.?[EW]?\.?)?$", r"Street\1", objt["addr:street"]
             )
             suite_match = regex.search(r"^(St.?)( .+)$", objt["addr:street"])
             if suite_match:
@@ -182,17 +207,17 @@ for file in files:
         for web_tag in ["url", "website", "contact:website"]:
             if web_tag in objt:
                 # remove url tracking parameters
-                web_match = regex.match(
-                    r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*", objt[web_tag]
+                objt[web_tag] = regex.sub(
+                    r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*",
+                    r"\1",
+                    objt[web_tag],
                 )
-                if web_match:
-                    objt[web_tag] = web_match.group(1)
 
         if "addr:postcode" in objt:
             # remove extraneous postcode digits
-            post_match = regex.match(r"([0-9]{5})-?0{4}", objt["addr:postcode"])
-            if post_match:
-                objt["addr:postcode"] = post_match.group(1)
+            objt["addr:postcode"] = regex.sub(
+                r"([0-9]{5})-?0{4}", r"\1", objt["addr:postcode"]
+            )
 
         obj["properties"] = objt
 
