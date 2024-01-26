@@ -27,6 +27,10 @@ def get_title(value: str) -> str:
     return value.title() if value.isupper() else value
 
 
+def lower_match(match: regex.Match) -> str:
+    return match.group(1).lower()
+
+
 def all_the_same(tags: list[dict], key: str) -> bool:
     if key in tags:
         return all(item[key] == tags[0][key] for item in tags[1:])
@@ -47,35 +51,76 @@ def mc_replace(value: str) -> str:
 
 
 def ord_replace(value: str) -> str:
-    ord_match = regex.search(r"(\b[0-9]+[SNRT][tTdDhH]\b)", value)
-    if ord_match:
-        return value.replace(ord_match.group(1), ord_match.group(1).lower())
+    return regex.sub(r"(\b[0-9]+[SNRT][tTdDhH]\b)", lower_match, value)
+
+
+def name_street_expand(match: regex.Match) -> str:
+    mat = match.group(1).upper().rstrip(".")
+    if mat:
+        return (name_expand | street_expand)[mat].title()
+    raise ValueError
+
+
+def direct_expand(match: regex.Match) -> str:
+    mat = match.group(1).upper().replace(".", "")
+    if mat:
+        return direction_expand[mat].title()
+    raise ValueError
+
+
+def abbrs(value: str) -> str:
+    value = ord_replace(us_replace(mc_replace(value))).replace("  ", " ")
+
+    # expand common street and word abbreviations
+    abbr_join = "|".join((name_expand | street_expand).keys())
+    value = regex.sub(
+        rf"(\b(?:{abbr_join})\b\.?)",
+        name_street_expand,
+        value,
+        flags=regex.IGNORECASE,
+    )
+
+    # expand directionals
+    abbr_fill = "|".join([r"\.?".join(list(abbr)) for abbr in direction_expand.keys()])
+    value = regex.sub(
+        rf"(?<!(?:^(?:Avenue|Street) |\.))(\b(?:{abbr_fill})\b\.?)(?! (?:Street|Avenue))",
+        direct_expand,
+        value,
+    )
     return value
+
+
+def print_value(action: str, file: str, brand: str, items: int):
+    print(f"{action.title() + '...':<16}{file.split('/')[-1]:<34}{brand:<30}{items:<6}")
 
 
 for file in files:
     with open(file, "r") as f:
         contents: dict = json.load(f)
 
-    clean_data = {"version": version, "datetime": str(datetime.datetime.now().date())}
+    features = contents["features"]
+    clean_data = {
+        "version": version,
+        "datetime": str(datetime.datetime.now().date()),
+    }
     if "dataset_attributes" in contents:
         try:
             if contents["dataset_attributes"]["cleaning"]["version"] == version:
-                print(f"Skipping {file}...")
+                print_value(
+                    "skipping", file, features[0]["properties"].get("brand"), len(features)
+                )
                 continue
         except KeyError:
             pass
-        print(f"Processing {file}...")
+        print_value(
+            "processing", file, features[0]["properties"].get("brand"), len(features)
+        )
         contents["dataset_attributes"]["cleaning"] = clean_data
     else:
         contents["dataset_attributes"] = {"cleaning": clean_data}
 
-    obj_tags_new: list[dict[str, str | dict]] = []
-
     wipe_repeat_tags: list[str] = []
-    features: list[dict[str, str]] = [
-        feature["properties"] for feature in contents["features"]
-    ]
+    feature_list: list[dict[str, str]] = [feature["properties"] for feature in features]
     for repeat_tag in repeat_tags:
         if all_the_same(features, repeat_tag) and any(
             feature.get(repeat_tag) for feature in features
@@ -90,31 +135,15 @@ for file in files:
 
         for name_tag in ["name", "branch"]:
             if name_tag in objt:
-                objt[name_tag] = ord_replace(mc_replace(us_replace(objt[name_tag])))
+                name = abbrs(get_title(objt[name_tag]))
 
                 # change likely 'St' to 'Saint'
                 objt[name_tag] = regex.sub(
-                    r"^(St.?)( .+)$", r"Saint\2", objt[name_tag], flags=regex.IGNORECASE
+                    r"^(St.?)( .+)$",
+                    r"Saint\2",
+                    name,
+                    flags=regex.IGNORECASE,
                 )
-                objt[name_tag] = get_title(objt[name_tag]).replace("  ", " ")
-
-                # expand common street and word abbreviations
-                for abbr, replacement in (name_expand | street_expand).items():
-                    objt[name_tag] = regex.sub(
-                        rf"(\b(?:{abbr})\b\.?)",
-                        replacement.title(),
-                        objt[name_tag],
-                        flags=regex.IGNORECASE,
-                    )
-
-                # expand directionals
-                for abbr, replacement in direction_expand.items():
-                    abbr_fill = r"\.?".join(list(abbr))
-                    objt[name_tag] = regex.sub(
-                        rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr_fill}\b\.?)(?! (?:Street|Avenue))",
-                        replacement,
-                        objt[name_tag],
-                    )
 
         for addr_tag in ["addr:street_address", "addr:full"]:
             if addr_tag in objt:
@@ -138,43 +167,24 @@ for file in files:
                     break
 
         if "addr:city" in objt:
-            # title-case upper cased cities
-            objt["addr:city"] = mc_replace(get_title(objt["addr:city"]))
+            # process upper cased cities
+            objt["addr:city"] = abbrs(get_title(objt["addr:city"]))
 
         if "addr:street" in objt:
-            objt["addr:street"] = ord_replace(
-                mc_replace(us_replace(objt["addr:street"]))
-            )
+            street = abbrs(objt["addr:street"])
 
             # change likely 'St' to 'Saint'
-            objt["addr:street"] = regex.sub(
-                r"^(St.?)( .+)$", r"Saint\2", objt["addr:street"]
+            street = regex.sub(r"^(St.?)( .+)$", r"Saint\2", street)
+            street = regex.sub(r"St.?( [NESW]\.?[EW]?\.?)?$", r"Street\1", street)
+            suite_match = regex.search(
+                r"(.+?),? (?:S(?:ui)?te |Uni?t |#|R(?:oo)?m )([A-Z0-9]+)",
+                street,
             )
-            objt["addr:street"] = regex.sub(
-                r"St.?( [NESW]\.?[EW]?\.?)?$", r"Street\1", objt["addr:street"]
-            )
-            suite_match = regex.search(r"^(St.?)( .+)$", objt["addr:street"])
             if suite_match:
-                objt["addr:street"] = suite_match.group(1)
+                street = suite_match.group(1)
                 objt["addr:unit"] = suite_match.group(2)
 
-            # expand common street and word abbreviations
-            for abbr, replacement in (name_expand | street_expand).items():
-                objt["addr:street"] = regex.sub(
-                    rf"(\b(?:{abbr})\b\.?)",
-                    replacement.title(),
-                    objt["addr:street"],
-                    flags=regex.IGNORECASE,
-                )
-
-            # expand directionals
-            for abbr, replacement in direction_expand.items():
-                abbr_fill = r"\.?".join(list(abbr))
-                objt["addr:street"] = regex.sub(
-                    rf"(?<!(?:^(?:Avenue|Street) |\.))(\b{abbr_fill}\b\.?)(?! (?:Street|Avenue))",
-                    replacement,
-                    objt["addr:street"],
-                )
+            objt["addr:street"] = street
 
         if "addr:housenumber" in objt:
             # pull out unit numbers
@@ -221,5 +231,5 @@ for file in files:
 
         obj["properties"] = objt
 
-    with open(file, "w") as f:
-        json.dump(contents, f)
+    # with open(file, "w") as f:
+    #     json.dump(contents, f)

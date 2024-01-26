@@ -35,13 +35,13 @@ direction_expand = {
 }
 
 name_expand = {
-    "arpt": "airport",
-    "bldg": "building",
-    "conf": "conference",
-    "ctr": "center",
-    "dwtn": "downtown",
-    "intl": "international",
-    "shpg": "shopping",
+    "ARPT": "airport",
+    "BLDG": "building",
+    "CONF": "conference",
+    "CTR": "center",
+    "DWTN": "downtown",
+    "INTL": "international",
+    "SHPG": "shopping",
 }
 
 street_expand = {
