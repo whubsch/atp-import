@@ -2651,7 +2651,7 @@
         "addr:city": "Lake Stevens",
         "phone": "+1 425-249-4000",
         "website": "https://local.safeway.com/safeway/wa/lake-stevens/717-sr-9-ne.html",
-        "addr:street": "Sr 9 Northeast",
+        "addr:street": "State Route 9 Northeast",
         "brand": "Safeway",
         "name": "Safeway",
         "shop": "supermarket",
@@ -14838,7 +14838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "addr:street": "Hunter's Woods Plaza",
+        "addr:street": "Hunter'South Woods Plaza",
         "addr:postcode": "20191",
         "phone": "+1 703-716-4193",
         "brand:wikidata": "Q1508234",
@@ -20688,7 +20688,7 @@
         "addr:state": "WA",
         "addr:postcode": "98296",
         "addr:housenumber": "17520",
-        "addr:street": "Sr 9 Southeast",
+        "addr:street": "State Route 9 Southeast",
         "phone": "+1 360-668-1132",
         "brand": "Safeway",
         "name": "Safeway",
@@ -23196,6 +23196,6 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
   }
 }

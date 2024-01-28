@@ -4546,7 +4546,7 @@
         "ref": "397",
         "brand": "ShopRite",
         "opening_hours": "Mo-Su 07:00-22:00",
-        "branch": "Commerce St",
+        "branch": "Commerce Street",
         "shop": "supermarket",
         "addr:postcode": "06902",
         "name": "ShopRite",
@@ -5529,5 +5529,8 @@
       },
       "geometry": { "type": "Point", "coordinates": [-73.868313, 41.313165] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
+  }
 }

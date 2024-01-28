@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "winndixie",
     "spider:collection_time": "2024-01-21T16:43:55.736379",
-    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
   },
   "features": [
     {
@@ -266,7 +266,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11101",
-        "addr:street": "Old St Augustine Road"
+        "addr:street": "Old Street Augustine Road"
       },
       "geometry": { "type": "Point", "coordinates": [-81.601761, 30.172137] }
     },
@@ -276,7 +276,7 @@
       "properties": {
         "ref": "7",
         "shop": "supermarket",
-        "addr:full": "10915-122 Baymeadows Rd. Unit 12",
+        "addr:full": "10915-122 Baymeadows Road Unit 12",
         "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32256",
@@ -294,7 +294,7 @@
       "properties": {
         "ref": "9",
         "shop": "supermarket",
-        "addr:full": "10915-123 Baymeadows Rd. Unit 13",
+        "addr:full": "10915-123 Baymeadows Road Unit 13",
         "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32256",
@@ -340,7 +340,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11700",
-        "addr:street": "San Jose Boulevard Suite 12"
+        "addr:street": "San Jose Boulevard",
+        "addr:unit": "12"
       },
       "geometry": { "type": "Point", "coordinates": [-81.633956, 30.160042] }
     },
@@ -359,7 +360,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11700",
-        "addr:street": "San Jose Boulevard Suite 27"
+        "addr:street": "San Jose Boulevard",
+        "addr:unit": "27"
       },
       "geometry": { "type": "Point", "coordinates": [-81.633726, 30.159132] }
     },
@@ -649,7 +651,7 @@
       "properties": {
         "ref": "21",
         "shop": "supermarket",
-        "addr:full": "2220-301 County Rd 210 W",
+        "addr:full": "2220-301 County Road 210 W",
         "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32259",
@@ -750,7 +752,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "2710",
-        "addr:street": "BlandingBoulevard Unit 4"
+        "addr:street": "BlandingBoulevard",
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-81.878205, 30.061957] }
     },
@@ -788,7 +791,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "450078",
-        "addr:street": "Sr 200"
+        "addr:street": "State Route 200"
       },
       "geometry": { "type": "Point", "coordinates": [-81.825358, 30.567372] }
     },
@@ -1050,7 +1053,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3212",
-        "addr:street": "Se State Road 21"
+        "addr:street": "Southeast State Road 21"
       },
       "geometry": { "type": "Point", "coordinates": [-82.056208, 29.763077] }
     },
@@ -1495,7 +1498,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "15916",
-        "addr:street": "East St Road 40"
+        "addr:street": "East Street Road 40"
       },
       "geometry": { "type": "Point", "coordinates": [-81.889945, 29.181523] }
     },
@@ -1514,7 +1517,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "15912",
-        "addr:street": "East Sr 40"
+        "addr:street": "East State Route 40"
       },
       "geometry": { "type": "Point", "coordinates": [-81.890362, 29.181562] }
     },
@@ -1533,7 +1536,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "727",
-        "addr:street": "West Noble Avenue Suite A"
+        "addr:street": "West Noble Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-82.45816, 29.385887] }
     },
@@ -1588,7 +1592,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "911",
-        "addr:street": "Pinewood Drive Sw"
+        "addr:street": "Pinewood Drive Southwest"
       },
       "geometry": { "type": "Point", "coordinates": [-83.001218, 30.282055] }
     },
@@ -1662,7 +1666,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11310",
-        "addr:street": "Se Highway 301"
+        "addr:street": "Southeast Highway 301"
       },
       "geometry": { "type": "Point", "coordinates": [-82.050784, 29.056885] }
     },
@@ -1700,7 +1704,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3997",
-        "addr:street": "South Nova Road Suite 1"
+        "addr:street": "South Nova Road",
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-80.995904, 29.119004] }
     },
@@ -2471,7 +2476,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1750",
-        "addr:street": "Sunshadow Drive  Unit"
+        "addr:street": "Sunshadow Drive Unit"
       },
       "geometry": { "type": "Point", "coordinates": [-81.322415, 28.696475] }
     },
@@ -2583,7 +2588,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "340",
-        "addr:street": "South Sr 434 Suite 1036"
+        "addr:street": "South State Route 434",
+        "addr:unit": "1036"
       },
       "geometry": { "type": "Point", "coordinates": [-81.422331, 28.657807] }
     },
@@ -2602,7 +2608,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "340",
-        "addr:street": "South Sr 434 Suite 1034"
+        "addr:street": "South State Route 434",
+        "addr:unit": "1034"
       },
       "geometry": { "type": "Point", "coordinates": [-81.422545, 28.657652] }
     },
@@ -2811,7 +2818,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "13200",
-        "addr:street": "East Colonial Drive Ste 100"
+        "addr:street": "East Colonial Drive",
+        "addr:unit": "100"
       },
       "geometry": { "type": "Point", "coordinates": [-81.183645, 28.563527] }
     },
@@ -3104,10 +3112,10 @@
       "properties": {
         "ref": "2329",
         "shop": "supermarket",
-        "addr:city": "Port St John",
+        "addr:city": "Port Saint John",
         "addr:state": "FL",
         "addr:postcode": "32927",
-        "name": "Port St John Plaza",
+        "name": "Port Saint John Plaza",
         "phone": "+1 321-636-3801",
         "website": "https://www.winndixie.com/storedetails/port st john/fl?search=2329",
         "brand": "Winn Dixie",
@@ -3123,10 +3131,10 @@
       "properties": {
         "ref": "2318",
         "shop": "supermarket",
-        "addr:city": "Port St John",
+        "addr:city": "Port Saint John",
         "addr:state": "FL",
         "addr:postcode": "32927",
-        "name": "Port St John Plaza",
+        "name": "Port Saint John Plaza",
         "phone": "+1 321-639-6326",
         "website": "https://www.winndixie.com/storedetails/port st john/fl?search=2318",
         "brand": "Winn Dixie",
@@ -3489,7 +3497,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "27303",
-        "addr:street": "Sr 54"
+        "addr:street": "State Route 54"
       },
       "geometry": { "type": "Point", "coordinates": [-82.364574, 28.239723] }
     },
@@ -3526,7 +3534,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5410",
-        "addr:street": "Murrell Road Unit 125"
+        "addr:street": "Murrell Road",
+        "addr:unit": "125"
       },
       "geometry": { "type": "Point", "coordinates": [-80.719463, 28.267755] }
     },
@@ -3545,7 +3554,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5410",
-        "addr:street": "Murrell Road Unit 135"
+        "addr:street": "Murrell Road",
+        "addr:unit": "135"
       },
       "geometry": { "type": "Point", "coordinates": [-80.719994, 28.267546] }
     },
@@ -4253,7 +4263,7 @@
       "properties": {
         "ref": "2568",
         "shop": "supermarket",
-        "addr:city": "W Melbourne",
+        "addr:city": "West Melbourne",
         "addr:state": "FL",
         "addr:postcode": "32904",
         "name": "Plaza West",
@@ -4272,7 +4282,7 @@
       "properties": {
         "ref": "2569",
         "shop": "supermarket",
-        "addr:city": "W Melbourne",
+        "addr:city": "West Melbourne",
         "addr:state": "FL",
         "addr:postcode": "32904",
         "name": "Plaza West",
@@ -4628,7 +4638,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "4056",
-        "addr:street": "North Armenia Avenue Suite 101"
+        "addr:street": "North Armenia Avenue",
+        "addr:unit": "101"
       },
       "geometry": { "type": "Point", "coordinates": [-82.485652, 27.975688] }
     },
@@ -4683,7 +4694,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5270",
-        "addr:street": "Babcock St Ne Unit 30B"
+        "addr:street": "Babcock Street Northeast",
+        "addr:unit": "30B"
       },
       "geometry": { "type": "Point", "coordinates": [-80.624647, 28.017901] }
     },
@@ -4721,7 +4733,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "190",
-        "addr:street": "Malabar Road Sw"
+        "addr:street": "Malabar Road Southwest"
       },
       "geometry": { "type": "Point", "coordinates": [-80.675372, 27.997573] }
     },
@@ -5331,7 +5343,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "2139",
-        "addr:street": "34th St North"
+        "addr:street": "34th Street North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.677986, 27.790524] }
     },
@@ -5630,7 +5642,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "515",
-        "addr:street": "7th St. West"
+        "addr:street": "7th Street West"
       },
       "geometry": { "type": "Point", "coordinates": [-82.570098, 27.51638] }
     },
@@ -5666,7 +5678,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "2950",
-        "addr:street": "9th Street Sw"
+        "addr:street": "9th Street Southwest"
       },
       "geometry": { "type": "Point", "coordinates": [-80.416719, 27.58849] }
     },
@@ -5684,7 +5696,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "2950",
-        "addr:street": "9th Street Sw"
+        "addr:street": "9th Street Southwest"
       },
       "geometry": { "type": "Point", "coordinates": [-80.416549, 27.588329] }
     },
@@ -5793,7 +5805,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5802",
-        "addr:street": "14th St. West"
+        "addr:street": "14th Street West"
       },
       "geometry": { "type": "Point", "coordinates": [-82.576876, 27.438145] }
     },
@@ -6109,7 +6121,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "281",
-        "addr:street": "Sw Port St Lucie Boulevard"
+        "addr:street": "Southwest Port Saint Lucie Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-80.355069, 27.275557] }
     },
@@ -6119,7 +6131,7 @@
       "properties": {
         "ref": "2398",
         "shop": "supermarket",
-        "addr:city": "Port St Lucie",
+        "addr:city": "Port Saint Lucie",
         "addr:state": "FL",
         "addr:postcode": "34984",
         "name": "Shoppes Of Victoria",
@@ -6128,7 +6140,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "255",
-        "addr:street": "Southwest Port St.  Lucie Boulevard"
+        "addr:street": "Southwest Port Saint Lucie Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-80.354074, 27.275115] }
     },
@@ -6219,7 +6231,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1105",
-        "addr:street": "Ne Jensen Beach Boulevard"
+        "addr:street": "Northeast Jensen Beach Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-80.237215, 27.24591] }
     },
@@ -6371,7 +6383,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3310",
-        "addr:street": "Se Salerno Road"
+        "addr:street": "Southeast Salerno Road"
       },
       "geometry": { "type": "Point", "coordinates": [-80.208769, 27.140584] }
     },
@@ -6390,7 +6402,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3320",
-        "addr:street": "Se Salerno Road"
+        "addr:street": "Southeast Salerno Road"
       },
       "geometry": { "type": "Point", "coordinates": [-80.208582, 27.140252] }
     },
@@ -6596,7 +6608,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1812",
-        "addr:street": "Highway 77 South Suite 119"
+        "addr:street": "Highway 77 South",
+        "addr:unit": "119"
       },
       "geometry": { "type": "Point", "coordinates": [-85.650526, 30.230359] }
     },
@@ -6615,7 +6628,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1812",
-        "addr:street": "Highway 77 South Suite 120"
+        "addr:street": "Highway 77 South",
+        "addr:unit": "120"
       },
       "geometry": { "type": "Point", "coordinates": [-85.650519, 30.229934] }
     },
@@ -6634,7 +6648,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "8867",
-        "addr:street": "Se Bridge Road"
+        "addr:street": "Southeast Bridge Road"
       },
       "geometry": { "type": "Point", "coordinates": [-80.134672, 27.061459] }
     },
@@ -6895,7 +6909,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "10580",
-        "addr:street": "Colonial Boulevard Ste 101"
+        "addr:street": "Colonial Boulevard",
+        "addr:unit": "101"
       },
       "geometry": { "type": "Point", "coordinates": [-81.783586, 26.611126] }
     },
@@ -7101,7 +7116,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "13300",
-        "addr:street": "South Cleveland Avenue Unit 19"
+        "addr:street": "South Cleveland Avenue",
+        "addr:unit": "19"
       },
       "geometry": { "type": "Point", "coordinates": [-81.875275, 26.548093] }
     },
@@ -7196,7 +7212,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1030",
-        "addr:street": "Us Highway 331 South Suite G"
+        "addr:street": "Us Highway 331 South",
+        "addr:unit": "G"
       },
       "geometry": { "type": "Point", "coordinates": [-86.124508, 30.707731] }
     },
@@ -7310,7 +7327,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "9918",
-        "addr:street": "Lyons Road Suite 210"
+        "addr:street": "Lyons Road",
+        "addr:unit": "210"
       },
       "geometry": { "type": "Point", "coordinates": [-80.187091, 26.529128] }
     },
@@ -7329,7 +7347,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "8855",
-        "addr:street": "Boynton Beach Boulevard Suite 310"
+        "addr:street": "Boynton Beach Boulevard",
+        "addr:unit": "310"
       },
       "geometry": { "type": "Point", "coordinates": [-80.186111, 26.529193] }
     },
@@ -7572,7 +7591,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "5598",
-        "addr:street": "West  Sample Road"
+        "addr:street": "West Sample Road"
       },
       "geometry": { "type": "Point", "coordinates": [-80.199745, 26.271773] }
     },
@@ -7667,7 +7686,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "963",
-        "addr:street": "North  NOB HILL Road"
+        "addr:street": "North NOB HILL Road"
       },
       "geometry": { "type": "Point", "coordinates": [-80.288487, 26.134981] }
     },
@@ -7914,7 +7933,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "941",
-        "addr:street": "Sw 24th Street"
+        "addr:street": "Southwest 24th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.155107, 26.093293] }
     },
@@ -8199,7 +8218,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "15450",
-        "addr:street": "Nw 77th Court"
+        "addr:street": "Northwest 77th Court"
       },
       "geometry": { "type": "Point", "coordinates": [-80.328383, 25.914987] }
     },
@@ -8218,7 +8237,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "17221",
-        "addr:street": "Nw 27th Avenue"
+        "addr:street": "Northwest 27th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.243674, 25.931368] }
     },
@@ -8256,7 +8275,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "14900",
-        "addr:street": "Nw 7th Avenue"
+        "addr:street": "Northwest 7th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.213112, 25.911535] }
     },
@@ -8266,7 +8285,7 @@
       "properties": {
         "ref": "378",
         "shop": "supermarket",
-        "addr:city": "N Miami Beach",
+        "addr:city": "North Miami Beach",
         "addr:state": "FL",
         "addr:postcode": "33160",
         "name": "Intercoastal Mall",
@@ -8275,7 +8294,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3805",
-        "addr:street": "Ne 163rd Street"
+        "addr:street": "Northeast 163rd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.133684, 25.931471] }
     },
@@ -8350,7 +8369,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "10505",
-        "addr:street": "Nw 41st Street"
+        "addr:street": "Northwest 41st Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.366902, 25.812752] }
     },
@@ -8387,7 +8406,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1150",
-        "addr:street": "Nw 54th Street"
+        "addr:street": "Northwest 54th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.21509, 25.823458] }
     },
@@ -8443,7 +8462,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1155",
-        "addr:street": "Nw 11th Street"
+        "addr:street": "Northwest 11th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.213134, 25.785014] }
     },
@@ -8536,7 +8555,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3275",
-        "addr:street": "Sw 22nd Street"
+        "addr:street": "Southwest 22nd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.247618, 25.750826] }
     },
@@ -8612,7 +8631,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "8710",
-        "addr:street": "Sw 72nd Street"
+        "addr:street": "Southwest 72nd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.334701, 25.700957] }
     },
@@ -8745,7 +8764,7 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "18302",
-        "addr:street": "Sw 137th Avenue"
+        "addr:street": "Southwest 137th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.414972, 25.597582] }
     },
@@ -8954,7 +8973,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "13019",
-        "addr:street": "Sorrento Road Suite 11"
+        "addr:street": "Sorrento Road",
+        "addr:unit": "11"
       },
       "geometry": { "type": "Point", "coordinates": [-87.418253, 30.322057] }
     },
@@ -9067,7 +9087,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "105300",
-        "addr:street": "OVERSEAS Highway Unit A"
+        "addr:street": "OVERSEAS Highway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.384464, 25.160419] }
     },
@@ -9312,7 +9333,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "251",
-        "addr:street": "Key Deer Boulevard Suite A6"
+        "addr:street": "Key Deer Boulevard",
+        "addr:unit": "A6"
       },
       "geometry": { "type": "Point", "coordinates": [-81.357503, 24.673071] }
     },
@@ -9840,7 +9862,8 @@
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "2100",
-        "addr:street": "Collins Boulevard Suite 132"
+        "addr:street": "Collins Boulevard",
+        "addr:unit": "132"
       },
       "geometry": { "type": "Point", "coordinates": [-90.108618, 30.49845] }
     },

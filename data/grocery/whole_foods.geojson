@@ -1917,7 +1917,7 @@
       "type": "Feature",
       "id": "node/-135317",
       "properties": {
-        "addr:city": "Upper St. Clair",
+        "addr:city": "Upper Saint Clair",
         "addr:housenumber": "111",
         "addr:postcode": "15241",
         "addr:state": "PA",
@@ -7815,7 +7815,7 @@
         "addr:postcode": "10022",
         "addr:state": "NY",
         "addr:street": "East 57th Street",
-        "branch": "Midtown East (East 57th St)",
+        "branch": "Midtown East (East 57th Street)",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -8316,7 +8316,7 @@
         "addr:postcode": "80123",
         "addr:state": "CO",
         "addr:street": "South Wadsworth Boulevard",
-        "branch": "Governor's Ranch",
+        "branch": "Governor'South Ranch",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -9001,7 +9001,7 @@
         "addr:postcode": "46240",
         "addr:state": "IN",
         "addr:street": "East 86th Street",
-        "branch": "Eighty-Sixth St.",
+        "branch": "Eighty-Sixth Street",
         "brand": "Whole Foods",
         "brand:wikidata": "Q1809448",
         "name": "Whole Foods Market",
@@ -11378,6 +11378,6 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
   }
 }

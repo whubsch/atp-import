@@ -4938,7 +4938,7 @@
       "type": "Feature",
       "id": "node/-260072",
       "properties": {
-        "addr:city": "Port St. Joe",
+        "addr:city": "Port Saint Joe",
         "addr:housenumber": "125",
         "addr:postcode": "32456",
         "addr:state": "FL",
@@ -9153,6 +9153,6 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.1", "datetime": "2024-01-25" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
   }
 }
