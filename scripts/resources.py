@@ -7,6 +7,7 @@ useless_tags = [
     "retail_id",
     "store_format",
     "display_name",
+    "number",
 ]
 
 repeat_tags = [

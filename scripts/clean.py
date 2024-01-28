@@ -77,7 +77,7 @@ abbr_join_comp = regex.compile(
 
 dir_fill = "|".join([r"\.?".join(list(abbr)) for abbr in direction_expand.keys()])
 dir_fill_comp = regex.compile(
-    rf"(?<!(?:^(?:Avenue|Street) |\.))(\b(?:{dir_fill})\b\.?)(?!(?:\.?[a-zA-Z]| (?:Street|Avenue)))",
+    rf"(?<!(?:^(?:Avenue|Street) |[\.']))(\b(?:{dir_fill})\b\.?)(?!(?:\.?[a-zA-Z]| (?:Street|Avenue)))",
     flags=regex.IGNORECASE,
 )
 
@@ -144,9 +144,6 @@ def run() -> None:
             contents["dataset_attributes"] = {"cleaning": clean_data}
 
         wipe_repeat_tags: list[str] = []
-        feature_list: list[dict[str, str]] = [
-            feature["properties"] for feature in features
-        ]
         for repeat_tag in repeat_tags:
             if all_the_same(features, repeat_tag) and any(
                 feature.get(repeat_tag) for feature in features
@@ -208,7 +205,7 @@ def run() -> None:
                 street = regex.sub(r"^(St.?)( .+)$", r"Saint\2", street)
                 street = regex.sub(r"St.?( [NESW]\.?[EW]?\.?)?$", r"Street\1", street)
                 suite_match = regex.search(
-                    r"(.+?),? (?:S(?:ui)?te |Uni?t |#|R(?:oo)?m )([A-Z0-9]+)",
+                    r"(.+?),? (?:(?:S(?:ui)?te|Uni?t|R(?:oo)?m)\.? |#)([A-Z0-9]+)",
                     street,
                 )
                 if suite_match:
