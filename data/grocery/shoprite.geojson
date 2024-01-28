@@ -4317,7 +4317,7 @@
         "shop": "supermarket",
         "addr:postcode": "08857",
         "branch": "Old Bridge",
-        "addr:street": "U.s. 9",
+        "addr:street": "US 9",
         "addr:housenumber": "2239",
         "name": "ShopRite",
         "ref": "509",
@@ -5531,6 +5531,6 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-28" }
   }
 }

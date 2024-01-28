@@ -232,7 +232,7 @@
         "ref": "Wagner's IGA",
         "shop": "supermarket",
         "website": "https://wagners.iga.com",
-        "branch": "Wagner'South"
+        "branch": "Wagner's"
       },
       "geometry": { "type": "Point", "coordinates": [-120.846504, 44.308323] }
     },
@@ -252,7 +252,7 @@
         "ref": "Cook's Oakland Park IGA #1449",
         "shop": "supermarket",
         "website": "http://cooksoaklandpark.iga.com",
-        "branch": "Cook'South Oakland Park"
+        "branch": "Cook's Oakland Park"
       },
       "geometry": { "type": "Point", "coordinates": [-82.98076, 40.03186] }
     },
@@ -405,7 +405,7 @@
         "phone": "+1 814-652-2211",
         "ref": "KJ's Market IGA #15",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-79.44178, 33.81435] }
     },
@@ -418,7 +418,7 @@
         "addr:state": "SC",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market at Ebenezer",
+        "name": "KJ's Market at Ebenezer",
         "phone": "+1 814-652-2211",
         "ref": "KJ's Market at Ebenezer #69",
         "shop": "supermarket"
@@ -498,7 +498,7 @@
         "ref": "Ted's IGA Supermarket #3316",
         "shop": "supermarket",
         "website": "http://www.tedsiga.com",
-        "branch": "Ted'South"
+        "branch": "Ted's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.35549, 41.662067] }
     },
@@ -518,7 +518,7 @@
         "ref": "Top's Marketplace IGA - #141",
         "shop": "supermarket",
         "website": "http://www.topsmarket.com",
-        "branch": "Top'South Marketplace"
+        "branch": "Top's Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-72.87447, 41.5635] }
     },
@@ -635,7 +635,7 @@
         "ref": "LaBonne's Woodbury IGA # 4804",
         "shop": "supermarket",
         "website": "http://www.labonnes.com",
-        "branch": "LaBonne'South Woodbury"
+        "branch": "LaBonne's Woodbury"
       },
       "geometry": { "type": "Point", "coordinates": [-73.20981, 41.54279] }
     },
@@ -675,7 +675,7 @@
         "ref": "Palmer's Supermarket IGA - #1227",
         "shop": "supermarket",
         "website": "http://www.palmersmarket.com",
-        "branch": "Palmer'South Supermarket"
+        "branch": "Palmer's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-73.49619, 41.06978] }
     },
@@ -695,7 +695,7 @@
         "ref": "Oliver's Supermarket IGA - #750",
         "shop": "supermarket",
         "website": "http://www.oliverssupermarket.com",
-        "branch": "Oliver'South Supermarket"
+        "branch": "Oliver's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-72.98508, 41.513496] }
     },
@@ -735,7 +735,7 @@
         "ref": "Adam's IGA Supermarket #425",
         "shop": "supermarket",
         "website": "http://www.adamssuperfood.com",
-        "branch": "Adam'South"
+        "branch": "Adam's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.99494, 41.228817] }
     },
@@ -755,7 +755,7 @@
         "ref": "Walsh's Quality Market IGA - #6500",
         "shop": "supermarket",
         "website": "http://www.walshsmarket.com/",
-        "branch": "Walsh'South Quality Market"
+        "branch": "Walsh's Quality Market"
       },
       "geometry": { "type": "Point", "coordinates": [-72.95886, 41.55495] }
     },
@@ -795,7 +795,7 @@
         "ref": "Pat's Supermarket IGA #0816",
         "shop": "supermarket",
         "website": "http://www.patsiga.net",
-        "branch": "Pat'South Supermarket"
+        "branch": "Pat's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-72.9861, 41.605145] }
     },
@@ -810,7 +810,7 @@
         "addr:street": "Leavenworth Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Adam'South Super Food Store",
+        "name": "Adam's Super Food Store",
         "phone": "+1 860-927-4093",
         "ref": "Adam's Super Food Store #200",
         "shop": "supermarket",
@@ -852,7 +852,7 @@
         "phone": "+1 860-927-4093",
         "ref": "KJ's IGA Market #60",
         "shop": "supermarket",
-        "branch": "KJ'South"
+        "branch": "KJ's"
       },
       "geometry": { "type": "Point", "coordinates": [-79.74044, 34.22792] }
     },
@@ -1010,7 +1010,7 @@
         "ref": "Brackett's Market IGA - #2012",
         "shop": "supermarket",
         "website": "http://www.brackettsmarket.com",
-        "branch": "Brackett'South Market"
+        "branch": "Brackett's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-69.81393, 43.914993] }
     },
@@ -1104,7 +1104,7 @@
         "addr:street": "Yonah Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Betty'South Country Store",
+        "name": "Betty's Country Store",
         "phone": "+1 731-642-1252",
         "ref": "Betty's Country Store",
         "shop": "supermarket",
@@ -1128,7 +1128,7 @@
         "ref": "Andy's IGA Foodliner #2105",
         "shop": "supermarket",
         "website": "http://www.andysiga.com",
-        "branch": "Andy'South"
+        "branch": "Andy's"
       },
       "geometry": { "type": "Point", "coordinates": [-67.83987, 46.137653] }
     },
@@ -1148,7 +1148,7 @@
         "ref": "Goggin's IGA #1002",
         "shop": "supermarket",
         "website": "http://www.gogginsiga.com",
-        "branch": "Goggin'South"
+        "branch": "Goggin's"
       },
       "geometry": { "type": "Point", "coordinates": [-69.76516, 44.228996] }
     },
@@ -1367,7 +1367,7 @@
         "ref": "Archie's IGA Plus",
         "shop": "supermarket",
         "website": "https://archies.iga.com",
-        "branch": "Archie'South"
+        "branch": "Archie's"
       },
       "geometry": { "type": "Point", "coordinates": [-116.56013, 47.3151] }
     },
@@ -1387,7 +1387,7 @@
         "ref": "Young's Payless IGA #2",
         "shop": "supermarket",
         "website": "https://www.youngspaylessiga.com/",
-        "branch": "Young'South Payless"
+        "branch": "Young's Payless"
       },
       "geometry": { "type": "Point", "coordinates": [-120.535194, 38.443005] }
     },
@@ -1445,7 +1445,7 @@
         "ref": "Bailey's IGA #2261",
         "shop": "supermarket",
         "website": "http://www.baileysiga.com",
-        "branch": "Bailey'South"
+        "branch": "Bailey's"
       },
       "geometry": { "type": "Point", "coordinates": [-123.09986, 46.821377] }
     },
@@ -1483,7 +1483,7 @@
         "ref": "Young's Payless IGA #1",
         "shop": "supermarket",
         "website": "https://www.youngspaylessiga.com/",
-        "branch": "Young'South Payless"
+        "branch": "Young's Payless"
       },
       "geometry": { "type": "Point", "coordinates": [-121.15375, 38.15595] }
     },
@@ -1518,7 +1518,7 @@
         "addr:street": "Bustleton Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Bell'South Market",
+        "name": "Bell's Market",
         "phone": "+1 209-669-8794",
         "ref": "Bell's Market #20845",
         "shop": "supermarket",
@@ -1582,7 +1582,7 @@
         "ref": "Bill's IGA",
         "shop": "supermarket",
         "website": "http://www.billsiga.com",
-        "branch": "Bill'South"
+        "branch": "Bill's"
       },
       "geometry": { "type": "Point", "coordinates": [-86.75424, 37.896523] }
     },
@@ -1701,7 +1701,7 @@
         "ref": "Ken's IGA #586",
         "shop": "supermarket",
         "website": "https://kenswestville.iga.com",
-        "branch": "Ken'South"
+        "branch": "Ken's"
       },
       "geometry": { "type": "Point", "coordinates": [-87.63849, 40.048283] }
     },
@@ -1861,7 +1861,7 @@
         "ref": "Kent's IGA Foodliner #1384",
         "shop": "supermarket",
         "website": "https://kentsfoodliner.iga.com",
-        "branch": "Kent'South"
+        "branch": "Kent's"
       },
       "geometry": { "type": "Point", "coordinates": [-89.539825, 39.86082] }
     },
@@ -2001,7 +2001,7 @@
         "ref": "Bob and Jeff's IGA Supermarket",
         "shop": "supermarket",
         "website": "https://bobsthomasville.iga.com",
-        "branch": "Bob and Jeff'South"
+        "branch": "Bob and Jeff's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.98383, 30.831966] }
     },
@@ -2021,7 +2021,7 @@
         "ref": "Mr. B's IGA",
         "shop": "supermarket",
         "website": "https://mrbs.iga.com",
-        "branch": "Mr. B'South"
+        "branch": "Mr. B's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.27728, 30.84799] }
     },
@@ -2101,7 +2101,7 @@
         "ref": "Oxley's IGA #53",
         "shop": "supermarket",
         "website": "https://oxleys.iga.com",
-        "branch": "Oxley'South"
+        "branch": "Oxley's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.763, 31.190828] }
     },
@@ -2160,7 +2160,7 @@
         "ref": "Egolf's IGA #1366",
         "shop": "supermarket",
         "website": "https://egolfs.iga.com",
-        "branch": "Egolf'South"
+        "branch": "Egolf's"
       },
       "geometry": { "type": "Point", "coordinates": [-85.31721, 41.225056] }
     },
@@ -2191,7 +2191,7 @@
         "addr:housenumber": "8090",
         "addr:postcode": "42351",
         "addr:state": "KY",
-        "addr:street": "Us Highway 60 West",
+        "addr:street": "US Highway 60 West",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
         "name": "Iga",
@@ -2636,7 +2636,7 @@
         "ref": "Grabeel's IGA #2",
         "shop": "supermarket",
         "website": "https://grabeels.iga.com",
-        "branch": "Grabeel'South"
+        "branch": "Grabeel's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.1471, 36.6812] }
     },
@@ -2814,7 +2814,7 @@
         "ref": "Rick's IGA",
         "shop": "supermarket",
         "website": "https://rickssupermarket.iga.com",
-        "branch": "Rick'South"
+        "branch": "Rick's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.3594, 37.7905] }
     },
@@ -2849,7 +2849,7 @@
         "addr:street": "White Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Fausto'South Food Palace",
+        "name": "Fausto's Food Palace",
         "phone": "+1 304-799-6667",
         "ref": "Fausto's Food Palace",
         "shop": "supermarket",
@@ -2912,7 +2912,7 @@
         "ref": "Jim's Foods IGA #9025",
         "shop": "supermarket",
         "website": "http://www.jimsfoodsccmall.com",
-        "branch": "Jim'South Foods"
+        "branch": "Jim's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-97.997894, 41.1162] }
     },
@@ -2932,7 +2932,7 @@
         "ref": "Jim's IGA #526",
         "shop": "supermarket",
         "website": "https://jimslacon.iga.com",
-        "branch": "Jim'South"
+        "branch": "Jim's"
       },
       "geometry": { "type": "Point", "coordinates": [-89.41101, 41.025867] }
     },
@@ -3091,7 +3091,7 @@
         "ref": "Lavigne's IGA of Potsdam #903",
         "shop": "supermarket",
         "website": "http://www.igapotsdam.com",
-        "branch": "Lavigne'South"
+        "branch": "Lavigne's"
       },
       "geometry": { "type": "Point", "coordinates": [-74.984024, 44.669483] }
     },
@@ -3111,7 +3111,7 @@
         "ref": "Monnat's Country IGA Express - #29762",
         "shop": "supermarket",
         "website": "http://www.monnatscountryexpress.iga.com",
-        "branch": "Monnat'South Country"
+        "branch": "Monnat's Country"
       },
       "geometry": { "type": "Point", "coordinates": [-75.39179, 43.893276] }
     },
@@ -3131,7 +3131,7 @@
         "ref": "DiOrio's Supermarket IGA - #22938",
         "shop": "supermarket",
         "website": "http://www.dioriossupermarket.com",
-        "branch": "DiOrio'South Supermarket"
+        "branch": "DiOrio's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-74.980606, 43.70504] }
     },
@@ -3190,7 +3190,7 @@
         "ref": "Buddy's IGA",
         "shop": "supermarket",
         "website": "https://buddys.iga.com",
-        "branch": "Buddy'South"
+        "branch": "Buddy's"
       },
       "geometry": { "type": "Point", "coordinates": [-92.6654, 30.8135] }
     },
@@ -3210,7 +3210,7 @@
         "ref": "Rodhe's IGA Marketplace",
         "shop": "supermarket",
         "website": "http://www.rodhesiga.com",
-        "branch": "Rodhe'South"
+        "branch": "Rodhe's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9134, 40.54387] }
     },
@@ -3250,7 +3250,7 @@
         "ref": "Kishman's IGA",
         "shop": "supermarket",
         "website": "http://www.kishmans.com",
-        "branch": "Kishman'South"
+        "branch": "Kishman's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.102295, 40.72935] }
     },
@@ -3489,7 +3489,7 @@
         "ref": "Blanton's Market IGA",
         "shop": "supermarket",
         "website": "http://www.blantonsmarket.com",
-        "branch": "Blanton'South Market"
+        "branch": "Blanton's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-121.66898, 46.60954] }
     },
@@ -3609,7 +3609,7 @@
         "ref": "Scaff's IGA",
         "shop": "supermarket",
         "website": "http://scaffs.iga.com",
-        "branch": "Scaff'South"
+        "branch": "Scaff's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.93126, 29.963984] }
     },
@@ -3624,7 +3624,7 @@
         "addr:street": "Cedar Swamp Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 386-935-1527",
         "ref": "Dave's Marketplace #5940",
         "shop": "supermarket",
@@ -3643,7 +3643,7 @@
         "addr:street": "Tower Hill",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 386-935-1527",
         "ref": "Dave's Marketplace #5949",
         "shop": "supermarket",
@@ -3662,7 +3662,7 @@
         "addr:street": "Pontiac Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 386-935-1527",
         "ref": "Dave's Marketplace #5957",
         "shop": "supermarket",
@@ -3681,7 +3681,7 @@
         "addr:street": "Diamond Hill Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 386-935-1527",
         "ref": "Dave's Marketplace #5951",
         "shop": "supermarket",
@@ -3700,7 +3700,7 @@
         "addr:street": "Division Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 401-558-0190",
         "ref": "Dave's Marketplace #5953",
         "shop": "supermarket",
@@ -3724,7 +3724,7 @@
         "ref": "Dave's Marketplace IGA #5945",
         "shop": "supermarket",
         "website": "http://www.davesmarketplace.com",
-        "branch": "Dave'South Marketplace"
+        "branch": "Dave's Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-71.56638, 41.691925] }
     },
@@ -3739,7 +3739,7 @@
         "addr:street": "West Shore Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 401-558-0190",
         "ref": "Dave's Marketplace #5945",
         "shop": "supermarket",
@@ -3758,7 +3758,7 @@
         "addr:street": "Airport Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 401-558-0190",
         "ref": "Dave's Marketplace #5943",
         "shop": "supermarket",
@@ -3782,7 +3782,7 @@
         "ref": "Jerry's Supermarket IGA - #1522",
         "shop": "supermarket",
         "website": "http://www.bettervalu.com",
-        "branch": "Jerry'South Supermarket"
+        "branch": "Jerry's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-71.52046, 41.708317] }
     },
@@ -3797,7 +3797,7 @@
         "addr:street": "Putnam Pike",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace",
+        "name": "Dave's Marketplace",
         "phone": "+1 401-830-5650",
         "ref": "Dave's Marketplace #5955",
         "shop": "supermarket",
@@ -3816,7 +3816,7 @@
         "addr:street": "Gate Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Dave'South Marketplace-",
+        "name": "Dave's Marketplace-",
         "phone": "+1 401-830-5650",
         "ref": "Dave's Marketplace- #5954",
         "shop": "supermarket",
@@ -3838,7 +3838,7 @@
         "ref": "Henderson's IGA #9251",
         "shop": "supermarket",
         "website": "https://hendersonsiga.com/",
-        "branch": "Henderson'South"
+        "branch": "Henderson's"
       },
       "geometry": { "type": "Point", "coordinates": [-100.54189, 42.86672] }
     },
@@ -3918,7 +3918,7 @@
         "ref": "Gary & Leo's IGA Plus",
         "shop": "supermarket",
         "website": "https://www.garyandleos.com/",
-        "branch": "Gary & Leo'South"
+        "branch": "Gary & Leo's"
       },
       "geometry": { "type": "Point", "coordinates": [-109.67078, 48.552868] }
     },
@@ -3938,7 +3938,7 @@
         "ref": "Gary & Leo's Fresh Foods IGA #3",
         "shop": "supermarket",
         "website": "https://www.garyandleos.com/",
-        "branch": "Gary & Leo'South Fresh Foods"
+        "branch": "Gary & Leo's Fresh Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-114.0551, 46.6435] }
     },
@@ -3953,7 +3953,7 @@
         "addr:street": "South Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Gary & Leo'South Fresh Foods",
+        "name": "Gary & Leo's Fresh Foods",
         "phone": "+1 406-252-4798",
         "ref": "Gary & Leo's Fresh Foods",
         "shop": "supermarket",
@@ -3995,7 +3995,7 @@
         "ref": "Picchioni's IGA",
         "shop": "supermarket",
         "website": "https://www.picchionisiga.com/",
-        "branch": "Picchioni'South"
+        "branch": "Picchioni's"
       },
       "geometry": { "type": "Point", "coordinates": [-108.5284, 46.4499] }
     },
@@ -4015,7 +4015,7 @@
         "ref": "Teeple's IGA",
         "shop": "supermarket",
         "website": "http://www.teeplesiga.com",
-        "branch": "Teeple'South"
+        "branch": "Teeple's"
       },
       "geometry": { "type": "Point", "coordinates": [-113.01631, 48.556255] }
     },
@@ -4095,7 +4095,7 @@
         "ref": "Reese & Ray's IGA - Sidney",
         "shop": "supermarket",
         "website": "http://www.reeseandrays-iga.com",
-        "branch": "Reese & Ray'South"
+        "branch": "Reese & Ray's"
       },
       "geometry": { "type": "Point", "coordinates": [-104.158134, 47.71685] }
     },
@@ -4135,7 +4135,7 @@
         "ref": "Picchioni's IGA of Forsyth 23-081",
         "shop": "supermarket",
         "website": "https://picchionis.iga.com/",
-        "branch": "Picchioni'South"
+        "branch": "Picchioni's"
       },
       "geometry": { "type": "Point", "coordinates": [-106.67745, 46.26608] }
     },
@@ -4189,7 +4189,7 @@
         "addr:street": "Foxworthy Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Zanotto'South Willow Glen Market",
+        "name": "Zanotto's Willow Glen Market",
         "phone": "+1 408-264-0103",
         "ref": "Zanotto's Willow Glen Market",
         "shop": "supermarket",
@@ -4213,7 +4213,7 @@
         "ref": "Zanotto's Sunnyvale IGA Express",
         "shop": "convenience",
         "website": "http://www.zanottos.com",
-        "branch": "Zanotto'South Sunnyvale"
+        "branch": "Zanotto's Sunnyvale"
       },
       "geometry": { "type": "Point", "coordinates": [-122.04962, 37.350643] }
     },
@@ -4228,7 +4228,7 @@
         "addr:street": "Grand Drive",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Kennie'South Market Taneytown",
+        "name": "Kennie's Market Taneytown",
         "phone": "+1 408-264-0103",
         "ref": "Kennie's Market Taneytown #42020",
         "shop": "supermarket",
@@ -4292,7 +4292,7 @@
         "ref": "Armata's IGA #7700",
         "shop": "supermarket",
         "website": "http://www.armatasmarket.com",
-        "branch": "Armata'South"
+        "branch": "Armata's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.5537, 42.03335] }
     },
@@ -4352,7 +4352,7 @@
         "ref": "Hogue's IGA",
         "shop": "supermarket",
         "website": "http://www.hoguesiga.com",
-        "branch": "Hogue'South"
+        "branch": "Hogue's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.858154, 41.263283] }
     },
@@ -4372,7 +4372,7 @@
         "ref": "Wagner's IGA Market #1065",
         "shop": "supermarket",
         "website": "https://www.wagnersiga.com",
-        "branch": "Wagner'South"
+        "branch": "Wagner's"
       },
       "geometry": { "type": "Point", "coordinates": [-84.37548, 40.392467] }
     },
@@ -4392,7 +4392,7 @@
         "ref": "Schild's IGA SuperCenter #1",
         "shop": "supermarket",
         "website": "http://www.schildsiga.com",
-        "branch": "Schild'South"
+        "branch": "Schild's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.61244, 41.256016] }
     },
@@ -4452,7 +4452,7 @@
         "ref": "Stake's IGA",
         "shop": "supermarket",
         "website": "http://www.stakesiga.com",
-        "branch": "Stake'South"
+        "branch": "Stake's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.227264, 40.639523] }
     },
@@ -4511,7 +4511,7 @@
         "ref": "Greene's IGA Supermarket",
         "shop": "supermarket",
         "website": "https://greenessupermarket.iga.com",
-        "branch": "Greene'South"
+        "branch": "Greene's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.21741, 36.529213] }
     },
@@ -4588,7 +4588,7 @@
         "ref": "Rideout's IGA",
         "shop": "supermarket",
         "website": "http://www.rideoutsiga.com",
-        "branch": "Rideout'South"
+        "branch": "Rideout's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.18269, 41.76459] }
     },
@@ -4802,7 +4802,7 @@
         "ref": "Red's Hometown Market IGA #8191",
         "shop": "supermarket",
         "website": "http://www.shopreds.com",
-        "branch": "Red'South Hometown Market"
+        "branch": "Red's Hometown Market"
       },
       "geometry": { "type": "Point", "coordinates": [-91.62816, 43.56242] }
     },
@@ -4921,7 +4921,7 @@
         "ref": "Wray's Marketfresh IGA - Selah",
         "shop": "supermarket",
         "website": "https://www.wraysfoods.com",
-        "branch": "Wray'South Marketfresh"
+        "branch": "Wray's Marketfresh"
       },
       "geometry": { "type": "Point", "coordinates": [-120.529015, 46.651237] }
     },
@@ -4941,7 +4941,7 @@
         "ref": "Martin's IGA Market Fresh",
         "shop": "supermarket",
         "website": "http://www.martinsmarketplace.com",
-        "branch": "Martin'South"
+        "branch": "Martin's"
       },
       "geometry": { "type": "Point", "coordinates": [-120.45391, 47.519688] }
     },
@@ -5098,7 +5098,7 @@
         "ref": "Todd's IGA Express",
         "shop": "convenience",
         "website": "https://igaexpress.iga.com",
-        "branch": "Todd'South"
+        "branch": "Todd's"
       },
       "geometry": { "type": "Point", "coordinates": [-84.463356, 39.4808] }
     },
@@ -5178,7 +5178,7 @@
         "ref": "Gabriel's Supermarket IGA - #2219",
         "shop": "supermarket",
         "website": "http://www.gabfoods.com",
-        "branch": "Gabriel'South Supermarket"
+        "branch": "Gabriel's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-73.95694, 42.779964] }
     },
@@ -5198,7 +5198,7 @@
         "ref": "Shaheen's IGA - #252",
         "shop": "supermarket",
         "website": "https://shaheens.iga.com",
-        "branch": "Shaheen'South"
+        "branch": "Shaheen's"
       },
       "geometry": { "type": "Point", "coordinates": [-74.45502, 44.22446] }
     },
@@ -5218,7 +5218,7 @@
         "ref": "Gabriel's Scotia Foods IGA - #2139",
         "shop": "supermarket",
         "website": "http://www.gabfoods.com",
-        "branch": "Gabriel'South Scotia Foods"
+        "branch": "Gabriel's Scotia Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-73.96774, 42.827145] }
     },
@@ -5236,7 +5236,7 @@
         "ref": "Peck's Market IGA - #205",
         "shop": "supermarket",
         "website": "http://www.pecksmarket.com",
-        "branch": "Peck'South Market"
+        "branch": "Peck's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-73.6544, 41.9828] }
     },
@@ -5256,7 +5256,7 @@
         "ref": "Lavigne's IGA - #1920",
         "shop": "supermarket",
         "website": "https://lavignes.iga.com",
-        "branch": "Lavigne'South"
+        "branch": "Lavigne's"
       },
       "geometry": { "type": "Point", "coordinates": [-74.10807, 44.924503] }
     },
@@ -5276,7 +5276,7 @@
         "ref": "Norm's IGA - #34359",
         "shop": "supermarket",
         "website": "http://www.gordonsiga.com",
-        "branch": "Norm'South"
+        "branch": "Norm's"
       },
       "geometry": { "type": "Point", "coordinates": [-110.90636, 33.05861] }
     },
@@ -5354,7 +5354,7 @@
         "ref": "Shope's IGA - #64717",
         "shop": "supermarket",
         "website": "http://www.shopes-iga.com",
-        "branch": "Shope'South"
+        "branch": "Shope's"
       },
       "geometry": { "type": "Point", "coordinates": [-111.52529, 32.96028] }
     },
@@ -5416,7 +5416,7 @@
         "ref": "Worton's Foresthill IGA",
         "shop": "supermarket",
         "website": "http://www.wortonsmarket.com",
-        "branch": "Worton'South Foresthill"
+        "branch": "Worton's Foresthill"
       },
       "geometry": { "type": "Point", "coordinates": [-120.83893, 39.01237] }
     },
@@ -5436,7 +5436,7 @@
         "ref": "Reed's Ranch Market IGA",
         "shop": "supermarket",
         "website": "https://reedsranchmarket.iga.com",
-        "branch": "Reed'South Ranch Market"
+        "branch": "Reed's Ranch Market"
       },
       "geometry": { "type": "Point", "coordinates": [-121.8468, 40.5094] }
     },
@@ -5451,7 +5451,7 @@
         "addr:street": "Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Big Al'South Market Express",
+        "name": "Big Al's Market Express",
         "phone": "+1 530-474-3874",
         "ref": "Big Al's Market Express",
         "shop": "supermarket",
@@ -5470,7 +5470,7 @@
         "addr:street": "West Sierra Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Leonard'South Market",
+        "name": "Leonard's Market",
         "phone": "+1 530-474-3874",
         "ref": "Leonard's Market",
         "shop": "supermarket",
@@ -5514,7 +5514,7 @@
         "ref": "Kenny's IGA Village Market",
         "shop": "supermarket",
         "website": "http://kennysiga.com",
-        "branch": "Kenny'South"
+        "branch": "Kenny's"
       },
       "geometry": { "type": "Point", "coordinates": [-124.016884, 44.92934] }
     },
@@ -5593,7 +5593,7 @@
         "ref": "Grimm's Central Market IGA #21116",
         "shop": "supermarket",
         "website": "https://grimmscentralmarket.iga.com",
-        "branch": "Grimm'South Central Market"
+        "branch": "Grimm's Central Market"
       },
       "geometry": { "type": "Point", "coordinates": [-77.04578, 40.792767] }
     },
@@ -5608,7 +5608,7 @@
         "addr:street": "Horseshoe Pike",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Crop'South Fresh Market",
+        "name": "Crop's Fresh Market",
         "phone": "+1 559-875-5576",
         "ref": "Crop's Fresh Market #20848",
         "shop": "supermarket",
@@ -5632,7 +5632,7 @@
         "ref": "Hurley's Fresh Market IGA #2184",
         "shop": "supermarket",
         "website": "http://www.hurleysfreshmarket.com",
-        "branch": "Hurley'South Fresh Market"
+        "branch": "Hurley's Fresh Market"
       },
       "geometry": { "type": "Point", "coordinates": [-76.40204, 41.524452] }
     },
@@ -5731,7 +5731,7 @@
         "ref": "LaPerle's IGA #4370",
         "shop": "supermarket",
         "website": "http://www.laperlesiga.com",
-        "branch": "LaPerle'South"
+        "branch": "LaPerle's"
       },
       "geometry": { "type": "Point", "coordinates": [-71.491455, 44.909634] }
     },
@@ -5739,7 +5739,7 @@
       "type": "Feature",
       "id": "node/-221235",
       "properties": {
-        "addr:city": "Mt. Vernon",
+        "addr:city": "Mount Vernon",
         "addr:housenumber": "305",
         "addr:postcode": "40456",
         "addr:state": "KY",
@@ -5868,7 +5868,7 @@
         "ref": "Jack's IGA",
         "shop": "supermarket",
         "website": "https://www.jacksigabeattyville.com",
-        "branch": "Jack'South"
+        "branch": "Jack's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.7106, 37.5736] }
     },
@@ -5944,7 +5944,7 @@
         "ref": "Ron's IGA Maysville",
         "shop": "supermarket",
         "website": "https://rons.iga.com",
-        "branch": "Ron'South"
+        "branch": "Ron's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.74045, 38.640156] }
     },
@@ -6100,7 +6100,7 @@
         "ref": "Lee's Bestway IGA",
         "shop": "supermarket",
         "website": "https://leesbestway.iga.com",
-        "branch": "Lee'South Bestway"
+        "branch": "Lee's Bestway"
       },
       "geometry": { "type": "Point", "coordinates": [-84.0975, 38.6689] }
     },
@@ -6140,7 +6140,7 @@
         "ref": "K's IGA",
         "shop": "supermarket",
         "website": "https://ksbestway.iga.com",
-        "branch": "K'South"
+        "branch": "K's"
       },
       "geometry": { "type": "Point", "coordinates": [-84.00486, 38.77103] }
     },
@@ -6180,7 +6180,7 @@
         "ref": "Allen's IGA",
         "shop": "supermarket",
         "website": "https://allens.iga.com",
-        "branch": "Allen'South"
+        "branch": "Allen's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.4373, 38.177] }
     },
@@ -6200,7 +6200,7 @@
         "ref": "Casey's IGA",
         "shop": "supermarket",
         "website": "http://www.caseysiga.com",
-        "branch": "Casey'South"
+        "branch": "Casey's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.9713, 37.3255] }
     },
@@ -6240,7 +6240,7 @@
         "ref": "Ron's IGA",
         "shop": "supermarket",
         "website": "https://rons.iga.com",
-        "branch": "Ron'South"
+        "branch": "Ron's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.5446, 38.5786] }
     },
@@ -6260,7 +6260,7 @@
         "ref": "Whitaker's Food World IGA",
         "shop": "supermarket",
         "website": "https://www.whitakersiga.com",
-        "branch": "Whitaker'South Food World"
+        "branch": "Whitaker's Food World"
       },
       "geometry": { "type": "Point", "coordinates": [-82.67886, 37.178562] }
     },
@@ -6314,7 +6314,7 @@
         "addr:street": "Washington Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Maurer'South Market",
+        "name": "Maurer's Market",
         "phone": "+1 606-864-5145",
         "ref": "Maurer's Market",
         "shop": "supermarket",
@@ -6338,7 +6338,7 @@
         "ref": "Hansen's IGA #9171",
         "shop": "supermarket",
         "website": "https://sparta.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.822556, 43.939793] }
     },
@@ -6358,7 +6358,7 @@
         "ref": "Hansen's IGA #9172",
         "shop": "supermarket",
         "website": "https://elroy.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.2739, 43.7587] }
     },
@@ -6378,7 +6378,7 @@
         "ref": "Hansen's IGA #9169",
         "shop": "supermarket",
         "website": "https://bangor.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.99533, 43.892548] }
     },
@@ -6398,7 +6398,7 @@
         "ref": "Hansen's IGA #9170",
         "shop": "supermarket",
         "website": "https://westby.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.85656, 43.65909] }
     },
@@ -6418,7 +6418,7 @@
         "ref": "Hansen's IGA #9166",
         "shop": "supermarket",
         "website": "https://cashton.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.77834, 43.74325] }
     },
@@ -6458,7 +6458,7 @@
         "ref": "Thompson's IGA #8197",
         "shop": "supermarket",
         "website": "http://www.thompsonsiga.com",
-        "branch": "Thompson'South"
+        "branch": "Thompson's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.43068, 42.6042] }
     },
@@ -6478,7 +6478,7 @@
         "ref": "Hansen's IGA- 9174",
         "shop": "supermarket",
         "website": "https://westsalem.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-91.09249, 43.898567] }
     },
@@ -6497,7 +6497,7 @@
         "phone": "+1 609-434-0020",
         "ref": "Marrazzo's Market IGA 72655",
         "shop": "supermarket",
-        "branch": "Marrazzo'South Market"
+        "branch": "Marrazzo's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-74.806305, 40.26693] }
     },
@@ -6537,7 +6537,7 @@
         "ref": "Foley's Family Market IGA #20835",
         "shop": "supermarket",
         "website": "http://www.foleysfamilymarket.com",
-        "branch": "Foley'South Family Market"
+        "branch": "Foley's Family Market"
       },
       "geometry": { "type": "Point", "coordinates": [-74.69517, 40.20683] }
     },
@@ -6557,7 +6557,7 @@
         "ref": "Casel's Marketplace IGA @20823",
         "shop": "supermarket",
         "website": "http://www.casels.com",
-        "branch": "Casel'South Marketplace"
+        "branch": "Casel's Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-74.49909, 39.329517] }
     },
@@ -6617,7 +6617,7 @@
         "ref": "Little's Village IGA",
         "shop": "supermarket",
         "website": "https://littlesvillage.iga.com",
-        "branch": "Little'South Village"
+        "branch": "Little's Village"
       },
       "geometry": { "type": "Point", "coordinates": [-82.9822, 39.94943] }
     },
@@ -6755,7 +6755,7 @@
         "ref": "Bill's IGA #1283",
         "shop": "supermarket",
         "website": "https://billsstaunton.iga.com",
-        "branch": "Bill'South"
+        "branch": "Bill's"
       },
       "geometry": { "type": "Point", "coordinates": [-89.78381, 39.012047] }
     },
@@ -7049,7 +7049,7 @@
         "ref": "Schiavoni's IGA #1008",
         "shop": "supermarket",
         "website": "http://www.schiavonismarket.com",
-        "branch": "Schiavoni'South"
+        "branch": "Schiavoni's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.295876, 41.001064] }
     },
@@ -7204,7 +7204,7 @@
         "ref": "Honey's IGA Vale",
         "shop": "supermarket",
         "website": "https://honeysvale.iga.com",
-        "branch": "Honey'South"
+        "branch": "Honey's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.480515, 35.568428] }
     },
@@ -7244,7 +7244,7 @@
         "ref": "Dill's Food City IGA",
         "shop": "supermarket",
         "website": "http://www.dillsfoodcity.com",
-        "branch": "Dill'South Food City"
+        "branch": "Dill's Food City"
       },
       "geometry": { "type": "Point", "coordinates": [-83.123215, 34.28251] }
     },
@@ -7284,7 +7284,7 @@
         "ref": "Dill's Food City IGA #2",
         "shop": "supermarket",
         "website": "http://www.dillsfoodcity.com",
-        "branch": "Dill'South Food City"
+        "branch": "Dill's Food City"
       },
       "geometry": { "type": "Point", "coordinates": [-83.10621, 34.429504] }
     },
@@ -7304,7 +7304,7 @@
         "ref": "Sandy's IGA",
         "shop": "supermarket",
         "website": "https://sandysfoodliner.iga.com",
-        "branch": "Sandy'South"
+        "branch": "Sandy's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.978645, 33.273598] }
     },
@@ -7359,7 +7359,7 @@
         "addr:street": "West 6th Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market",
+        "name": "KJ's Market",
         "phone": "+1 706-356-8443",
         "ref": "KJ's Market #5155",
         "shop": "supermarket",
@@ -7382,7 +7382,7 @@
         "phone": "+1 706-556-9802",
         "ref": "KJ's Market IGA-Harlem #5154",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.317566, 33.415943] }
     },
@@ -7401,7 +7401,7 @@
         "phone": "+1 706-556-9802",
         "ref": "KJ's Market IGA #5059",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.0861, 33.3282] }
     },
@@ -7460,7 +7460,7 @@
         "ref": "Terry's IGA #1777",
         "shop": "supermarket",
         "website": "https://terrys.iga.com",
-        "branch": "Terry'South"
+        "branch": "Terry's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.739204, 33.736145] }
     },
@@ -7498,7 +7498,7 @@
         "phone": "+1 706-796-7916",
         "ref": "KJ's Market IGA - Grovetown #5157",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.19859, 33.457817] }
     },
@@ -7617,7 +7617,7 @@
         "ref": "Keith's Market IGA",
         "shop": "supermarket",
         "website": "https://keithsmarket.iga.com",
-        "branch": "Keith'South Market"
+        "branch": "Keith's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-123.247795, 39.790993] }
     },
@@ -7677,7 +7677,7 @@
         "ref": "Ptacek's IGA #8155",
         "shop": "supermarket",
         "website": "http://www.ptaceksiga.com",
-        "branch": "Ptacek'South"
+        "branch": "Ptacek's"
       },
       "geometry": { "type": "Point", "coordinates": [-92.7619, 44.7478] }
     },
@@ -7692,7 +7692,7 @@
         "addr:street": "Country Road A",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Hansen'South",
+        "name": "Hansen's",
         "phone": "+1 715-262-5636",
         "ref": "Hansen's",
         "shop": "supermarket",
@@ -7711,7 +7711,7 @@
         "addr:street": "Holiday Lane",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Pat'South Foods",
+        "name": "Pat's Foods",
         "phone": "+1 715-262-5636",
         "ref": "Pat's Foods #8286",
         "shop": "supermarket",
@@ -7774,7 +7774,7 @@
         "ref": "Hansen's IGA - Washburn",
         "shop": "supermarket",
         "website": "https://washburn.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.895935, 46.670437] }
     },
@@ -7794,7 +7794,7 @@
         "ref": "Schaefer's IGA #8244",
         "shop": "supermarket",
         "website": "https://schaefers.iga.com",
-        "branch": "Schaefer'South"
+        "branch": "Schaefer's"
       },
       "geometry": { "type": "Point", "coordinates": [-88.89622, 45.5632] }
     },
@@ -7834,7 +7834,7 @@
         "ref": "Hansen's IGA #9167",
         "shop": "supermarket",
         "website": "https://stanley.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.936745, 44.958168] }
     },
@@ -7854,7 +7854,7 @@
         "ref": "Hansen's IGA #9173",
         "shop": "supermarket",
         "website": "https://neillsville.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-90.59906, 44.560226] }
     },
@@ -7874,7 +7874,7 @@
         "ref": "Hansen's IGA Mondovi #9168",
         "shop": "supermarket",
         "website": "https://mondovi.hansensiga.com",
-        "branch": "Hansen'South"
+        "branch": "Hansen's"
       },
       "geometry": { "type": "Point", "coordinates": [-91.670074, 44.566833] }
     },
@@ -7889,7 +7889,7 @@
         "addr:street": "North Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Kennie'South Market Spring Grove",
+        "name": "Kennie's Market Spring Grove",
         "phone": "+1 715-926-3342",
         "ref": "Kennie's Market Spring Grove #42018",
         "shop": "supermarket",
@@ -7908,7 +7908,7 @@
         "addr:street": "West Middle Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Kennie'South Market Gettysburg",
+        "name": "Kennie's Market Gettysburg",
         "phone": "+1 715-926-3342",
         "ref": "Kennie's Market Gettysburg #42019",
         "shop": "supermarket",
@@ -7927,7 +7927,7 @@
         "addr:street": "West Kings Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Kennie'South Market - Littlestown",
+        "name": "Kennie's Market - Littlestown",
         "phone": "+1 715-926-3342",
         "ref": "Kennie's Market - Littlestown #42017",
         "shop": "supermarket",
@@ -7950,7 +7950,7 @@
         "phone": "+1 715-926-3342",
         "ref": "Schlegel's IGA #42076",
         "shop": "supermarket",
-        "branch": "Schlegel'South"
+        "branch": "Schlegel's"
       },
       "geometry": { "type": "Point", "coordinates": [-77.23516, 40.587856] }
     },
@@ -7965,7 +7965,7 @@
         "addr:street": "Biglerville Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Kennie'South Market Briglerville",
+        "name": "Kennie's Market Briglerville",
         "phone": "+1 717-667-8152",
         "ref": "Kennie's Market Briglerville #42021",
         "shop": "supermarket",
@@ -8020,7 +8020,7 @@
         "addr:street": "North McKean Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Sprankle'South Neighborhood Mkt. Kittanning",
+        "name": "Sprankle's Neighborhood Mkt. Kittanning",
         "phone": "+1 717-667-8152",
         "ref": "Sprankle's Neighborhood Mkt. Kittanning",
         "shop": "supermarket",
@@ -8039,7 +8039,7 @@
         "addr:street": "Third Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Sprankle'South Neighborhood Market",
+        "name": "Sprankle's Neighborhood Market",
         "phone": "+1 717-667-8152",
         "ref": "Sprankle's Neighborhood Market",
         "shop": "supermarket",
@@ -8123,7 +8123,7 @@
         "ref": "Baker's IGA",
         "shop": "supermarket",
         "website": "http://www.bakers.com",
-        "branch": "Baker'South"
+        "branch": "Baker's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.485405, 40.38606] }
     },
@@ -8163,7 +8163,7 @@
         "ref": "Pettit's New Holland IGA Express",
         "shop": "convenience",
         "website": "https://pettitsmarket.com/",
-        "branch": "Pettit'South New Holland"
+        "branch": "Pettit's New Holland"
       },
       "geometry": { "type": "Point", "coordinates": [-83.25598, 39.55418] }
     },
@@ -8178,7 +8178,7 @@
         "addr:street": "South Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Ross'South Granville Market",
+        "name": "Ross's Granville Market",
         "phone": "+1 740-495-5105",
         "ref": "Ross's Granville Market",
         "shop": "supermarket",
@@ -8262,7 +8262,7 @@
         "ref": "Sponey's IGA Foodliner",
         "shop": "supermarket",
         "website": "https://sponeys.iga.com",
-        "branch": "Sponey'South"
+        "branch": "Sponey's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6323, 39.548943] }
     },
@@ -8282,7 +8282,7 @@
         "ref": "Pettit's IGA Express",
         "shop": "convenience",
         "website": "https://pettitsexpress.com",
-        "branch": "Pettit'South"
+        "branch": "Pettit's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.11913, 39.585243] }
     },
@@ -8302,7 +8302,7 @@
         "ref": "Railer's IGA #1171",
         "shop": "supermarket",
         "website": "https://railersmarket.iga.com",
-        "branch": "Railer'South"
+        "branch": "Railer's"
       },
       "geometry": { "type": "Point", "coordinates": [-86.46723, 40.0495] }
     },
@@ -8535,7 +8535,7 @@
         "ref": "Jeff's IGA #84",
         "shop": "supermarket",
         "website": "https://jeffs.iga.com",
-        "branch": "Jeff'South"
+        "branch": "Jeff's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.01388, 33.09973] }
     },
@@ -8555,7 +8555,7 @@
         "phone": "+1 803-385-5220",
         "ref": "KJ's Market IGA - Chester #39",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-81.19559, 34.72156] }
     },
@@ -8705,7 +8705,7 @@
         "addr:street": "West Columbia Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market",
+        "name": "KJ's Market",
         "phone": "+1 803-482-2560",
         "ref": "KJ's Market #32",
         "shop": "supermarket",
@@ -8741,7 +8741,7 @@
         "addr:street": "Saint Andrews",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market",
+        "name": "KJ's Market",
         "phone": "+1 803-612-4040",
         "ref": "KJ's Market #36",
         "shop": "supermarket"
@@ -8822,7 +8822,7 @@
         "ref": "KJ's Market IGA - Winnsboro #47",
         "shop": "supermarket",
         "website": "http://www.kjsmarket.com",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-81.0885, 34.3636] }
     },
@@ -8879,7 +8879,7 @@
         "phone": "+1 803-854-5165",
         "ref": "Shumpert's IGA #22",
         "shop": "supermarket",
-        "branch": "Shumpert'South"
+        "branch": "Shumpert's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.24712, 33.762028] }
     },
@@ -8972,7 +8972,7 @@
         "addr:street": "Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Spencer'South Market",
+        "name": "Spencer's Market",
         "phone": "+1 805-295-7162",
         "ref": "Spencer's Market #2",
         "shop": "supermarket",
@@ -8991,7 +8991,7 @@
         "addr:street": "Orcutt Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Spencer'South Markets",
+        "name": "Spencer's Markets",
         "phone": "+1 805-295-7162",
         "ref": "Spencer's Markets #1",
         "shop": "supermarket",
@@ -9142,7 +9142,7 @@
         "ref": "Noble's IGA Foodliner #7113",
         "shop": "supermarket",
         "website": "https://noblesfoodliner.iga.com",
-        "branch": "Noble'South"
+        "branch": "Noble's"
       },
       "geometry": { "type": "Point", "coordinates": [-86.76728, 37.963455] }
     },
@@ -9243,7 +9243,7 @@
       "type": "Feature",
       "id": "node/-221415",
       "properties": {
-        "addr:city": "Mt. Vernon",
+        "addr:city": "Mount Vernon",
         "addr:housenumber": "1320",
         "addr:postcode": "47620",
         "addr:state": "IN",
@@ -9255,7 +9255,7 @@
         "ref": "McKim's IGA #4046",
         "shop": "supermarket",
         "website": "https://mckims.iga.com",
-        "branch": "McKim'South"
+        "branch": "McKim's"
       },
       "geometry": { "type": "Point", "coordinates": [-87.897064, 37.942554] }
     },
@@ -9372,7 +9372,7 @@
         "ref": "Burkholder's Country Market IGA #42063",
         "shop": "supermarket",
         "website": "http://www.burkholdersmarket.com",
-        "branch": "Burkholder'South Country Market"
+        "branch": "Burkholder's Country Market"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5723, 40.8373] }
     },
@@ -9392,7 +9392,7 @@
         "ref": "Hartzell's IGA #8183",
         "shop": "supermarket",
         "website": "http://www.hartzellsigawarren.com",
-        "branch": "Hartzell'South"
+        "branch": "Hartzell's"
       },
       "geometry": { "type": "Point", "coordinates": [-89.9848, 42.4869] }
     },
@@ -9452,7 +9452,7 @@
         "ref": "Harold's IGA",
         "shop": "supermarket",
         "website": "https://haroldssupermarket.iga.com",
-        "branch": "Harold'South"
+        "branch": "Harold's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.24216, 35.37229] }
     },
@@ -9549,7 +9549,7 @@
         "ref": "Boulineau's Foods Plus IGA",
         "shop": "supermarket",
         "website": "http://www.boulineaus.com",
-        "branch": "Boulineau'South Foods Plus"
+        "branch": "Boulineau's Foods Plus"
       },
       "geometry": { "type": "Point", "coordinates": [-78.642784, 33.828632] }
     },
@@ -9620,7 +9620,7 @@
         "addr:street": "Elm Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market",
+        "name": "KJ's Market",
         "phone": "+1 843-355-5275",
         "ref": "KJ's Market #16",
         "shop": "supermarket"
@@ -9680,7 +9680,7 @@
         "phone": "+1 843-355-5275",
         "ref": "Jim's IGA Food Store #56",
         "shop": "supermarket",
-        "branch": "Jim'South"
+        "branch": "Jim's"
       },
       "geometry": { "type": "Point", "coordinates": [-79.934105, 33.93761] }
     },
@@ -9699,7 +9699,7 @@
         "phone": "+1 843-399-6446",
         "ref": "Griffin's IGA #28",
         "shop": "supermarket",
-        "branch": "Griffin'South"
+        "branch": "Griffin's"
       },
       "geometry": { "type": "Point", "coordinates": [-78.75789, 33.856586] }
     },
@@ -9737,7 +9737,7 @@
         "phone": "+1 843-399-6446",
         "ref": "KJ's Market IGA #59",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-79.731094, 34.146053] }
     },
@@ -9755,7 +9755,7 @@
         "ref": "Carl's Food Center IGA #30",
         "shop": "supermarket",
         "website": "https://carlsfoodcenter.iga.com",
-        "branch": "Carl'South Food Center"
+        "branch": "Carl's Food Center"
       },
       "geometry": { "type": "Point", "coordinates": [-79.67535, 34.61005] }
     },
@@ -9794,7 +9794,7 @@
         "ref": "Wylie's IGA",
         "shop": "supermarket",
         "website": "https://wyliesmccoll.iga.com",
-        "branch": "Wylie'South"
+        "branch": "Wylie's"
       },
       "geometry": { "type": "Point", "coordinates": [-79.55204, 34.668648] }
     },
@@ -9872,7 +9872,7 @@
         "ref": "Doscher's IGA #14",
         "shop": "supermarket",
         "website": "http://www.doschersiga.com",
-        "branch": "Doscher'South"
+        "branch": "Doscher's"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0052, 32.9267] }
     },
@@ -9910,7 +9910,7 @@
         "phone": "+1 843-752-7811",
         "ref": "KJ's Market IGA - Dillon #21",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-79.37464, 34.418633] }
     },
@@ -9930,7 +9930,7 @@
         "ref": "Pete's Market IGA #3016",
         "shop": "supermarket",
         "website": "http://www.pecksmarket.com",
-        "branch": "Pete'South Market"
+        "branch": "Pete's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-75.05705, 41.609726] }
     },
@@ -9950,7 +9950,7 @@
         "ref": "Kobacker's IGA #1068",
         "shop": "supermarket",
         "website": "http://www.kobackers.com/",
-        "branch": "Kobacker'South"
+        "branch": "Kobacker's"
       },
       "geometry": { "type": "Point", "coordinates": [-73.61787, 41.402473] }
     },
@@ -9970,7 +9970,7 @@
         "ref": "Marona's IGA Market #1162",
         "shop": "supermarket",
         "website": "http://www.maronasmarket.com/",
-        "branch": "Marona'South"
+        "branch": "Marona's"
       },
       "geometry": { "type": "Point", "coordinates": [-73.69524, 41.784676] }
     },
@@ -10070,7 +10070,7 @@
         "ref": "Geissler's IGA - Bloomfield - #2207",
         "shop": "supermarket",
         "website": "http://www.geisslers.com",
-        "branch": "Geissler'South"
+        "branch": "Geissler's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.73767, 41.836754] }
     },
@@ -10090,7 +10090,7 @@
         "ref": "Adam's Super Food IGA #582",
         "shop": "supermarket",
         "website": "http://www.adamssuperfood.com",
-        "branch": "Adam'South Super Food"
+        "branch": "Adam's Super Food"
       },
       "geometry": { "type": "Point", "coordinates": [-73.10941, 41.593502] }
     },
@@ -10110,7 +10110,7 @@
         "ref": "LaBonne's Watertown IGA #4807",
         "shop": "supermarket",
         "website": "http://www.labonnes.com",
-        "branch": "LaBonne'South Watertown"
+        "branch": "LaBonne's Watertown"
       },
       "geometry": { "type": "Point", "coordinates": [-73.099205, 41.57562] }
     },
@@ -10130,7 +10130,7 @@
         "ref": "Adam's IGA #455",
         "shop": "supermarket",
         "website": "http://www.adamssuperfood.com",
-        "branch": "Adam'South"
+        "branch": "Adam's"
       },
       "geometry": { "type": "Point", "coordinates": [-73.07397, 41.674236] }
     },
@@ -10209,7 +10209,7 @@
         "ref": "LaBonne's Salisbury IGA #4805",
         "shop": "supermarket",
         "website": "http://www.labonnes.com",
-        "branch": "LaBonne'South Salisbury"
+        "branch": "LaBonne's Salisbury"
       },
       "geometry": { "type": "Point", "coordinates": [-73.421616, 41.982334] }
     },
@@ -10229,7 +10229,7 @@
         "ref": "Adam's Super Food IGA #586",
         "shop": "supermarket",
         "website": "http://www.adamssuperfood.com",
-        "branch": "Adam'South Super Food"
+        "branch": "Adam's Super Food"
       },
       "geometry": { "type": "Point", "coordinates": [-72.43511, 41.384285] }
     },
@@ -10328,7 +10328,7 @@
         "ref": "Geissler's IGA - Agawam - #2206",
         "shop": "supermarket",
         "website": "http://www.geisslers.com",
-        "branch": "Geissler'South"
+        "branch": "Geissler's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.63239, 42.060986] }
     },
@@ -10348,7 +10348,7 @@
         "ref": "Geissler's IGA - East Windsor - #2201",
         "shop": "supermarket",
         "website": "http://www.geisslers.com",
-        "branch": "Geissler'South"
+        "branch": "Geissler's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.616554, 41.92963] }
     },
@@ -10368,7 +10368,7 @@
         "ref": "Geissler's IGA - South Windsor - #2205",
         "shop": "supermarket",
         "website": "http://www.geisslers.com",
-        "branch": "Geissler'South"
+        "branch": "Geissler's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.56209, 41.845867] }
     },
@@ -10388,7 +10388,7 @@
         "ref": "Geissler's IGA - Granby - #2204",
         "shop": "supermarket",
         "website": "http://www.geisslers.com",
-        "branch": "Geissler'South"
+        "branch": "Geissler's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.7986, 41.9594] }
     },
@@ -10408,7 +10408,7 @@
         "ref": "Fitzgerald's Foods IGA #1023",
         "shop": "supermarket",
         "website": "http://www.fitzgeraldsfoods.com",
-        "branch": "Fitzgerald'South Foods"
+        "branch": "Fitzgerald's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-72.80249, 41.87237] }
     },
@@ -10468,7 +10468,7 @@
         "ref": "Gnazzo's IGA - #745",
         "shop": "supermarket",
         "website": "http://www.gnazzos.com",
-        "branch": "Gnazzo'South"
+        "branch": "Gnazzo's"
       },
       "geometry": { "type": "Point", "coordinates": [-72.861015, 41.66938] }
     },
@@ -10488,7 +10488,7 @@
         "ref": "Geissler's Supermarket IGA #2208",
         "shop": "supermarket",
         "website": "http://www.geisslers.com",
-        "branch": "Geissler'South Supermarket"
+        "branch": "Geissler's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-72.4457, 41.978916] }
     },
@@ -10503,7 +10503,7 @@
         "addr:street": "Highway 72 West",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Corley'South Grocery",
+        "name": "Corley's Grocery",
         "phone": "+1 860-749-7339",
         "ref": "Corley's Grocery",
         "shop": "supermarket",
@@ -10527,7 +10527,7 @@
         "ref": "Drennon's IGA Express",
         "shop": "convenience",
         "website": "https://drennonsexpress.iga.com",
-        "branch": "Drennon'South"
+        "branch": "Drennon's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.66318, 34.308132] }
     },
@@ -10626,7 +10626,7 @@
         "ref": "Holt's Food Center IGA",
         "shop": "supermarket",
         "website": "https://holtsfoodcenter.iga.com",
-        "branch": "Holt'South Food Center"
+        "branch": "Holt's Food Center"
       },
       "geometry": { "type": "Point", "coordinates": [-83.278625, 36.342438] }
     },
@@ -10666,7 +10666,7 @@
         "ref": "Rowe's IGA Supermarkets",
         "shop": "supermarket",
         "website": "https://rowes.iga.com/",
-        "branch": "Rowe'South"
+        "branch": "Rowe's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.788864, 30.32271] }
     },
@@ -10681,7 +10681,7 @@
         "addr:street": "Wells Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Rowe'South Supermarket",
+        "name": "Rowe's Supermarket",
         "phone": "+1 904-621-0957",
         "ref": "Rowe's Supermarket",
         "shop": "supermarket",
@@ -10705,7 +10705,7 @@
         "ref": "Rowe's Supermarket IGA",
         "shop": "supermarket",
         "website": "https://rowes.iga.com",
-        "branch": "Rowe'South Supermarket"
+        "branch": "Rowe's Supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.74147, 30.247519] }
     },
@@ -10720,7 +10720,7 @@
         "addr:street": "Dunn Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Rowe'South III",
+        "name": "Rowe's III",
         "phone": "+1 904-621-0957",
         "ref": "Rowe's III",
         "shop": "supermarket",
@@ -10745,7 +10745,7 @@
         "ref": "Rowe's IGA",
         "shop": "supermarket",
         "website": "https://rowes.iga.com",
-        "branch": "Rowe'South"
+        "branch": "Rowe's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.56642, 30.288574] }
     },
@@ -10785,7 +10785,7 @@
         "ref": "Pat's Foods IGA -Calumet",
         "shop": "supermarket",
         "website": "http://www.patsfoodsiga.com",
-        "branch": "Pat'South Foods"
+        "branch": "Pat's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4549, 47.2393] }
     },
@@ -10800,7 +10800,7 @@
         "addr:street": "North 9th Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Pat'South Foods - Gladstone",
+        "name": "Pat's Foods - Gladstone",
         "phone": "+1 906-337-2233",
         "ref": "Pat's Foods - Gladstone",
         "shop": "supermarket",
@@ -10824,7 +10824,7 @@
         "ref": "Pat's Foods IGA -Hancock",
         "shop": "supermarket",
         "website": "http://www.patsfoodsiga.com",
-        "branch": "Pat'South Foods"
+        "branch": "Pat's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-88.591866, 47.13108] }
     },
@@ -10842,7 +10842,7 @@
         "ref": "Pat's Foods IGA-Houghton",
         "shop": "supermarket",
         "website": "http://www.patsfoodsiga.com",
-        "branch": "Pat'South Foods"
+        "branch": "Pat's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5746, 47.1173] }
     },
@@ -10862,7 +10862,7 @@
         "ref": "Jim's Super Foods IGA #18-0134",
         "shop": "supermarket",
         "website": "http://www.jimsjubileefoods.com",
-        "branch": "Jim'South Super Foods"
+        "branch": "Jim's Super Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-87.66625, 46.491615] }
     },
@@ -10902,7 +10902,7 @@
         "ref": "Pat's IGA-L'Anse",
         "shop": "supermarket",
         "website": "http://www.patsfoodsiga.com",
-        "branch": "Pat'South"
+        "branch": "Pat's"
       },
       "geometry": { "type": "Point", "coordinates": [-88.45362, 46.758186] }
     },
@@ -10922,7 +10922,7 @@
         "ref": "Pat's Foods IGA- #8286",
         "shop": "supermarket",
         "website": "http://www.patsfoodsiga.com",
-        "branch": "Pat'South Foods"
+        "branch": "Pat's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9076, 45.785732] }
     },
@@ -10940,7 +10940,7 @@
         "ref": "Pat's Foods IGA -Ontonagon",
         "shop": "supermarket",
         "website": "http://www.patsfoodsiga.com",
-        "branch": "Pat'South Foods"
+        "branch": "Pat's Foods"
       },
       "geometry": { "type": "Point", "coordinates": [-89.3312, 46.809] }
     },
@@ -10993,7 +10993,7 @@
         "addr:state": "AK",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Cubby'South Marketplace",
+        "name": "Cubby's Marketplace",
         "phone": "+1 907-586-3101",
         "ref": "Cubby's Marketplace",
         "shop": "supermarket",
@@ -11186,7 +11186,7 @@
         "addr:street": "South Wall Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 909-307-2600",
         "ref": "Carlie C's #870",
         "shop": "supermarket",
@@ -11210,7 +11210,7 @@
         "ref": "Godwin's IGA #4035",
         "shop": "supermarket",
         "website": "https://godwins.iga.com",
-        "branch": "Godwin'South"
+        "branch": "Godwin's"
       },
       "geometry": { "type": "Point", "coordinates": [-78.02445, 34.832405] }
     },
@@ -11230,7 +11230,7 @@
         "ref": "Gavin's IGA #4004",
         "shop": "supermarket",
         "website": "http://www.gavinsiga.com",
-        "branch": "Gavin'South"
+        "branch": "Gavin's"
       },
       "geometry": { "type": "Point", "coordinates": [-78.784836, 35.096447] }
     },
@@ -11245,7 +11245,7 @@
         "addr:street": "North Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-425-9440",
         "ref": "Carlie C's #5845",
         "shop": "supermarket",
@@ -11264,7 +11264,7 @@
         "addr:street": "Cedar Creek Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-425-9440",
         "ref": "Carlie C's #5840",
         "shop": "supermarket",
@@ -11283,7 +11283,7 @@
         "addr:street": "Bragg Boulevard",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-425-9440",
         "ref": "Carlie C's #895",
         "shop": "supermarket",
@@ -11302,7 +11302,7 @@
         "addr:street": "Owen Drive",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-425-9440",
         "ref": "Carlie C's #5850",
         "shop": "supermarket",
@@ -11326,7 +11326,7 @@
         "ref": "Carroll's IGA #4002",
         "shop": "supermarket",
         "website": "http://www.carrollsiga.com",
-        "branch": "Carroll'South"
+        "branch": "Carroll's"
       },
       "geometry": { "type": "Point", "coordinates": [-78.69409, 35.014847] }
     },
@@ -11361,7 +11361,7 @@
         "addr:street": "East MLK Boulevard",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-521-4396",
         "ref": "Carlie C's #775",
         "shop": "supermarket",
@@ -11380,7 +11380,7 @@
         "addr:street": "Northeast Boulevard",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-521-4396",
         "ref": "Carlie C's #790",
         "shop": "supermarket",
@@ -11399,7 +11399,7 @@
         "addr:street": "Sunset Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-521-4396",
         "ref": "Carlie C's #780",
         "shop": "supermarket",
@@ -11418,7 +11418,7 @@
         "addr:street": "College Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-521-4396",
         "ref": "Carlie C's #785",
         "shop": "supermarket",
@@ -11696,7 +11696,7 @@
         "addr:street": "North Ellis Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-863-0127",
         "ref": "Carlie C's #865",
         "shop": "supermarket",
@@ -11734,7 +11734,7 @@
         "addr:street": "South Reily Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-892-8927",
         "ref": "Carlie C's #830",
         "shop": "supermarket",
@@ -11753,7 +11753,7 @@
         "addr:street": "West Front Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South of Lillington",
+        "name": "Carlie C's of Lillington",
         "phone": "+1 910-892-8927",
         "ref": "Carlie C's of Lillington",
         "shop": "supermarket",
@@ -11792,7 +11792,7 @@
         "addr:street": "South 13th Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-892-8927",
         "ref": "Carlie C's #885",
         "shop": "supermarket",
@@ -11811,7 +11811,7 @@
         "addr:street": "North McKinley Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-892-8927",
         "ref": "Carlie C's #880",
         "shop": "supermarket",
@@ -11835,7 +11835,7 @@
         "ref": "Livingston's IGA",
         "shop": "supermarket",
         "website": "https://livingstons.iga.com",
-        "branch": "Livingston'South"
+        "branch": "Livingston's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.6931, 31.9393] }
     },
@@ -11850,7 +11850,7 @@
         "addr:street": "North Peterson Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Mickey'South Food Store",
+        "name": "Mickey's Food Store",
         "phone": "+1 912-363-4910",
         "ref": "Mickey's Food Store",
         "shop": "supermarket",
@@ -11874,7 +11874,7 @@
         "ref": "Wall's IGA Foodliner #2004",
         "shop": "supermarket",
         "website": "https://walls.iga.com",
-        "branch": "Wall'South"
+        "branch": "Wall's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.2559, 31.3007] }
     },
@@ -11909,7 +11909,7 @@
         "addr:street": "Mims Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market",
+        "name": "KJ's Market",
         "phone": "+1 912-363-4910",
         "ref": "KJ's Market #5156",
         "shop": "supermarket",
@@ -11951,7 +11951,7 @@
         "ref": "Jay's IGA",
         "shop": "supermarket",
         "website": "https://jays.iga.com",
-        "branch": "Jay'South"
+        "branch": "Jay's"
       },
       "geometry": { "type": "Point", "coordinates": [-82.46285, 31.530428] }
     },
@@ -11990,7 +11990,7 @@
         "ref": "Ken's IGA #4",
         "shop": "supermarket",
         "website": "https://kens.iga.com",
-        "branch": "Ken'South"
+        "branch": "Ken's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.393486, 32.33073] }
     },
@@ -12030,7 +12030,7 @@
         "ref": "Ken's IGA #1000",
         "shop": "supermarket",
         "website": "https://kens.iga.com",
-        "branch": "Ken'South"
+        "branch": "Ken's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6182, 32.3356] }
     },
@@ -12050,7 +12050,7 @@
         "ref": "Ken's IGA #2 (1002)",
         "shop": "supermarket",
         "website": "https://kens.iga.com",
-        "branch": "Ken'South"
+        "branch": "Ken's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.437935, 32.197147] }
     },
@@ -12105,7 +12105,7 @@
         "addr:street": "New Bern Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 912-842-2172",
         "ref": "Carlie C's #815",
         "shop": "supermarket",
@@ -12124,7 +12124,7 @@
         "addr:street": "West Gannon Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 919-269-4111",
         "ref": "Carlie C's #810",
         "shop": "supermarket",
@@ -12143,7 +12143,7 @@
         "addr:street": "Garner Station Boulevard",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 919-269-4111",
         "ref": "Carlie C's",
         "shop": "supermarket",
@@ -12162,7 +12162,7 @@
         "addr:street": "North Raleigh Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 919-269-4111",
         "ref": "Carlie C's #1855",
         "shop": "supermarket",
@@ -12181,7 +12181,7 @@
         "addr:street": "South Rickett Boulevard",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South # 770",
+        "name": "Carlie C's # 770",
         "phone": "+1 919-269-4111",
         "ref": "Carlie C's # 770",
         "shop": "supermarket",
@@ -12200,7 +12200,7 @@
         "addr:street": "Wake Forest Highway",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 919-269-4111",
         "ref": "Carlie C's #825",
         "shop": "supermarket",
@@ -12219,7 +12219,7 @@
         "addr:street": "Wayne Memorial Drive",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 919-736-1940",
         "ref": "Carlie C's #835",
         "shop": "supermarket",
@@ -12238,7 +12238,7 @@
         "addr:street": "North Bright Leaf Boulevard",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South Smithfield",
+        "name": "Carlie C's Smithfield",
         "phone": "+1 919-736-1940",
         "ref": "Carlie C's Smithfield #805",
         "shop": "supermarket",
@@ -12257,7 +12257,7 @@
         "addr:street": "US 301 South",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South Four Oaks",
+        "name": "Carlie C's Four Oaks",
         "phone": "+1 919-736-1940",
         "ref": "Carlie C's Four Oaks #800",
         "shop": "supermarket",
@@ -12416,7 +12416,7 @@
         "phone": "+1 931-526-4924",
         "ref": "Holt's IGA",
         "shop": "supermarket",
-        "branch": "Holt'South"
+        "branch": "Holt's"
       },
       "geometry": { "type": "Point", "coordinates": [-86.57037, 35.075775] }
     },
@@ -12436,7 +12436,7 @@
         "ref": "Jerry's IGA",
         "shop": "supermarket",
         "website": "http://www.jerrys-iga.com",
-        "branch": "Jerry'South"
+        "branch": "Jerry's"
       },
       "geometry": { "type": "Point", "coordinates": [-85.333244, 36.380478] }
     },
@@ -12535,7 +12535,7 @@
         "ref": "Eikenberry's IGA Foodliner",
         "shop": "supermarket",
         "website": "http://www.shopeikenberrys.com",
-        "branch": "Eikenberry'South"
+        "branch": "Eikenberry's"
       },
       "geometry": { "type": "Point", "coordinates": [-84.636665, 40.08405] }
     },
@@ -12595,7 +12595,7 @@
         "ref": "McMaken's IGA",
         "shop": "supermarket",
         "website": "http://www.mcmakens.com",
-        "branch": "McMaken'South"
+        "branch": "McMaken's"
       },
       "geometry": { "type": "Point", "coordinates": [-84.422935, 39.839977] }
     },
@@ -12671,7 +12671,7 @@
         "ref": "Perch's IGA",
         "shop": "supermarket",
         "website": "http://www.perchsiga.com",
-        "branch": "Perch'South"
+        "branch": "Perch's"
       },
       "geometry": { "type": "Point", "coordinates": [-83.45445, 45.08141] }
     },
@@ -12705,7 +12705,7 @@
         "addr:street": "Lower Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Peck'South Market of Callicoon",
+        "name": "Peck's Market of Callicoon",
         "phone": "+1 989-354-4012",
         "ref": "Peck's Market of Callicoon #822",
         "shop": "supermarket",
@@ -12724,7 +12724,7 @@
         "addr:street": "Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Peck'South Market of Livingston Manor",
+        "name": "Peck's Market of Livingston Manor",
         "phone": "+1 989-354-4012",
         "ref": "Peck's Market of Livingston Manor #824",
         "shop": "supermarket",
@@ -12743,7 +12743,7 @@
         "addr:street": "State Route 52",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Peck'South Market of Jeffersonville",
+        "name": "Peck's Market of Jeffersonville",
         "phone": "+1 989-354-4012",
         "ref": "Peck's Market of Jeffersonville #826",
         "shop": "supermarket",
@@ -12762,7 +12762,7 @@
         "addr:street": "Proctor Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Peck'South Market of Eldred",
+        "name": "Peck's Market of Eldred",
         "phone": "+1 845-557-6315",
         "ref": "Peck's Market of Eldred #828",
         "shop": "supermarket",
@@ -12826,7 +12826,7 @@
         "ref": "Garrett's IGA Supermarket #1 - #23069",
         "shop": "supermarket",
         "website": "www.garrettsiga.com",
-        "branch": "Garrett'South"
+        "branch": "Garrett's"
       },
       "geometry": { "type": "Point", "coordinates": [-110.99738, 31.463491] }
     },
@@ -12977,7 +12977,7 @@
         "addr:street": "South Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 513-553-4245",
         "ref": "Carlie C's #795",
         "shop": "supermarket",
@@ -12996,7 +12996,7 @@
         "addr:street": "Manor Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "John Herr'South Village Market Inc.",
+        "name": "John Herr's Village Market Inc.",
         "phone": "+1 513-553-4245",
         "ref": "John Herr's Village Market Inc.",
         "shop": "supermarket",
@@ -13015,7 +13015,7 @@
         "addr:street": "West Main Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Martin'South Country Markets",
+        "name": "Martin's Country Markets",
         "phone": "+1 513-553-4245",
         "ref": "Martin's Country Markets",
         "shop": "supermarket"
@@ -13051,7 +13051,7 @@
         "addr:street": "East Forrest Avenue",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Saubel'South Markets - Shrewsbury",
+        "name": "Saubel's Markets - Shrewsbury",
         "phone": "+1 717-235-3891",
         "ref": "Saubel's Markets - Shrewsbury",
         "shop": "supermarket",
@@ -13070,7 +13070,7 @@
         "addr:street": "Ballast Lane",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Saubel'South Markets - Stewartstown",
+        "name": "Saubel's Markets - Stewartstown",
         "phone": "+1 717-235-3891",
         "ref": "Saubel's Markets - Stewartstown",
         "shop": "supermarket",
@@ -13089,7 +13089,7 @@
         "addr:street": "Whiteford Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Saubel'South Market'South - Whiteford",
+        "name": "Saubel's Market's - Whiteford",
         "phone": "+1 717-235-3891",
         "ref": "Saubel's Market's - Whiteford",
         "shop": "supermarket",
@@ -13108,7 +13108,7 @@
         "addr:street": "East Market Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Saubel'South Markets - York",
+        "name": "Saubel's Markets - York",
         "phone": "+1 717-235-3891",
         "ref": "Saubel's Markets - York",
         "shop": "supermarket",
@@ -13127,7 +13127,7 @@
         "addr:street": "South Tower Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Yoder'South Country Markets",
+        "name": "Yoder's Country Markets",
         "phone": "+1 717-235-3891",
         "ref": "Yoder's Country Markets",
         "shop": "supermarket",
@@ -13304,7 +13304,7 @@
         "phone": "+1 828-862-3344",
         "ref": "Bob and Jeff's Grocery Outlet IGA",
         "shop": "supermarket",
-        "branch": "Bob and Jeff'South Grocery Outlet"
+        "branch": "Bob and Jeff's Grocery Outlet"
       },
       "geometry": { "type": "Point", "coordinates": [-84.56852, 30.900486] }
     },
@@ -13319,7 +13319,7 @@
         "addr:street": "River Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 828-862-3344",
         "ref": "Carlie C's #750",
         "shop": "supermarket"
@@ -13337,7 +13337,7 @@
         "addr:street": "North Carolina 705",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-948-4885",
         "ref": "Carlie C's #755",
         "shop": "supermarket"
@@ -13355,7 +13355,7 @@
         "addr:street": "North Brady Street",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Carlie C'South",
+        "name": "Carlie C's",
         "phone": "+1 910-948-4885",
         "ref": "Carlie C's #760",
         "shop": "supermarket",
@@ -13378,7 +13378,7 @@
         "phone": "+1 910-948-4885",
         "ref": "Carlie C's IGA #745",
         "shop": "supermarket",
-        "branch": "Carlie C'South"
+        "branch": "Carlie C's"
       },
       "geometry": { "type": "Point", "coordinates": [-77.543594, 35.910957] }
     },
@@ -13398,7 +13398,7 @@
         "ref": "Carlie C's IGA #765",
         "shop": "supermarket",
         "website": "www.carliecs.com",
-        "branch": "Carlie C'South"
+        "branch": "Carlie C's"
       },
       "geometry": { "type": "Point", "coordinates": [-79.40089, 36.056717] }
     },
@@ -13550,7 +13550,7 @@
         "phone": "+1 270-781-0394",
         "ref": "Kishman's IGA Market - Malvern",
         "shop": "supermarket",
-        "branch": "Kishman'South"
+        "branch": "Kishman's"
       },
       "geometry": { "type": "Point", "coordinates": [-81.189514, 40.691483] }
     },
@@ -13565,7 +13565,7 @@
         "addr:street": "Augusta Road",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market Columbia",
+        "name": "KJ's Market Columbia",
         "phone": "+1 270-781-0394",
         "ref": "KJ's Market Columbia #627",
         "shop": "supermarket"
@@ -13587,7 +13587,7 @@
         "phone": "+1 270-781-0394",
         "ref": "KJ's Market IGA - Augusta #606",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.0286, 33.39024] }
     },
@@ -13606,7 +13606,7 @@
         "phone": "+1 270-781-0394",
         "ref": "KJ's Market IGA - Clearwater #604",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9102, 33.4984] }
     },
@@ -13623,7 +13623,7 @@
         "phone": "+1 864-229-5225",
         "ref": "KJ's Market IGA - Greenwood #605",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.09075, 34.25783] }
     },
@@ -13642,7 +13642,7 @@
         "phone": "+1 864-229-5225",
         "ref": "KJ's Market IGA - Hephzibah #613",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.073875, 33.375412] }
     },
@@ -13662,7 +13662,7 @@
         "phone": "+1 864-229-5225",
         "ref": "KJ's Market IGA - John Island #609",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-80.07926, 32.7209] }
     },
@@ -13681,7 +13681,7 @@
         "phone": "+1 864-229-5225",
         "ref": "KJ's Market IGA - Lancaster #610",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-80.799324, 34.73345] }
     },
@@ -13700,7 +13700,7 @@
         "phone": "+1 864-229-5225",
         "ref": "KJ's Market IGA - Lyman #608",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-82.127335, 34.955463] }
     },
@@ -13719,7 +13719,7 @@
         "phone": "+1 706-790-0917",
         "ref": "KJ's Market IGA - Moncks Corner #618",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-79.998604, 33.18711] }
     },
@@ -13738,7 +13738,7 @@
         "phone": "+1 706-790-0917",
         "ref": "KJ's Market IGA - New Ellenton #611",
         "shop": "supermarket",
-        "branch": "KJ'South Market"
+        "branch": "KJ's Market"
       },
       "geometry": { "type": "Point", "coordinates": [-81.68687, 33.426994] }
     },
@@ -13753,7 +13753,7 @@
         "addr:street": "North Duncan Bypass",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "KJ'South Market Union",
+        "name": "KJ's Market Union",
         "phone": "+1 706-790-0917",
         "ref": "KJ's Market Union #624",
         "shop": "supermarket"
@@ -13827,7 +13827,7 @@
         "addr:unit": "10",
         "brand": "IGA",
         "brand:wikidata": "Q3146662",
-        "name": "Scarfalloto'South Hometown Market",
+        "name": "Scarfalloto's Hometown Market",
         "phone": "+1 229-248-0832",
         "ref": "Scarfalloto's Hometown Market #29824",
         "shop": "supermarket"
@@ -13894,6 +13894,6 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.1", "datetime": "2024-01-27" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-28" }
   }
 }

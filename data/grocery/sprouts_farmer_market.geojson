@@ -66,7 +66,7 @@
       "type": "Feature",
       "id": "node/-249505",
       "properties": {
-        "addr:city": "Ft. Myers",
+        "addr:city": "Fort Myers",
         "addr:postcode": "33919",
         "addr:state": "FL",
         "brand": "Sprouts Farmer Market",
@@ -441,7 +441,7 @@
         "addr:housenumber": "6465",
         "addr:postcode": "75214",
         "addr:state": "TX",
-        "addr:street": "East Mockingbird Lane Ste. 322",
+        "addr:street": "East Mockingbird Lane",
         "brand": "Sprouts Farmer Market",
         "brand:wikidata": "Q7581369",
         "name": "Sprouts Farmers Market",
@@ -450,7 +450,8 @@
         "shop": "supermarket",
         "short_name": "Sprouts",
         "website": "https://www.sprouts.com/store/tx/dallas/160-hillside-dallas/",
-        "branch": "Dallas-Hillside"
+        "branch": "Dallas-Hillside",
+        "addr:unit": "322"
       },
       "geometry": { "type": "Point", "coordinates": [-96.751481, 32.837743] }
     },
@@ -2430,7 +2431,7 @@
         "addr:housenumber": "1121",
         "addr:postcode": "32765",
         "addr:state": "FL",
-        "addr:street": "Alafaya Trail Ste. 1091",
+        "addr:street": "Alafaya Trail",
         "brand": "Sprouts Farmer Market",
         "brand:wikidata": "Q7581369",
         "name": "Sprouts Farmers Market",
@@ -2439,7 +2440,8 @@
         "shop": "supermarket",
         "short_name": "Sprouts",
         "website": "https://www.sprouts.com/store/fl/oviedo/oviedo/",
-        "branch": "Oviedo"
+        "branch": "Oviedo",
+        "addr:unit": "1091"
       },
       "geometry": { "type": "Point", "coordinates": [-81.20949, 28.653561] }
     },
@@ -2472,7 +2474,7 @@
         "addr:housenumber": "12960",
         "addr:postcode": "33578",
         "addr:state": "FL",
-        "addr:street": "South Us Highway 301",
+        "addr:street": "South US Highway 301",
         "brand": "Sprouts Farmer Market",
         "brand:wikidata": "Q7581369",
         "name": "Sprouts Farmers Market",
@@ -3229,7 +3231,7 @@
       "type": "Feature",
       "id": "node/-249659",
       "properties": {
-        "addr:city": "Lee'South Summit",
+        "addr:city": "Lee's Summit",
         "addr:housenumber": "800",
         "addr:postcode": "64086",
         "addr:state": "MO",
@@ -8502,7 +8504,7 @@
         "addr:housenumber": "2750",
         "addr:postcode": "33133",
         "addr:state": "FL",
-        "addr:street": "Southwest 27th Terrace Ste. 102",
+        "addr:street": "Southwest 27th Terrace",
         "brand": "Sprouts Farmer Market",
         "brand:wikidata": "Q7581369",
         "name": "Sprouts Farmers Market",
@@ -8511,12 +8513,13 @@
         "shop": "supermarket",
         "short_name": "Sprouts",
         "website": "https://www.sprouts.com/store/fl/coconut-grove/miami-27th-ave/",
-        "branch": "Miami-Coconut Grove"
+        "branch": "Miami-Coconut Grove",
+        "addr:unit": "102"
       },
       "geometry": { "type": "Point", "coordinates": [-80.239503, 25.739868] }
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-28" }
   }
 }

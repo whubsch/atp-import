@@ -5195,7 +5195,7 @@
         "addr:housenumber": "2221",
         "addr:postcode": "35062",
         "addr:state": "AL",
-        "addr:street": "Us Highway 78",
+        "addr:street": "US Highway 78",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -5230,7 +5230,7 @@
         "addr:housenumber": "24716",
         "addr:postcode": "35085",
         "addr:state": "AL",
-        "addr:street": "Us Highway 31 Cobb Plaza",
+        "addr:street": "US Highway 31 Cobb Plaza",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -5754,7 +5754,7 @@
         "addr:housenumber": "7270",
         "addr:postcode": "35563",
         "addr:state": "AL",
-        "addr:street": "Us Highway 43",
+        "addr:street": "US Highway 43",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -6547,7 +6547,7 @@
       "type": "Feature",
       "id": "node/-260159",
       "properties": {
-        "addr:city": "Spanish Fort Blvd.",
+        "addr:city": "Spanish Fort Boulevard",
         "addr:housenumber": "6530",
         "addr:postcode": "36527",
         "addr:state": "AL",
@@ -6623,7 +6623,7 @@
       "type": "Feature",
       "id": "node/-260163",
       "properties": {
-        "addr:city": "Mt. Vernon",
+        "addr:city": "Mount Vernon",
         "addr:housenumber": "19180",
         "addr:postcode": "36560",
         "addr:state": "AL",
@@ -7522,7 +7522,7 @@
         "addr:housenumber": "3373",
         "addr:postcode": "28394",
         "addr:state": "NC",
-        "addr:street": "Highway Us 1",
+        "addr:street": "Highway US 1",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
@@ -9153,6 +9153,6 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-27" }
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-28" }
   }
 }
