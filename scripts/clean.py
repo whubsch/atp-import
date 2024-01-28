@@ -11,7 +11,7 @@ from resources import (
     overlap_tags,
 )
 
-version = "0.1.1"
+version = "0.1.2"
 
 folder_path = "./data"
 
@@ -78,6 +78,12 @@ dir_fill_comp = regex.compile(
     flags=regex.IGNORECASE,
 )
 
+sr_join = "|".join(street_expand.values())
+sr_comp = regex.compile(
+    rf"(?<!(?:^(?:{sr_join}).*))(\b(SR)\b\.?)(?!.*(?:{sr_join}))",
+    flags=regex.IGNORECASE,
+)
+
 
 def abbrs(value: str) -> str:
     value = ord_replace(us_replace(mc_replace(value))).replace("  ", " ")
@@ -93,6 +99,9 @@ def abbrs(value: str) -> str:
         direct_expand,
         value,
     )
+
+    # expand 'SR' if no other street types
+    value = sr_comp.sub("State Route", value)
     return value
 
 
@@ -166,7 +175,7 @@ for file in files:
                 )
                 if address_match:
                     objt["addr:housenumber"] = address_match.group(1)
-                    objt["addr:street"] = (
+                    objt["addr:street"] = abbrs(
                         get_title(address_match.group(3)).rstrip().replace("  ", " ")
                     )
                     objt.update(
@@ -246,6 +255,14 @@ for file in files:
             objt["addr:postcode"] = regex.sub(
                 r"([0-9]{5})-?0{4}", r"\1", objt["addr:postcode"]
             )
+
+        if "ref" in objt:
+            # remove refs that are just websites
+            if regex.match(
+                r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)",
+                objt["ref"],
+            ):
+                objt.pop("ref", None)
 
         obj["properties"] = objt
 

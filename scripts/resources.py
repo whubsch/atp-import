@@ -24,14 +24,14 @@ overlap_tags = [
 ]
 
 direction_expand = {
-    "N": "North",
-    "E": "East",
-    "S": "South",
-    "W": "West",
     "NE": "Northeast",
     "SE": "Southeast",
     "NW": "Northwest",
     "SW": "Southwest",
+    "N": "North",
+    "E": "East",
+    "S": "South",
+    "W": "West",
 }
 
 name_expand = {
