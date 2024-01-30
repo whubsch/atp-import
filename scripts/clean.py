@@ -186,7 +186,7 @@ def run() -> None:
                     )
                     if address_match:
                         objt["addr:housenumber"] = address_match.group(1)
-                        objt["addr:street"] = get_title(address_match.group(3))
+                        objt["addr:street"] = abbrs(get_title(address_match.group(3)))
                         objt.update(
                             {"addr:unit": address_match.group(2)}
                             if address_match.group(2)
