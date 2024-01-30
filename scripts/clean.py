@@ -24,7 +24,7 @@ files = [
 
 
 def get_title(value: str) -> str:
-    return value.title() if value.isupper() else value
+    return mc_replace(value.title()) if value.isupper() else value
 
 
 def lower_match(match: regex.Match) -> str:
@@ -87,6 +87,12 @@ sr_comp = regex.compile(
 )
 
 
+def get_first(value: str) -> str:
+    if ";" in value:
+        return get_title(value.split(";")[0])
+    return value
+
+
 def abbrs(value: str) -> str:
     value = ord_replace(us_replace(mc_replace(value))).replace("  ", " ")
 
@@ -104,7 +110,7 @@ def abbrs(value: str) -> str:
 
     # expand 'SR' if no other street types
     value = sr_comp.sub("State Route", value)
-    return value
+    return value.rstrip().lstrip().replace("  ", " ")
 
 
 def print_value(action: str, file: str, brand: str, items: int):
@@ -158,7 +164,7 @@ def run() -> None:
 
             for name_tag in ["name", "branch"]:
                 if name_tag in objt:
-                    name = abbrs(get_title(objt[name_tag]))
+                    name = get_first(abbrs(get_title(objt[name_tag])))
 
                     # change likely 'St' to 'Saint'
                     objt[name_tag] = regex.sub(
@@ -180,11 +186,7 @@ def run() -> None:
                     )
                     if address_match:
                         objt["addr:housenumber"] = address_match.group(1)
-                        objt["addr:street"] = (
-                            get_title(address_match.group(3))
-                            .rstrip()
-                            .replace("  ", " ")
-                        )
+                        objt["addr:street"] = get_title(address_match.group(3))
                         objt.update(
                             {"addr:unit": address_match.group(2)}
                             if address_match.group(2)
@@ -196,7 +198,7 @@ def run() -> None:
 
             if "addr:city" in objt:
                 # process upper cased cities
-                objt["addr:city"] = abbrs(get_title(objt["addr:city"]))
+                objt["addr:city"] = get_first(abbrs(get_title(objt["addr:city"])))
 
             if "addr:street" in objt:
                 street = abbrs(objt["addr:street"])
@@ -207,6 +209,7 @@ def run() -> None:
                 suite_match = regex.search(
                     r"(.+?),? (?:(?:S(?:ui)?te|Uni?t|R(?:oo)?m)\.? |#)([A-Z0-9]+)",
                     street,
+                    flags=regex.IGNORECASE,
                 )
                 if suite_match:
                     street = suite_match.group(1)
@@ -227,7 +230,7 @@ def run() -> None:
                 if phone_tag in objt:
                     # split up multiple phone numbers
                     objt.update(
-                        {phone_tag: objt[phone_tag].split(";")[0]}
+                        {phone_tag: get_first(objt[phone_tag])}
                         if ";" in objt[phone_tag]
                         else {}
                     )
