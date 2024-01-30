@@ -71,13 +71,13 @@ def direct_expand(match: regex.Match) -> str:
 # pre-compile regex for speed
 abbr_join = "|".join((name_expand | street_expand).keys())
 abbr_join_comp = regex.compile(
-    rf"(\b(?:{abbr_join})\b\.?)",
+    rf"(\b(?:{abbr_join})\b\.?)(?!')",
     flags=regex.IGNORECASE,
 )
 
 dir_fill = "|".join([r"\.?".join(list(abbr)) for abbr in direction_expand.keys()])
 dir_fill_comp = regex.compile(
-    rf"(?<!(?:^(?:Avenue|Street) |[\.']))(\b(?:{dir_fill})\b\.?)(?!(?:\.?[a-zA-Z]| (?:Street|Avenue)))",
+    rf"(?<!(?:^(?:Avenue) |[\.']))(\b(?:{dir_fill})\b\.?)(?!(?:\.?[a-zA-Z]| (?:Street|Avenue)))",
     flags=regex.IGNORECASE,
 )
 
@@ -85,6 +85,8 @@ sr_comp = regex.compile(
     r"(\bS\.?R\b\.?)(?= [0-9]+)",
     flags=regex.IGNORECASE,
 )
+
+saint_comp = regex.compile(r"^(St.?)( .+)$", flags=regex.IGNORECASE)
 
 
 def get_first(value: str) -> str:
@@ -95,6 +97,12 @@ def get_first(value: str) -> str:
 
 def abbrs(value: str) -> str:
     value = ord_replace(us_replace(mc_replace(value))).replace("  ", " ")
+
+    # change likely 'St' to 'Saint'
+    value = saint_comp.sub(
+        r"Saint\2",
+        value,
+    )
 
     # expand common street and word abbreviations
     value = abbr_join_comp.sub(
@@ -164,15 +172,7 @@ def run() -> None:
 
             for name_tag in ["name", "branch"]:
                 if name_tag in objt:
-                    name = get_first(abbrs(get_title(objt[name_tag])))
-
-                    # change likely 'St' to 'Saint'
-                    objt[name_tag] = regex.sub(
-                        r"^(St.?)( .+)$",
-                        r"Saint\2",
-                        name,
-                        flags=regex.IGNORECASE,
-                    )
+                    objt[name_tag] = get_first(abbrs(get_title(objt[name_tag])))
 
             for addr_tag in ["addr:street_address", "addr:full"]:
                 if addr_tag in objt:
@@ -203,11 +203,9 @@ def run() -> None:
             if "addr:street" in objt:
                 street = abbrs(objt["addr:street"])
 
-                # change likely 'St' to 'Saint'
-                street = regex.sub(r"^(St.?)( .+)$", r"Saint\2", street)
                 street = regex.sub(r"St.?( [NESW]\.?[EW]?\.?)?$", r"Street\1", street)
                 suite_match = regex.search(
-                    r"(.+?),? (?:(?:S(?:ui)?te|Uni?t|R(?:oo)?m)\.? |#)([A-Z0-9]+)",
+                    r"(.+?),? (?:(?:S(?:ui)?te|Uni?t|R(?:oo)?m|Apt|Dept|Trlr|Hngr)\.? |#)([A-Z0-9]+)",
                     street,
                     flags=regex.IGNORECASE,
                 )

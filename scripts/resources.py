@@ -104,7 +104,6 @@ street_expand = {
     "EXT": "EXTENSION",
     "EXTS": "EXTENSIONS",
     "FLS": "FALLS",
-    "FRY": "FERRY",
     "FLD": "FIELD",
     "FLDS": "FIELDS",
     "FLT": "FLAT",
