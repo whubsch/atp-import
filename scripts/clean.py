@@ -1,49 +1,55 @@
-import regex
+"""
+Clean All the Places data in the US and fix most problems. Additional manual review may be needed.
+"""
+
 import os
 import json
 import datetime
+import regex
 from resources import (
     street_expand,
     direction_expand,
     name_expand,
     useless_tags,
     repeat_tags,
-    overlap_tags,
 )
 
-version = "0.1.2"
+VERSION = "0.1.2"
 
-folder_path = "./data"
+FOLDER_PATH = "./data"
 
 files = [
     os.path.join(root, file)
-    for root, _, files in os.walk(folder_path)
+    for root, _, files in os.walk(FOLDER_PATH)
     for file in files
     if file.endswith(".geojson")
 ]
 
 
 def get_title(value: str) -> str:
-    return mc_replace(value.title()) if value.isupper() else value
+    """Fix ALL-CAPS string."""
+    return mc_replace(value.title()) if (value.isupper() and " " in value) else value
 
 
 def lower_match(match: regex.Match) -> str:
+    """Lower-case improperly cased ordinal values."""
     return match.group(1).lower()
 
 
 def all_the_same(tags: list[dict], key: str) -> bool:
+    """Check if all values of a key are the same."""
     if key in tags:
         return all(item[key] == tags[0][key] for item in tags[1:])
     return False
 
 
 def us_replace(value: str) -> str:
-    if "U.S." in value:
-        return value.replace("U.S.", "US")
-    return value
+    """Fix string containing improperly formatted US."""
+    return value.replace("U.S.", "US")
 
 
 def mc_replace(value: str) -> str:
+    """Fix string containing improperly formatted Mc- prefix."""
     mc_match = regex.search(r"(.*\bMc)([a-z])(.*)", value)
     if mc_match:
         return mc_match.group(1) + mc_match.group(2).title() + mc_match.group(3)
@@ -51,10 +57,12 @@ def mc_replace(value: str) -> str:
 
 
 def ord_replace(value: str) -> str:
+    """Fix string containing improperly capitalized ordinal."""
     return regex.sub(r"(\b[0-9]+[SNRT][tTdDhH]\b)", lower_match, value)
 
 
 def name_street_expand(match: regex.Match) -> str:
+    """Expand matched street type abbreviations."""
     mat = match.group(1).upper().rstrip(".")
     if mat:
         return (name_expand | street_expand)[mat].title()
@@ -62,6 +70,7 @@ def name_street_expand(match: regex.Match) -> str:
 
 
 def direct_expand(match: regex.Match) -> str:
+    """Expand matched directional abbreviations."""
     mat = match.group(1).upper().replace(".", "")
     if mat:
         return direction_expand[mat].title()
@@ -69,13 +78,13 @@ def direct_expand(match: regex.Match) -> str:
 
 
 # pre-compile regex for speed
-abbr_join = "|".join((name_expand | street_expand).keys())
+abbr_join = "|".join(name_expand | street_expand)
 abbr_join_comp = regex.compile(
     rf"(\b(?:{abbr_join})\b\.?)(?!')",
     flags=regex.IGNORECASE,
 )
 
-dir_fill = "|".join([r"\.?".join(list(abbr)) for abbr in direction_expand.keys()])
+dir_fill = "|".join(r"\.?".join(list(abbr)) for abbr in direction_expand)
 dir_fill_comp = regex.compile(
     rf"(?<!(?:^(?:Avenue) |[\.']))(\b(?:{dir_fill})\b\.?)(?!(?:\.?[a-zA-Z]| (?:Street|Avenue)))",
     flags=regex.IGNORECASE,
@@ -90,12 +99,14 @@ saint_comp = regex.compile(r"^(St.?)( .+)$", flags=regex.IGNORECASE)
 
 
 def get_first(value: str) -> str:
+    """Return the first value in a semicolon separated string."""
     if ";" in value:
         return get_title(value.split(";")[0])
     return value
 
 
 def abbrs(value: str) -> str:
+    """Bundle most common abbreviation expansion functions."""
     value = ord_replace(us_replace(mc_replace(value))).replace("  ", " ")
 
     # change likely 'St' to 'Saint'
@@ -121,23 +132,25 @@ def abbrs(value: str) -> str:
     return value.rstrip().lstrip().replace("  ", " ")
 
 
-def print_value(action: str, file: str, brand: str, items: int):
+def print_value(action: str, file: str, brand: str, items: int) -> None:
+    """Improve console printing for legibility."""
     print(f"{action.title() + '...':<16}{file.split('/')[-1]:<34}{brand:<30}{items:<6}")
 
 
-def run() -> None:
-    for file in files:
-        with open(file, "r") as f:
+def run(file_list: list[str]) -> None:
+    """Run the cleaning program on selected files."""
+    for file in file_list:
+        with open(file, "r", encoding="utf-8") as f:
             contents: dict = json.load(f)
 
         features = contents["features"]
         clean_data = {
-            "version": version,
+            "version": VERSION,
             "datetime": str(datetime.datetime.now().date()),
         }
         if "dataset_attributes" in contents:
             try:
-                if contents["dataset_attributes"]["cleaning"]["version"] == version:
+                if contents["dataset_attributes"]["cleaning"]["version"] == VERSION:
                     print_value(
                         "skipping",
                         file,
@@ -170,14 +183,15 @@ def run() -> None:
             for tag in useless_tags + wipe_repeat_tags:
                 objt.pop(tag, None)
 
-            for name_tag in ["name", "branch"]:
+            for name_tag in ["name", "branch", "addr:city"]:
                 if name_tag in objt:
                     objt[name_tag] = get_first(abbrs(get_title(objt[name_tag])))
 
             for addr_tag in ["addr:street_address", "addr:full"]:
                 if addr_tag in objt:
-                    if all(key in objt for key in {"addr:street", "addr:housenumber"}):
+                    if all(key in objt for key in ["addr:street", "addr:housenumber"]):
                         objt.pop(addr_tag, None)
+                        continue
 
                     # split up ATP-generated address field
                     address_match = regex.match(
@@ -195,10 +209,6 @@ def run() -> None:
                         objt.pop(addr_tag, None)
                         objt.pop("addr:full", None)
                         break
-
-            if "addr:city" in objt:
-                # process upper cased cities
-                objt["addr:city"] = get_first(abbrs(get_title(objt["addr:city"])))
 
             if "addr:street" in objt:
                 street = abbrs(objt["addr:street"])
@@ -274,9 +284,9 @@ def run() -> None:
 
             obj["properties"] = objt
 
-        with open(file, "w") as f:
+        with open(file, "w", encoding="utf-8") as f:
             json.dump(contents, f)
 
 
 if __name__ == "__main__":
-    run()
+    run(files)
