@@ -5974,7 +5974,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "75104",
-        "addr:street": "East Fm 1382",
+        "addr:street": "East FM 1382",
         "website": "https://local.albertsons.com/tx/cedar-hill/427-e-fm-1382.html",
         "brand": "Albertsons",
         "brand:wikidata": "Q2831861",
@@ -12088,7 +12088,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q7817826",
-        "addr:street": "West Fm3040",
+        "addr:street": "West FM3040",
         "phone": "+1 214-488-3060",
         "opening_hours": "Mo-Fr 06:00-23:00,07:00-21:00,09:00-20:00; Sa 06:00-23:00,07:00-21:00,09:00-18:00; Su 06:00-23:00,07:00-21:00,10:00-17:00",
         "website": "https://local.tomthumb.com/tx/lewisville/1075-w-fm3040.html",

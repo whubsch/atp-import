@@ -666,7 +666,6 @@
       "properties": {
         "ref": "2",
         "shop": "supermarket",
-        "addr:full": "2220-200 COUNTY RD 210 W",
         "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32259",
@@ -675,7 +674,7 @@
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=2",
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
-        "branch": "Saint\u0002"
+        "branch": "Saint John's Commons"
       },
       "geometry": { "type": "Point", "coordinates": [-81.513773, 30.061273] }
     },
@@ -694,7 +693,7 @@
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=21",
         "brand": "Winn Dixie",
         "brand:wikidata": "Q1264366",
-        "branch": "Saint\u0002"
+        "branch": "Saint John's Commons"
       },
       "geometry": { "type": "Point", "coordinates": [-81.513376, 30.061261] }
     },
@@ -972,7 +971,7 @@
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1010",
         "addr:street": "Ponce De Leon Boulevard South",
-        "branch": "Saint\u0002"
+        "branch": "Saint John's Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-81.326093, 29.879978] }
     },
@@ -3408,7 +3407,7 @@
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "4855",
         "addr:street": "Irlo Bronson Memorial Highway",
-        "branch": "Saint\u0002"
+        "branch": "Saint Cloud Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-81.245259, 28.247719] }
     },

@@ -10428,7 +10428,7 @@
         "addr:housenumber": "1235",
         "phone": "+1 833-460-7066",
         "brand:wikidata": "Q41171672",
-        "addr:street": "Saint\u0002",
+        "addr:street": "Saint George Avenue",
         "addr:state": "NJ",
         "addr:city": "Roselle",
         "brand": "ALDI",
@@ -13780,7 +13780,7 @@
       "properties": {
         "brand:wikidata": "Q41171672",
         "brand": "ALDI",
-        "addr:street": "West Fm 544",
+        "addr:street": "West FM 544",
         "addr:city": "Wylie",
         "website": "https://stores.aldi.us/tx/wylie/3463-w-fm-544",
         "phone": "+1 877-475-7046",
@@ -19145,7 +19145,7 @@
       "properties": {
         "addr:housenumber": "3942",
         "brand:wikidata": "Q41171672",
-        "addr:street": "Saint\u0002",
+        "addr:street": "State Route 31",
         "addr:state": "NY",
         "addr:city": "Clay",
         "brand": "ALDI",
@@ -19836,7 +19836,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q41171672",
-        "addr:street": "Saint\u0002",
+        "addr:street": "Saint Charles Rock Road",
         "addr:housenumber": "10680",
         "phone": "+1 855-955-2534",
         "brand": "ALDI",
@@ -29462,7 +29462,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q41171672",
-        "addr:street": "Saint\u0002",
+        "addr:street": "Saint Charles Rock Road",
         "phone": "+1 855-955-2534",
         "addr:city": "Bridgeton",
         "brand": "ALDI",
@@ -32289,7 +32289,7 @@
         "addr:housenumber": "895",
         "opening_hours": "Mo-Su 09:00-20:00",
         "addr:city": "Forney",
-        "addr:street": "North Fm 548",
+        "addr:street": "North FM 548",
         "name": "Aldi",
         "addr:state": "TX",
         "shop": "supermarket"
@@ -33324,7 +33324,7 @@
       "properties": {
         "brand:wikidata": "Q41171672",
         "addr:postcode": "29445",
-        "addr:street": "Saint\u0002",
+        "addr:street": "Saint James Avenue",
         "addr:housenumber": "205",
         "addr:city": "Goose Creek",
         "brand": "ALDI",
@@ -34685,7 +34685,7 @@
         "opening_hours": "Mo-Su 08:00-20:00,09:00-20:00",
         "brand:wikidata": "Q41171672",
         "website": "https://stores.aldi.us/sc/columbia/6075-st-andrews-road-s",
-        "addr:street": "Saint\u0002",
+        "addr:street": "Saint Andrews Road South",
         "phone": "+1 833-466-1039",
         "addr:city": "Columbia",
         "brand": "ALDI",
