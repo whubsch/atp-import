@@ -12,6 +12,7 @@ from resources import (
     name_expand,
     useless_tags,
     repeat_tags,
+    saints,
 )
 
 VERSION = "0.1.2"
@@ -95,13 +96,16 @@ sr_comp = regex.compile(
     flags=regex.IGNORECASE,
 )
 
-saint_comp = regex.compile(r"^(St.?)( .+)$", flags=regex.IGNORECASE)
+saint_comp = regex.compile(
+    rf"^(St\.?)(?= )|(St\.?)(?= (?:{'|'.join(saints)}))",
+    flags=regex.IGNORECASE,
+)
 
 
-def get_first(value: str) -> str:
+def get_first(value: str, sep: str = ";") -> str:
     """Return the first value in a semicolon separated string."""
     if ";" in value:
-        return get_title(value.split(";")[0])
+        return get_title(value.split(sep)[0])
     return value
 
 
@@ -111,7 +115,7 @@ def abbrs(value: str) -> str:
 
     # change likely 'St' to 'Saint'
     value = saint_comp.sub(
-        r"Saint\2",
+        "Saint",
         value,
     )
 
@@ -195,7 +199,7 @@ def run(file_list: list[str]) -> None:
 
                     # split up ATP-generated address field
                     address_match = regex.match(
-                        r"([0-9]+)(?:-?([A-Z]+))? ([a-zA-Z .'0-9]+)",
+                        r"([0-9-]+|One|Two)(?:-?([A-Z]+))? ([a-zA-Z .'0-9]+)",
                         objt[addr_tag],
                     )
                     if address_match:
@@ -213,7 +217,11 @@ def run(file_list: list[str]) -> None:
             if "addr:street" in objt:
                 street = abbrs(objt["addr:street"])
 
-                street = regex.sub(r"St.?( [NESW]\.?[EW]?\.?)?$", r"Street\1", street)
+                street = regex.sub(
+                    r"St\.?(?= [NESW]\.?[EW]?\.?)|(?<=[0-9][thndstr]{2} )St\.?|St\.?$",
+                    "Street",
+                    street,
+                )
                 suite_match = regex.search(
                     r"(.+?),? (?:(?:S(?:ui)?te|Uni?t|R(?:oo)?m|Apt|Dept|Trlr|Hngr)\.? |#)([A-Z0-9]+)",
                     street,

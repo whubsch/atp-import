@@ -1,3 +1,5 @@
+"""Hold info for the cleaning script."""
+
 useless_tags = [
     "@spider",
     "nsi_id",
@@ -8,6 +10,7 @@ useless_tags = [
     "store_format",
     "display_name",
     "number",
+    "image",
 ]
 
 repeat_tags = [
@@ -39,6 +42,8 @@ name_expand = {
     "ARPT": "airport",
     "BLDG": "building",
     "CONF": "conference",
+    "CONV": "convention",
+    "CNTR": "center",
     "CTR": "center",
     "DWTN": "downtown",
     "INTL": "international",
@@ -69,7 +74,6 @@ street_expand = {
     "CP": "CAMP",
     "CYN": "CANYON",
     "CPE": "CAPE",
-    "CSWY": "CAUSEWAY",
     "CTR": "CENTER",
     "CTRS": "CENTERS",
     "CIR": "CIRCLE",
@@ -90,9 +94,6 @@ street_expand = {
     "CRES": "CRESCENT",
     "CRST": "CREST",
     "CSWY": "CAUSEWAY",
-    "XING": "CROSSING",
-    "XRD": "CROSSROAD",
-    "XRDS": "CROSSROADS",
     "CURV": "CURVE",
     "DL": "DALE",
     "DM": "DAM",
@@ -237,4 +238,26 @@ street_expand = {
     "WL": "WELL",
     "WLS": "WELLS",
     "XING": "CROSSING",
+    "XRD": "CROSSROAD",
+    "XRDS": "CROSSROADS",
 }
+
+saints = [
+    "Andrew",
+    "John",
+    "Mary",
+    "Paul",
+    "Peter",
+    "Charles",
+    "Mark",
+    "Joseph",
+    "James",
+    "Luke",
+    "Louis",
+    "Francis",
+    "Augustine",
+    "Vincent",
+    "Rose",
+    "Lucie",
+    "Cloud",
+]
