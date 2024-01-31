@@ -20,10 +20,7 @@
         "name": "Trader Joe's",
         "addr:city": "Thousand Oaks"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.9538252, 34.1800942]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.9538252, 34.1800942] }
     },
     {
       "type": "Feature",
@@ -43,10 +40,7 @@
         "addr:city": "Tulsa",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.975934, 36.1096067]
-      }
+      "geometry": { "type": "Point", "coordinates": [-95.975934, 36.1096067] }
     },
     {
       "type": "Feature",
@@ -66,10 +60,7 @@
         "name": "Trader Joe's",
         "ref": "84"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.073003, 37.6853639]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.073003, 37.6853639] }
     },
     {
       "type": "Feature",
@@ -89,10 +80,7 @@
         "addr:city": "West Hollywood",
         "branch": "West Hollywood"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3795598, 34.0879918]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3795598, 34.0879918] }
     },
     {
       "type": "Feature",
@@ -112,10 +100,7 @@
         "addr:housenumber": "17",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.9826671, 42.1129268]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.9826671, 42.1129268] }
     },
     {
       "type": "Feature",
@@ -135,10 +120,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "3649"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.126966, 37.8902393]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.126966, 37.8902393] }
     },
     {
       "type": "Feature",
@@ -158,10 +140,7 @@
         "addr:city": "Queens",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8582626, 40.710916]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.8582626, 40.710916] }
     },
     {
       "type": "Feature",
@@ -181,10 +160,7 @@
         "addr:city": "Southlake",
         "ref": "406"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.1294179, 32.9413307]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.1294179, 32.9413307] }
     },
     {
       "type": "Feature",
@@ -204,10 +180,7 @@
         "website": "https://locations.traderjoes.com/ma/foxborough/528/",
         "ref": "528"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.2692716, 42.0866187]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.2692716, 42.0866187] }
     },
     {
       "type": "Feature",
@@ -227,10 +200,7 @@
         "addr:housenumber": "44",
         "addr:city": "Naperville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.1405028, 41.7545412]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.1405028, 41.7545412] }
     },
     {
       "type": "Feature",
@@ -250,10 +220,7 @@
         "name": "Trader Joe's",
         "ref": "518"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.487168, 41.712416]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.487168, 41.712416] }
     },
     {
       "type": "Feature",
@@ -273,10 +240,7 @@
         "branch": "Cambridge Fresh Pond",
         "ref": "517"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1435906, 42.390022]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.1435906, 42.390022] }
     },
     {
       "type": "Feature",
@@ -296,10 +260,7 @@
         "branch": "Walnut Creek",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0605735, 37.8931373]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0605735, 37.8931373] }
     },
     {
       "type": "Feature",
@@ -319,10 +280,7 @@
         "addr:city": "Eugene",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.0752647, 44.0662723]
-      }
+      "geometry": { "type": "Point", "coordinates": [-123.0752647, 44.0662723] }
     },
     {
       "type": "Feature",
@@ -342,10 +300,7 @@
         "ref": "233",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4066803, 33.7493301]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4066803, 33.7493301] }
     },
     {
       "type": "Feature",
@@ -365,10 +320,7 @@
         "addr:street": "Spring Street",
         "ref": "539"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0047294, 40.7256743]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.0047294, 40.7256743] }
     },
     {
       "type": "Feature",
@@ -386,10 +338,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8503722, 40.7300422]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.8503722, 40.7300422] }
     },
     {
       "type": "Feature",
@@ -409,10 +358,7 @@
         "name": "Trader Joe's",
         "addr:city": "Cincinnati"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3817041, 39.1973262]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.3817041, 39.1973262] }
     },
     {
       "type": "Feature",
@@ -432,10 +378,7 @@
         "phone": "+1 718-246-8460",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9928699, 40.6895837]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9928699, 40.6895837] }
     },
     {
       "type": "Feature",
@@ -455,10 +398,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0309145, 37.3117915]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0309145, 37.3117915] }
     },
     {
       "type": "Feature",
@@ -478,10 +418,7 @@
         "ref": "34",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.379888, 33.8876384]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.379888, 33.8876384] }
     },
     {
       "type": "Feature",
@@ -501,10 +438,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.4205286, 38.4066009]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.4205286, 38.4066009] }
     },
     {
       "type": "Feature",
@@ -524,10 +458,7 @@
         "addr:state": "MA",
         "ref": "516"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.9565375, 42.5497457]
-      }
+      "geometry": { "type": "Point", "coordinates": [-70.9565375, 42.5497457] }
     },
     {
       "type": "Feature",
@@ -547,10 +478,7 @@
         "name": "Trader Joe's",
         "ref": "727"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.1447262, 45.05799]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.1447262, 45.05799] }
     },
     {
       "type": "Feature",
@@ -570,10 +498,7 @@
         "addr:housenumber": "1211",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6800329, 42.0397785]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.6800329, 42.0397785] }
     },
     {
       "type": "Feature",
@@ -593,10 +518,7 @@
         "name": "Trader Joe's",
         "ref": "769"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6301983, 30.173927]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.6301983, 30.173927] }
     },
     {
       "type": "Feature",
@@ -616,10 +538,7 @@
         "name": "Trader Joe's",
         "branch": "San Diego - Pacific Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2406508, 32.8005438]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2406508, 32.8005438] }
     },
     {
       "type": "Feature",
@@ -639,10 +558,7 @@
         "branch": "Westbury",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.6039002, 40.7443902]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.6039002, 40.7443902] }
     },
     {
       "type": "Feature",
@@ -662,10 +578,7 @@
         "name": "Trader Joe's",
         "addr:state": "WI"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.9162927, 43.1189323]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.9162927, 43.1189323] }
     },
     {
       "type": "Feature",
@@ -685,10 +598,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0840861, 42.3484566]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.0840861, 42.3484566] }
     },
     {
       "type": "Feature",
@@ -708,10 +618,7 @@
         "name": "Trader Joe's",
         "ref": "605"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0705862, 40.9483179]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.0705862, 40.9483179] }
     },
     {
       "type": "Feature",
@@ -731,10 +638,7 @@
         "addr:street": "Hibert Street",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1151691, 32.9144947]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1151691, 32.9144947] }
     },
     {
       "type": "Feature",
@@ -754,10 +658,7 @@
         "addr:city": "Concord",
         "ref": "83"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.024742, 37.9368265]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.024742, 37.9368265] }
     },
     {
       "type": "Feature",
@@ -777,10 +678,7 @@
         "ref": "706",
         "addr:housenumber": "1528"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.588384, 41.796396]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.588384, 41.796396] }
     },
     {
       "type": "Feature",
@@ -800,10 +698,7 @@
         "branch": "Lake Grove",
         "addr:city": "Lake Grove"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.1280967, 40.8686356]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.1280967, 40.8686356] }
     },
     {
       "type": "Feature",
@@ -823,10 +718,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "55"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.8822438, 42.3434878]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.8822438, 42.3434878] }
     },
     {
       "type": "Feature",
@@ -846,10 +738,7 @@
         "name": "Trader Joe's",
         "addr:city": "Elkridge"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.7956374, 39.1883169]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.7956374, 39.1883169] }
     },
     {
       "type": "Feature",
@@ -867,10 +756,7 @@
         "brand:wikidata": "Q688825",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.0935159, 29.2076018]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.0935159, 29.2076018] }
     },
     {
       "type": "Feature",
@@ -890,10 +776,7 @@
         "name": "Trader Joe's",
         "addr:street": "Ogden Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.9890937, 41.8110584]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.9890937, 41.8110584] }
     },
     {
       "type": "Feature",
@@ -913,10 +796,7 @@
         "addr:city": "Batavia",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.338489, 41.8638735]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.338489, 41.8638735] }
     },
     {
       "type": "Feature",
@@ -936,10 +816,7 @@
         "name": "Trader Joe's",
         "addr:street": "Forest Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9219308, 36.6055799]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9219308, 36.6055799] }
     },
     {
       "type": "Feature",
@@ -959,10 +836,7 @@
         "addr:street": "Prospect",
         "ref": "62"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9941504, 37.2929672]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9941504, 37.2929672] }
     },
     {
       "type": "Feature",
@@ -982,10 +856,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "4209"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-110.9447958, 32.2835033]
-      }
+      "geometry": { "type": "Point", "coordinates": [-110.9447958, 32.2835033] }
     },
     {
       "type": "Feature",
@@ -1005,10 +876,7 @@
         "branch": "Houston - South Voss Road",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5016658, 29.7527195]
-      }
+      "geometry": { "type": "Point", "coordinates": [-95.5016658, 29.7527195] }
     },
     {
       "type": "Feature",
@@ -1028,10 +896,7 @@
         "addr:housenumber": "12551",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.5164768, 37.1309371]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.5164768, 37.1309371] }
     },
     {
       "type": "Feature",
@@ -1051,10 +916,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "19715"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.313765, 47.8196337]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.313765, 47.8196337] }
     },
     {
       "type": "Feature",
@@ -1074,10 +936,7 @@
         "name": "Trader Joe's",
         "addr:city": "Chula Vista"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9703882, 32.6513234]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9703882, 32.6513234] }
     },
     {
       "type": "Feature",
@@ -1095,10 +954,7 @@
         "brand:wikidata": "Q688825",
         "ref": "5008"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5044523, 34.0674405]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5044523, 34.0674405] }
     },
     {
       "type": "Feature",
@@ -1118,10 +974,7 @@
         "name": "Trader Joe's",
         "ref": "529"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.5473117, 41.1068964]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.5473117, 41.1068964] }
     },
     {
       "type": "Feature",
@@ -1141,10 +994,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "30308"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3670198, 33.7787545]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.3670198, 33.7787545] }
     },
     {
       "type": "Feature",
@@ -1164,10 +1014,7 @@
         "name": "Trader Joe's",
         "phone": "+1 323-931-4012"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3617784, 34.0722126]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3617784, 34.0722126] }
     },
     {
       "type": "Feature",
@@ -1187,10 +1034,7 @@
         "addr:city": "Roseville",
         "addr:street": "Roseville Square"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.274886, 38.7462886]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.274886, 38.7462886] }
     },
     {
       "type": "Feature",
@@ -1210,10 +1054,7 @@
         "name": "Trader Joe's",
         "addr:city": "Thousand Oaks"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.8690704, 34.2189862]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.8690704, 34.2189862] }
     },
     {
       "type": "Feature",
@@ -1233,10 +1074,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/glendale/53/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2545353, 34.1598391]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.2545353, 34.1598391] }
     },
     {
       "type": "Feature",
@@ -1256,10 +1094,7 @@
         "addr:city": "Nashville",
         "branch": "Nashville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.815626, 36.1050835]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.815626, 36.1050835] }
     },
     {
       "type": "Feature",
@@ -1279,10 +1114,7 @@
         "addr:postcode": "10598",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8248107, 41.2917236]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.8248107, 41.2917236] }
     },
     {
       "type": "Feature",
@@ -1302,10 +1134,7 @@
         "branch": "Capitola",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9701506, 36.9785429]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9701506, 36.9785429] }
     },
     {
       "type": "Feature",
@@ -1325,10 +1154,7 @@
         "branch": "West Hollywood",
         "ref": "40"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3492106, 34.0905855]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3492106, 34.0905855] }
     },
     {
       "type": "Feature",
@@ -1348,10 +1174,7 @@
         "phone": "+1 503-244-4625",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7508839, 45.4661668]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.7508839, 45.4661668] }
     },
     {
       "type": "Feature",
@@ -1370,10 +1193,7 @@
         "brand:wikidata": "Q688825",
         "phone": "+1 562-266-1428"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9690152, 33.9186903]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9690152, 33.9186903] }
     },
     {
       "type": "Feature",
@@ -1393,10 +1213,7 @@
         "name": "Trader Joe's",
         "ref": "82"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.7839949, 39.4787891]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.7839949, 39.4787891] }
     },
     {
       "type": "Feature",
@@ -1416,10 +1233,7 @@
         "name": "Trader Joe's",
         "addr:city": "Surprise"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.3673991, 33.6513787]
-      }
+      "geometry": { "type": "Point", "coordinates": [-112.3673991, 33.6513787] }
     },
     {
       "type": "Feature",
@@ -1439,10 +1253,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4252299, 42.2991166]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.4252299, 42.2991166] }
     },
     {
       "type": "Feature",
@@ -1462,10 +1273,7 @@
         "addr:city": "Mount Pleasant",
         "phone": "+1 843-884-4037"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.8871696, 32.8047946]
-      }
+      "geometry": { "type": "Point", "coordinates": [-79.8871696, 32.8047946] }
     },
     {
       "type": "Feature",
@@ -1485,10 +1293,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "15868"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3313909, 47.460074]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3313909, 47.460074] }
     },
     {
       "type": "Feature",
@@ -1508,10 +1313,7 @@
         "addr:city": "Washington",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9952324, 38.8852918]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.9952324, 38.8852918] }
     },
     {
       "type": "Feature",
@@ -1531,10 +1333,7 @@
         "addr:state": "NC",
         "ref": "747"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.8857637, 34.2107721]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.8857637, 34.2107721] }
     },
     {
       "type": "Feature",
@@ -1554,10 +1353,7 @@
         "addr:city": "Encino",
         "branch": "Encino"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5177696, 34.1717937]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.5177696, 34.1717937] }
     },
     {
       "type": "Feature",
@@ -1577,10 +1373,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/rancho-santa-margarita/27/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5953482, 33.6424952]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5953482, 33.6424952] }
     },
     {
       "type": "Feature",
@@ -1600,10 +1393,7 @@
         "name": "Trader Joe's",
         "addr:street": "Columbia Pike"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0035012, 39.0313332]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0035012, 39.0313332] }
     },
     {
       "type": "Feature",
@@ -1623,10 +1413,7 @@
         "phone": "+1 970-223-3560",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.0752866, 40.5393421]
-      }
+      "geometry": { "type": "Point", "coordinates": [-105.0752866, 40.5393421] }
     },
     {
       "type": "Feature",
@@ -1646,10 +1433,7 @@
         "name": "Trader Joe's",
         "phone": "+1 626-358-8884"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0122255, 34.1398459]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0122255, 34.1398459] }
     },
     {
       "type": "Feature",
@@ -1669,10 +1453,7 @@
         "addr:housenumber": "1317",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1205422, 42.3419953]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.1205422, 42.3419953] }
     },
     {
       "type": "Feature",
@@ -1692,10 +1473,7 @@
         "phone": "+1 408-298-9731",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9091788, 37.3408663]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9091788, 37.3408663] }
     },
     {
       "type": "Feature",
@@ -1715,10 +1493,7 @@
         "website": "https://locations.traderjoes.com/mn/maple-grove/713/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.4340902, 45.0921896]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.4340902, 45.0921896] }
     },
     {
       "type": "Feature",
@@ -1738,10 +1513,7 @@
         "addr:postcode": "10009",
         "addr:street": "East 14th Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9809993, 40.730446]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9809993, 40.730446] }
     },
     {
       "type": "Feature",
@@ -1761,10 +1533,7 @@
         "phone": "+1 954-432-0405",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.3107778, 26.0058489]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.3107778, 26.0058489] }
     },
     {
       "type": "Feature",
@@ -1784,10 +1553,7 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3177437, 47.6626855]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3177437, 47.6626855] }
     },
     {
       "type": "Feature",
@@ -1807,10 +1573,7 @@
         "name": "Trader Joe's",
         "addr:street": "Southeast Everett Mall Way"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2213893, 47.9107208]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.2213893, 47.9107208] }
     },
     {
       "type": "Feature",
@@ -1830,10 +1593,7 @@
         "addr:street": "Irvine Boulevard",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7418594, 33.6998684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7418594, 33.6998684] }
     },
     {
       "type": "Feature",
@@ -1853,10 +1613,7 @@
         "addr:postcode": "80301",
         "addr:street": "28th Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.2578411, 40.0202684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-105.2578411, 40.0202684] }
     },
     {
       "type": "Feature",
@@ -1876,10 +1633,7 @@
         "addr:city": "San Diego",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2172925, 32.7359623]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2172925, 32.7359623] }
     },
     {
       "type": "Feature",
@@ -1899,10 +1653,7 @@
         "name": "Trader Joe's",
         "addr:city": "Huntington Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9927157, 33.6925294]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9927157, 33.6925294] }
     },
     {
       "type": "Feature",
@@ -1922,10 +1673,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/co/denver/310/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.9402933, 39.729035]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.9402933, 39.729035] }
     },
     {
       "type": "Feature",
@@ -1945,10 +1693,7 @@
         "addr:city": "Park Ridge",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.8323637, 42.0127157]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.8323637, 42.0127157] }
     },
     {
       "type": "Feature",
@@ -1968,10 +1713,7 @@
         "addr:state": "MA",
         "ref": "506"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.017554, 42.4834902]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.017554, 42.4834902] }
     },
     {
       "type": "Feature",
@@ -1991,10 +1733,7 @@
         "name": "Trader Joe's",
         "phone": "+1 305-442-5402"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2580869, 25.7292643]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.2580869, 25.7292643] }
     },
     {
       "type": "Feature",
@@ -2014,10 +1753,7 @@
         "addr:city": "Huntington Beach",
         "branch": "Huntington Harbour"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.05145, 33.7175194]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.05145, 33.7175194] }
     },
     {
       "type": "Feature",
@@ -2037,10 +1773,7 @@
         "addr:state": "CT",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.253173, 41.1831393]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.253173, 41.1831393] }
     },
     {
       "type": "Feature",
@@ -2060,10 +1793,7 @@
         "addr:housenumber": "12",
         "phone": "+1 610-891-2752"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.3888998, 39.9175588]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.3888998, 39.9175588] }
     },
     {
       "type": "Feature",
@@ -2081,10 +1811,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.284786, 33.4490696]
-      }
+      "geometry": { "type": "Point", "coordinates": [-112.284786, 33.4490696] }
     },
     {
       "type": "Feature",
@@ -2104,10 +1831,7 @@
         "name": "Trader Joe's",
         "addr:street": "Forest Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.9726801, 34.0200278]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.9726801, 34.0200278] }
     },
     {
       "type": "Feature",
@@ -2127,10 +1851,7 @@
         "ref": "101",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0522272, 38.2641547]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0522272, 38.2641547] }
     },
     {
       "type": "Feature",
@@ -2150,10 +1871,7 @@
         "name": "Trader Joe's",
         "addr:city": "Austin"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.7527899, 30.2674966]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.7527899, 30.2674966] }
     },
     {
       "type": "Feature",
@@ -2173,10 +1891,7 @@
         "name": "Trader Joe's",
         "branch": "Palm Beach Gardens"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0741839, 26.8437756]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.0741839, 26.8437756] }
     },
     {
       "type": "Feature",
@@ -2196,10 +1911,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-120.4213274, 34.9380236]
-      }
+      "geometry": { "type": "Point", "coordinates": [-120.4213274, 34.9380236] }
     },
     {
       "type": "Feature",
@@ -2219,10 +1931,7 @@
         "ref": "88",
         "website": "https://locations.traderjoes.com/az/tucson/88/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-110.8909436, 32.2497812]
-      }
+      "geometry": { "type": "Point", "coordinates": [-110.8909436, 32.2497812] }
     },
     {
       "type": "Feature",
@@ -2242,10 +1951,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "07030"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0299492, 40.7536747]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.0299492, 40.7536747] }
     },
     {
       "type": "Feature",
@@ -2265,10 +1971,7 @@
         "addr:street": "Peachtree Parkway",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.2195636, 33.979183]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.2195636, 33.979183] }
     },
     {
       "type": "Feature",
@@ -2288,10 +1991,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "06033"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5998159, 41.7134698]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.5998159, 41.7134698] }
     },
     {
       "type": "Feature",
@@ -2311,10 +2011,7 @@
         "addr:state": "WI",
         "phone": "+1 608-257-1916"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.4175436, 43.0649866]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.4175436, 43.0649866] }
     },
     {
       "type": "Feature",
@@ -2334,10 +2031,7 @@
         "addr:postcode": "97086",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.5807379, 45.4558588]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.5807379, 45.4558588] }
     },
     {
       "type": "Feature",
@@ -2355,10 +2049,7 @@
         "brand:wikidata": "Q688825",
         "addr:city": "Bloomfield"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.7107072, 41.8695919]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.7107072, 41.8695919] }
     },
     {
       "type": "Feature",
@@ -2378,10 +2069,7 @@
         "name": "Trader Joe's",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.5535733, 35.603047]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.5535733, 35.603047] }
     },
     {
       "type": "Feature",
@@ -2401,10 +2089,7 @@
         "addr:street": "South La Brea Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3444162, 34.0691505]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3444162, 34.0691505] }
     },
     {
       "type": "Feature",
@@ -2424,10 +2109,7 @@
         "addr:postcode": "23060",
         "ref": "659"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.6068018, 37.6488915]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.6068018, 37.6488915] }
     },
     {
       "type": "Feature",
@@ -2447,10 +2129,7 @@
         "addr:street": "Southwest Pacific Highway",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7965719, 45.4036566]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.7965719, 45.4036566] }
     },
     {
       "type": "Feature",
@@ -2470,10 +2149,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.8316142, 42.122497]
-      }
+      "geometry": { "type": "Point", "coordinates": [-70.8316142, 42.122497] }
     },
     {
       "type": "Feature",
@@ -2493,10 +2169,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.2348917, 42.292737]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.2348917, 42.292737] }
     },
     {
       "type": "Feature",
@@ -2516,10 +2189,7 @@
         "phone": "+1 530-343-9920",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.8465145, 39.759334]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.8465145, 39.759334] }
     },
     {
       "type": "Feature",
@@ -2539,10 +2209,7 @@
         "ref": "749",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2815976, 36.092756]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.2815976, 36.092756] }
     },
     {
       "type": "Feature",
@@ -2562,10 +2229,7 @@
         "name": "Trader Joe's",
         "branch": "Carson City"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.776632, 39.111761]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.776632, 39.111761] }
     },
     {
       "type": "Feature",
@@ -2585,10 +2249,7 @@
         "website": "https://locations.traderjoes.com/va/arlington/640/",
         "addr:housenumber": "1109"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.094641, 38.886684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.094641, 38.886684] }
     },
     {
       "type": "Feature",
@@ -2608,10 +2269,7 @@
         "addr:city": "La Jolla",
         "phone": "+1 858-546-8629"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2317263, 32.8657504]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2317263, 32.8657504] }
     },
     {
       "type": "Feature",
@@ -2631,10 +2289,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "15932"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1279924, 47.675818]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1279924, 47.675818] }
     },
     {
       "type": "Feature",
@@ -2654,10 +2309,7 @@
         "name": "Trader Joe's",
         "phone": "+1 315-446-1629"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.0706463, 43.0462423]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.0706463, 43.0462423] }
     },
     {
       "type": "Feature",
@@ -2677,10 +2329,7 @@
         "addr:state": "MA",
         "addr:street": "Thomson Place"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0472696, 42.3518578]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.0472696, 42.3518578] }
     },
     {
       "type": "Feature",
@@ -2700,10 +2349,7 @@
         "ref": "87",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.91713, 33.6358602]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.91713, 33.6358602] }
     },
     {
       "type": "Feature",
@@ -2723,10 +2369,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ia/west-des-moines/721/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.7933626, 41.5615576]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.7933626, 41.5615576] }
     },
     {
       "type": "Feature",
@@ -2746,10 +2389,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.2106665, 42.473428]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.2106665, 42.473428] }
     },
     {
       "type": "Feature",
@@ -2769,10 +2409,7 @@
         "ref": "45",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.2118273, 34.2572008]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.2118273, 34.2572008] }
     },
     {
       "type": "Feature",
@@ -2792,10 +2429,7 @@
         "addr:state": "MA",
         "addr:city": "Allston"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1298352, 42.3635097]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.1298352, 42.3635097] }
     },
     {
       "type": "Feature",
@@ -2815,10 +2449,7 @@
         "phone": "+1 760-233-4020",
         "branch": "Escondido"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.074828, 33.1000238]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.074828, 33.1000238] }
     },
     {
       "type": "Feature",
@@ -2838,10 +2469,7 @@
         "addr:city": "Rancho Cucamonga",
         "addr:street": "Haven Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5741371, 34.1377362]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5741371, 34.1377362] }
     },
     {
       "type": "Feature",
@@ -2861,10 +2489,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/wa/silverdale/158/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6831633, 47.6554254]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.6831633, 47.6554254] }
     },
     {
       "type": "Feature",
@@ -2884,10 +2509,7 @@
         "name": "Trader Joe's",
         "ref": "604"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.3913684, 40.7891323]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.3913684, 40.7891323] }
     },
     {
       "type": "Feature",
@@ -2907,10 +2529,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/monterey/204/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.8943519, 36.5965585]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.8943519, 36.5965585] }
     },
     {
       "type": "Feature",
@@ -2930,10 +2549,7 @@
         "ref": "78",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4073786, 37.7711099]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4073786, 37.7711099] }
     },
     {
       "type": "Feature",
@@ -2953,10 +2569,7 @@
         "phone": "+1 718-243-0107",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9829165, 40.6909912]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9829165, 40.6909912] }
     },
     {
       "type": "Feature",
@@ -2974,10 +2587,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9461982, 40.7458383]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9461982, 40.7458383] }
     },
     {
       "type": "Feature",
@@ -2997,10 +2607,7 @@
         "addr:postcode": "07020",
         "ref": "606"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9775851, 40.8196686]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9775851, 40.8196686] }
     },
     {
       "type": "Feature",
@@ -3020,10 +2627,7 @@
         "ref": "146",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6951618, 45.5261013]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.6951618, 45.5261013] }
     },
     {
       "type": "Feature",
@@ -3043,10 +2647,7 @@
         "addr:city": "Sherman Oaks",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4408137, 34.1579742]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4408137, 34.1579742] }
     },
     {
       "type": "Feature",
@@ -3066,10 +2667,7 @@
         "addr:street": "South University Drive",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2519958, 26.0928399]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.2519958, 26.0928399] }
     },
     {
       "type": "Feature",
@@ -3089,10 +2687,7 @@
         "phone": "+1 425-557-6420",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0522419, 47.5439787]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0522419, 47.5439787] }
     },
     {
       "type": "Feature",
@@ -3112,10 +2707,7 @@
         "addr:street": "East Imperial Highway",
         "phone": "+1 714-257-1180"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8700159, 33.9105696]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8700159, 33.9105696] }
     },
     {
       "type": "Feature",
@@ -3135,10 +2727,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.651735, 33.4574319]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.651735, 33.4574319] }
     },
     {
       "type": "Feature",
@@ -3158,10 +2747,7 @@
         "name": "Trader Joe's",
         "ref": "77"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9861519, 37.5434679]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9861519, 37.5434679] }
     },
     {
       "type": "Feature",
@@ -3181,10 +2767,7 @@
         "name": "Trader Joe's",
         "ref": "617"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.5063192, 40.8661795]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.5063192, 40.8661795] }
     },
     {
       "type": "Feature",
@@ -3204,10 +2787,7 @@
         "addr:city": "Palo Alto",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1577459, 37.4384255]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1577459, 37.4384255] }
     },
     {
       "type": "Feature",
@@ -3227,10 +2807,7 @@
         "ref": "705",
         "addr:postcode": "60173"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.041887, 42.0510988]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.041887, 42.0510988] }
     },
     {
       "type": "Feature",
@@ -3250,10 +2827,7 @@
         "addr:housenumber": "14856",
         "ref": "407"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.8028234, 32.9508704]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.8028234, 32.9508704] }
     },
     {
       "type": "Feature",
@@ -3296,10 +2870,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.444806, 38.560398]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.444806, 38.560398] }
     },
     {
       "type": "Feature",
@@ -3319,10 +2890,7 @@
         "addr:postcode": "12205",
         "addr:housenumber": "79"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8120389, 42.7141625]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.8120389, 42.7141625] }
     },
     {
       "type": "Feature",
@@ -3340,10 +2908,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.2436788, 37.9109458]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.2436788, 37.9109458] }
     },
     {
       "type": "Feature",
@@ -3363,10 +2928,7 @@
         "addr:state": "CT",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.4617098, 41.0844564]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.4617098, 41.0844564] }
     },
     {
       "type": "Feature",
@@ -3386,10 +2948,7 @@
         "addr:state": "CO",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.8168953, 38.9071557]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.8168953, 38.9071557] }
     },
     {
       "type": "Feature",
@@ -3409,10 +2968,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.1327867, 38.8510336]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.1327867, 38.8510336] }
     },
     {
       "type": "Feature",
@@ -3432,10 +2988,7 @@
         "name": "Trader Joe's",
         "phone": "+1 407-345-0611"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.4965868, 28.4503045]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.4965868, 28.4503045] }
     },
     {
       "type": "Feature",
@@ -3455,10 +3008,7 @@
         "branch": "Santa Monica",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4919662, 34.0157655]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4919662, 34.0157655] }
     },
     {
       "type": "Feature",
@@ -3478,10 +3028,7 @@
         "name": "Trader Joe's",
         "addr:street": "Pacific Coast Highway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.330186, 33.790641]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.330186, 33.790641] }
     },
     {
       "type": "Feature",
@@ -3501,10 +3048,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/los-angeles/206/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3260586, 34.1003784]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3260586, 34.1003784] }
     },
     {
       "type": "Feature",
@@ -3524,10 +3068,7 @@
         "addr:housenumber": "11755",
         "phone": "+1 310-477-5949"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4493107, 34.0337159]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4493107, 34.0337159] }
     },
     {
       "type": "Feature",
@@ -3547,10 +3088,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "06042"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5576549, 41.8067497]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.5576549, 41.8067497] }
     },
     {
       "type": "Feature",
@@ -3570,10 +3108,7 @@
         "addr:housenumber": "15466",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9579316, 37.2441186]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9579316, 37.2441186] }
     },
     {
       "type": "Feature",
@@ -3593,10 +3128,7 @@
         "phone": "+1 909-627-1404",
         "addr:housenumber": "13911"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7321143, 34.0005411]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7321143, 34.0005411] }
     },
     {
       "type": "Feature",
@@ -3614,10 +3146,7 @@
         "brand:wikidata": "Q688825",
         "addr:city": "Bloomfield"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.7103427, 41.8688765]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.7103427, 41.8688765] }
     },
     {
       "type": "Feature",
@@ -3637,10 +3166,7 @@
         "website": "https://locations.traderjoes.com/md/bethesda/645/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0905313, 38.978257]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0905313, 38.978257] }
     },
     {
       "type": "Feature",
@@ -3660,10 +3186,7 @@
         "name": "Trader Joe's",
         "addr:street": "East University Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9250249, 33.4223923]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.9250249, 33.4223923] }
     },
     {
       "type": "Feature",
@@ -3683,10 +3206,7 @@
         "name": "Trader Joe's",
         "addr:city": "Long Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1884404, 33.8355392]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1884404, 33.8355392] }
     },
     {
       "type": "Feature",
@@ -3706,10 +3226,7 @@
         "name": "Trader Joe's",
         "addr:street": "16th Street Southwest"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.481255, 44.0003608]
-      }
+      "geometry": { "type": "Point", "coordinates": [-92.481255, 44.0003608] }
     },
     {
       "type": "Feature",
@@ -3729,10 +3246,7 @@
         "website": "https://locations.traderjoes.com/ca/templeton/211/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-120.715191, 35.5419292]
-      }
+      "geometry": { "type": "Point", "coordinates": [-120.715191, 35.5419292] }
     },
     {
       "type": "Feature",
@@ -3752,10 +3266,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.078195, 34.1537035]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.078195, 34.1537035] }
     },
     {
       "type": "Feature",
@@ -3775,10 +3286,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "10600"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8005297, 26.2681317]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.8005297, 26.2681317] }
     },
     {
       "type": "Feature",
@@ -3798,10 +3306,7 @@
         "branch": "Oklahoma City - Nichols Hills",
         "addr:housenumber": "6409"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.5310595, 35.5376946]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.5310595, 35.5376946] }
     },
     {
       "type": "Feature",
@@ -3821,10 +3326,7 @@
         "website": "https://locations.traderjoes.com/nj/cherry-hill/613/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.0321847, 39.9289635]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.0321847, 39.9289635] }
     },
     {
       "type": "Feature",
@@ -3844,10 +3346,7 @@
         "addr:street": "Orlando Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3655605, 28.5983113]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.3655605, 28.5983113] }
     },
     {
       "type": "Feature",
@@ -3867,10 +3366,7 @@
         "addr:state": "MA",
         "ref": "505"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1888223, 42.4254178]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.1888223, 42.4254178] }
     },
     {
       "type": "Feature",
@@ -3890,10 +3386,7 @@
         "addr:city": "Libertyville",
         "ref": "704"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.946718, 42.255041]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.946718, 42.255041] }
     },
     {
       "type": "Feature",
@@ -3913,10 +3406,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/redondo-bch./38/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.386143, 33.8185616]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.386143, 33.8185616] }
     },
     {
       "type": "Feature",
@@ -3936,10 +3426,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0358811, 37.3678921]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0358811, 37.3678921] }
     },
     {
       "type": "Feature",
@@ -3959,10 +3446,7 @@
         "name": "Trader Joe's",
         "addr:city": "Fort Worth"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.3851284, 32.7119773]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.3851284, 32.7119773] }
     },
     {
       "type": "Feature",
@@ -3982,10 +3466,7 @@
         "addr:postcode": "27560",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.8176467, 35.8094722]
-      }
+      "geometry": { "type": "Point", "coordinates": [-78.8176467, 35.8094722] }
     },
     {
       "type": "Feature",
@@ -4005,10 +3486,7 @@
         "website": "https://locations.traderjoes.com/nj/marlton/631/",
         "addr:postcode": "08053"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.9241654, 39.8903837]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.9241654, 39.8903837] }
     },
     {
       "type": "Feature",
@@ -4028,10 +3506,7 @@
         "branch": "Buckhead",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3749866, 33.8409526]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.3749866, 33.8409526] }
     },
     {
       "type": "Feature",
@@ -4051,10 +3526,7 @@
         "addr:street": "Hilltop Plaza",
         "phone": "+1 757-422-4840"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.0247752, 36.8486112]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.0247752, 36.8486112] }
     },
     {
       "type": "Feature",
@@ -4074,10 +3546,7 @@
         "phone": "+1 734-975-2455",
         "addr:city": "Ann Arbor"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.7130225, 42.258405]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.7130225, 42.258405] }
     },
     {
       "type": "Feature",
@@ -4097,10 +3566,7 @@
         "name": "Trader Joe's",
         "ref": "72"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2942301, 37.8369813]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.2942301, 37.8369813] }
     },
     {
       "type": "Feature",
@@ -4120,10 +3586,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/rancho-palos-verdes/57/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3107608, 33.7559548]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3107608, 33.7559548] }
     },
     {
       "type": "Feature",
@@ -4143,10 +3606,7 @@
         "ref": "716",
         "addr:city": "Saint Paul"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.1458914, 44.926697]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.1458914, 44.926697] }
     },
     {
       "type": "Feature",
@@ -4166,10 +3626,7 @@
         "name": "Trader Joe's",
         "phone": "+1 916-817-8820"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.1559149, 38.6724426]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.1559149, 38.6724426] }
     },
     {
       "type": "Feature",
@@ -4189,10 +3646,7 @@
         "name": "Trader Joe's",
         "branch": "Mission Viejo"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.658427, 33.5930519]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.658427, 33.5930519] }
     },
     {
       "type": "Feature",
@@ -4212,10 +3666,7 @@
         "website": "https://locations.traderjoes.com/nj/brick/615/",
         "ref": "615"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1408787, 40.0572433]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.1408787, 40.0572433] }
     },
     {
       "type": "Feature",
@@ -4235,10 +3686,7 @@
         "branch": "San Francisco",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4478739, 37.7833698]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4478739, 37.7833698] }
     },
     {
       "type": "Feature",
@@ -4258,10 +3706,7 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0670548, 37.3367053]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0670548, 37.3367053] }
     },
     {
       "type": "Feature",
@@ -4281,10 +3726,7 @@
         "ref": "55",
         "addr:street": "Colorado Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.200439, 34.1392586]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.200439, 34.1392586] }
     },
     {
       "type": "Feature",
@@ -4304,10 +3746,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "86303"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.405347, 34.548656]
-      }
+      "geometry": { "type": "Point", "coordinates": [-112.405347, 34.548656] }
     },
     {
       "type": "Feature",
@@ -4327,10 +3766,7 @@
         "name": "Trader Joe's",
         "addr:street": "Madison Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3097028, 47.6160063]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3097028, 47.6160063] }
     },
     {
       "type": "Feature",
@@ -4350,10 +3786,7 @@
         "addr:street": "Russell Boulevard",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.7614861, 38.5467319]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.7614861, 38.5467319] }
     },
     {
       "type": "Feature",
@@ -4373,10 +3806,7 @@
         "website": "https://locations.traderjoes.com/ca/laguna-hills/39/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.702995, 33.6098584]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.702995, 33.6098584] }
     },
     {
       "type": "Feature",
@@ -4396,10 +3826,7 @@
         "addr:postcode": "48301",
         "phone": "+1 248-855-2283"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.2867635, 42.5441271]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.2867635, 42.5441271] }
     },
     {
       "type": "Feature",
@@ -4419,10 +3846,7 @@
         "addr:street": "University Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1538189, 32.7498752]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1538189, 32.7498752] }
     },
     {
       "type": "Feature",
@@ -4442,10 +3866,7 @@
         "addr:city": "Fresno",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.7826491, 36.8588031]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.7826491, 36.8588031] }
     },
     {
       "type": "Feature",
@@ -4465,10 +3886,7 @@
         "website": "https://locations.traderjoes.com/co/denver/302/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.9827877, 39.7268649]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.9827877, 39.7268649] }
     },
     {
       "type": "Feature",
@@ -4488,10 +3906,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "4726"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9790307, 33.5833102]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.9790307, 33.5833102] }
     },
     {
       "type": "Feature",
@@ -4511,10 +3926,7 @@
         "branch": "Santa Rosa Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7120491, 38.4175177]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.7120491, 38.4175177] }
     },
     {
       "type": "Feature",
@@ -4534,10 +3946,7 @@
         "branch": "Dallas Knox",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.789751, 32.822539]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.789751, 32.822539] }
     },
     {
       "type": "Feature",
@@ -4557,10 +3966,7 @@
         "ref": "431",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5824872, 29.7354063]
-      }
+      "geometry": { "type": "Point", "coordinates": [-95.5824872, 29.7354063] }
     },
     {
       "type": "Feature",
@@ -4580,10 +3986,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/wa/bellevue/162/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1848204, 47.6137345]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1848204, 47.6137345] }
     },
     {
       "type": "Feature",
@@ -4603,10 +4006,7 @@
         "addr:housenumber": "2625",
         "website": "https://locations.traderjoes.com/ca/sacramento/70/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.4001675, 38.6185969]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.4001675, 38.6185969] }
     },
     {
       "type": "Feature",
@@ -4626,10 +4026,7 @@
         "name": "Trader Joe's",
         "phone": "+1 719-264-0123"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.8172815, 38.9072763]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.8172815, 38.9072763] }
     },
     {
       "type": "Feature",
@@ -4647,10 +4044,7 @@
         "addr:postcode": "18064",
         "ref": "5503"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.3867596, 40.7139839]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.3867596, 40.7139839] }
     },
     {
       "type": "Feature",
@@ -4670,10 +4064,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "63131"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.4671556, 38.601039]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.4671556, 38.601039] }
     },
     {
       "type": "Feature",
@@ -4693,10 +4084,7 @@
         "name": "Trader Joe's",
         "phone": "+1 202-986-1591"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0321896, 38.9160454]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0321896, 38.9160454] }
     },
     {
       "type": "Feature",
@@ -4716,10 +4104,7 @@
         "ref": "96",
         "branch": "Oro Valley"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-110.9731792, 32.3505126]
-      }
+      "geometry": { "type": "Point", "coordinates": [-110.9731792, 32.3505126] }
     },
     {
       "type": "Feature",
@@ -4739,10 +4124,7 @@
         "website": "https://locations.traderjoes.com/ca/santa-cruz/193/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0246976, 36.974544]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0246976, 36.974544] }
     },
     {
       "type": "Feature",
@@ -4762,10 +4144,7 @@
         "name": "Trader Joe's",
         "ref": "649"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6192304, 39.4114587]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.6192304, 39.4114587] }
     },
     {
       "type": "Feature",
@@ -4785,10 +4164,7 @@
         "addr:city": "Hillsboro",
         "addr:street": "Northwest 185th Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.8696106, 45.5366231]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.8696106, 45.5366231] }
     },
     {
       "type": "Feature",
@@ -4808,10 +4184,7 @@
         "addr:city": "Omaha",
         "addr:postcode": "68114"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.0739732, 41.2482854]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.0739732, 41.2482854] }
     },
     {
       "type": "Feature",
@@ -4831,10 +4204,7 @@
         "ref": "533",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7934729, 41.0255446]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.7934729, 41.0255446] }
     },
     {
       "type": "Feature",
@@ -4849,15 +4219,12 @@
         "addr:housenumber": "4600",
         "ref": "625;628",
         "addr:state": "KY",
-        "branch": "Louisville Wine Shop;Louisville Grocery",
-        "phone": "+1 502-895-7872;+1 502-895-1361",
+        "branch": "Louisville Wine Shop",
+        "phone": "+1 502-895-7872",
         "addr:unit": "111;112",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.6299971, 38.2492748]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.6299971, 38.2492748] }
     },
     {
       "type": "Feature",
@@ -4875,10 +4242,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.122482, 40.4030542]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.122482, 40.4030542] }
     },
     {
       "type": "Feature",
@@ -4898,10 +4262,7 @@
         "name": "Trader Joe's",
         "ref": "759"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.6472659, 39.671006]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.6472659, 39.671006] }
     },
     {
       "type": "Feature",
@@ -4921,10 +4282,7 @@
         "name": "Trader Joe's",
         "addr:city": "Calabasas"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.6449836, 34.1556665]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.6449836, 34.1556665] }
     },
     {
       "type": "Feature",
@@ -4944,10 +4302,7 @@
         "addr:city": "Arroyo Grande",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-120.5940538, 35.125703]
-      }
+      "geometry": { "type": "Point", "coordinates": [-120.5940538, 35.125703] }
     },
     {
       "type": "Feature",
@@ -4967,10 +4322,7 @@
         "branch": "Long Beach - PCH",
         "addr:city": "Long Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1089303, 33.7576624]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1089303, 33.7576624] }
     },
     {
       "type": "Feature",
@@ -4990,10 +4342,7 @@
         "addr:city": "San Rafael",
         "phone": "+1 415-454-9530"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.5164701, 37.9695393]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.5164701, 37.9695393] }
     },
     {
       "type": "Feature",
@@ -5013,10 +4362,7 @@
         "name": "Trader Joe's",
         "ref": "428"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5353996, 30.1755966]
-      }
+      "geometry": { "type": "Point", "coordinates": [-95.5353996, 30.1755966] }
     },
     {
       "type": "Feature",
@@ -5036,10 +4382,7 @@
         "addr:state": "MA",
         "phone": "+1 413-587-3260"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5493664, 42.3577603]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.5493664, 42.3577603] }
     },
     {
       "type": "Feature",
@@ -5059,10 +4402,7 @@
         "ref": "507",
         "addr:postcode": "03060"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4384243, 42.7080149]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.4384243, 42.7080149] }
     },
     {
       "type": "Feature",
@@ -5082,10 +4422,7 @@
         "name": "Trader Joe's",
         "addr:city": "Salem"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.0325549, 44.8896067]
-      }
+      "geometry": { "type": "Point", "coordinates": [-123.0325549, 44.8896067] }
     },
     {
       "type": "Feature",
@@ -5105,10 +4442,7 @@
         "ref": "703",
         "website": "https://locations.traderjoes.com/il/chicago/703/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6462646, 41.9324176]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.6462646, 41.9324176] }
     },
     {
       "type": "Feature",
@@ -5128,10 +4462,7 @@
         "name": "Trader Joe's",
         "addr:street": "East Whittier Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0053906, 33.9493596]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0053906, 33.9493596] }
     },
     {
       "type": "Feature",
@@ -5151,10 +4482,7 @@
         "name": "Trader Joe's",
         "ref": "618"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.1624335, 39.9541911]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.1624335, 39.9541911] }
     },
     {
       "type": "Feature",
@@ -5174,10 +4502,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ne/lincoln/722/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.674546, 40.742601]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.674546, 40.742601] }
     },
     {
       "type": "Feature",
@@ -5197,10 +4522,7 @@
         "name": "Trader Joe's",
         "ref": "219"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3571133, 40.5917021]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3571133, 40.5917021] }
     },
     {
       "type": "Feature",
@@ -5220,10 +4542,7 @@
         "addr:street": "West Sunset Boulevard",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.365233, 34.0976043]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.365233, 34.0976043] }
     },
     {
       "type": "Feature",
@@ -5243,10 +4562,7 @@
         "name": "Trader Joe's",
         "ref": "44"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5016054, 34.272659]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.5016054, 34.272659] }
     },
     {
       "type": "Feature",
@@ -5266,10 +4582,7 @@
         "addr:city": "Mountain View",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1107579, 37.4020838]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1107579, 37.4020838] }
     },
     {
       "type": "Feature",
@@ -5289,10 +4602,7 @@
         "ref": "728",
         "addr:street": "Ponseti Way"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-91.5647228, 41.6833223]
-      }
+      "geometry": { "type": "Point", "coordinates": [-91.5647228, 41.6833223] }
     },
     {
       "type": "Feature",
@@ -5312,10 +4622,7 @@
         "ref": "33",
         "addr:street": "South Sepulveda"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3966617, 33.9587392]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3966617, 33.9587392] }
     },
     {
       "type": "Feature",
@@ -5335,10 +4642,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/burbank/124/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2988641, 34.1749591]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.2988641, 34.1749591] }
     },
     {
       "type": "Feature",
@@ -5358,10 +4662,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "1800"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.3398334, 42.1534435]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.3398334, 42.1534435] }
     },
     {
       "type": "Feature",
@@ -5381,10 +4682,7 @@
         "name": "Trader Joe's",
         "addr:street": "North El Camino Real"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2558081, 33.0471008]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2558081, 33.0471008] }
     },
     {
       "type": "Feature",
@@ -5404,10 +4702,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.640263, 33.256054]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.640263, 33.256054] }
     },
     {
       "type": "Feature",
@@ -5427,10 +4722,7 @@
         "addr:city": "Saint Petersburg",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6388275, 27.7974016]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.6388275, 27.7974016] }
     },
     {
       "type": "Feature",
@@ -5450,10 +4742,7 @@
         "ref": "71",
         "addr:street": "Sunrise Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.2738677, 38.6620665]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.2738677, 38.6620665] }
     },
     {
       "type": "Feature",
@@ -5473,10 +4762,7 @@
         "name": "Trader Joe's",
         "addr:city": "Modesto"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.0494087, 37.6871676]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.0494087, 37.6871676] }
     },
     {
       "type": "Feature",
@@ -5496,10 +4782,7 @@
         "addr:street": "West Bluemound Road",
         "ref": "726"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.0701501, 43.0356775]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.0701501, 43.0356775] }
     },
     {
       "type": "Feature",
@@ -5519,10 +4802,7 @@
         "phone": "+1 732-805-0268",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.5554316, 40.5643651]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.5554316, 40.5643651] }
     },
     {
       "type": "Feature",
@@ -5542,10 +4822,7 @@
         "addr:city": "San Diego",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0703521, 32.7720159]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0703521, 32.7720159] }
     },
     {
       "type": "Feature",
@@ -5565,10 +4842,7 @@
         "name": "Trader Joe's",
         "phone": "+1 818-865-8217"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.7566493, 34.1464425]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.7566493, 34.1464425] }
     },
     {
       "type": "Feature",
@@ -5588,10 +4862,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ut/draper/353/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.8900473, 40.5428825]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.8900473, 40.5428825] }
     },
     {
       "type": "Feature",
@@ -5611,10 +4882,7 @@
         "addr:street": "Santa Rita Road",
         "addr:housenumber": "3903"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.8768923, 37.6967871]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.8768923, 37.6967871] }
     },
     {
       "type": "Feature",
@@ -5634,10 +4902,7 @@
         "name": "Trader Joe's",
         "phone": "+1 206-284-2546"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3566656, 47.6369841]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3566656, 47.6369841] }
     },
     {
       "type": "Feature",
@@ -5657,10 +4922,7 @@
         "ref": "74",
         "addr:street": "Westlake Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.482237, 37.7000041]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.482237, 37.7000041] }
     },
     {
       "type": "Feature",
@@ -5680,10 +4942,7 @@
         "name": "Trader Joe's",
         "addr:street": "Street of the Golden Lantern"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6966468, 33.4929684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6966468, 33.4929684] }
     },
     {
       "type": "Feature",
@@ -5703,10 +4962,7 @@
         "phone": "+1 210-545-3123",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-98.4991019, 29.6094541]
-      }
+      "geometry": { "type": "Point", "coordinates": [-98.4991019, 29.6094541] }
     },
     {
       "type": "Feature",
@@ -5726,10 +4982,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/mn/bloomington/724/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.332769, 44.859243]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.332769, 44.859243] }
     },
     {
       "type": "Feature",
@@ -5749,10 +5002,7 @@
         "ref": "641",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.2036932, 38.9043526]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.2036932, 38.9043526] }
     },
     {
       "type": "Feature",
@@ -5772,10 +5022,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/co/denver/300/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.9402543, 39.7288282]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.9402543, 39.7288282] }
     },
     {
       "type": "Feature",
@@ -5795,10 +5042,7 @@
         "phone": "+1 305-661-1432",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.3125623, 25.6844073]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.3125623, 25.6844073] }
     },
     {
       "type": "Feature",
@@ -5818,10 +5062,7 @@
         "ref": "761",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.530019, 27.294762]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.530019, 27.294762] }
     },
     {
       "type": "Feature",
@@ -5841,10 +5082,7 @@
         "name": "Trader Joe's",
         "addr:city": "Cypress"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.041489, 33.8032103]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.041489, 33.8032103] }
     },
     {
       "type": "Feature",
@@ -5864,10 +5102,7 @@
         "addr:city": "Huntington Beach",
         "website": "https://locations.traderjoes.com/ca/huntington-beach/241/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9541285, 33.6518448]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9541285, 33.6518448] }
     },
     {
       "type": "Feature",
@@ -5887,10 +5122,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/wa/bellingham/151/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4639239, 48.762126]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4639239, 48.762126] }
     },
     {
       "type": "Feature",
@@ -5910,10 +5142,7 @@
         "addr:housenumber": "5116",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.209243, 38.8028703]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.209243, 38.8028703] }
     },
     {
       "type": "Feature",
@@ -5933,10 +5162,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "07012"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1513146, 40.8365302]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.1513146, 40.8365302] }
     },
     {
       "type": "Feature",
@@ -5954,10 +5180,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.3033037, 41.4445495]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.3033037, 41.4445495] }
     },
     {
       "type": "Feature",
@@ -5977,10 +5200,7 @@
         "addr:city": "Claremont",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7220344, 34.1073921]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7220344, 34.1073921] }
     },
     {
       "type": "Feature",
@@ -6000,10 +5220,7 @@
         "addr:city": "Washington",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0530228, 38.9040929]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0530228, 38.9040929] }
     },
     {
       "type": "Feature",
@@ -6023,10 +5240,7 @@
         "website": "https://locations.traderjoes.com/ut/orem/352/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.6852582, 40.2762516]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.6852582, 40.2762516] }
     },
     {
       "type": "Feature",
@@ -6046,10 +5260,7 @@
         "addr:postcode": "87505",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.953372, 35.6729716]
-      }
+      "geometry": { "type": "Point", "coordinates": [-105.953372, 35.6729716] }
     },
     {
       "type": "Feature",
@@ -6069,10 +5280,7 @@
         "addr:postcode": "84047",
         "phone": "+1 801-562-3024"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.8537251, 40.6241078]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.8537251, 40.6241078] }
     },
     {
       "type": "Feature",
@@ -6092,10 +5300,7 @@
         "website": "https://locations.traderjoes.com/ma/hingham/530/",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.9237968, 42.2490667]
-      }
+      "geometry": { "type": "Point", "coordinates": [-70.9237968, 42.2490667] }
     },
     {
       "type": "Feature",
@@ -6115,10 +5320,7 @@
         "name": "Trader Joe's",
         "ref": "22"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3319447, 33.1841133]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3319447, 33.1841133] }
     },
     {
       "type": "Feature",
@@ -6138,10 +5340,7 @@
         "addr:city": "Miami",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.1926601, 25.806877]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.1926601, 25.806877] }
     },
     {
       "type": "Feature",
@@ -6161,10 +5360,7 @@
         "addr:street": "South Wabash Avenue",
         "website": "https://locations.traderjoes.com/il/chicago/701/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.625389, 41.867746]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.625389, 41.867746] }
     },
     {
       "type": "Feature",
@@ -6182,10 +5378,7 @@
         "brand:wikidata": "Q688825",
         "phone": "+1 360-918-5280"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.766187, 47.0856016]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.766187, 47.0856016] }
     },
     {
       "type": "Feature",
@@ -6205,10 +5398,7 @@
         "phone": "+1 914-472-2988",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.80487, 40.9723375]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.80487, 40.9723375] }
     },
     {
       "type": "Feature",
@@ -6228,10 +5418,7 @@
         "addr:street": "14th Avenue Northwest",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3742472, 47.6626139]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3742472, 47.6626139] }
     },
     {
       "type": "Feature",
@@ -6251,10 +5438,7 @@
         "addr:street": "Brimfield Drive",
         "website": "https://locations.traderjoes.com/va/ashburn/619/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.452729, 39.0503773]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.452729, 39.0503773] }
     },
     {
       "type": "Feature",
@@ -6274,10 +5458,7 @@
         "name": "Trader Joe's",
         "ref": "208"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.7816937, 37.6803533]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.7816937, 37.6803533] }
     },
     {
       "type": "Feature",
@@ -6297,10 +5478,7 @@
         "phone": "+1 925-275-8140",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9521083, 37.7641646]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9521083, 37.7641646] }
     },
     {
       "type": "Feature",
@@ -6320,10 +5498,7 @@
         "addr:postcode": "32309",
         "branch": "Tallahassee"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.2498578, 30.5032316]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.2498578, 30.5032316] }
     },
     {
       "type": "Feature",
@@ -6343,10 +5518,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ny/halfmoon/574/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7653061, 42.8591509]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.7653061, 42.8591509] }
     },
     {
       "type": "Feature",
@@ -6366,10 +5538,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "60062"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.7983116, 42.1502628]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.7983116, 42.1502628] }
     },
     {
       "type": "Feature",
@@ -6389,10 +5558,7 @@
         "addr:postcode": "06110",
         "addr:street": "New Britain Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.7580509, 41.7234651]
-      }
+      "geometry": { "type": "Point", "coordinates": [-72.7580509, 41.7234651] }
     },
     {
       "type": "Feature",
@@ -6412,10 +5578,7 @@
         "name": "Trader Joe's",
         "addr:city": "Chattanooga"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.1547014, 35.0328542]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.1547014, 35.0328542] }
     },
     {
       "type": "Feature",
@@ -6435,10 +5598,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.7477849, 37.2771346]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.7477849, 37.2771346] }
     },
     {
       "type": "Feature",
@@ -6458,10 +5618,7 @@
         "addr:state": "PA",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.2865954, 40.0072791]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.2865954, 40.0072791] }
     },
     {
       "type": "Feature",
@@ -6481,10 +5638,7 @@
         "name": "Trader Joe's",
         "ref": "627"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.5183628, 38.0049273]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.5183628, 38.0049273] }
     },
     {
       "type": "Feature",
@@ -6504,10 +5658,7 @@
         "name": "Trader Joe's",
         "ref": "99"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.18117, 34.060625]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.18117, 34.060625] }
     },
     {
       "type": "Feature",
@@ -6527,10 +5678,7 @@
         "addr:street": "Pacific Avenue",
         "phone": "+1 209-951-7597"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.3228167, 38.00913]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.3228167, 38.00913] }
     },
     {
       "type": "Feature",
@@ -6550,10 +5698,7 @@
         "website": "https://locations.traderjoes.com/mi/kentwood/707/",
         "addr:city": "Kentwood"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.5766868, 42.9119665]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.5766868, 42.9119665] }
     },
     {
       "type": "Feature",
@@ -6573,10 +5718,7 @@
         "name": "Trader Joe's",
         "ref": "52"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2331547, 34.2069873]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.2331547, 34.2069873] }
     },
     {
       "type": "Feature",
@@ -6596,10 +5738,7 @@
         "addr:city": "Camarillo",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.0532205, 34.2198547]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.0532205, 34.2198547] }
     },
     {
       "type": "Feature",
@@ -6619,10 +5758,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/cerritos/104/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0581293, 33.8692417]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0581293, 33.8692417] }
     },
     {
       "type": "Feature",
@@ -6642,10 +5778,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/nj/westfield/601/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.3499954, 40.6522247]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.3499954, 40.6522247] }
     },
     {
       "type": "Feature",
@@ -6665,10 +5798,7 @@
         "addr:housenumber": "26541",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7247835, 33.5774874]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7247835, 33.5774874] }
     },
     {
       "type": "Feature",
@@ -6688,10 +5818,7 @@
         "name": "Trader Joe's",
         "addr:street": "Redwood Highway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.5149604, 37.9378615]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.5149604, 37.9378615] }
     },
     {
       "type": "Feature",
@@ -6711,10 +5838,7 @@
         "branch": "Raleigh",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.6217112, 35.8232408]
-      }
+      "geometry": { "type": "Point", "coordinates": [-78.6217112, 35.8232408] }
     },
     {
       "type": "Feature",
@@ -6734,10 +5858,7 @@
         "addr:city": "Springfield",
         "addr:postcode": "22150"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.1894526, 38.7816441]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.1894526, 38.7816441] }
     },
     {
       "type": "Feature",
@@ -6757,10 +5878,7 @@
         "ref": "643",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.2703726, 38.8427152]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.2703726, 38.8427152] }
     },
     {
       "type": "Feature",
@@ -6780,10 +5898,7 @@
         "addr:city": "Minnetonka",
         "ref": "714"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.4227576, 44.9734888]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.4227576, 44.9734888] }
     },
     {
       "type": "Feature",
@@ -6803,10 +5918,7 @@
         "website": "https://locations.traderjoes.com/mi/royal-oak/674/",
         "addr:postcode": "48067"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.1636857, 42.4954068]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.1636857, 42.4954068] }
     },
     {
       "type": "Feature",
@@ -6826,10 +5938,7 @@
         "phone": "+1 925-516-3044",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.7501075, 37.9611463]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.7501075, 37.9611463] }
     },
     {
       "type": "Feature",
@@ -6849,10 +5958,7 @@
         "branch": "San Dimas",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8212057, 34.1034857]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8212057, 34.1034857] }
     },
     {
       "type": "Feature",
@@ -6872,10 +5978,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "85048"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9948671, 33.3031252]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.9948671, 33.3031252] }
     },
     {
       "type": "Feature",
@@ -6895,10 +5998,7 @@
         "name": "Trader Joe's",
         "addr:city": "Dublin"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.0930892, 40.0965045]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.0930892, 40.0965045] }
     },
     {
       "type": "Feature",
@@ -6918,10 +6018,7 @@
         "addr:housenumber": "87",
         "ref": "519"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.2646208, 43.6618148]
-      }
+      "geometry": { "type": "Point", "coordinates": [-70.2646208, 43.6618148] }
     },
     {
       "type": "Feature",
@@ -6941,10 +6038,7 @@
         "name": "Trader Joe's",
         "ref": "527"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.1803986, 44.4636358]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.1803986, 44.4636358] }
     },
     {
       "type": "Feature",
@@ -6964,10 +6058,7 @@
         "ref": "65",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0032311, 37.8231031]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0032311, 37.8231031] }
     },
     {
       "type": "Feature",
@@ -6987,10 +6078,7 @@
         "name": "Trader Joe's",
         "phone": "+1 865-670-4088"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.0459828, 35.9271838]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.0459828, 35.9271838] }
     },
     {
       "type": "Feature",
@@ -7010,10 +6098,7 @@
         "website": "https://locations.traderjoes.com/md/bethesda/623/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0957017, 38.9896194]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0957017, 38.9896194] }
     },
     {
       "type": "Feature",
@@ -7033,10 +6118,7 @@
         "branch": "San Antonio",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-98.4780302, 29.496703]
-      }
+      "geometry": { "type": "Point", "coordinates": [-98.4780302, 29.496703] }
     },
     {
       "type": "Feature",
@@ -7056,10 +6138,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/in/fort-wayne/757/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.1953587, 41.0717432]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.1953587, 41.0717432] }
     },
     {
       "type": "Feature",
@@ -7078,10 +6157,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1914046, 32.9611431]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1914046, 32.9611431] }
     },
     {
       "type": "Feature",
@@ -7101,10 +6177,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/pinole/230/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2867436, 37.9952651]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.2867436, 37.9952651] }
     },
     {
       "type": "Feature",
@@ -7124,10 +6197,7 @@
         "phone": "+1 310-581-0253",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4557652, 34.0263552]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4557652, 34.0263552] }
     },
     {
       "type": "Feature",
@@ -7147,10 +6217,7 @@
         "addr:postcode": "75206",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.770559, 32.8148346]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.770559, 32.8148346] }
     },
     {
       "type": "Feature",
@@ -7170,10 +6237,7 @@
         "name": "Trader Joe's",
         "ref": "708"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.6499899, 42.2701259]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.6499899, 42.2701259] }
     },
     {
       "type": "Feature",
@@ -7193,10 +6257,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "11955"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0750506, 32.9821123]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0750506, 32.9821123] }
     },
     {
       "type": "Feature",
@@ -7217,10 +6278,7 @@
         "addr:city": "Rockville",
         "branch": "Rockville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.1223481, 39.0570549]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.1223481, 39.0570549] }
     },
     {
       "type": "Feature",
@@ -7240,10 +6298,7 @@
         "ref": "758",
         "phone": "+1 301-985-3704"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9375308, 38.9784414]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.9375308, 38.9784414] }
     },
     {
       "type": "Feature",
@@ -7263,10 +6318,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.728035, 36.8493342]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.728035, 36.8493342] }
     },
     {
       "type": "Feature",
@@ -7286,10 +6338,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/temecula/102/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1561498, 33.5288206]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1561498, 33.5288206] }
     },
     {
       "type": "Feature",
@@ -7309,10 +6358,7 @@
         "name": "Trader Joe's",
         "phone": "+1 708-349-9021"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.8546212, 41.6180449]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.8546212, 41.6180449] }
     },
     {
       "type": "Feature",
@@ -7332,10 +6378,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/santa-barbara/183/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.728949, 34.4389627]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.728949, 34.4389627] }
     },
     {
       "type": "Feature",
@@ -7355,10 +6398,7 @@
         "name": "Trader Joe's",
         "addr:city": "Crestview Hills"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.5771089, 39.0288001]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.5771089, 39.0288001] }
     },
     {
       "type": "Feature",
@@ -7378,10 +6418,7 @@
         "addr:postcode": "89014",
         "addr:housenumber": "2716"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.0811185, 36.0695804]
-      }
+      "geometry": { "type": "Point", "coordinates": [-115.0811185, 36.0695804] }
     },
     {
       "type": "Feature",
@@ -7401,10 +6438,7 @@
         "addr:street": "Black Lake Boulevard Southwest",
         "branch": "Olympia"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.9372333, 47.0335349]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.9372333, 47.0335349] }
     },
     {
       "type": "Feature",
@@ -7424,10 +6458,7 @@
         "addr:housenumber": "1714",
         "addr:street": "Merrick Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.5587687, 40.6533623]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.5587687, 40.6533623] }
     },
     {
       "type": "Feature",
@@ -7447,10 +6478,7 @@
         "website": "https://locations.traderjoes.com/fl/miami-beach/779/",
         "phone": "+1 305-534-4951"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.142155, 25.791789]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.142155, 25.791789] }
     },
     {
       "type": "Feature",
@@ -7470,10 +6498,7 @@
         "website": "https://locations.traderjoes.com/il/chicago/688/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6751404, 41.9498851]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.6751404, 41.9498851] }
     },
     {
       "type": "Feature",
@@ -7493,10 +6518,7 @@
         "name": "Trader Joe's",
         "ref": "209"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5923118, 34.1672602]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.5923118, 34.1672602] }
     },
     {
       "type": "Feature",
@@ -7516,10 +6538,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/wa/bellevue/131/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1334288, 47.6307602]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1334288, 47.6307602] }
     },
     {
       "type": "Feature",
@@ -7539,10 +6558,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/nh/bedford/562/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4772211, 42.9537285]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.4772211, 42.9537285] }
     },
     {
       "type": "Feature",
@@ -7562,10 +6578,7 @@
         "name": "Trader Joe's",
         "addr:city": "Long Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1228974, 33.7967761]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1228974, 33.7967761] }
     },
     {
       "type": "Feature",
@@ -7583,10 +6596,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3025133, 37.5545382]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3025133, 37.5545382] }
     },
     {
       "type": "Feature",
@@ -7606,10 +6616,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "33609"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.506331, 27.9372655]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.506331, 27.9372655] }
     },
     {
       "type": "Feature",
@@ -7629,10 +6636,7 @@
         "branch": "Greenwood Village",
         "addr:postcode": "80121"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.9584163, 39.6080792]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.9584163, 39.6080792] }
     },
     {
       "type": "Feature",
@@ -7652,10 +6656,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "48167"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.4337553, 42.4227691]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.4337553, 42.4227691] }
     },
     {
       "type": "Feature",
@@ -7675,10 +6676,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.5417242, 39.8338327]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.5417242, 39.8338327] }
     },
     {
       "type": "Feature",
@@ -7698,10 +6696,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "3835"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.825874, 34.163905]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.825874, 34.163905] }
     },
     {
       "type": "Feature",
@@ -7721,10 +6716,7 @@
         "name": "Trader Joe's",
         "phone": "+1 212-255-2106"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9941211, 40.7420901]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9941211, 40.7420901] }
     },
     {
       "type": "Feature",
@@ -7744,10 +6736,7 @@
         "phone": "+1 410-573-0505",
         "branch": "Annapolis"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.540243, 38.9889202]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.540243, 38.9889202] }
     },
     {
       "type": "Feature",
@@ -7767,10 +6756,7 @@
         "name": "Trader Joe's",
         "ref": "626"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.5185124, 38.0049274]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.5185124, 38.0049274] }
     },
     {
       "type": "Feature",
@@ -7790,10 +6776,7 @@
         "ref": "200",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4179937, 37.7906451]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4179937, 37.7906451] }
     },
     {
       "type": "Feature",
@@ -7813,10 +6796,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "11976"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.393033, 34.1429443]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.393033, 34.1429443] }
     },
     {
       "type": "Feature",
@@ -7837,10 +6817,7 @@
         "addr:unit": "A",
         "phone": "+1 202-944-8403"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.06833, 38.91771]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.06833, 38.91771] }
     },
     {
       "type": "Feature",
@@ -7860,10 +6837,7 @@
         "branch": "Morgan Hill",
         "phone": "+1 408-778-6409"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.6382032, 37.1311381]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.6382032, 37.1311381] }
     },
     {
       "type": "Feature",
@@ -7883,10 +6857,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6208153, 45.5347161]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.6208153, 45.5347161] }
     },
     {
       "type": "Feature",
@@ -7906,10 +6877,7 @@
         "addr:housenumber": "1800",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.0250849, 35.9369332]
-      }
+      "geometry": { "type": "Point", "coordinates": [-79.0250849, 35.9369332] }
     },
     {
       "type": "Feature",
@@ -7929,10 +6897,7 @@
         "addr:state": "MA",
         "website": "https://locations.traderjoes.com/ma/west-newton/509/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.2194379, 42.3498471]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.2194379, 42.3498471] }
     },
     {
       "type": "Feature",
@@ -7952,10 +6917,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/nm/albuquerque/167/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.5654572, 35.1022335]
-      }
+      "geometry": { "type": "Point", "coordinates": [-106.5654572, 35.1022335] }
     },
     {
       "type": "Feature",
@@ -7975,10 +6937,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "5639"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.2567438, 36.2631138]
-      }
+      "geometry": { "type": "Point", "coordinates": [-115.2567438, 36.2631138] }
     },
     {
       "type": "Feature",
@@ -7998,10 +6957,7 @@
         "addr:housenumber": "3528",
         "ref": "607"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.6611769, 40.3106024]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.6611769, 40.3106024] }
     },
     {
       "type": "Feature",
@@ -8021,10 +6977,7 @@
         "branch": "Saint Louis Park",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.337399, 44.934592]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.337399, 44.934592] }
     },
     {
       "type": "Feature",
@@ -8044,10 +6997,7 @@
         "branch": "Germantown",
         "ref": "738"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.8011737, 35.0907799]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.8011737, 35.0907799] }
     },
     {
       "type": "Feature",
@@ -8067,10 +7017,7 @@
         "name": "Trader Joe's",
         "addr:street": "Camino Del Rio North"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1551652, 32.7661619]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1551652, 32.7661619] }
     },
     {
       "type": "Feature",
@@ -8090,10 +7037,7 @@
         "name": "Trader Joe's",
         "addr:street": "South State Road 7"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2041113, 26.6377593]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.2041113, 26.6377593] }
     },
     {
       "type": "Feature",
@@ -8113,10 +7057,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "63144"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.3412312, 38.6273335]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.3412312, 38.6273335] }
     },
     {
       "type": "Feature",
@@ -8136,10 +7077,7 @@
         "branch": "Yorba Linda",
         "website": "https://locations.traderjoes.com/ca/yorba-linda/176/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7921699, 33.8897262]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7921699, 33.8897262] }
     },
     {
       "type": "Feature",
@@ -8159,10 +7097,7 @@
         "name": "Trader Joe's",
         "ref": "717"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.2128195, 44.7902333]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.2128195, 44.7902333] }
     },
     {
       "type": "Feature",
@@ -8182,10 +7117,7 @@
         "addr:state": "PA",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0223146, 40.5704092]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.0223146, 40.5704092] }
     },
     {
       "type": "Feature",
@@ -8205,10 +7137,7 @@
         "name": "Trader Joe's",
         "addr:street": "Mission Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1629729, 34.1153043]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1629729, 34.1153043] }
     },
     {
       "type": "Feature",
@@ -8228,10 +7157,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "7939"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.7722808, 32.8805703]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.7722808, 32.8805703] }
     },
     {
       "type": "Feature",
@@ -8251,10 +7177,7 @@
         "phone": "+1 619-466-0105",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0056147, 32.7792966]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0056147, 32.7792966] }
     },
     {
       "type": "Feature",
@@ -8274,10 +7197,7 @@
         "branch": "Birmingham",
         "ref": "737"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.7292915, 33.4465106]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.7292915, 33.4465106] }
     },
     {
       "type": "Feature",
@@ -8297,10 +7217,7 @@
         "addr:postcode": "84102",
         "phone": "+1 801-359-2462"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.8726019, 40.7596686]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.8726019, 40.7596686] }
     },
     {
       "type": "Feature",
@@ -8320,10 +7237,7 @@
         "ref": "236",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4763117, 37.7266474]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4763117, 37.7266474] }
     },
     {
       "type": "Feature",
@@ -8343,10 +7257,7 @@
         "addr:city": "Delray Beach",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0700877, 26.4389108]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.0700877, 26.4389108] }
     },
     {
       "type": "Feature",
@@ -8366,10 +7277,7 @@
         "phone": "+1 602-912-9022",
         "addr:postcode": "85016"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.0378101, 33.5071197]
-      }
+      "geometry": { "type": "Point", "coordinates": [-112.0378101, 33.5071197] }
     },
     {
       "type": "Feature",
@@ -8389,10 +7297,7 @@
         "ref": "75",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7323035, 38.4735472]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.7323035, 38.4735472] }
     },
     {
       "type": "Feature",
@@ -8412,10 +7317,7 @@
         "website": "https://locations.traderjoes.com/ca/culver-city/251/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3928504, 33.98801]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3928504, 33.98801] }
     },
     {
       "type": "Feature",
@@ -8435,10 +7337,7 @@
         "ref": "720",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-94.60684, 38.9706721]
-      }
+      "geometry": { "type": "Point", "coordinates": [-94.60684, 38.9706721] }
     },
     {
       "type": "Feature",
@@ -8458,10 +7357,7 @@
         "addr:housenumber": "6225",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3884753, 33.9559323]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3884753, 33.9559323] }
     },
     {
       "type": "Feature",
@@ -8481,10 +7377,7 @@
         "ref": "739",
         "addr:city": "Nashville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.852227, 36.1307261]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.852227, 36.1307261] }
     },
     {
       "type": "Feature",
@@ -8504,10 +7397,7 @@
         "addr:street": "Gateway Road",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2530686, 33.1265912]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2530686, 33.1265912] }
     },
     {
       "type": "Feature",
@@ -8527,10 +7417,7 @@
         "ref": "93",
         "phone": "+1 480-838-4142"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9122475, 33.3618135]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.9122475, 33.3618135] }
     },
     {
       "type": "Feature",
@@ -8550,10 +7437,7 @@
         "name": "Trader Joe's",
         "ref": "51"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1468743, 34.1351409]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1468743, 34.1351409] }
     },
     {
       "type": "Feature",
@@ -8573,10 +7457,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/santa-barbara/59/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.6815129, 34.4250274]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.6815129, 34.4250274] }
     },
     {
       "type": "Feature",
@@ -8596,10 +7477,7 @@
         "branch": "Corvallis",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.2599744, 44.5822604]
-      }
+      "geometry": { "type": "Point", "coordinates": [-123.2599744, 44.5822604] }
     },
     {
       "type": "Feature",
@@ -8619,10 +7497,7 @@
         "addr:street": "Pacific Coast Highway",
         "website": "https://locations.traderjoes.com/ca/hermosa-beach/248/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3915724, 33.8638765]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3915724, 33.8638765] }
     },
     {
       "type": "Feature",
@@ -8642,10 +7517,7 @@
         "addr:street": "Lakeshore Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2442512, 37.8097414]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.2442512, 37.8097414] }
     },
     {
       "type": "Feature",
@@ -8665,10 +7537,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "3418"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.6411019, 40.6268133]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.6411019, 40.6268133] }
     },
     {
       "type": "Feature",
@@ -8688,10 +7557,7 @@
         "addr:street": "North Eagle Road",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.3518891, 43.6320993]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.3518891, 43.6320993] }
     },
     {
       "type": "Feature",
@@ -8711,10 +7577,7 @@
         "name": "Trader Joe's",
         "addr:street": "North Clybourn Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6549833, 41.9144861]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.6549833, 41.9144861] }
     },
     {
       "type": "Feature",
@@ -8734,10 +7597,7 @@
         "branch": "Woodmere",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.479131, 41.4633069]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.479131, 41.4633069] }
     },
     {
       "type": "Feature",
@@ -8757,10 +7617,7 @@
         "name": "Trader Joe's",
         "branch": "USC Village"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2846645, 34.026076]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.2846645, 34.026076] }
     },
     {
       "type": "Feature",
@@ -8780,10 +7637,7 @@
         "addr:city": "Boca Raton",
         "website": "https://locations.traderjoes.com/fl/boca-raton/773/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.086579, 26.3422503]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.086579, 26.3422503] }
     },
     {
       "type": "Feature",
@@ -8803,10 +7657,7 @@
         "addr:state": "AR",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.4018539, 34.7482874]
-      }
+      "geometry": { "type": "Point", "coordinates": [-92.4018539, 34.7482874] }
     },
     {
       "type": "Feature",
@@ -8826,10 +7677,7 @@
         "website": "https://locations.traderjoes.com/ca/san-mateo/245/",
         "addr:housenumber": "45"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.298278, 37.535429]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.298278, 37.535429] }
     },
     {
       "type": "Feature",
@@ -8849,10 +7697,7 @@
         "name": "Trader Joe's",
         "addr:street": "East 14th Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9878966, 40.733371]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9878966, 40.733371] }
     },
     {
       "type": "Feature",
@@ -8872,10 +7717,7 @@
         "addr:street": "Kercheval Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.915887, 42.389772]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.915887, 42.389772] }
     },
     {
       "type": "Feature",
@@ -8895,10 +7737,7 @@
         "addr:city": "Rockville",
         "ref": "648"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.2067876, 39.0965444]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.2067876, 39.0965444] }
     },
     {
       "type": "Feature",
@@ -8918,10 +7757,7 @@
         "website": "https://locations.traderjoes.com/ca/marina-del-rey/205/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.441227, 33.9795591]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.441227, 33.9795591] }
     },
     {
       "type": "Feature",
@@ -8941,10 +7777,7 @@
         "addr:housenumber": "2025",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.491488, 38.0629829]
-      }
+      "geometry": { "type": "Point", "coordinates": [-78.491488, 38.0629829] }
     },
     {
       "type": "Feature",
@@ -8964,10 +7797,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/nj/westwood/602/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0359794, 40.9931741]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.0359794, 40.9931741] }
     },
     {
       "type": "Feature",
@@ -8987,10 +7817,7 @@
         "phone": "+1 504-831-0253",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.1520588, 30.0044051]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.1520588, 30.0044051] }
     },
     {
       "type": "Feature",
@@ -9010,10 +7837,7 @@
         "website": "https://locations.traderjoes.com/nv/henderson/280/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.1093337, 36.0008721]
-      }
+      "geometry": { "type": "Point", "coordinates": [-115.1093337, 36.0008721] }
     },
     {
       "type": "Feature",
@@ -9033,10 +7857,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-94.6357532, 38.912425]
-      }
+      "geometry": { "type": "Point", "coordinates": [-94.6357532, 38.912425] }
     },
     {
       "type": "Feature",
@@ -9056,10 +7877,7 @@
         "branch": "San Francisco - North Beach",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.413738, 37.8055155]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.413738, 37.8055155] }
     },
     {
       "type": "Feature",
@@ -9079,10 +7897,7 @@
         "ref": "629",
         "addr:street": "Patriot Lane"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.9022379, 40.8103369]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.9022379, 40.8103369] }
     },
     {
       "type": "Feature",
@@ -9102,10 +7917,7 @@
         "name": "Trader Joe's",
         "addr:street": "Calle Real"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.825238, 34.4406928]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.825238, 34.4406928] }
     },
     {
       "type": "Feature",
@@ -9125,10 +7937,7 @@
         "addr:street": "Gosling Road",
         "addr:housenumber": "45"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.7995453, 43.0945115]
-      }
+      "geometry": { "type": "Point", "coordinates": [-70.7995453, 43.0945115] }
     },
     {
       "type": "Feature",
@@ -9148,10 +7957,7 @@
         "website": "https://locations.traderjoes.com/or/lake-oswego/142/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7432923, 45.4138108]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.7432923, 45.4138108] }
     },
     {
       "type": "Feature",
@@ -9171,10 +7977,7 @@
         "addr:housenumber": "67720",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.4830524, 33.7892005]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.4830524, 33.7892005] }
     },
     {
       "type": "Feature",
@@ -9194,10 +7997,7 @@
         "addr:street": "Fauntleroy Way Southwest",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3810293, 47.5619296]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3810293, 47.5619296] }
     },
     {
       "type": "Feature",
@@ -9217,10 +8017,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0447925, 38.8107825]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0447925, 38.8107825] }
     },
     {
       "type": "Feature",
@@ -9240,10 +8037,7 @@
         "name": "Trader Joe's",
         "addr:street": "West Route 22"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.1090051, 42.1887711]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.1090051, 42.1887711] }
     },
     {
       "type": "Feature",
@@ -9263,10 +8057,7 @@
         "website": "https://locations.traderjoes.com/ri/providence/572/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4036004, 41.8204415]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.4036004, 41.8204415] }
     },
     {
       "type": "Feature",
@@ -9286,10 +8077,7 @@
         "name": "Trader Joe's",
         "phone": "+1 509-534-1077"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3666428, 47.6289661]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3666428, 47.6289661] }
     },
     {
       "type": "Feature",
@@ -9309,10 +8097,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "1779"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.7516358, 33.3060482]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.7516358, 33.3060482] }
     },
     {
       "type": "Feature",
@@ -9332,10 +8117,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "1306"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.899693, 37.412414]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.899693, 37.412414] }
     },
     {
       "type": "Feature",
@@ -9355,10 +8137,7 @@
         "addr:street": "Broad Street",
         "addr:city": "Shrewsbury"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0615901, 40.3167946]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.0615901, 40.3167946] }
     },
     {
       "type": "Feature",
@@ -9378,10 +8157,7 @@
         "addr:state": "PA",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9371649, 40.2245178]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.9371649, 40.2245178] }
     },
     {
       "type": "Feature",
@@ -9401,10 +8177,7 @@
         "name": "Trader Joe's",
         "ref": "50"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.6258129, 34.1922146]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.6258129, 34.1922146] }
     },
     {
       "type": "Feature",
@@ -9424,10 +8197,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4152791, 42.4832101]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.4152791, 42.4832101] }
     },
     {
       "type": "Feature",
@@ -9447,10 +8217,7 @@
         "ref": "42",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1884204, 34.200037]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1884204, 34.200037] }
     },
     {
       "type": "Feature",
@@ -9470,10 +8237,7 @@
         "name": "Trader Joe's",
         "phone": "+1 972-312-9538"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.7928213, 33.029232]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.7928213, 33.029232] }
     },
     {
       "type": "Feature",
@@ -9493,10 +8257,7 @@
         "addr:street": "Middlesex Avenue",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0828193, 42.3956168]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.0828193, 42.3956168] }
     },
     {
       "type": "Feature",
@@ -9516,10 +8277,7 @@
         "addr:postcode": "75209",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.8194411, 32.8495515]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.8194411, 32.8495515] }
     },
     {
       "type": "Feature",
@@ -9539,10 +8297,7 @@
         "name": "Trader Joe's",
         "addr:city": "Kettering"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.1662778, 39.6884356]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.1662778, 39.6884356] }
     },
     {
       "type": "Feature",
@@ -9562,10 +8317,7 @@
         "addr:street": "North Highway 97",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.3022456, 44.1011493]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.3022456, 44.1011493] }
     },
     {
       "type": "Feature",
@@ -9585,10 +8337,7 @@
         "addr:postcode": "98074",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0338824, 47.613851]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0338824, 47.613851] }
     },
     {
       "type": "Feature",
@@ -9608,10 +8357,7 @@
         "addr:city": "Santa Clarita",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5382801, 34.4285684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.5382801, 34.4285684] }
     },
     {
       "type": "Feature",
@@ -9631,10 +8377,7 @@
         "name": "Trader Joe's",
         "addr:street": "East Swedesford Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.4336403, 40.0734346]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.4336403, 40.0734346] }
     },
     {
       "type": "Feature",
@@ -9654,10 +8397,7 @@
         "phone": "+1 410-484-8373",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.7360871, 39.3881322]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.7360871, 39.3881322] }
     },
     {
       "type": "Feature",
@@ -9677,10 +8417,7 @@
         "ref": "508",
         "addr:city": "Shrewsbury"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.7512196, 42.2753458]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.7512196, 42.2753458] }
     },
     {
       "type": "Feature",
@@ -9700,10 +8437,7 @@
         "name": "Trader Joe's",
         "addr:street": "Culver Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3929931, 34.0252255]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3929931, 34.0252255] }
     },
     {
       "type": "Feature",
@@ -9723,10 +8457,7 @@
         "website": "https://locations.traderjoes.com/fl/jacksonville-beach/760/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3898053, 30.2569923]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.3898053, 30.2569923] }
     },
     {
       "type": "Feature",
@@ -9746,10 +8477,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "1758"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3109368, 47.3169255]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3109368, 47.3169255] }
     },
     {
       "type": "Feature",
@@ -9769,10 +8497,7 @@
         "phone": "+1 585-248-5011",
         "addr:postcode": "14618"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.5416999, 43.1022102]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.5416999, 43.1022102] }
     },
     {
       "type": "Feature",
@@ -9792,10 +8517,7 @@
         "website": "https://locations.traderjoes.com/nc/charlotte/744/",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.8356337, 35.2117805]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.8356337, 35.2117805] }
     },
     {
       "type": "Feature",
@@ -9815,10 +8537,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "1679"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.5665562, 38.6448973]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.5665562, 38.6448973] }
     },
     {
       "type": "Feature",
@@ -9838,10 +8557,7 @@
         "name": "Trader Joe's",
         "phone": "+1 626-356-2963"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0894848, 34.1278856]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0894848, 34.1278856] }
     },
     {
       "type": "Feature",
@@ -9861,10 +8577,7 @@
         "website": "https://locations.traderjoes.com/ga/sandy-springs/731/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3780993, 33.9262448]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.3780993, 33.9262448] }
     },
     {
       "type": "Feature",
@@ -9884,10 +8597,7 @@
         "phone": "+1 949-642-5134",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9245798, 33.6367934]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9245798, 33.6367934] }
     },
     {
       "type": "Feature",
@@ -9907,10 +8617,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.0751813, 39.9037062]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.0751813, 39.9037062] }
     },
     {
       "type": "Feature",
@@ -9930,10 +8637,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "5727"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2528065, 37.8455601]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.2528065, 37.8455601] }
     },
     {
       "type": "Feature",
@@ -9953,10 +8657,7 @@
         "addr:postcode": "11803",
         "phone": "+1 516-933-6900"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.5015006, 40.7817125]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.5015006, 40.7817125] }
     },
     {
       "type": "Feature",
@@ -9976,10 +8677,7 @@
         "addr:city": "Mesa",
         "branch": "Mesa"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.7870802, 33.3809684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.7870802, 33.3809684] }
     },
     {
       "type": "Feature",
@@ -9997,10 +8695,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.270326, 34.0933577]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.270326, 34.0933577] }
     },
     {
       "type": "Feature",
@@ -10020,10 +8715,7 @@
         "addr:housenumber": "44",
         "phone": "+1 312-951-6369"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6263096, 41.8934274]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.6263096, 41.8934274] }
     },
     {
       "type": "Feature",
@@ -10043,10 +8735,7 @@
         "name": "Trader Joe's",
         "branch": "72nd & Broadway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9822648, 40.778552]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9822648, 40.778552] }
     },
     {
       "type": "Feature",
@@ -10066,10 +8755,7 @@
         "addr:postcode": "70808",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-91.1535964, 30.4224095]
-      }
+      "geometry": { "type": "Point", "coordinates": [-91.1535964, 30.4224095] }
     },
     {
       "type": "Feature",
@@ -10089,10 +8775,7 @@
         "addr:postcode": "80123",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.0888051, 39.611724]
-      }
+      "geometry": { "type": "Point", "coordinates": [-105.0888051, 39.611724] }
     },
     {
       "type": "Feature",
@@ -10112,10 +8795,7 @@
         "name": "Trader Joe's",
         "addr:street": "Camino Capistrano"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6636203, 33.4960493]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6636203, 33.4960493] }
     },
     {
       "type": "Feature",
@@ -10135,10 +8815,7 @@
         "name": "Trader Joe's",
         "phone": "+1 253-460-2672"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.5381783, 47.2230636]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.5381783, 47.2230636] }
     },
     {
       "type": "Feature",
@@ -10158,10 +8835,7 @@
         "name": "Trader Joe's",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.8577703, 36.1312909]
-      }
+      "geometry": { "type": "Point", "coordinates": [-79.8577703, 36.1312909] }
     },
     {
       "type": "Feature",
@@ -10181,10 +8855,7 @@
         "name": "Trader Joe's",
         "ref": "639"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.2235665, 40.207844]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.2235665, 40.207844] }
     },
     {
       "type": "Feature",
@@ -10204,10 +8875,7 @@
         "name": "Trader Joe's",
         "phone": "+1 203-739-0098"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.5215003, 41.3932099]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.5215003, 41.3932099] }
     },
     {
       "type": "Feature",
@@ -10228,10 +8896,7 @@
         "addr:street": "Craig Drive",
         "website": "https://locations.traderjoes.com/tx/mckinney/408/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.6428744, 33.1736968]
-      }
+      "geometry": { "type": "Point", "coordinates": [-96.6428744, 33.1736968] }
     },
     {
       "type": "Feature",
@@ -10251,10 +8916,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5787951, 34.2582554]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.5787951, 34.2582554] }
     },
     {
       "type": "Feature",
@@ -10274,10 +8936,7 @@
         "addr:city": "Westlake",
         "branch": "Westlake"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.9512978, 41.4567923]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.9512978, 41.4567923] }
     },
     {
       "type": "Feature",
@@ -10297,10 +8956,7 @@
         "name": "Trader Joe's",
         "addr:city": "Austin"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.7517712, 30.3955849]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.7517712, 30.3955849] }
     },
     {
       "type": "Feature",
@@ -10321,10 +8977,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.2936707, 40.2808983]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.2936707, 40.2808983] }
     },
     {
       "type": "Feature",
@@ -10344,10 +8997,7 @@
         "name": "Trader Joe's",
         "phone": "+1 770-645-8505"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3796266, 34.0593442]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.3796266, 34.0593442] }
     },
     {
       "type": "Feature",
@@ -10367,10 +9017,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "10314"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1657412, 40.5896623]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.1657412, 40.5896623] }
     },
     {
       "type": "Feature",
@@ -10390,10 +9037,7 @@
         "name": "Trader Joe's",
         "ref": "85"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.2265726, 33.6393288]
-      }
+      "geometry": { "type": "Point", "coordinates": [-112.2265726, 33.6393288] }
     },
     {
       "type": "Feature",
@@ -10413,10 +9057,7 @@
         "addr:city": "Newport Beach",
         "addr:street": "East Pacific Coast Highway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8324176, 33.5681793]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8324176, 33.5681793] }
     },
     {
       "type": "Feature",
@@ -10436,10 +9077,7 @@
         "branch": "Amherst",
         "phone": "+1 716-833-4687"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.8212576, 42.9980501]
-      }
+      "geometry": { "type": "Point", "coordinates": [-78.8212576, 42.9980501] }
     },
     {
       "type": "Feature",
@@ -10459,10 +9097,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/los-angeles/119/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4221063, 34.0204805]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4221063, 34.0204805] }
     },
     {
       "type": "Feature",
@@ -10482,10 +9117,7 @@
         "addr:postcode": "20120",
         "branch": "Centreville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.4327704, 38.8404178]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.4327704, 38.8404178] }
     },
     {
       "type": "Feature",
@@ -10505,10 +9137,7 @@
         "name": "Trader Joe's",
         "ref": "109"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2514556, 37.7577242]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.2514556, 37.7577242] }
     },
     {
       "type": "Feature",
@@ -10528,10 +9157,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4538654, 27.3912601]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.4538654, 27.3912601] }
     },
     {
       "type": "Feature",
@@ -10551,10 +9177,7 @@
         "addr:postcode": "20194",
         "phone": "+1 703-689-0865"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.3590466, 38.9672395]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.3590466, 38.9672395] }
     },
     {
       "type": "Feature",
@@ -10574,10 +9197,7 @@
         "name": "Trader Joe's",
         "phone": "+1 509-487-4188"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.409297, 47.7088991]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.409297, 47.7088991] }
     },
     {
       "type": "Feature",
@@ -10597,10 +9217,7 @@
         "branch": "Franklin - Cool Springs",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.8214814, 35.9497409]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.8214814, 35.9497409] }
     },
     {
       "type": "Feature",
@@ -10620,10 +9237,7 @@
         "ref": "725",
         "branch": "Minneapolis"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.2582, 44.976464]
-      }
+      "geometry": { "type": "Point", "coordinates": [-93.2582, 44.976464] }
     },
     {
       "type": "Feature",
@@ -10643,10 +9257,7 @@
         "addr:city": "Campbell",
         "ref": "73"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9332823, 37.2879599]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.9332823, 37.2879599] }
     },
     {
       "type": "Feature",
@@ -10666,10 +9277,7 @@
         "addr:city": "Washington",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0008016, 38.9075662]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.0008016, 38.9075662] }
     },
     {
       "type": "Feature",
@@ -10689,10 +9297,7 @@
         "addr:housenumber": "2300",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4801333, 34.0332757]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4801333, 34.0332757] }
     },
     {
       "type": "Feature",
@@ -10712,10 +9317,7 @@
         "name": "Trader Joe's",
         "branch": "La Grange"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.8693557, 41.8173165]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.8693557, 41.8173165] }
     },
     {
       "type": "Feature",
@@ -10735,10 +9337,7 @@
         "addr:state": "PA",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0517205, 40.3513544]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.0517205, 40.3513544] }
     },
     {
       "type": "Feature",
@@ -10758,10 +9357,7 @@
         "phone": "+1 574-472-8744",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.2335152, 41.6881057]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.2335152, 41.6881057] }
     },
     {
       "type": "Feature",
@@ -10781,10 +9377,7 @@
         "addr:postcode": "33304",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.1189987, 26.14812]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.1189987, 26.14812] }
     },
     {
       "type": "Feature",
@@ -10804,10 +9397,7 @@
         "name": "Trader Joe's",
         "addr:street": "Totem Lake Boulevard Northeast"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1799863, 47.7114517]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1799863, 47.7114517] }
     },
     {
       "type": "Feature",
@@ -10827,10 +9417,7 @@
         "phone": "+1 360-883-9000",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.5532019, 45.6195259]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.5532019, 45.6195259] }
     },
     {
       "type": "Feature",
@@ -10850,10 +9437,7 @@
         "name": "Trader Joe's",
         "phone": "+1 510-204-9074"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.273313, 37.871926]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.273313, 37.871926] }
     },
     {
       "type": "Feature",
@@ -10873,10 +9457,7 @@
         "website": "https://locations.traderjoes.com/ga/marietta/732/",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.4263282, 33.9832962]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.4263282, 33.9832962] }
     },
     {
       "type": "Feature",
@@ -10896,10 +9477,7 @@
         "ref": "234",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4437742, 34.0622696]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4437742, 34.0622696] }
     },
     {
       "type": "Feature",
@@ -10919,10 +9497,7 @@
         "branch": "Petaluma",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6280104, 38.2480431]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.6280104, 38.2480431] }
     },
     {
       "type": "Feature",
@@ -10942,10 +9517,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "2738"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2715739, 34.1076393]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.2715739, 34.1076393] }
     },
     {
       "type": "Feature",
@@ -10965,10 +9537,7 @@
         "name": "Trader Joe's",
         "addr:city": "Crestview Hills"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.5773244, 39.0261133]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.5773244, 39.0261133] }
     },
     {
       "type": "Feature",
@@ -10988,10 +9557,7 @@
         "addr:state": "PA",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.1221983, 40.1084083]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.1221983, 40.1084083] }
     },
     {
       "type": "Feature",
@@ -11011,10 +9577,7 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3770707, 34.0711651]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3770707, 34.0711651] }
     },
     {
       "type": "Feature",
@@ -11034,10 +9597,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/millbrae/170/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3960311, 37.6036526]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3960311, 37.6036526] }
     },
     {
       "type": "Feature",
@@ -11057,10 +9617,7 @@
         "addr:housenumber": "14443",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7884205, 33.7061608]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7884205, 33.7061608] }
     },
     {
       "type": "Feature",
@@ -11080,10 +9637,7 @@
         "name": "Trader Joe's",
         "ref": "429"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.7748374, 29.7403352]
-      }
+      "geometry": { "type": "Point", "coordinates": [-95.7748374, 29.7403352] }
     },
     {
       "type": "Feature",
@@ -11103,10 +9657,7 @@
         "addr:city": "Parker",
         "ref": "309"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.7776188, 39.5563188]
-      }
+      "geometry": { "type": "Point", "coordinates": [-104.7776188, 39.5563188] }
     },
     {
       "type": "Feature",
@@ -11126,10 +9677,7 @@
         "addr:housenumber": "3329",
         "addr:city": "Santa Ana"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8842077, 33.7011809]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8842077, 33.7011809] }
     },
     {
       "type": "Feature",
@@ -11149,10 +9697,7 @@
         "name": "Trader Joe's",
         "addr:street": "North University Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2501582, 26.2650525]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.2501582, 26.2650525] }
     },
     {
       "type": "Feature",
@@ -11172,10 +9717,7 @@
         "addr:postcode": "46268",
         "addr:housenumber": "2902"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.2117997, 39.9125685]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.2117997, 39.9125685] }
     },
     {
       "type": "Feature",
@@ -11195,10 +9737,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.5681231, 38.1118504]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.5681231, 38.1118504] }
     },
     {
       "type": "Feature",
@@ -11218,10 +9757,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1835183, 37.4512158]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1835183, 37.4512158] }
     },
     {
       "type": "Feature",
@@ -11241,10 +9777,7 @@
         "phone": "+1 614-473-0794",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.9180099, 40.0493003]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.9180099, 40.0493003] }
     },
     {
       "type": "Feature",
@@ -11262,10 +9795,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.703431, 33.9952333]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.703431, 33.9952333] }
     },
     {
       "type": "Feature",
@@ -11285,10 +9815,7 @@
         "name": "Trader Joe's",
         "branch": "Hewlett"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7017203, 40.6392018]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.7017203, 40.6392018] }
     },
     {
       "type": "Feature",
@@ -11308,10 +9835,7 @@
         "name": "Trader Joe's",
         "addr:street": "East 59th Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9615376, 40.7596592]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9615376, 40.7596592] }
     },
     {
       "type": "Feature",
@@ -11331,10 +9855,7 @@
         "addr:city": "Beaverton",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7976043, 45.4879718]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.7976043, 45.4879718] }
     },
     {
       "type": "Feature",
@@ -11354,10 +9875,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "44250"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.3966112, 33.7274599]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.3966112, 33.7274599] }
     },
     {
       "type": "Feature",
@@ -11377,10 +9895,7 @@
         "ref": "41",
         "addr:street": "Higuera Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-120.6645005, 35.278912]
-      }
+      "geometry": { "type": "Point", "coordinates": [-120.6645005, 35.278912] }
     },
     {
       "type": "Feature",
@@ -11400,10 +9915,7 @@
         "name": "Trader Joe's",
         "ref": "95"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-110.8589241, 32.2371687]
-      }
+      "geometry": { "type": "Point", "coordinates": [-110.8589241, 32.2371687] }
     },
     {
       "type": "Feature",
@@ -11423,10 +9935,7 @@
         "addr:state": "SC",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.3056746, 34.8290454]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.3056746, 34.8290454] }
     },
     {
       "type": "Feature",
@@ -11446,10 +9955,7 @@
         "addr:street": "US",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.4592496, 40.4628556]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.4592496, 40.4628556] }
     },
     {
       "type": "Feature",
@@ -11469,10 +9975,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ct/orange/524/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.0188747, 41.2508125]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.0188747, 41.2508125] }
     },
     {
       "type": "Feature",
@@ -11492,10 +9995,7 @@
         "addr:housenumber": "2114",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8365462, 33.8234418]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8365462, 33.8234418] }
     },
     {
       "type": "Feature",
@@ -11515,10 +10015,7 @@
         "branch": "Charlotte - North",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.7545264, 35.3368095]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.7545264, 35.3368095] }
     },
     {
       "type": "Feature",
@@ -11538,10 +10035,7 @@
         "addr:city": "Wichita",
         "addr:housenumber": "1800"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.2434102, 37.7163687]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.2434102, 37.7163687] }
     },
     {
       "type": "Feature",
@@ -11561,10 +10055,7 @@
         "name": "Trader Joe's",
         "addr:city": "Austin"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.7898114, 30.2701339]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.7898114, 30.2701339] }
     },
     {
       "type": "Feature",
@@ -11585,10 +10076,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "89135"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.3354281, 36.1461897]
-      }
+      "geometry": { "type": "Point", "coordinates": [-115.3354281, 36.1461897] }
     },
     {
       "type": "Feature",
@@ -11608,10 +10096,7 @@
         "addr:city": "San Carlos",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.248571, 37.4963881]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.248571, 37.4963881] }
     },
     {
       "type": "Feature",
@@ -11631,10 +10116,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/toluca-lake/54/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3519298, 34.151912]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3519298, 34.151912] }
     },
     {
       "type": "Feature",
@@ -11654,10 +10136,7 @@
         "addr:city": "Glenview",
         "addr:housenumber": "1407"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.7971929, 42.0809674]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.7971929, 42.0809674] }
     },
     {
       "type": "Feature",
@@ -11677,10 +10156,7 @@
         "addr:postcode": "10016",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9790839, 40.7439882]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9790839, 40.7439882] }
     },
     {
       "type": "Feature",
@@ -11700,10 +10176,7 @@
         "addr:housenumber": "4715",
         "branch": "Portland Southeast"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6235486, 45.4888244]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.6235486, 45.4888244] }
     },
     {
       "type": "Feature",
@@ -11723,10 +10196,7 @@
         "name": "Trader Joe's",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.7815442, 35.758902]
-      }
+      "geometry": { "type": "Point", "coordinates": [-78.7815442, 35.758902] }
     },
     {
       "type": "Feature",
@@ -11746,10 +10216,7 @@
         "name": "Trader Joe's",
         "branch": "West Los Angeles"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4214825, 34.030059]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4214825, 34.030059] }
     },
     {
       "type": "Feature",
@@ -11769,10 +10236,7 @@
         "website": "https://locations.traderjoes.com/nm/albuquerque/166/",
         "addr:housenumber": "8928"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.5426633, 35.175132]
-      }
+      "geometry": { "type": "Point", "coordinates": [-106.5426633, 35.175132] }
     },
     {
       "type": "Feature",
@@ -11792,10 +10256,7 @@
         "branch": "La Quinta",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2942688, 33.7119922]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.2942688, 33.7119922] }
     },
     {
       "type": "Feature",
@@ -11815,10 +10276,7 @@
         "addr:postcode": "23235",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.5642704, 37.5389022]
-      }
+      "geometry": { "type": "Point", "coordinates": [-77.5642704, 37.5389022] }
     },
     {
       "type": "Feature",
@@ -11838,10 +10296,7 @@
         "name": "Trader Joe's",
         "addr:street": "MC Lellan Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4461046, 37.664736]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4461046, 37.664736] }
     },
     {
       "type": "Feature",
@@ -11861,10 +10316,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "32608"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.3799788, 29.6232817]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.3799788, 29.6232817] }
     },
     {
       "type": "Feature",
@@ -11884,10 +10336,7 @@
         "name": "Trader Joe's",
         "addr:city": "Napa"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3058353, 38.3227963]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3058353, 38.3227963] }
     },
     {
       "type": "Feature",
@@ -11907,10 +10356,7 @@
         "branch": "Cambridge",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1141683, 42.3582624]
-      }
+      "geometry": { "type": "Point", "coordinates": [-71.1141683, 42.3582624] }
     },
     {
       "type": "Feature",
@@ -11930,10 +10376,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "07470"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.2304054, 40.9592844]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.2304054, 40.9592844] }
     },
     {
       "type": "Feature",
@@ -11954,10 +10397,7 @@
         "name": "Trader Joe's",
         "ref": "715"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.9226673, 44.945734]
-      }
+      "geometry": { "type": "Point", "coordinates": [-92.9226673, 44.945734] }
     },
     {
       "type": "Feature",
@@ -11977,10 +10417,7 @@
         "name": "Trader Joe's",
         "ref": "538"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9867686, 40.7161413]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9867686, 40.7161413] }
     },
     {
       "type": "Feature",
@@ -12000,10 +10437,7 @@
         "name": "Trader Joe's",
         "ref": "638"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.9191827, 40.4592363]
-      }
+      "geometry": { "type": "Point", "coordinates": [-79.9191827, 40.4592363] }
     },
     {
       "type": "Feature",
@@ -12024,10 +10458,7 @@
         "addr:unit": "A",
         "ref": "30"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.7384764, 34.2808989]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.7384764, 34.2808989] }
     },
     {
       "type": "Feature",
@@ -12047,10 +10478,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "33907"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8696431, 26.5871679]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.8696431, 26.5871679] }
     },
     {
       "type": "Feature",
@@ -12070,10 +10498,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "12966"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.1669396, 47.3595869]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.1669396, 47.3595869] }
     },
     {
       "type": "Feature",
@@ -12093,10 +10518,7 @@
         "addr:postcode": "11249",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9646799, 40.7177156]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9646799, 40.7177156] }
     },
     {
       "type": "Feature",
@@ -12116,10 +10538,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.2491837, 34.2716707]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.2491837, 34.2716707] }
     },
     {
       "type": "Feature",
@@ -12139,10 +10558,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "10"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4056674, 37.7853327]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.4056674, 37.7853327] }
     },
     {
       "type": "Feature",
@@ -12162,10 +10578,7 @@
         "name": "Trader Joe's",
         "phone": "+1 510-524-7609"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.299816, 37.8989101]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.299816, 37.8989101] }
     },
     {
       "type": "Feature",
@@ -12185,10 +10598,7 @@
         "phone": "+1 215-569-9282",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.1759702, 39.9541809]
-      }
+      "geometry": { "type": "Point", "coordinates": [-75.1759702, 39.9541809] }
     },
     {
       "type": "Feature",
@@ -12208,10 +10618,7 @@
         "branch": "Shoreline",
         "addr:city": "Shoreline"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3433056, 47.7549148]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.3433056, 47.7549148] }
     },
     {
       "type": "Feature",
@@ -12231,10 +10638,7 @@
         "phone": "+1 314-569-0427",
         "addr:city": "Creve Coeur"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.4364196, 38.6719545]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.4364196, 38.6719545] }
     },
     {
       "type": "Feature",
@@ -12254,10 +10658,7 @@
         "branch": "Ithaca",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.5104712, 42.4287805]
-      }
+      "geometry": { "type": "Point", "coordinates": [-76.5104712, 42.4287805] }
     },
     {
       "type": "Feature",
@@ -12277,10 +10678,7 @@
         "website": "https://locations.traderjoes.com/ny/commack/551/",
         "addr:postcode": "11725"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.3074892, 40.8403293]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.3074892, 40.8403293] }
     },
     {
       "type": "Feature",
@@ -12300,10 +10698,7 @@
         "ref": "609",
         "addr:postcode": "07041"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.2961459, 40.7230026]
-      }
+      "geometry": { "type": "Point", "coordinates": [-74.2961459, 40.7230026] }
     },
     {
       "type": "Feature",
@@ -12323,10 +10718,7 @@
         "branch": "Irvine - University Center",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8375077, 33.6504666]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8375077, 33.6504666] }
     },
     {
       "type": "Feature",
@@ -12346,10 +10738,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/id/boise/360/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2037053, 43.6130276]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.2037053, 43.6130276] }
     },
     {
       "type": "Feature",
@@ -12369,10 +10758,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/pasadena/179/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1329065, 34.1400495]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1329065, 34.1400495] }
     },
     {
       "type": "Feature",
@@ -12392,10 +10778,7 @@
         "ref": "94",
         "addr:street": "North Scottsdale Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9275797, 33.5294368]
-      }
+      "geometry": { "type": "Point", "coordinates": [-111.9275797, 33.5294368] }
     },
     {
       "type": "Feature",
@@ -12415,10 +10798,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5065624, 33.8114911]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5065624, 33.8114911] }
     },
     {
       "type": "Feature",
@@ -12438,10 +10818,7 @@
         "name": "Trader Joe's",
         "addr:state": "MA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.2750078, 41.6595549]
-      }
+      "geometry": { "type": "Point", "coordinates": [-70.2750078, 41.6595549] }
     },
     {
       "type": "Feature",
@@ -12461,10 +10838,7 @@
         "branch": "Oak Park",
         "addr:city": "Oak Park"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.8047896, 41.8902787]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.8047896, 41.8902787] }
     },
     {
       "type": "Feature",
@@ -12484,10 +10858,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "06880"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.3519417, 41.1398413]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.3519417, 41.1398413] }
     },
     {
       "type": "Feature",
@@ -12507,10 +10878,7 @@
         "branch": "Mentor",
         "addr:city": "Mentor"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.2996113, 41.6804645]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.2996113, 41.6804645] }
     },
     {
       "type": "Feature",
@@ -12530,10 +10898,7 @@
         "website": "https://locations.traderjoes.com/ca/concord/60/",
         "ref": "60"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0564004, 37.9792245]
-      }
+      "geometry": { "type": "Point", "coordinates": [-122.0564004, 37.9792245] }
     },
     {
       "type": "Feature",
@@ -12551,10 +10916,7 @@
         "shop": "supermarket",
         "brand:wikidata": "Q688825"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.0219551, 32.8191457]
-      }
+      "geometry": { "type": "Point", "coordinates": [-97.0219551, 32.8191457] }
     },
     {
       "type": "Feature",
@@ -12574,10 +10936,7 @@
         "addr:street": "Columbus Avenue",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9695098, 40.7907104]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.9695098, 40.7907104] }
     },
     {
       "type": "Feature",
@@ -12597,10 +10956,7 @@
         "addr:city": "Bakersfield",
         "branch": "Bakersfield"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.0934994, 35.3556172]
-      }
+      "geometry": { "type": "Point", "coordinates": [-119.0934994, 35.3556172] }
     },
     {
       "type": "Feature",
@@ -12620,10 +10976,7 @@
         "name": "Trader Joe's",
         "website": "https://locations.traderjoes.com/ca/palmdale/185/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.149297, 34.6003122]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.149297, 34.6003122] }
     },
     {
       "type": "Feature",
@@ -12643,10 +10996,7 @@
         "name": "Trader Joe's",
         "ref": "63"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.8792339, 37.2515568]
-      }
+      "geometry": { "type": "Point", "coordinates": [-121.8792339, 37.2515568] }
     },
     {
       "type": "Feature",
@@ -12666,10 +11016,7 @@
         "addr:street": "Irvine Boulevard",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8096194, 33.746471]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8096194, 33.746471] }
     },
     {
       "type": "Feature",
@@ -12689,10 +11036,7 @@
         "addr:housenumber": "2922",
         "branch": "Houston - Alabama Theater"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4113227, 29.7392113]
-      }
+      "geometry": { "type": "Point", "coordinates": [-95.4113227, 29.7392113] }
     },
     {
       "type": "Feature",
@@ -12712,10 +11056,7 @@
         "addr:city": "North Hollywood",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3957817, 34.1821716]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3957817, 34.1821716] }
     },
     {
       "type": "Feature",
@@ -12735,10 +11076,7 @@
         "name": "Trader Joe's",
         "addr:postcode": "10538"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7464526, 40.9383639]
-      }
+      "geometry": { "type": "Point", "coordinates": [-73.7464526, 40.9383639] }
     },
     {
       "type": "Feature",
@@ -12758,10 +11096,7 @@
         "name": "Trader Joe's",
         "addr:housenumber": "1800"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3804345, 33.9004749]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3804345, 33.9004749] }
     },
     {
       "type": "Feature",
@@ -12779,10 +11114,7 @@
         "brand:wikidata": "Q688825",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.0927596, 29.20685]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.0927596, 29.20685] }
     },
     {
       "type": "Feature",
@@ -12802,10 +11134,7 @@
         "addr:postcode": "28277",
         "addr:state": "NC"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.8179279, 35.0788563]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.8179279, 35.0788563] }
     },
     {
       "type": "Feature",
@@ -12825,10 +11154,7 @@
         "phone": "+1 706-583-8934",
         "addr:postcode": "30606"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.4436789, 33.9156039]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.4436789, 33.9156039] }
     },
     {
       "type": "Feature",
@@ -12848,10 +11174,7 @@
         "name": "Trader Joe's",
         "addr:street": "West Washington"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.2579003, 36.1806022]
-      }
+      "geometry": { "type": "Point", "coordinates": [-115.2579003, 36.1806022] }
     },
     {
       "type": "Feature",
@@ -12871,10 +11194,7 @@
         "addr:city": "Rochester Hills",
         "addr:street": "Walton Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.1941111, 42.6806977]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.1941111, 42.6806977] }
     },
     {
       "type": "Feature",
@@ -12894,10 +11214,7 @@
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3532856, 33.8522499]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.3532856, 33.8522499] }
     },
     {
       "type": "Feature",
@@ -12917,10 +11234,10 @@
         "branch": "Glen Ellyn",
         "name": "Trader Joe's"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.0586561, 41.8605268]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.0586561, 41.8605268] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.1.2", "datetime": "2024-01-30" }
+  }
 }
