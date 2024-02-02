@@ -23,7 +23,7 @@ files = [
     os.path.join(root, file)
     for root, _, files in os.walk(FOLDER_PATH)
     for file in files
-    if file.endswith(".geojson")
+    if file.endswith(".geojson") and not file.startswith("missing")
 ]
 
 
@@ -97,7 +97,7 @@ sr_comp = regex.compile(
 )
 
 saint_comp = regex.compile(
-    rf"^(St\.?)(?= )|(St\.?)(?= (?:{'|'.join(saints)}))",
+    rf"^(St\.?)(?= )|(\bSt\.?)(?= (?:{'|'.join(saints)}))",
     flags=regex.IGNORECASE,
 )
 
