@@ -1816,13 +1816,14 @@
         "website": "https://www.hilton.com/hotels/savmnru-tru-savannah-midtown/",
         "official_name": "Tru by Hilton",
         "phone": "+1 912-200-5505",
-        "name": "Tru By Hilton Savannah Midtown",
+        "name": "Tru",
         "addr:postcode": "31406",
         "brand:wikidata": "Q24907770",
         "brand": "Tru by Hilton",
         "addr:housenumber": "77",
         "addr:street": "West Fairmont Avenue",
-        "ref": "SAVMNRU"
+        "ref": "SAVMNRU",
+        "branch": "Savannah Midtown"
       },
       "geometry": {
         "type": "Point",
@@ -5824,7 +5825,7 @@
         "tourism": "hotel",
         "addr:city": "West Memphis",
         "addr:postcode": "72301",
-        "name": "Tru By Hilton West Memphis",
+        "name": "Tru",
         "official_name": "Tru by Hilton",
         "brand:wikidata": "Q24907770",
         "website": "https://www.hilton.com/hotels/awmruru-tru-west-memphis/",
@@ -5832,7 +5833,8 @@
         "brand": "Tru by Hilton",
         "addr:housenumber": "1400",
         "addr:street": "North18th Street",
-        "ref": "AWMRURU"
+        "ref": "AWMRURU",
+        "branch": "West Memphis"
       },
       "geometry": {
         "type": "Point",
@@ -12347,13 +12349,14 @@
         "brand:wikidata": "Q5887912;Q24907770",
         "official_name": "Tru by Hilton;Home2 Suites by Hilton",
         "phone": "+1 414-240-8331",
-        "name": "Home2 Suites by Hilton Milwaukee Downtown",
+        "name": "Home2 Suites",
         "website": "https://www.hilton.com/hotels/mkesoru-tru-milwaukee-downtown/;https://www.hilton.com/hotels/mkesuht-home2-suites-milwaukee-downtown/",
         "addr:postcode": "53202",
         "addr:state": "WI",
         "addr:housenumber": "515",
         "addr:street": "North Jefferson Street",
-        "ref": "MKESORU"
+        "ref": "MKESORU",
+        "branch": "Milwaukee Downtown"
       },
       "geometry": {
         "type": "Point",
@@ -15524,7 +15527,7 @@
       "type": "Feature",
       "properties": {
         "tourism": "hotel",
-        "name": "Tru By Hilton El Paso East Loop 375",
+        "name": "Tru",
         "addr:state": "TX",
         "official_name": "Tru by Hilton",
         "website": "https://www.hilton.com/hotels/cjsepru-tru-el-paso-east-loop-375/",
@@ -15535,7 +15538,8 @@
         "brand": "Tru by Hilton",
         "addr:housenumber": "3620",
         "addr:street": "Joe Battle Boulevard",
-        "ref": "CJSEPRU"
+        "ref": "CJSEPRU",
+        "branch": "El Paso East Loop 375"
       },
       "geometry": {
         "type": "Point",
@@ -15896,14 +15900,15 @@
         "tourism": "hotel",
         "phone": "+1 614-845-5620",
         "brand:wikidata": "Q5887912",
-        "name": "Home2 Suites By Hilton Columbus West",
+        "name": "Home2 Suites",
         "addr:city": "Columbus",
         "brand": "Home2 Suites by Hilton",
         "official_name": "Home2 Suites by Hilton",
         "website": "https://www.hilton.com/hotels/cmhcwht-home2-suites-columbus-west/",
         "addr:housenumber": "5460",
         "addr:street": "Fisher Road",
-        "ref": "CMHCWHT"
+        "ref": "CMHCWHT",
+        "branch": "Columbus West"
       },
       "geometry": { "type": "Point", "coordinates": [-83.148957, 39.973463] }
     },
@@ -19679,7 +19684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tru By Hilton Milford Cincinnati",
+        "name": "Tru",
         "addr:state": "OH",
         "tourism": "hotel",
         "website": "https://www.hilton.com/hotels/cvgmfru-tru-milford-cincinnati/",
@@ -19691,7 +19696,8 @@
         "brand": "Tru by Hilton",
         "addr:housenumber": "951",
         "addr:street": "Chamber Drive",
-        "ref": "CVGMFRU"
+        "ref": "CVGMFRU",
+        "branch": "Milford Cincinnati"
       },
       "geometry": { "type": "Point", "coordinates": [-84.272756, 39.157943] }
     },
@@ -20220,7 +20226,7 @@
         "addr:postcode": "40299",
         "tourism": "hotel",
         "addr:city": "Louisville",
-        "name": "Tru By Hilton Louisville East",
+        "name": "Tru",
         "website": "https://www.hilton.com/hotels/sdflvru-tru-louisville-east/",
         "official_name": "Tru by Hilton",
         "phone": "+1 502-208-2900",
@@ -20229,7 +20235,8 @@
         "brand": "Tru by Hilton",
         "addr:housenumber": "11505",
         "addr:street": "Bluegrass Parkway",
-        "ref": "SDFLVRU"
+        "ref": "SDFLVRU",
+        "branch": "Louisville East"
       },
       "geometry": {
         "type": "Point",
@@ -23989,11 +23996,12 @@
         "addr:postcode": "78245",
         "addr:state": "TX",
         "website": "https://www.hilton.com/hotels/satswht-home2-suites-san-antonio-lackland-seaworld/;https://www.hilton.com/hotels/satwdru-tru-san-antonio-lackland-seaworld/",
-        "name": "Home2 Suites by Hilton San Antonio Lackland SeaWorld",
+        "name": "Home2 Suites",
         "addr:housenumber": "9911",
         "addr:street": "Ingram Road",
         "addr:unit": "B",
-        "ref": "SATSWHT"
+        "ref": "SATSWHT",
+        "branch": "San Antonio Lackland SeaWorld"
       },
       "geometry": {
         "type": "Point",
@@ -27269,12 +27277,13 @@
         "addr:city": "West Bloomfield",
         "website": "https://www.hilton.com/hotels/dttwbhx-hampton-southfield-west-bloomfield/;https://www.hilton.com/hotels/dtwrsht-home2-suites-west-bloomfield-detroit/",
         "official_name": "Hampton Inn & Suites by Hilton;Home2 Suites by Hilton",
-        "name": "Home2 Suites by Hilton West Bloomfield Detroit",
+        "name": "Home2 Suites",
         "phone": "+1 248-940-1000",
         "addr:postcode": "48322",
         "addr:housenumber": "33096",
         "addr:street": "Northwestern Highway",
-        "ref": "DTTWBHX"
+        "ref": "DTTWBHX",
+        "branch": "West Bloomfield Detroit"
       },
       "geometry": {
         "type": "Point",
@@ -27966,13 +27975,14 @@
         "brand": "Home2 Suites by Hilton",
         "official_name": "Home2 Suites by Hilton",
         "website": "https://www.hilton.com/hotels/chsjnht-home2-suites-mt-pleasant-charleston/",
-        "name": "Home2 Suites By Hilton Mount Pleasant Charleston",
+        "name": "Home2 Suites",
         "addr:state": "SC",
         "addr:postcode": "29464",
         "addr:city": "Mount Pleasant",
         "addr:housenumber": "1650",
         "addr:street": "James Nelson Road",
-        "ref": "CHSJNHT"
+        "ref": "CHSJNHT",
+        "branch": "Mount Pleasant Charleston"
       },
       "geometry": {
         "type": "Point",
@@ -31208,12 +31218,13 @@
         "website": "https://www.hilton.com/hotels/houbyhw-homewood-suites-houston-iah-airport-beltway-8/",
         "phone": "+1 281-219-9100",
         "brand:wikidata": "Q5890701",
-        "name": "Homewood Suites By Hilton Houston IAH Airport Beltway 8",
+        "name": "Homewood Suites",
         "addr:postcode": "77032",
         "addr:state": "TX",
         "addr:housenumber": "1340",
         "addr:street": "North Sam Houston Parkway East",
-        "ref": "HOUBYHW"
+        "ref": "HOUBYHW",
+        "branch": "Houston IAH Airport Beltway 8"
       },
       "geometry": { "type": "Point", "coordinates": [-95.367138, 29.938463] }
     },
@@ -32281,11 +32292,12 @@
         "addr:postcode": "85281",
         "brand:wikidata": "Q5890701",
         "website": "https://www.hilton.com/hotels/phxtuhw-homewood-suites-phoenix-tempe-asu-area/",
-        "name": "Homewood Suites By Hilton Phoenix Tempe ASU Area",
+        "name": "Homewood Suites",
         "phone": "+1 480-966-2780",
         "addr:housenumber": "66",
         "addr:street": "South Rockford Drive",
-        "ref": "PHXTUHW"
+        "ref": "PHXTUHW",
+        "branch": "Phoenix Tempe ASU Area"
       },
       "geometry": {
         "type": "Point",
@@ -37326,7 +37338,7 @@
         "addr:city": "Little Rock",
         "tourism": "hotel",
         "addr:postcode": "72209",
-        "name": "Tru By Hilton Little Rock West",
+        "name": "Tru",
         "official_name": "Tru by Hilton",
         "brand:wikidata": "Q24907770",
         "phone": "+1 501-455-3300",
@@ -37335,7 +37347,8 @@
         "brand": "Tru by Hilton",
         "addr:housenumber": "11320",
         "addr:street": "Bass Pro Parkway",
-        "ref": "LITRURU"
+        "ref": "LITRURU",
+        "branch": "Little Rock West"
       },
       "geometry": {
         "type": "Point",
@@ -40768,11 +40781,12 @@
         "brand": "Motto by Hilton",
         "addr:city": "Philadelphia",
         "official_name": "Motto by Hilton",
-        "name": "Motto By Hilton Philadelphia Rittenhouse Square",
+        "name": "Motto",
         "addr:state": "PA",
         "addr:housenumber": "31",
         "addr:street": "South 19th Street",
-        "ref": "PHLRIUA"
+        "ref": "PHLRIUA",
+        "branch": "Philadelphia Rittenhouse Square"
       },
       "geometry": { "type": "Point", "coordinates": [-75.17158, 39.95253] }
     },
@@ -42726,11 +42740,12 @@
         "addr:postcode": "29118",
         "addr:state": "SC",
         "phone": "+1 803-813-8000",
-        "name": "Tru By Hilton Orangeburg",
+        "name": "Tru",
         "brand": "Tru by Hilton",
         "addr:housenumber": "739",
         "addr:street": "Citadel Road",
-        "ref": "CAEORRU"
+        "ref": "CAEORRU",
+        "branch": "Orangeburg"
       },
       "geometry": {
         "type": "Point",
@@ -51741,7 +51756,7 @@
         "tourism": "hotel",
         "brand:wikidata": "Q5887912",
         "addr:state": "NJ",
-        "name": "Home2 Suites By Hilton Hasbrouck Heights",
+        "name": "Home2 Suites",
         "phone": "+1 201-552-5600",
         "addr:postcode": "07604",
         "brand": "Home2 Suites by Hilton",
@@ -51750,7 +51765,8 @@
         "addr:city": "Hasbrouck Heights",
         "addr:housenumber": "377",
         "addr:street": "Route 17 South",
-        "ref": "EWRHTHT"
+        "ref": "EWRHTHT",
+        "branch": "Hasbrouck Heights"
       },
       "geometry": {
         "type": "Point",
@@ -53869,7 +53885,7 @@
       "properties": {
         "tourism": "hotel",
         "addr:city": "Jacksonville",
-        "name": "Tru By Hilton Jacksonville Saint Johns Town Center",
+        "name": "Tru",
         "official_name": "Tru by Hilton",
         "addr:state": "FL",
         "website": "https://www.hilton.com/hotels/jaxsjru-tru-jacksonville-st-johns-town-center/",
@@ -53879,7 +53895,8 @@
         "brand": "Tru by Hilton",
         "addr:housenumber": "4640",
         "addr:street": "Tropea Way",
-        "ref": "JAXSJRU"
+        "ref": "JAXSJRU",
+        "branch": "Jacksonville Saint Johns Town Center"
       },
       "geometry": {
         "type": "Point",
@@ -55375,12 +55392,13 @@
         "addr:postcode": "46637",
         "brand:wikidata": "Q5890701",
         "website": "https://www.hilton.com/hotels/behowhw-homewood-suites-south-bend-notre-dame-area/",
-        "name": "Homewood Suites By Hilton South Bend Notre Dame Area",
+        "name": "Homewood Suites",
         "addr:state": "IN",
         "phone": "+1 574-968-7440",
         "addr:housenumber": "52860",
         "addr:street": "State Route 933",
-        "ref": "BEHOWHW"
+        "ref": "BEHOWHW",
+        "branch": "South Bend Notre Dame Area"
       },
       "geometry": { "type": "Point", "coordinates": [-86.249873, 41.725396] }
     },
@@ -59159,7 +59177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tru By Hilton Nashville Downtown Convention Center",
+        "name": "Tru",
         "tourism": "hotel",
         "addr:state": "TN",
         "addr:postcode": "37203",
@@ -59171,7 +59189,8 @@
         "addr:city": "Nashville",
         "addr:housenumber": "500",
         "addr:street": "Rep John Lewis Way South",
-        "ref": "BNARURU"
+        "ref": "BNARURU",
+        "branch": "Nashville Downtown Convention Center"
       },
       "geometry": {
         "type": "Point",
@@ -64279,13 +64298,14 @@
         "tourism": "hotel",
         "addr:postcode": "45209",
         "brand:wikidata": "Q5890701",
-        "name": "Homewood Suites By Hilton Cincinnati Midtown",
+        "name": "Homewood Suites",
         "phone": "+1 513-975-1800",
         "website": "https://www.hilton.com/hotels/cvgmthw-homewood-suites-cincinnati-midtown/",
         "addr:city": "Cincinnati",
         "addr:housenumber": "4605",
         "addr:street": "Factory Colony Lane",
-        "ref": "CVGMTHW"
+        "ref": "CVGMTHW",
+        "branch": "Cincinnati Midtown"
       },
       "geometry": { "type": "Point", "coordinates": [-84.429607, 39.15907] }
     },
@@ -67941,12 +67961,13 @@
         "website": "https://www.hilton.com/hotels/houithw-homewood-suites-houston-memorial/",
         "addr:postcode": "77055",
         "brand:wikidata": "Q5890701",
-        "name": "Homewood Suites By Hilton Houston Memorial",
+        "name": "Homewood Suites",
         "addr:state": "TX",
         "phone": "+1 713-325-0101",
         "addr:housenumber": "9450",
         "addr:street": "Katy Freeway",
-        "ref": "HOUITHW"
+        "ref": "HOUITHW",
+        "branch": "Houston Memorial"
       },
       "geometry": {
         "type": "Point",
@@ -68139,13 +68160,14 @@
         "website": "https://www.hilton.com/hotels/elpapht-home2-suites-el-paso-airport/",
         "addr:state": "TX",
         "brand": "Home2 Suites by Hilton",
-        "name": "Home2 Suites By Hilton El Paso Airport",
+        "name": "Home2 Suites",
         "official_name": "Home2 Suites by Hilton",
         "addr:postcode": "79925",
         "addr:city": "El Paso",
         "addr:housenumber": "6308",
         "addr:street": "Montana Avenue",
-        "ref": "ELPAPHT"
+        "ref": "ELPAPHT",
+        "branch": "El Paso Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-106.408554, 31.787369] }
     },
@@ -72720,10 +72742,11 @@
         "website": "https://www.hilton.com/hotels/tolmaht-home2-suites-maumee-toledo/",
         "brand": "Home2 Suites by Hilton",
         "official_name": "Home2 Suites by Hilton",
-        "name": "Home2 Suites By Hilton Maumee Toledo",
+        "name": "Home2 Suites",
         "addr:housenumber": "1701",
         "addr:street": "Tollgate Drive",
-        "ref": "TOLMAHT"
+        "ref": "TOLMAHT",
+        "branch": "Maumee Toledo"
       },
       "geometry": {
         "type": "Point",
@@ -73009,13 +73032,14 @@
         "addr:state": "NM",
         "brand:wikidata": "Q5887912;Q5646230",
         "official_name": "Hampton Inn & Suites by Hilton;Home2 Suites by Hilton",
-        "name": "Home2 Suites by Hilton Clovis",
+        "name": "Home2 Suites",
         "phone": "+1 575-530-0300",
         "website": "https://www.hilton.com/hotels/cvnnmht-home2-suites-clovis/;https://www.hilton.com/hotels/cvnclhx-hampton-clovis/",
         "addr:housenumber": "224",
         "addr:street": "Fairway Terrace",
         "addr:unit": "B",
-        "ref": "CVNNMHT"
+        "ref": "CVNNMHT",
+        "branch": "Clovis"
       },
       "geometry": {
         "type": "Point",
@@ -80849,10 +80873,11 @@
         "brand": "Home2 Suites by Hilton",
         "official_name": "Home2 Suites by Hilton",
         "phone": "+1 314-916-0314",
-        "name": "Home2 Suites By Hilton Saint Louis Downtown",
+        "name": "Home2 Suites",
         "addr:housenumber": "1221",
         "addr:street": "Locust Street",
-        "ref": "STLCSHT"
+        "ref": "STLCSHT",
+        "branch": "Saint Louis Downtown"
       },
       "geometry": { "type": "Point", "coordinates": [-90.198214, 38.630931] }
     },
@@ -81105,11 +81130,12 @@
         "brand:wikidata": "Q5890701",
         "website": "https://www.hilton.com/hotels/ucanehw-homewood-suites-new-hartford-utica/",
         "phone": "+1 315-801-7200",
-        "name": "Homewood Suites By Hilton New Hartford Utica",
+        "name": "Homewood Suites",
         "addr:state": "NY",
         "addr:housenumber": "185",
         "addr:street": "Woods Park Drive",
-        "ref": "UCANEHW"
+        "ref": "UCANEHW",
+        "branch": "New Hartford Utica"
       },
       "geometry": {
         "type": "Point",
@@ -86966,7 +86992,7 @@
         "addr:state": "OH",
         "tourism": "hotel",
         "addr:postcode": "43215",
-        "name": "Canopy By Hilton Columbus Downtown Short North",
+        "name": "Canopy",
         "brand": "Canopy by Hilton",
         "phone": "+1 614-223-1400",
         "website": "https://www.hilton.com/hotels/cmhpypy-canopy-columbus-downtown-short-north/",
@@ -86975,7 +87001,8 @@
         "brand:wikidata": "Q30632909",
         "addr:housenumber": "77",
         "addr:street": "East Nationwide Boulevard",
-        "ref": "CMHPYPY"
+        "ref": "CMHPYPY",
+        "branch": "Columbus Downtown Short North"
       },
       "geometry": {
         "type": "Point",
@@ -88212,7 +88239,7 @@
         "tourism": "hotel",
         "brand": "Tru by Hilton;Home2 Suites by Hilton",
         "brand:wikidata": "Q5887912;Q24907770",
-        "name": "Home2 Suites by Hilton Wichita Falls",
+        "name": "Home2 Suites",
         "official_name": "Tru by Hilton;Home2 Suites by Hilton",
         "addr:city": "Wichita Falls",
         "addr:state": "TX",
@@ -88221,7 +88248,8 @@
         "website": "https://www.hilton.com/hotels/spstxru-tru-wichita-falls/;https://www.hilton.com/hotels/spsppht-home2-suites-wichita-falls/",
         "addr:housenumber": "2681",
         "addr:street": "Plaza Parkway",
-        "ref": "SPSTXRU"
+        "ref": "SPSTXRU",
+        "branch": "Wichita Falls"
       },
       "geometry": {
         "type": "Point",
@@ -93008,7 +93036,7 @@
       "properties": {
         "tourism": "hotel",
         "brand": "Hampton by Hilton;Home2 Suites by Hilton",
-        "name": "Home2 Suites by Hilton Durham University Medical Center",
+        "name": "Home2 Suites",
         "addr:postcode": "27705",
         "brand:wikidata": "Q5887912;Q5646230",
         "official_name": "Hampton Inn & Suites by Hilton;Home2 Suites by Hilton",
@@ -93018,7 +93046,8 @@
         "addr:state": "NC",
         "addr:housenumber": "1206",
         "addr:street": "Cole Mill Road",
-        "ref": "RDUMDHX"
+        "ref": "RDUMDHX",
+        "branch": "Durham University Medical Center"
       },
       "geometry": {
         "type": "Point",
@@ -100510,13 +100539,14 @@
         "official_name": "Tru by Hilton",
         "brand:wikidata": "Q24907770",
         "addr:postcode": "55811",
-        "name": "Tru By Hilton Duluth Mall Area",
+        "name": "Tru",
         "brand": "Tru by Hilton",
         "website": "https://www.hilton.com/hotels/dlhmaru-tru-duluth-mall-area/",
         "phone": "+1 218-722-0222",
         "addr:housenumber": "503",
         "addr:street": "Clearwood Drive",
-        "ref": "DLHMARU"
+        "ref": "DLHMARU",
+        "branch": "Duluth Mall Area"
       },
       "geometry": {
         "type": "Point",
@@ -102203,13 +102233,14 @@
         "addr:postcode": "73099",
         "brand": "Home2 Suites by Hilton",
         "official_name": "Home2 Suites by Hilton",
-        "name": "Home2 Suites By Hilton Oklahoma City Yukon",
+        "name": "Home2 Suites",
         "website": "https://www.hilton.com/hotels/okcyuht-home2-suites-oklahoma-city-yukon/",
         "phone": "+1 405-265-0999",
         "addr:city": "Yukon",
         "addr:housenumber": "11510",
         "addr:street": "I",
-        "ref": "OKCYUHT"
+        "ref": "OKCYUHT",
+        "branch": "Oklahoma City Yukon"
       },
       "geometry": { "type": "Point", "coordinates": [-97.726644, 35.467769] }
     },
@@ -104084,11 +104115,12 @@
         "brand": "Home2 Suites by Hilton",
         "official_name": "Home2 Suites by Hilton",
         "addr:state": "SC",
-        "name": "Home2 Suites By Hilton Fort Mill",
+        "name": "Home2 Suites",
         "addr:city": "Fort Mill",
         "addr:housenumber": "1840",
         "addr:street": "Coltharp Road",
-        "ref": "CLTFTHT"
+        "ref": "CLTFTHT",
+        "branch": "Fort Mill"
       },
       "geometry": { "type": "Point", "coordinates": [-80.968339, 35.036663] }
     },
@@ -111430,12 +111462,13 @@
         "addr:city": "Audubon",
         "brand:wikidata": "Q24907770",
         "website": "https://www.hilton.com/hotels/phlavru-tru-audubon-valley-forge/",
-        "name": "Tru By Hilton Audubon Valley Forge",
+        "name": "Tru",
         "addr:state": "PA",
         "brand": "Tru by Hilton",
         "addr:housenumber": "825",
         "addr:street": "Forge Avenue",
-        "ref": "PHLAVRU"
+        "ref": "PHLAVRU",
+        "branch": "Audubon Valley Forge"
       },
       "geometry": { "type": "Point", "coordinates": [-75.408138, 40.127197] }
     },
