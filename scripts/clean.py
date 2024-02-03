@@ -290,6 +290,24 @@ def run(file_list: list[str]) -> None:
                 ):
                     objt.pop("ref", None)
 
+            if "opening_hours" in objt:
+                open_match = regex.search(
+                    r"(\d{2}):\d{2}-\1:\d{2}", objt["opening_hours"]
+                )
+                repeat_match = regex.search(
+                    r"([MTWFS][ouehra]).*; ?\1", objt["opening_hours"]
+                )
+                if open_match or repeat_match:
+                    raise ValueError(
+                        f"Opening hours [{objt['opening_hours']}] are nonsensical [file: {file}]"
+                    )
+
+                if "," in objt["opening_hours"]:
+                    op = objt["opening_hours"].split(";")
+                    objt["opening_hours"] = ";".join(
+                        [each.split(",")[0] for each in op]
+                    )
+
             obj["properties"] = objt
 
         with open(file, "w", encoding="utf-8") as f:
