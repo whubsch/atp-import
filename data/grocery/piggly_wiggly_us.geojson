@@ -33,8 +33,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 270-726-7455",
         "ref": "487",
-        "shop": "supermarket",
-        "website": "http://russellvillepigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8929979, 36.8434685] }
     },
@@ -52,8 +51,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 504-347-7333",
         "ref": "507",
-        "shop": "supermarket",
-        "website": "http://www.wegopig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.1431568, 29.8985915] }
     },
@@ -195,8 +193,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 337-948-9427",
         "ref": "499",
-        "shop": "supermarket",
-        "website": "http://www.gotothepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-92.0727246, 30.5565494] }
     },
@@ -358,8 +355,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 318-941-2469",
         "ref": "505",
-        "shop": "supermarket",
-        "website": "http://www.pigwigsimmesport.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-91.8229198, 30.9885403] }
     },
@@ -374,8 +370,7 @@
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
         "ref": "105;106",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-91.3353187, 34.2947994] }
     },
@@ -393,8 +388,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 870-628-4443",
         "ref": "109",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-91.8415126, 33.9565467] }
     },
@@ -466,8 +460,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 847-395-7842",
         "ref": "408",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0996161, 42.4783116] }
     },
@@ -485,8 +478,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 847-872-4400",
         "ref": "409",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8231972, 42.434518] }
     },
@@ -504,8 +496,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 815-777-1111",
         "ref": "456",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.4414669, 42.4234853] }
     },
@@ -523,8 +514,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-782-3663",
         "ref": "414",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0680907, 43.0614192] }
     },
@@ -540,8 +530,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-375-4474",
         "ref": "427",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9875898, 43.2966716] }
     },
@@ -559,8 +548,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-668-6042",
         "ref": "423",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8177451, 43.5754426] }
     },
@@ -578,8 +566,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-673-9055",
         "ref": "400",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.3504951, 43.3192724] }
     },
@@ -597,8 +584,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-367-2922",
         "ref": "405",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.349333, 43.0976774] }
     },
@@ -615,8 +601,7 @@
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
         "ref": "402",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1838595, 43.2343077] }
     },
@@ -632,8 +617,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-677-4141",
         "ref": "403",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1667599, 43.3238919] }
     },
@@ -651,8 +635,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-386-2972",
         "ref": "452",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.7121497, 43.4068885] }
     },
@@ -670,8 +653,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-626-1778",
         "ref": "419",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2212406, 43.5128758] }
     },
@@ -689,8 +671,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-894-2445",
         "ref": "443",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.024309, 43.9216634] }
     },
@@ -708,8 +689,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-269-4015",
         "ref": "424",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4341034, 43.5844636] }
     },
@@ -727,8 +707,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-387-3220",
         "ref": "442",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5644778, 43.4950419] }
     },
@@ -744,8 +723,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-255-3007",
         "ref": "470",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0982043, 43.166796] }
     },
@@ -763,8 +741,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-898-4600",
         "ref": "413",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1069414, 43.9544927] }
     },
@@ -782,8 +759,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-567-8376",
         "ref": "406",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4629458, 43.1273326] }
     },
@@ -801,8 +777,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-564-2234",
         "ref": "420",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7982348, 43.6242699] }
     },
@@ -820,8 +795,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-893-0741",
         "ref": "463",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9846373, 43.748829] }
     },
@@ -839,8 +813,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-284-6134",
         "ref": "399",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8723136, 43.4093771] }
     },
@@ -858,8 +831,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-284-8969",
         "ref": "401",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9247473, 43.3859372] }
     },
@@ -877,8 +849,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-452-0411",
         "ref": "459",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7393802, 43.7226014] }
     },
@@ -896,8 +867,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-565-4421",
         "ref": "460",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8246561, 43.8270559] }
     },
@@ -915,8 +885,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-458-9991",
         "ref": "458",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7228798, 43.7763809] }
     },
@@ -934,8 +903,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-467-0477",
         "ref": "412",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8247322, 43.7344706] }
     },
@@ -953,8 +921,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-644-5281",
         "ref": "404",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2648243, 43.3255524] }
     },
@@ -970,8 +937,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-246-6452",
         "ref": "418",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2198328, 43.1332479] }
     },
@@ -989,8 +955,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-242-2180",
         "ref": "426",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9842356, 43.2204706] }
     },
@@ -1008,8 +973,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-338-8211",
         "ref": "398",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1457603, 43.4255657] }
     },
@@ -1027,8 +991,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-262-7449",
         "ref": "395",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.7007273, 43.2025423] }
     },
@@ -1046,8 +1009,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-728-2638",
         "ref": "433",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.6236827, 42.625543] }
     },
@@ -1065,8 +1027,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-642-5524",
         "ref": "472",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4223828, 42.7846173] }
     },
@@ -1085,8 +1046,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-723-2996",
         "ref": "471",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5438401, 42.6928594] }
     },
@@ -1104,8 +1064,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-553-1370",
         "ref": "429",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8440782, 42.6303876] }
     },
@@ -1123,8 +1082,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-764-1954",
         "ref": "434",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8594257, 42.5648826] }
     },
@@ -1142,8 +1100,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-248-8798",
         "ref": "432",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4236263, 42.6060649] }
     },
@@ -1159,8 +1116,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-679-1166",
         "ref": "438",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1521633, 42.9020459] }
     },
@@ -1178,8 +1134,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 414-764-7640",
         "ref": "467",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8833573, 42.9144411] }
     },
@@ -1197,8 +1152,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-878-2454",
         "ref": "445",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0350095, 42.681878] }
     },
@@ -1216,8 +1170,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 414-489-7642",
         "ref": "393",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9104915, 42.9861771] }
     },
@@ -1235,8 +1188,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 414-546-2772",
         "ref": "392",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0437972, 42.9969083] }
     },
@@ -1254,8 +1206,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-639-2142",
         "ref": "469",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7883324, 42.769421] }
     },
@@ -1273,8 +1224,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-554-8681",
         "ref": "388",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8284184, 42.6945794] }
     },
@@ -1292,8 +1242,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-619-3230",
         "ref": "468",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8431572, 42.7171489] }
     },
@@ -1311,8 +1260,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-886-0373",
         "ref": "391",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.848305, 42.7379345] }
     },
@@ -1330,8 +1278,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-424-1986",
         "ref": "451",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.5339233, 42.8754478] }
     },
@@ -1349,8 +1296,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-362-1950",
         "ref": "465",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.0100907, 42.5244035] }
     },
@@ -1368,8 +1314,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-897-2105",
         "ref": "439",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.3759564, 42.6139578] }
     },
@@ -1387,8 +1332,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-423-4004",
         "ref": "421",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.0217419, 43.0079601] }
     },
@@ -1406,8 +1350,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-839-3350",
         "ref": "416",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.2109816, 43.0880091] }
     },
@@ -1425,8 +1368,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-798-3701",
         "ref": "425",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.6409776, 43.1110759] }
     },
@@ -1444,8 +1386,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-776-4051",
         "ref": "479",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.1154309, 42.6777583] }
     },
@@ -1463,8 +1404,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-935-2366",
         "ref": "480",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.1350931, 42.9654093] }
     },
@@ -1482,8 +1422,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-884-4277",
         "ref": "422",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.057279, 42.8468738] }
     },
@@ -1501,8 +1440,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-882-5308",
         "ref": "397",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.2741183, 42.7869566] }
     },
@@ -1520,8 +1458,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-674-3130",
         "ref": "466",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.8256253, 43.0070333] }
     },
@@ -1539,8 +1476,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-592-7570",
         "ref": "449",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.5305769, 43.3111697] }
     },
@@ -1558,8 +1494,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-868-7900",
         "ref": "435",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.9385432, 42.7697219] }
     },
@@ -1577,8 +1512,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-325-5088",
         "ref": "483",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.6535499, 42.6044933] }
     },
@@ -1596,8 +1530,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-643-8438",
         "ref": "431",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.73088, 43.2704955] }
     },
@@ -1615,8 +1548,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-478-3088",
         "ref": "396",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.9893943, 43.1919077] }
     },
@@ -1634,8 +1566,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-849-6543",
         "ref": "450",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.4660795, 43.1933002] }
     },
@@ -1653,8 +1584,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-375-4472",
         "ref": "481",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.70704, 43.1341562] }
     },
@@ -1672,8 +1602,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-723-6321",
         "ref": "482",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.7128636, 42.8485163] }
     },
@@ -1691,8 +1620,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-348-2345",
         "ref": "478",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.4773882, 42.7313649] }
     },
@@ -1710,8 +1638,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-885-5843",
         "ref": "417",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.8187219, 43.4571208] }
     },
@@ -1729,8 +1656,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-398-2621",
         "ref": "444",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.989768, 43.7119705] }
     },
@@ -1748,8 +1674,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-429-2221",
         "ref": "411",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.3031956, 43.5250002] }
     },
@@ -1767,8 +1692,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-635-2647",
         "ref": "410",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.3963827, 43.3979177] }
     },
@@ -1786,8 +1710,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-326-5800",
         "ref": "430",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.0046374, 43.5306881] }
     },
@@ -1805,8 +1728,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-324-5526",
         "ref": "440",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.7169901, 43.6355296] }
     },
@@ -1842,8 +1764,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 715-854-2115",
         "ref": "448",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9954533, 45.228937] }
     },
@@ -1861,8 +1782,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-336-7080",
         "ref": "474",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0346274, 44.4368692] }
     },
@@ -1880,8 +1800,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-766-6080",
         "ref": "476",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.272198, 44.2604141] }
     },
@@ -1899,8 +1818,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-766-6090",
         "ref": "475",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2911967, 44.2840763] }
     },
@@ -1918,8 +1836,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-846-2805",
         "ref": "446",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1371453, 44.883694] }
     },
@@ -1937,8 +1854,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-388-2311",
         "ref": "394",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5280714, 44.4549884] }
     },
@@ -1956,8 +1872,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-682-4931",
         "ref": "462",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6570341, 44.1132129] }
     },
@@ -1975,8 +1890,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-854-2391",
         "ref": "407",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.1268117, 45.1841783] }
     },
@@ -1994,8 +1908,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-794-8931",
         "ref": "461",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5738016, 44.1547242] }
     },
@@ -2013,8 +1926,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-434-0921",
         "ref": "390",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0799234, 44.5893211] }
     },
@@ -2032,8 +1944,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 715-693-6700",
         "ref": "428",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.6887823, 44.7866025] }
     },
@@ -2051,8 +1962,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 715-886-4621",
         "ref": "437",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.9053898, 44.3149672] }
     },
@@ -2070,8 +1980,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-236-7801",
         "ref": "457",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5300939, 44.0380086] }
     },
@@ -2089,8 +1998,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-922-7800",
         "ref": "415",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4141067, 43.7820472] }
     },
@@ -2108,8 +2016,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-727-9770",
         "ref": "464",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.4256968, 44.2280563] }
     },
@@ -2127,8 +2034,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-685-5143",
         "ref": "441",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.7194161, 44.0398152] }
     },
@@ -2146,8 +2052,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-295-2981",
         "ref": "453",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.1217828, 43.8508134] }
     },
@@ -2183,8 +2088,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-787-5444",
         "ref": "473",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.2691967, 44.0689812] }
     },
@@ -2202,8 +2106,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-582-0401",
         "ref": "477",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.6962228, 44.1128983] }
     },
@@ -2221,8 +2124,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 608-326-5111",
         "ref": "454",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-91.1271322, 43.0260275] }
     },
@@ -2240,8 +2142,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 920-533-4812",
         "ref": "436",
-        "shop": "supermarket",
-        "website": "https://www.shopthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2796845, 43.6024707] }
     },
@@ -2259,8 +2160,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-586-2582",
         "ref": "380",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglywv.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9223029, 38.5332726] }
     },
@@ -2278,8 +2178,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-342-0280",
         "ref": "379",
-        "shop": "supermarket",
-        "website": "https://www.bigleypigglywiggly.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6255664, 38.3592739] }
     },
@@ -2297,8 +2196,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-925-2153",
         "ref": "378",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglywv.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.5768656, 38.3182877] }
     },
@@ -2316,8 +2214,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-984-1712",
         "ref": "377",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6716486, 38.4766155] }
     },
@@ -2335,8 +2232,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-675-5872",
         "ref": "386",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.1371079, 38.840362] }
     },
@@ -2354,8 +2250,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-658-5872",
         "ref": "382",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.0281062, 38.1239493] }
     },
@@ -2373,8 +2268,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-428-9165",
         "ref": "384",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.5400157, 39.2667682] }
     },
@@ -2392,8 +2286,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-428-1932",
         "ref": "383",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.5454158, 39.2316191] }
     },
@@ -2411,8 +2304,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-424-6746",
         "ref": "385",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.5287, 39.2897877] }
     },
@@ -2448,8 +2340,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 304-275-3391",
         "ref": "381",
-        "shop": "supermarket",
-        "website": "https://www.moorespigglywiggly.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.4549026, 38.5976262] }
     },
@@ -2467,8 +2358,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 757-855-1616",
         "ref": "376",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-76.2316625, 36.8676482] }
     },
@@ -2486,8 +2376,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 757-223-4416",
         "ref": "375",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-76.4253309, 36.9845759] }
     },
@@ -2505,8 +2394,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 434-793-8355",
         "ref": "374",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.3440034, 36.5802455] }
     },
@@ -2613,8 +2501,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 931-232-7024",
         "ref": "354",
-        "shop": "supermarket",
-        "website": "http://www.dillfoods.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8914084, 36.4803371] }
     },
@@ -2632,8 +2519,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 931-289-4444",
         "ref": "355",
-        "shop": "supermarket",
-        "website": "http://www.cleghernspigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7131822, 36.3165955] }
     },
@@ -2759,8 +2645,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 423-665-3307",
         "ref": "348",
-        "shop": "supermarket",
-        "website": "https://www.shoppigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.7646044, 35.2760401] }
     },
@@ -2778,8 +2663,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 423-334-3338",
         "ref": "353",
-        "shop": "supermarket",
-        "website": "https://www.shoppigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.7908661, 35.5204946] }
     },
@@ -2798,8 +2682,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 931-433-6772",
         "ref": "357",
-        "shop": "supermarket",
-        "website": "http://www.shopmypig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.5709939, 35.0755356] }
     },
@@ -2851,8 +2734,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 423-447-3288",
         "ref": "365",
-        "shop": "supermarket",
-        "website": "https://www.shoppigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.1872185, 35.6109591] }
     },
@@ -2996,8 +2878,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 931-724-9112",
         "ref": "350",
-        "shop": "supermarket",
-        "website": "http://carlfredcountry.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7411534, 35.1712452] }
     },
@@ -3032,8 +2913,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-332-8241",
         "ref": "315",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0682677, 34.3636917] }
     },
@@ -3051,8 +2931,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-245-8333",
         "ref": "300",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.0377699, 33.2982439] }
     },
@@ -3070,8 +2949,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-432-7011",
         "ref": "299",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2494694, 34.218202] }
     },
@@ -3089,8 +2967,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-432-7011",
         "ref": "301",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.5925317, 34.2482267] }
     },
@@ -3108,8 +2985,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-793-3270",
         "ref": "308",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.1330382, 33.3249877] }
     },
@@ -3127,8 +3003,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-496-3315",
         "ref": "317",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.41483, 33.3227327] }
     },
@@ -3146,8 +3021,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-326-7117",
         "ref": "321",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0631839, 34.1701401] }
     },
@@ -3183,8 +3057,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-247-2126",
         "ref": "327",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.1196715, 33.5265528] }
     },
@@ -3202,8 +3075,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-662-9263",
         "ref": "331",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.8643293, 33.5169102] }
     },
@@ -3221,8 +3093,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-533-1329",
         "ref": "330",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.8985638, 33.4812475] }
     },
@@ -3240,8 +3111,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-456-4154",
         "ref": "336",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.7781597, 33.6608446] }
     },
@@ -3259,8 +3129,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-778-5752",
         "ref": "340",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3496534, 33.8848282] }
     },
@@ -3278,8 +3147,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-775-4712",
         "ref": "339",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3357586, 33.9228453] }
     },
@@ -3297,8 +3165,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-773-6011",
         "ref": "338",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3720415, 33.946675] }
     },
@@ -3316,8 +3183,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-564-7034",
         "ref": "342",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.3609951, 33.6496956] }
     },
@@ -3335,8 +3201,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-786-1338",
         "ref": "306",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.0092665, 34.0632771] }
     },
@@ -3354,8 +3219,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-256-3433",
         "ref": "305",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.9866837, 33.9958389] }
     },
@@ -3374,8 +3238,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 864-541-7221",
         "ref": "334",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9295254, 34.9383303] }
     },
@@ -3394,8 +3257,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-764-3039",
         "ref": "229",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0434503, 32.9675348] }
     },
@@ -3413,8 +3275,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-852-4817",
         "ref": "302",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0299573, 32.7909583] }
     },
@@ -3432,8 +3293,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-747-6373",
         "ref": "313",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0109586, 32.9016543] }
     },
@@ -3451,8 +3311,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-546-5445",
         "ref": "310",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.2911379, 33.3762535] }
     },
@@ -3470,8 +3329,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-889-2267",
         "ref": "318",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2374464, 32.7340752] }
     },
@@ -3489,8 +3347,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-572-2119",
         "ref": "320",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0995718, 32.9890017] }
     },
@@ -3508,8 +3365,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-761-8610",
         "ref": "324",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0133893, 33.1971351] }
     },
@@ -3527,8 +3383,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-563-4554",
         "ref": "335",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.5777812, 33.1872459] }
     },
@@ -3546,8 +3401,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-875-4700",
         "ref": "337",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.1743337, 33.0258679] }
     },
@@ -3565,8 +3419,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-782-7444",
         "ref": "343",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.6744786, 32.914162] }
     },
@@ -3584,8 +3437,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-662-5605",
         "ref": "309",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.7684623, 34.1843118] }
     },
@@ -3603,8 +3455,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-264-5251",
         "ref": "298",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.5609586, 33.4548866] }
     },
@@ -3622,8 +3473,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-393-2872",
         "ref": "307",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.876146, 34.2995112] }
     },
@@ -3641,8 +3491,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-386-9248",
         "ref": "319",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.4442008, 33.8111009] }
     },
@@ -3660,8 +3509,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-464-7271",
         "ref": "325",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.2497505, 34.1996649] }
     },
@@ -3679,8 +3527,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-232-9814",
         "ref": "341",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.9819358, 33.6136568] }
     },
@@ -3698,8 +3545,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-448-4813",
         "ref": "326",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.905529, 33.6749209] }
     },
@@ -3717,8 +3563,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 864-229-1178",
         "ref": "311",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.1558101, 34.1797112] }
     },
@@ -3736,8 +3581,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 864-543-2429",
         "ref": "228",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.0233012, 34.1779326] }
     },
@@ -3755,8 +3599,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 864-456-7489",
         "ref": "344",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.2524757, 34.403615] }
     },
@@ -3774,8 +3617,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-623-6590",
         "ref": "303",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.112062, 34.7364343] }
     },
@@ -3793,8 +3635,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-222-3400",
         "ref": "304",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.2290784, 35.1100377] }
     },
@@ -3812,8 +3653,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 803-943-2556",
         "ref": "312",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.0979708, 32.8584083] }
     },
@@ -3831,8 +3671,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-784-3201",
         "ref": "314",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.0800793, 32.28716] }
     },
@@ -3848,8 +3687,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-785-3881",
         "ref": "316",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.7513299, 32.1440808] }
     },
@@ -3867,8 +3705,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-524-2750",
         "ref": "332",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.6837521, 32.3990205] }
     },
@@ -3886,8 +3723,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 843-726-8626",
         "ref": "333",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-80.9804592, 32.4815705] }
     },
@@ -3923,8 +3759,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 740-446-4008",
         "ref": "293",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.2558683, 38.8421415] }
     },
@@ -3942,8 +3777,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 740-446-9764",
         "ref": "292",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.2086598, 38.8061826] }
     },
@@ -3961,8 +3795,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 740-682-3151",
         "ref": "294",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.5686533, 38.9001913] }
     },
@@ -3980,8 +3813,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 740-384-3946",
         "ref": "296",
-        "shop": "supermarket",
-        "website": "https://www.lovingthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.5370997, 39.1211363] }
     },
@@ -4018,8 +3850,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 315-779-0144",
         "ref": "291",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-75.9152034, 43.9576724] }
     },
@@ -4037,8 +3868,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-394-2357",
         "ref": "220",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5600043, 31.1578352] }
     },
@@ -4090,8 +3920,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 662-363-3170",
         "ref": "235",
-        "shop": "supermarket",
-        "website": "http://pigglywigglyunionms.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.3828769, 34.6845455] }
     },
@@ -4127,8 +3956,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 662-454-7163",
         "ref": "204",
-        "shop": "supermarket",
-        "website": "http://hometownpigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2064747, 34.5057172] }
     },
@@ -4164,8 +3992,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 662-423-3651",
         "ref": "217",
-        "shop": "supermarket",
-        "website": "http://hometownpigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1993944, 34.8072383] }
     },
@@ -4291,8 +4118,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-849-2131",
         "ref": "223",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.727505, 31.86869] }
     },
@@ -4310,8 +4136,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-785-4640",
         "ref": "234",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.4323254, 31.8307142] }
     },
@@ -4435,8 +4260,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-774-5591",
         "ref": "237",
-        "shop": "supermarket",
-        "website": "http://pigglywigglyunionms.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.1214478, 32.5715272] }
     },
@@ -4452,8 +4276,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-764-2164",
         "ref": "203",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.2887046, 31.9835301] }
     },
@@ -4543,8 +4366,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 228-475-8660",
         "ref": "213",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5428613, 30.4556586] }
     },
@@ -4563,8 +4385,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-928-4540",
         "ref": "238",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.1430615, 30.8504865] }
     },
@@ -4636,8 +4457,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-876-2624",
         "ref": "236",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-90.146354, 31.1320236] }
     },
@@ -4707,8 +4527,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 601-764-2164",
         "ref": "224",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglymathiston.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-89.1251608, 33.5353793] }
     },
@@ -4744,8 +4563,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-653-6768",
         "ref": "110",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglyfl.com/locations/piggly-wiggly-apalachicola/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.9889861, 29.7226716] }
     },
@@ -4763,8 +4581,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-927-2808",
         "ref": "127",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglyfl.com/locations/piggly-wiggly-st-george-island/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.8643119, 29.6648955] }
     },
@@ -4800,8 +4617,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-818-0601",
         "ref": "123",
-        "shop": "supermarket",
-        "website": "http://pigglywigglypanamacityfl.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.6821458, 30.1777185] }
     },
@@ -4838,8 +4654,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-674-4427",
         "ref": "111",
-        "shop": "supermarket",
-        "website": "http://www.ramseypigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.0449766, 30.4432183] }
     },
@@ -4857,8 +4672,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-547-3826",
         "ref": "112",
-        "shop": "supermarket",
-        "website": "http://www.bonifaypigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.6803259, 30.8010349] }
     },
@@ -4948,8 +4762,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-229-8398",
         "ref": "124",
-        "shop": "supermarket",
-        "website": "http://www.durenspigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.3073206, 29.8163511] }
     },
@@ -4985,8 +4798,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-327-4001",
         "ref": "129",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.4883333, 30.9941667] }
     },
@@ -5004,8 +4816,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-301-9100",
         "ref": "118",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglymaryestherfl.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.6536307, 30.4149293] }
     },
@@ -5057,8 +4868,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 850-643-4700",
         "ref": "113",
-        "shop": "supermarket",
-        "website": "http://www.ramseypigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.9716357, 30.4303892] }
     },
@@ -5112,8 +4922,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-230-0258",
         "ref": "54",
-        "shop": "supermarket",
-        "website": "http://www.costpluspigbham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.9856344, 33.4523853] }
     },
@@ -5163,8 +4972,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-681-3639",
         "ref": "20",
-        "shop": "supermarket",
-        "website": "http://www.costpluspig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.6076433, 33.6974562] }
     },
@@ -5182,8 +4990,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-669-9916",
         "ref": "23",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglycolumbianaal.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.6133105, 33.1791123] }
     },
@@ -5272,8 +5079,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-230-0142",
         "ref": "61",
-        "shop": "supermarket",
-        "website": "http://www.costpluspigbham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.999627, 33.3283043] }
     },
@@ -5309,8 +5115,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-249-8989",
         "ref": "90",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglysylacaugaal.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2731087, 33.1647239] }
     },
@@ -5328,8 +5133,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-249-4836",
         "ref": "91",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglysylacaugaal.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2437147, 33.1846847] }
     },
@@ -5365,8 +5169,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-647-3241",
         "ref": "101",
-        "shop": "supermarket",
-        "website": "http://www.mypigglywiggly.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8099516, 33.8071904] }
     },
@@ -5384,8 +5187,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-592-8303",
         "ref": "11",
-        "shop": "supermarket",
-        "website": "http://www.costpluspigbham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7408255, 33.5485583] }
     },
@@ -5403,8 +5205,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-323-5453",
         "ref": "8",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8200443, 33.5504141] }
     },
@@ -5439,8 +5240,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-925-6744",
         "ref": "7",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8614772, 33.4871073] }
     },
@@ -5458,8 +5258,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-802-9578",
         "ref": "73",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7545027, 33.5023549] }
     },
@@ -5477,8 +5276,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-791-1833",
         "ref": "40",
-        "shop": "supermarket",
-        "website": "http://www.costpluspigbham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8983036, 33.570036] }
     },
@@ -5496,8 +5294,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-252-0684",
         "ref": "9",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7805148, 33.5132177] }
     },
@@ -5516,8 +5313,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-822-5361",
         "ref": "53",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.844817, 33.4141566] }
     },
@@ -5535,8 +5331,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-923-1787",
         "ref": "62",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.9248483, 33.4480108] }
     },
@@ -5554,8 +5349,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-918-7120",
         "ref": "10",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.6317422, 33.4063834] }
     },
@@ -5573,8 +5367,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-776-8755",
         "ref": "72",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglybirmingham.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7118476, 33.4814926] }
     },
@@ -5592,8 +5385,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-345-1467",
         "ref": "95",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglytuscaloosa.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5892408, 33.1998207] }
     },
@@ -5611,8 +5403,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-758-6832",
         "ref": "96",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglytuscaloosa.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.562303, 33.1966336] }
     },
@@ -5630,8 +5421,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-556-7522",
         "ref": "97",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglytuscaloosa.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5023243, 33.20548] }
     },
@@ -5649,8 +5439,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-722-7800",
         "ref": "98",
-        "shop": "supermarket",
-        "website": "http://www.ttownpig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5461723, 33.1449348] }
     },
@@ -5705,8 +5494,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-339-7300",
         "ref": "77",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglytuscaloosa.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5761757, 33.2296863] }
     },
@@ -5814,8 +5602,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-356-4406",
         "ref": "85",
-        "shop": "supermarket",
-        "website": "http://hometownpigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1385177, 34.4385563] }
     },
@@ -5833,8 +5620,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-732-4116",
         "ref": "31",
-        "shop": "supermarket",
-        "website": "http://www.shopmypig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.9873709, 34.925313] }
     },
@@ -5852,8 +5638,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-776-3661",
         "ref": "48",
-        "shop": "supermarket",
-        "website": "http://www.shopmypig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.371, 34.69547] }
     },
@@ -5871,8 +5656,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-723-4142",
         "ref": "75",
-        "shop": "supermarket",
-        "website": "http://www.shopmypig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.4300587, 34.5493694] }
     },
@@ -5890,8 +5674,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-574-4175",
         "ref": "87",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.0348739, 34.651547] }
     },
@@ -5927,8 +5710,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 205-466-7972",
         "ref": "88",
-        "shop": "supermarket",
-        "website": "http://www.shopmypig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.39207, 34.1164714] }
     },
@@ -5964,8 +5746,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-593-7312",
         "ref": "12",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.1444336, 34.2075616] }
     },
@@ -6019,8 +5800,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-582-2865",
         "ref": "47",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.3141823, 34.3522722] }
     },
@@ -6056,8 +5836,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-361-2425",
         "ref": "25",
-        "shop": "supermarket",
-        "website": "http://pigglywigglypinelevelal.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.4651221, 32.5821666] }
     },
@@ -6093,8 +5872,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-298-1974",
         "ref": "33",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.1468831, 31.8941159] }
     },
@@ -6112,8 +5890,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-687-8016",
         "ref": "34",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.1535889, 31.8716456] }
     },
@@ -6131,8 +5908,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-382-3771",
         "ref": "45",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.6227635, 31.8309184] }
     },
@@ -6203,8 +5979,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-271-0757",
         "ref": "71",
-        "shop": "supermarket",
-        "website": "http://pigglywigglyofmontgomery.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2465718, 32.3842398] }
     },
@@ -6222,8 +5997,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-354-2184",
         "ref": "4",
-        "shop": "supermarket",
-        "website": "http://pigglywigglyashland.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.834146, 33.2754531] }
     },
@@ -6277,8 +6051,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 256-396-2224",
         "ref": "59",
-        "shop": "supermarket",
-        "website": "http://pigglywigglylineville.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.7518439, 33.3113804] }
     },
@@ -6296,8 +6069,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-794-0500",
         "ref": "28",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglydothan.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.4015084, 31.2090415] }
     },
@@ -6315,8 +6087,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-673-3776",
         "ref": "27",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglydothan.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.3979707, 31.2392669] }
     },
@@ -6370,8 +6141,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-347-9254",
         "ref": "32",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyenterprise.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.8574601, 31.3009432] }
     },
@@ -6389,8 +6159,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-684-3224",
         "ref": "41",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.8950688, 31.048415] }
     },
@@ -6408,8 +6177,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-588-2912",
         "ref": "50",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.700821, 31.1007038] }
     },
@@ -6463,8 +6231,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-222-9121",
         "ref": "3",
-        "shop": "supermarket",
-        "website": "http://pigglywigglyofandalusia.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.4627652, 31.3175088] }
     },
@@ -6500,8 +6267,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-858-3444",
         "ref": "38",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-86.3246682, 31.0030801] }
     },
@@ -6519,8 +6285,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-575-3136",
         "ref": "70",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.3247077, 31.5279399] }
     },
@@ -6538,8 +6303,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-645-4433",
         "ref": "19",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2780125, 30.9150408] }
     },
@@ -6557,8 +6321,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-308-9584",
         "ref": "89",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9097374, 30.6674223] }
     },
@@ -6576,8 +6339,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-928-0239",
         "ref": "37",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8841542, 30.5249497] }
     },
@@ -6595,8 +6357,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-990-5690",
         "ref": "39",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6850783, 30.3928385] }
     },
@@ -6614,8 +6375,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-929-9740",
         "ref": "60",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7528916, 30.6142316] }
     },
@@ -6633,8 +6393,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-829-6977",
         "ref": "74",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0145234, 31.0911052] }
     },
@@ -6650,8 +6409,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-471-2012",
         "ref": "64",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0786088, 30.5959156] }
     },
@@ -6669,8 +6427,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-206-5413",
         "ref": "67",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.102605, 30.646331] }
     },
@@ -6724,8 +6481,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-466-1985",
         "ref": "103",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.118299, 30.7517957] }
     },
@@ -6743,8 +6499,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-243-7574",
         "ref": "66",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0825799, 30.719195] }
     },
@@ -6762,8 +6517,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-344-4548",
         "ref": "65",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1497242, 30.7213317] }
     },
@@ -6834,8 +6588,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-675-7200",
         "ref": "86",
-        "shop": "supermarket",
-        "website": "http://wedigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0717613, 30.8051628] }
     },
@@ -6854,8 +6607,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-742-1119",
         "ref": "79",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.3910754, 32.6414607] }
     },
@@ -6891,8 +6643,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-644-1110",
         "ref": "57",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.1904971, 32.8687391] }
     },
@@ -6910,8 +6661,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-291-7656",
         "ref": "81",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.0294371, 32.4704106] }
     },
@@ -6929,8 +6679,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-291-0846",
         "ref": "83",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.0112397, 32.4709988] }
     },
@@ -6948,8 +6697,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 334-297-7410",
         "ref": "82",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.016984, 32.4960284] }
     },
@@ -6985,8 +6733,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 251-843-5538",
         "ref": "42",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-88.3240068, 31.8802179] }
     },
@@ -7020,8 +6767,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-527-0469",
         "ref": "254",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5829616, 35.2574954] }
     },
@@ -7039,8 +6785,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-774-8742",
         "ref": "280",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.1476657, 35.4597146] }
     },
@@ -7058,8 +6803,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-742-9888",
         "ref": "281",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.469949, 35.7196313] }
     },
@@ -7077,8 +6821,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-258-3531",
         "ref": "243",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.0583705, 35.4615725] }
     },
@@ -7096,8 +6839,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-731-2709",
         "ref": "248",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.9851514, 35.3800238] }
     },
@@ -7115,8 +6857,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-284-4111",
         "ref": "253",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.128426, 35.60008] }
     },
@@ -7134,8 +6875,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-936-4551",
         "ref": "273",
-        "shop": "supermarket",
-        "website": "http://www.pwrnc.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.1592044, 35.4681773] }
     },
@@ -7153,8 +6893,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-446-9664",
         "ref": "277",
-        "shop": "supermarket",
-        "website": "https://www.pigglywiggly-central.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.8132298, 35.9319339] }
     },
@@ -7172,8 +6911,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-442-5830",
         "ref": "278",
-        "shop": "supermarket",
-        "website": "https://www.pigglywiggly-central.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.7994679, 35.9461131] }
     },
@@ -7191,8 +6929,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-235-3261",
         "ref": "241",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.1203624, 35.7789945] }
     },
@@ -7210,8 +6947,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-236-4646",
         "ref": "245",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.8632039, 35.8006341] }
     },
@@ -7227,8 +6963,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-753-3445",
         "ref": "246",
-        "shop": "supermarket",
-        "website": "https://www.pigglywiggly-central.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5852496, 35.5954381] }
     },
@@ -7246,8 +6981,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-756-3791",
         "ref": "249",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.3919231, 35.5996642] }
     },
@@ -7265,8 +6999,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-586-3313",
         "ref": "261",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.6681361, 36.442071] }
     },
@@ -7284,8 +7017,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-220-6515",
         "ref": "266",
-        "shop": "supermarket",
-        "website": "https://www.pigglywiggly-central.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.9551707, 35.9705174] }
     },
@@ -7303,8 +7035,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 262-827-4859",
         "ref": "271",
-        "shop": "supermarket",
-        "website": "https://www.pigglywiggly-central.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.6381751, 35.7893925] }
     },
@@ -7322,8 +7053,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-809-1355",
         "ref": "289",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.0595945, 35.8442899] }
     },
@@ -7341,8 +7071,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-237-8772",
         "ref": "290",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly-central.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.9366516, 35.7184866] }
     },
@@ -7376,8 +7105,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-473-3727",
         "ref": "262",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-75.6741487, 35.9054077] }
     },
@@ -7395,8 +7123,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-793-9716",
         "ref": "272",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-76.7373496, 35.8589227] }
     },
@@ -7414,8 +7141,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-582-2304",
         "ref": "250",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.6978719, 34.8870337] }
     },
@@ -7433,8 +7159,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-277-8165",
         "ref": "259",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.4609837, 34.7727236] }
     },
@@ -7452,8 +7177,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-844-3671",
         "ref": "263",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.35034, 34.7355464] }
     },
@@ -7471,8 +7195,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 919-658-9628",
         "ref": "265",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.0659954, 35.2033312] }
     },
@@ -7490,8 +7213,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-521-2760",
         "ref": "270",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.1902102, 34.6757521] }
     },
@@ -7509,8 +7231,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-865-4158",
         "ref": "279",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.9769993, 34.8043898] }
     },
@@ -7528,8 +7249,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-245-4771",
         "ref": "286",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.3007705, 35.2397254] }
     },
@@ -7547,8 +7267,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-293-7589",
         "ref": "288",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.0904194, 34.9993044] }
     },
@@ -7566,8 +7285,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-259-3373",
         "ref": "244",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.9295109, 34.5499952] }
     },
@@ -7585,8 +7303,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-529-4081",
         "ref": "247",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.3951098, 34.7857677] }
     },
@@ -7604,8 +7321,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-371-2253",
         "ref": "260",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.0343212, 34.2293803] }
     },
@@ -7621,8 +7337,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-655-4622",
         "ref": "276",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-78.9920462, 35.2080369] }
     },
@@ -7640,8 +7355,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-285-7504",
         "ref": "287",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.9945791, 34.7371365] }
     },
@@ -7659,8 +7373,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-523-2844",
         "ref": "255",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5799417, 35.2670499] }
     },
@@ -7676,8 +7389,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-527-8753",
         "ref": "256",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.6426052, 35.2236775] }
     },
@@ -7695,8 +7407,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-527-0761",
         "ref": "257",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5786881, 35.2408961] }
     },
@@ -7733,8 +7444,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-746-4041",
         "ref": "240",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.4345893, 35.4742319] }
     },
@@ -7752,8 +7462,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-728-7262",
         "ref": "242",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-76.6458738, 34.7242798] }
     },
@@ -7771,8 +7480,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-455-7800",
         "ref": "252",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.4698835, 34.756462] }
     },
@@ -7790,8 +7498,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-743-4124",
         "ref": "264",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.2303666, 34.9019691] }
     },
@@ -7809,8 +7516,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-638-6312",
         "ref": "267",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.0734451, 35.1147104] }
     },
@@ -7828,8 +7534,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-638-8474",
         "ref": "268",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.0675543, 35.110989] }
     },
@@ -7863,8 +7568,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-324-3333",
         "ref": "275",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5633824, 34.9078575] }
     },
@@ -7883,8 +7587,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 252-747-1067",
         "ref": "282",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.6876827, 35.4537454] }
     },
@@ -7902,8 +7605,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-326-8500",
         "ref": "284",
-        "shop": "supermarket",
-        "website": "https://www.pigglywigglystores.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-77.1321002, 34.6930656] }
     },
@@ -7957,8 +7659,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 910-843-3145",
         "ref": "274",
-        "shop": "supermarket",
-        "website": "https://www.idigthepig.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-79.1811738, 34.8135523] }
     },
@@ -8063,8 +7764,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 770-775-4474",
         "ref": "168",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly-jp.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.9546631, 33.293775] }
     },
@@ -8082,8 +7782,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-812-0414",
         "ref": "172",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.0350371, 33.0333828] }
     },
@@ -8119,8 +7818,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-647-8844",
         "ref": "191",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.3266764, 32.8912945] }
     },
@@ -8282,8 +7980,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-637-6483",
         "ref": "157",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly-atl.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.3835325, 34.9767917] }
     },
@@ -8355,8 +8052,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 478-862-3341",
         "ref": "141",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly-jp.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.2393444, 32.5534104] }
     },
@@ -8374,8 +8070,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 478-275-0231",
         "ref": "155",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglydublin.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.9102337, 32.5373817] }
     },
@@ -8445,8 +8140,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-868-2656",
         "ref": "178",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.8942581, 32.0649833] }
     },
@@ -8481,8 +8175,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 478-458-0130",
         "ref": "180",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.0202329, 32.294118] }
     },
@@ -8536,8 +8229,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-858-2975",
         "ref": "159",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.4856673, 32.1235367] }
     },
@@ -8553,8 +8245,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-748-8208",
         "ref": "186",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.266391, 32.1233619] }
     },
@@ -8572,8 +8263,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-832-5071",
         "ref": "192",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.4284993, 31.5317444] }
     },
@@ -8609,8 +8299,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-375-5823",
         "ref": "166",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.6009375, 31.8653941] }
     },
@@ -8628,8 +8317,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-559-4767",
         "ref": "171",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.8861422, 31.6090957] }
     },
@@ -8645,8 +8333,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-462-6501",
         "ref": "182",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9809503, 31.2057437] }
     },
@@ -8664,8 +8351,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-339-5007",
         "ref": "196",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.2735131, 30.817351] }
     },
@@ -8683,8 +8369,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-333-0525",
         "ref": "195",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.2809865, 30.8589] }
     },
@@ -8702,8 +8387,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-896-5055",
         "ref": "130",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglyga.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.4325043, 31.1360161] }
     },
@@ -8721,8 +8405,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-487-0850",
         "ref": "167",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-82.7494637, 31.0437258] }
     },
@@ -8740,8 +8423,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-482-3464",
         "ref": "174",
-        "shop": "supermarket",
-        "website": "https://www.thepig.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.0725244, 31.0359656] }
     },
@@ -8813,8 +8495,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-668-5377",
         "ref": "181",
-        "shop": "supermarket",
-        "website": "http://pigglywigglymoultriega.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-83.7734385, 31.1802993] }
     },
@@ -8850,8 +8531,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 912-294-8656",
         "ref": "185",
-        "shop": "supermarket",
-        "website": "https://www.foodgiant.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.1529942, 31.122994] }
     },
@@ -8905,8 +8585,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-846-3040",
         "ref": "177",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly-jp.com/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.6190091, 32.855228] }
     },
@@ -8960,8 +8639,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-689-3553",
         "ref": "146",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.9516374, 32.420363] }
     },
@@ -8979,8 +8657,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-327-3789",
         "ref": "144",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.9816727, 32.5119431] }
     },
@@ -8998,8 +8675,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-687-9656",
         "ref": "143",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.9302583, 32.4454691] }
     },
@@ -9017,8 +8693,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-324-3428",
         "ref": "145",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.960289, 32.464191] }
     },
@@ -9036,8 +8711,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 762-821-3877",
         "ref": "149",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net/"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.8969312, 32.4827906] }
     },
@@ -9055,8 +8729,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-561-8032",
         "ref": "147",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.924489, 32.5297292] }
     },
@@ -9074,8 +8747,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 706-845-9102",
         "ref": "173",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly.net"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-85.0709926, 33.0320064] }
     },
@@ -9093,8 +8765,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-724-7678",
         "ref": "138",
-        "shop": "supermarket",
-        "website": "http://www.pigglywigglydothan.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.9354955, 31.379548] }
     },
@@ -9128,8 +8799,7 @@
         "name": "Piggly Wiggly",
         "phone": "+1 229-995-2957",
         "ref": "152",
-        "shop": "supermarket",
-        "website": "http://www.pigglywiggly-atl.com"
+        "shop": "supermarket"
       },
       "geometry": { "type": "Point", "coordinates": [-84.4469311, 31.779471] }
     },
