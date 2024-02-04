@@ -2352,13 +2352,14 @@
         "addr:housenumber": "4630",
         "addr:postcode": "23502",
         "addr:state": "VA",
-        "addr:street": "East Princess Anne RoadSuite A",
+        "addr:street": "East Princess Anne Road",
         "brand": "Piggly Wiggly",
         "brand:wikidata": "Q3388303",
         "name": "Piggly Wiggly",
         "phone": "+1 757-855-1616",
         "ref": "376",
-        "shop": "supermarket"
+        "shop": "supermarket",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.2316625, 36.8676482] }
     },
