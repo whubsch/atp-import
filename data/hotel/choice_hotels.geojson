@@ -27976,8 +27976,7 @@
         "website": "https://www.choicehotels.com/quebec/matane/quality-inn-hotels",
         "addr:state": "QC",
         "phone": "+1 418-562-6433",
-        "addr:city": "Matane",
-        "addr:street_address": "1550, av du Phare ouest"
+        "addr:city": "Matane"
       },
       "geometry": { "type": "Point", "coordinates": [-67.571875, 48.83618] }
     },

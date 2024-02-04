@@ -201,7 +201,7 @@
         "addr:state": "AR",
         "addr:housenumber": "480",
         "addr:street": "Highway 425 North",
-        "branch": "Monticello, AR",
+        "branch": "Monticello",
         "ref": "PBFMOHX"
       },
       "geometry": { "type": "Point", "coordinates": [-91.801324, 33.638516] }
@@ -700,7 +700,7 @@
         "addr:state": "FL",
         "brand": "Hilton Hotels & Resorts",
         "brand:wikidata": "Q598884",
-        "name": "Hilton Melbourne, FL",
+        "name": "Hilton Melbourne",
         "addr:postcode": "32901-3092",
         "addr:housenumber": "200",
         "addr:street": "Rialto Place",
@@ -847,7 +847,7 @@
         "addr:city": "Carle Place",
         "addr:housenumber": "40",
         "addr:street": "Westbury Avenue",
-        "branch": "Carle Place - Garden City, NY",
+        "branch": "Carle Place - Garden City",
         "ref": "JFKCPHW"
       },
       "geometry": { "type": "Point", "coordinates": [-73.619227, 40.749481] }
@@ -945,7 +945,7 @@
         "addr:state": "NC",
         "addr:housenumber": "7801",
         "addr:street": "National Service Road",
-        "branch": "Greensboro Airport, NC",
+        "branch": "Greensboro Airport",
         "ref": "GSOHTHT"
       },
       "geometry": { "type": "Point", "coordinates": [-79.961014, 36.077118] }
@@ -1563,7 +1563,7 @@
         "addr:postcode": "31904",
         "addr:housenumber": "1664",
         "addr:street": "Whittlesey Road",
-        "branch": "Columbus, GA",
+        "branch": "Columbus",
         "ref": "CSGBPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-84.968407, 32.537247] }
@@ -1982,7 +1982,7 @@
         "website": "https://www.hilton.com/hotels/bgmvehw-homewood-suites-binghamton-vestal-ny/",
         "addr:housenumber": "3603",
         "addr:street": "Vestal Parkway East",
-        "branch": "Binghamton/Vestal, NY",
+        "branch": "Binghamton/Vestal",
         "ref": "BGMVEHW"
       },
       "geometry": { "type": "Point", "coordinates": [-76.004425, 42.095438] }
@@ -2100,7 +2100,7 @@
         "addr:postcode": "10018",
         "addr:housenumber": "312",
         "addr:street": "West 37th Street",
-        "branch": "New York/Midtown Manhattan Times Square-South, NY",
+        "branch": "New York/Midtown Manhattan Times Square-South",
         "ref": "NYCMMHW"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9931, 40.7543] }
@@ -2468,7 +2468,7 @@
         "website": "https://www.hilton.com/hotels/bosarhw-homewood-suites-boston-cambridge-arlington-ma/",
         "addr:housenumber": "1",
         "addr:street": "Massachusetts Avenue",
-        "branch": "Boston/Cambridge-Arlington, MA",
+        "branch": "Boston/Cambridge-Arlington",
         "ref": "BOSARHW"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1361727, 42.4010238] }
@@ -3147,7 +3147,7 @@
         "addr:city": "Egg Harbor Township",
         "addr:housenumber": "3008",
         "addr:street": "English Creek Avenue",
-        "branch": "Atlantic City/Egg Harbor Township, NJ",
+        "branch": "Atlantic City/Egg Harbor Township",
         "ref": "ACYHWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-74.608368, 39.431084] }
@@ -3844,7 +3844,7 @@
         "phone": "+1 303-985-7100",
         "addr:housenumber": "50",
         "addr:street": "Van Gordon Street",
-        "branch": "Denver West - Federal Center, CO",
+        "branch": "Denver West - Federal Center",
         "ref": "DENLLHT"
       },
       "geometry": { "type": "Point", "coordinates": [-105.1368, 39.7162] }
@@ -4111,7 +4111,7 @@
         "addr:postcode": "33904",
         "addr:housenumber": "619",
         "addr:street": "Southeast 47th Terrace",
-        "branch": "- Cape Coral/Fort Myers Area, FL",
+        "branch": "- Cape Coral/Fort Myers Area",
         "ref": "FMYCCHX"
       },
       "geometry": { "type": "Point", "coordinates": [-81.960724, 26.564051] }
@@ -5940,7 +5940,7 @@
         "name": "Homewood Suites",
         "addr:housenumber": "2650",
         "addr:street": "Kelly Road",
-        "branch": "Doylestown, PA",
+        "branch": "Doylestown",
         "ref": "PHLWAHW"
       },
       "geometry": { "type": "Point", "coordinates": [-75.133789, 40.265434] }
@@ -9284,7 +9284,7 @@
         "official_name": "Home2 Suites by Hilton",
         "addr:housenumber": "526",
         "addr:street": "Evergreen Street",
-        "branch": "Jackson/Ridgeland, MS",
+        "branch": "Jackson/Ridgeland",
         "ref": "JANRLHT"
       },
       "geometry": { "type": "Point", "coordinates": [-90.141081, 32.43244] }
@@ -10498,7 +10498,7 @@
         "addr:state": "AL",
         "addr:housenumber": "3152",
         "addr:street": "Abbey Lane",
-        "branch": "Foley, AL",
+        "branch": "Foley",
         "ref": "MOBMKHX"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6842, 30.3673] }
@@ -11285,7 +11285,7 @@
         "phone": "+1 540-459-7111",
         "addr:housenumber": "1150",
         "addr:street": "Motel Drive",
-        "branch": "Woodstock, VA",
+        "branch": "Woodstock",
         "ref": "MNZWSHX"
       },
       "geometry": { "type": "Point", "coordinates": [-78.5264, 38.8696] }
@@ -11405,7 +11405,7 @@
         "website": "https://www.hilton.com/hotels/fsdmcht-home2-suites-sioux-falls-sanford-medical-center-sd/",
         "addr:housenumber": "1120",
         "addr:street": "South Grange Avenue",
-        "branch": "Sioux Falls/ Sanford Medical Center, SD",
+        "branch": "Sioux Falls/ Sanford Medical Center",
         "ref": "FSDMCHT"
       },
       "geometry": {
@@ -13257,7 +13257,7 @@
         "addr:state": "ND",
         "addr:housenumber": "2700",
         "addr:street": "8th Avenue Southwest",
-        "branch": "Jamestown, ND",
+        "branch": "Jamestown",
         "ref": "JMSSWHX"
       },
       "geometry": { "type": "Point", "coordinates": [-98.718574, 46.881705] }
@@ -14725,7 +14725,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "603",
         "addr:street": "Navarro Street",
-        "branch": "San Antonio Downtown - Riverwalk, TX",
+        "branch": "San Antonio Downtown - Riverwalk",
         "ref": "SATRIHT"
       },
       "geometry": { "type": "Point", "coordinates": [-98.489906, 29.426781] }
@@ -18459,7 +18459,7 @@
         "phone": "+1 720-890-2000",
         "addr:housenumber": "317",
         "addr:street": "Exempla Circle",
-        "branch": "Lafayette Medical Center, CO",
+        "branch": "Lafayette Medical Center",
         "ref": "DENLFHX"
       },
       "geometry": {
@@ -18666,7 +18666,7 @@
         "name": "Hampton Inn & Suites",
         "addr:housenumber": "5701",
         "addr:street": "Madison Avenue",
-        "branch": "Fort Lauderdale West-Sawgrass/Tamarac, FL",
+        "branch": "Fort Lauderdale West-Sawgrass/Tamarac",
         "ref": "FLLTAHX"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2915, 26.1944] }
@@ -21438,7 +21438,7 @@
         "addr:postcode": "21001",
         "addr:housenumber": "20",
         "addr:street": "Newton Road",
-        "branch": "Baltimore / Aberdeen, MD",
+        "branch": "Baltimore / Aberdeen",
         "ref": "BWIOPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-76.1799, 39.4942] }
@@ -22168,7 +22168,7 @@
         "website": "https://www.hilton.com/hotels/bnahtht-home2-suites-nashville-vanderbilt-tn/",
         "addr:housenumber": "1800",
         "addr:street": "Division Street",
-        "branch": "Nashville Vanderbilt, TN",
+        "branch": "Nashville Vanderbilt",
         "ref": "BNAHTHT"
       },
       "geometry": { "type": "Point", "coordinates": [-86.794458, 36.151321] }
@@ -24173,7 +24173,7 @@
         "addr:state": "VA",
         "website": "https://www.hilton.com/hotels/dcasfhw-homewood-suites-springfield-va/",
         "name": "Homewood Suites",
-        "branch": "Springfield, VA",
+        "branch": "Springfield",
         "addr:city": "Springfield",
         "addr:postcode": "22150",
         "addr:housenumber": "7010",
@@ -24466,7 +24466,7 @@
         "addr:state": "PA",
         "addr:housenumber": "4109",
         "addr:street": "Walnut Street",
-        "branch": "University City Philadelphia, PA",
+        "branch": "University City Philadelphia",
         "ref": "PHLUPHW"
       },
       "geometry": { "type": "Point", "coordinates": [-75.205574, 39.954895] }
@@ -24853,7 +24853,7 @@
         "website": "https://www.hilton.com/hotels/avphdhx-hampton-suites-wilkes-barre-scranton-pa/",
         "addr:housenumber": "876",
         "addr:street": "Schechter Drive",
-        "branch": "Wilkes-Barre/Scranton, PA",
+        "branch": "Wilkes-Barre/Scranton",
         "ref": "AVPHDHX"
       },
       "geometry": { "type": "Point", "coordinates": [-75.8532, 41.236] }
@@ -25723,7 +25723,7 @@
         "addr:postcode": "36609",
         "addr:housenumber": "1388",
         "addr:street": "West I",
-        "branch": "Mobile I-65/Airport Boulevard, AL",
+        "branch": "Mobile I-65/Airport Boulevard",
         "ref": "MOBHWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1275, 30.6703] }
@@ -27177,7 +27177,7 @@
         "addr:postcode": "76104",
         "addr:city": "Fort Worth",
         "name": "Homewood Suites",
-        "branch": "Fort Worth - Medical Center, TX",
+        "branch": "Fort Worth - Medical Center",
         "addr:housenumber": "2200",
         "addr:street": "Charlie Lane",
         "ref": "FTWMCHW"
@@ -27652,7 +27652,7 @@
         "addr:state": "PA",
         "addr:housenumber": "110",
         "addr:street": "Pheasant Run",
-        "branch": "Newtown - Langhorne, PA",
+        "branch": "Newtown - Langhorne",
         "ref": "AVPNWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-74.9137, 40.2254] }
@@ -28419,7 +28419,7 @@
         "name": "Hampton Inn",
         "addr:housenumber": "140",
         "addr:street": "Commercial Street",
-        "branch": "Bath (Brunswick Area), ME",
+        "branch": "Bath (Brunswick Area)",
         "ref": "PWMBAHX"
       },
       "geometry": { "type": "Point", "coordinates": [-69.8138, 43.9159] }
@@ -28774,7 +28774,7 @@
         "addr:city": "Dover",
         "addr:housenumber": "222",
         "addr:street": "South Dupont Highway",
-        "branch": "Dover, DE",
+        "branch": "Dover",
         "ref": "DOVDPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-75.513378, 39.160914] }
@@ -30132,7 +30132,7 @@
         "brand:wikidata": "Q5646230",
         "addr:housenumber": "102400",
         "addr:street": "Overseas Highway PO Box 1024",
-        "branch": "Key Largo, FL",
+        "branch": "Key Largo",
         "ref": "KYLGOHX"
       },
       "geometry": { "type": "Point", "coordinates": [-80.4163, 25.1213] }
@@ -30650,7 +30650,7 @@
         "name": "Hampton Inn",
         "addr:housenumber": "310",
         "addr:street": "Rex Lake Road",
-        "branch": "Birmingham/Leeds, AL",
+        "branch": "Birmingham/Leeds",
         "ref": "BHMLEHX"
       },
       "geometry": { "type": "Point", "coordinates": [-86.5905, 33.5388] }
@@ -31160,7 +31160,7 @@
         "addr:state": "LA",
         "addr:housenumber": "2015",
         "addr:street": "Old Minden Road",
-        "branch": "Shreveport / Bossier City, LA",
+        "branch": "Shreveport / Bossier City",
         "ref": "SHVMRHW"
       },
       "geometry": { "type": "Point", "coordinates": [-93.711619, 32.518601] }
@@ -31306,7 +31306,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "700",
         "addr:street": "North Virginia Avenue",
-        "branch": "Roswell, NM",
+        "branch": "Roswell",
         "ref": "ROWRNHT"
       },
       "geometry": { "type": "Point", "coordinates": [-104.521232, 33.400046] }
@@ -32758,7 +32758,7 @@
         "addr:state": "NC",
         "addr:housenumber": "1245",
         "addr:street": "Fairview Drive",
-        "branch": "Lexington, NC",
+        "branch": "Lexington",
         "ref": "GSOLXHX"
       },
       "geometry": {
@@ -33963,7 +33963,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "77",
         "addr:street": "Northeast 3rd Street",
-        "branch": "Florida City, FL",
+        "branch": "Florida City",
         "ref": "MIAFAHT"
       },
       "geometry": { "type": "Point", "coordinates": [-80.476556, 25.450699] }
@@ -34441,7 +34441,7 @@
         "addr:state": "NC",
         "addr:housenumber": "6025",
         "addr:street": "Tyvola Glen Circle",
-        "branch": "Charlotte I-77 South, NC",
+        "branch": "Charlotte I-77 South",
         "ref": "CLTTGHT"
       },
       "geometry": { "type": "Point", "coordinates": [-80.892705, 35.165634] }
@@ -35531,7 +35531,7 @@
         "phone": "+1 801-820-9222",
         "addr:housenumber": "803",
         "addr:street": "West Heritage Park Boulevard",
-        "branch": "Salt Lake City/Layton, UT",
+        "branch": "Salt Lake City/Layton",
         "ref": "SLCLNHT"
       },
       "geometry": { "type": "Point", "coordinates": [-111.9806, 41.083] }
@@ -35634,7 +35634,7 @@
         "name": "Homewood Suites",
         "addr:housenumber": "2642",
         "addr:street": "East 32nd Street",
-        "branch": "Joplin, MO",
+        "branch": "Joplin",
         "ref": "JLNJMHW"
       },
       "geometry": { "type": "Point", "coordinates": [-94.484243, 37.05457] }
@@ -37087,7 +37087,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "900",
         "addr:street": "Woody Jones Boulevard",
-        "branch": "Florence, SC",
+        "branch": "Florence",
         "ref": "FLOWJHT"
       },
       "geometry": { "type": "Point", "coordinates": [-79.840372, 34.184182] }
@@ -37323,7 +37323,7 @@
         "addr:postcode": "37203",
         "brand:wikidata": "Q5890701",
         "name": "Homewood Suites",
-        "branch": "Nashville Vanderbilt, TN",
+        "branch": "Nashville Vanderbilt",
         "website": "https://www.hilton.com/hotels/bnavbhw-homewood-suites-nashville-vanderbilt-tn/",
         "addr:city": "Nashville",
         "addr:housenumber": "2400",
@@ -37859,7 +37859,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "150",
         "addr:street": "Market Street",
-        "branch": "Williston Burlington, VT",
+        "branch": "Williston Burlington",
         "ref": "BTVWIHT"
       },
       "geometry": {
@@ -38787,7 +38787,7 @@
         "addr:state": "DC",
         "brand": "Conrad Hotels & Resorts",
         "addr:postcode": "20001",
-        "name": "Conrad Washington, DC",
+        "name": "Conrad Washington",
         "phone": "+1 202-844-5900",
         "addr:city": "Washington DC",
         "website": "https://www.hilton.com/hotels/wascici-conrad-washington-dc/",
@@ -39016,7 +39016,7 @@
         "addr:state": "NC",
         "addr:housenumber": "139",
         "addr:street": "Circuit Lane",
-        "branch": "Jacksonville, NC",
+        "branch": "Jacksonville",
         "ref": "JKVNCHT"
       },
       "geometry": { "type": "Point", "coordinates": [-77.398535, 34.781638] }
@@ -39425,7 +39425,7 @@
         "addr:state": "MA",
         "addr:housenumber": "50",
         "addr:street": "Royall Street",
-        "branch": "Boston/Canton, MA",
+        "branch": "Boston/Canton",
         "ref": "BOSCNHW"
       },
       "geometry": { "type": "Point", "coordinates": [-71.122795, 42.207565] }
@@ -41849,7 +41849,7 @@
         "addr:state": "PA",
         "addr:housenumber": "1401",
         "addr:street": "Cranberry Woods Drive",
-        "branch": "Pittsburgh Cranberry, PA",
+        "branch": "Pittsburgh Cranberry",
         "ref": "PITLTHT"
       },
       "geometry": { "type": "Point", "coordinates": [-80.081777, 40.684021] }
@@ -42873,7 +42873,7 @@
         "phone": "+1 319-338-3410",
         "addr:housenumber": "921",
         "addr:street": "East 2nd Avenue",
-        "branch": "Coralville - Iowa River Landing, IA",
+        "branch": "Coralville - Iowa River Landing",
         "ref": "IOWCVHW"
       },
       "geometry": { "type": "Point", "coordinates": [-91.562663, 41.68253] }
@@ -44305,7 +44305,7 @@
         "name": "Hampton Inn & Suites",
         "addr:housenumber": "7806",
         "addr:street": "North Route 91",
-        "branch": "Peoria at Grand Prairie, IL",
+        "branch": "Peoria at Grand Prairie",
         "ref": "PIEWEHX"
       },
       "geometry": { "type": "Point", "coordinates": [-89.6735, 40.7767] }
@@ -44833,7 +44833,7 @@
         "addr:city": "Lawton",
         "addr:housenumber": "415",
         "addr:street": "Southeast Interstate Drive",
-        "branch": "Lawton, OK",
+        "branch": "Lawton",
         "ref": "LAWTNHW"
       },
       "geometry": { "type": "Point", "coordinates": [-98.377594, 34.603726] }
@@ -45822,7 +45822,7 @@
         "name": "Homewood Suites",
         "addr:housenumber": "5325",
         "addr:street": "Natorp Boulevard",
-        "branch": "Cincinnati Mason, OH",
+        "branch": "Cincinnati Mason",
         "ref": "CVGMAHW"
       },
       "geometry": { "type": "Point", "coordinates": [-84.320277, 39.301303] }
@@ -46275,7 +46275,7 @@
         "addr:postcode": "77904",
         "addr:housenumber": "6705",
         "addr:street": "Northeast Zac Lentz Parkway",
-        "branch": "Victoria, TX",
+        "branch": "Victoria",
         "ref": "VCTJSHW"
       },
       "geometry": {
@@ -51037,7 +51037,7 @@
         "addr:state": "PA",
         "addr:housenumber": "8630",
         "addr:street": "Duncan Avenue",
-        "branch": "Pittsburgh / McCandless, PA",
+        "branch": "Pittsburgh / McCandless",
         "ref": "PITMCHT"
       },
       "geometry": { "type": "Point", "coordinates": [-80.027118, 40.562167] }
@@ -51596,7 +51596,7 @@
         "brand": "Homewood Suites by Hilton",
         "phone": "+1 256-539-1445",
         "name": "Homewood Suites",
-        "branch": "Huntsville-Downtown, AL",
+        "branch": "Huntsville-Downtown",
         "official_name": "Homewood Suites by Hilton",
         "tourism": "hotel",
         "addr:city": "Huntsville",
@@ -52722,7 +52722,7 @@
         "addr:postcode": "14615",
         "addr:housenumber": "400",
         "addr:street": "Center Place Drive",
-        "branch": "Rochester/Greece, NY",
+        "branch": "Rochester/Greece",
         "ref": "ROCCPHW"
       },
       "geometry": { "type": "Point", "coordinates": [-77.672348, 43.208351] }
@@ -53684,7 +53684,7 @@
         "brand:wikidata": "Q5646230",
         "addr:housenumber": "1509",
         "addr:street": "Jefferson Street",
-        "branch": "Laurel, MS",
+        "branch": "Laurel",
         "ref": "LRLJFHX"
       },
       "geometry": { "type": "Point", "coordinates": [-89.145408, 31.686035] }
@@ -53832,7 +53832,7 @@
         "addr:city": "Rahway",
         "addr:housenumber": "667",
         "addr:street": "East Milton Avenue",
-        "branch": "Rahway, NJ",
+        "branch": "Rahway",
         "ref": "EWRRYHT"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2620338, 40.6044745] }
@@ -54636,7 +54636,7 @@
         "tourism": "hotel",
         "brand:wikidata": "Q5890701",
         "name": "Homewood Suites",
-        "branch": "Columbus/Polaris, OH",
+        "branch": "Columbus/Polaris",
         "addr:city": "Columbus",
         "website": "https://www.hilton.com/hotels/cmhpphw-homewood-suites-columbus-polaris-oh/",
         "phone": "+1 614-396-5100",
@@ -56335,7 +56335,7 @@
         "official_name": "Home2 Suites by Hilton",
         "addr:housenumber": "8",
         "addr:street": "East Pleasant Street",
-        "branch": "Baltimore Downtown, MD",
+        "branch": "Baltimore Downtown",
         "ref": "BWIEPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-76.616148, 39.293599] }
@@ -57348,7 +57348,7 @@
         "brand": "Hilton Garden Inn",
         "addr:housenumber": "363",
         "addr:street": "East Main Street",
-        "branch": "Tupelo, MS",
+        "branch": "Tupelo",
         "ref": "TUPTUGI"
       },
       "geometry": { "type": "Point", "coordinates": [-88.699504, 34.257615] }
@@ -57467,7 +57467,7 @@
         "addr:postcode": "77459",
         "addr:housenumber": "4909",
         "addr:street": "Highway 6",
-        "branch": "Missouri City, TX",
+        "branch": "Missouri City",
         "ref": "IAHMCHX"
       },
       "geometry": { "type": "Point", "coordinates": [-95.5775, 29.5787] }
@@ -58390,7 +58390,7 @@
         "addr:city": "Bakersfield",
         "addr:housenumber": "7941",
         "addr:street": "East Brundage Lane",
-        "branch": "Bakersfield/Highway 58, CA",
+        "branch": "Bakersfield/Highway 58",
         "ref": "BFLWPHX"
       },
       "geometry": { "type": "Point", "coordinates": [-118.916, 35.3544] }
@@ -59516,7 +59516,7 @@
         "addr:postcode": "81101",
         "addr:housenumber": "710",
         "addr:street": "Mariposa Street",
-        "branch": "Alamosa, CO",
+        "branch": "Alamosa",
         "ref": "ALSCOHX"
       },
       "geometry": { "type": "Point", "coordinates": [-105.905701, 37.483177] }
@@ -60408,7 +60408,7 @@
         "addr:postcode": "30309",
         "addr:housenumber": "97",
         "addr:street": "10th Street Northwest",
-        "branch": "Atlanta Midtown, GA",
+        "branch": "Atlanta Midtown",
         "ref": "ATLMIHW"
       },
       "geometry": { "type": "Point", "coordinates": [-84.390363, 33.781938] }
@@ -60736,7 +60736,7 @@
         "addr:state": "NC",
         "addr:housenumber": "6732",
         "addr:street": "Swan Mill Road",
-        "branch": "Wilmington/Mayfaire, NC",
+        "branch": "Wilmington/Mayfaire",
         "ref": "ILMMTHW"
       },
       "geometry": { "type": "Point", "coordinates": [-77.832, 34.2376] }
@@ -60922,7 +60922,7 @@
         "addr:city": "Erie",
         "addr:housenumber": "8035",
         "addr:street": "Oliver Road",
-        "branch": "Erie, PA",
+        "branch": "Erie",
         "ref": "ERIHTHT"
       },
       "geometry": { "type": "Point", "coordinates": [-80.081, 42.046] }
@@ -61128,7 +61128,7 @@
         "website": "https://www.hilton.com/hotels/slcwvht-home2-suites-salt-lake-city-west-valley-city-ut/",
         "addr:housenumber": "4028",
         "addr:street": "Parkway Boulevard",
-        "branch": "Salt Lake City / West Valley City, UT",
+        "branch": "Salt Lake City / West Valley City",
         "ref": "SLCWVHT"
       },
       "geometry": { "type": "Point", "coordinates": [-111.987495, 40.713039] }
@@ -62018,7 +62018,7 @@
         "addr:city": "Fort Worth",
         "addr:housenumber": "6350",
         "addr:street": "Overton Ridge Boulevard",
-        "branch": "Fort Worth West at Cityview, TX",
+        "branch": "Fort Worth West at Cityview",
         "ref": "FTWSOHW"
       },
       "geometry": { "type": "Point", "coordinates": [-97.419006, 32.681282] }
@@ -62139,7 +62139,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "300",
         "addr:street": "Colonial Drive",
-        "branch": "Oxford, AL",
+        "branch": "Oxford",
         "ref": "ANBODHT"
       },
       "geometry": { "type": "Point", "coordinates": [-85.789459, 33.612442] }
@@ -62462,7 +62462,7 @@
         "website": "https://www.hilton.com/hotels/axehwhw-homewood-suites-alexandria-pentagon-south-va/",
         "addr:housenumber": "4850",
         "addr:street": "Leesburg Pike",
-        "branch": "Alexandria/Pentagon South, VA",
+        "branch": "Alexandria/Pentagon South",
         "ref": "AXEHWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-77.111855, 38.844563] }
@@ -62787,7 +62787,7 @@
         "website": "https://www.hilton.com/hotels/chsccht-home2-suites-charleston-airport-convention-center-sc/",
         "addr:housenumber": "3401",
         "addr:street": "West Montague Avenue",
-        "branch": "Charleston Airport/Convention Center, SC",
+        "branch": "Charleston Airport/Convention Center",
         "ref": "CHSCCHT"
       },
       "geometry": { "type": "Point", "coordinates": [-80.021849, 32.863433] }
@@ -63240,7 +63240,7 @@
         "website": "https://www.hilton.com/hotels/clwpphx-hampton-suites-clearwater-st-petersburg-ulmerton-road-fl/",
         "addr:housenumber": "4050",
         "addr:street": "Ulmerton Road",
-        "branch": "Clearwater/Saint Petersburg-Ulmerton Road, FL",
+        "branch": "Clearwater/Saint Petersburg-Ulmerton Road",
         "ref": "CLWPPHX"
       },
       "geometry": { "type": "Point", "coordinates": [-82.6896, 27.8938] }
@@ -64410,7 +64410,7 @@
         "website": "https://www.hilton.com/hotels/stcldhx-hampton-suites-st-cloud-mn/",
         "addr:housenumber": "145",
         "addr:street": "37th Avenue North",
-        "branch": "Saint Cloud, MN",
+        "branch": "Saint Cloud",
         "ref": "STCLDHX"
       },
       "geometry": { "type": "Point", "coordinates": [-94.2038, 45.5556] }
@@ -66103,7 +66103,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "999",
         "addr:street": "Jefferson Road",
-        "branch": "Rochester Henrietta, NY",
+        "branch": "Rochester Henrietta",
         "ref": "ROCRHHT"
       },
       "geometry": { "type": "Point", "coordinates": [-77.61055, 43.086731] }
@@ -66831,7 +66831,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "6750",
         "addr:street": "Southcrest Parkway",
-        "branch": "Memphis - Southaven, MS",
+        "branch": "Memphis - Southaven",
         "ref": "MEMMSHT"
       },
       "geometry": { "type": "Point", "coordinates": [-89.9945, 34.9581] }
@@ -66929,7 +66929,7 @@
         "website": "https://www.hilton.com/hotels/bpthwhw-homewood-suites-beaumont-tx/",
         "addr:housenumber": "3745",
         "addr:street": "Interstate 10 South Access Road",
-        "branch": "Beaumont, TX",
+        "branch": "Beaumont",
         "ref": "BPTHWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-94.151506, 30.042913] }
@@ -67172,7 +67172,7 @@
         "official_name": "Homewood Suites by Hilton",
         "tourism": "hotel",
         "name": "Homewood Suites",
-        "branch": "Winnipeg Airport-Polo Park, MB",
+        "branch": "Winnipeg Airport-Polo Park",
         "addr:postcode": "R3G 0N5",
         "website": "https://www.hilton.com/hotels/ywgwwhw-homewood-suites-winnipeg-airport-polo-park-mb/",
         "brand:wikidata": "Q5890701",
@@ -67814,7 +67814,7 @@
         "name": "Homewood Suites",
         "addr:housenumber": "175",
         "addr:street": "Holiday Boulevard",
-        "branch": "Slidell, LA",
+        "branch": "Slidell",
         "ref": "MSYNSHW"
       },
       "geometry": { "type": "Point", "coordinates": [-89.8295, 30.3114] }
@@ -68067,7 +68067,7 @@
         "addr:postcode": "48034",
         "addr:housenumber": "26000",
         "addr:street": "American Drive",
-        "branch": "Detroit-Southfield, MI.",
+        "branch": "Detroit-Southfield.",
         "ref": "DETSHGI"
       },
       "geometry": { "type": "Point", "coordinates": [-83.299232, 42.492512] }
@@ -70171,7 +70171,7 @@
         "addr:state": "PA",
         "addr:housenumber": "1200",
         "addr:street": "Arch Street",
-        "branch": "Philadelphia - Convention Center, PA",
+        "branch": "Philadelphia - Convention Center",
         "ref": "PHLCCHT"
       },
       "geometry": { "type": "Point", "coordinates": [-75.159637, 39.953636] }
@@ -70290,7 +70290,7 @@
         "website": "https://www.hilton.com/hotels/slcsjht-home2-suites-salt-lake-city-south-jordan-ut/",
         "addr:housenumber": "10704",
         "addr:street": "South River Front Parkway",
-        "branch": "Salt Lake City/South Jordan, UT",
+        "branch": "Salt Lake City/South Jordan",
         "ref": "SLCSJHT"
       },
       "geometry": { "type": "Point", "coordinates": [-111.914268, 40.556976] }
@@ -70584,7 +70584,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "3810",
         "addr:street": "Promenade Parkway",
-        "branch": "Biloxi North/D'Iberville, MS",
+        "branch": "Biloxi North/D'Iberville",
         "ref": "GPTDVHT"
       },
       "geometry": { "type": "Point", "coordinates": [-88.899475, 30.45758] }
@@ -71319,7 +71319,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "3606",
         "addr:street": "Exchange Lane",
-        "branch": "Augusta,GA",
+        "branch": "Augusta",
         "ref": "AGSAWHT"
       },
       "geometry": { "type": "Point", "coordinates": [-82.0762, 33.4908] }
@@ -72766,7 +72766,7 @@
         "addr:postcode": "43221",
         "phone": "+1 614-488-1500",
         "name": "Homewood Suites",
-        "branch": "Columbus/OSU, OH",
+        "branch": "Columbus/OSU",
         "addr:housenumber": "1576",
         "addr:street": "West Lane Avenue",
         "ref": "CMHLAHW"
@@ -74660,7 +74660,7 @@
         "addr:city": "Springfield",
         "addr:housenumber": "3100",
         "addr:street": "South Dirksen Parkway",
-        "branch": "Springfield, IL",
+        "branch": "Springfield",
         "ref": "SPIGIGI"
       },
       "geometry": { "type": "Point", "coordinates": [-89.607266, 39.760916] }
@@ -74910,7 +74910,7 @@
         "brand": "Hilton Garden Inn",
         "addr:housenumber": "3755",
         "addr:street": "Ih",
-        "branch": "Beaumont, TX",
+        "branch": "Beaumont",
         "ref": "BPTGIGI"
       },
       "geometry": { "type": "Point", "coordinates": [-94.1514037, 30.0430174] }
@@ -76361,7 +76361,7 @@
         "addr:postcode": "47201",
         "addr:housenumber": "131",
         "addr:street": "Carrie Lane",
-        "branch": "Columbus, IN",
+        "branch": "Columbus",
         "ref": "INDCOHT"
       },
       "geometry": {
@@ -76384,7 +76384,7 @@
         "addr:postcode": "07073",
         "addr:housenumber": "125",
         "addr:street": "Route 17 South",
-        "branch": "East Rutherford - Meadowlands, NJ",
+        "branch": "East Rutherford - Meadowlands",
         "ref": "MEAHWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-74.0933714, 40.8295597] }
@@ -78929,7 +78929,7 @@
         "brand": "Hilton Garden Inn",
         "addr:housenumber": "6671",
         "addr:street": "Towne Center Loop",
-        "branch": "Memphis/Southaven, MS",
+        "branch": "Memphis/Southaven",
         "ref": "MEMSHGI"
       },
       "geometry": { "type": "Point", "coordinates": [-89.997135, 34.957688] }
@@ -78949,7 +78949,7 @@
         "phone": "+1 401-848-2700",
         "addr:housenumber": "348",
         "addr:street": "West Main Road",
-        "branch": "Newport Middletown, RI",
+        "branch": "Newport Middletown",
         "ref": "NPTMIHW"
       },
       "geometry": { "type": "Point", "coordinates": [-71.3013, 41.5151] }
@@ -79277,7 +79277,7 @@
         "addr:city": "Fayetteville",
         "addr:housenumber": "4035",
         "addr:street": "Sycamore Dairy Road",
-        "branch": "Fayetteville, NC",
+        "branch": "Fayetteville",
         "ref": "FAYSDHT"
       },
       "geometry": { "type": "Point", "coordinates": [-78.955658, 35.073799] }
@@ -79320,7 +79320,7 @@
         "addr:postcode": "15801",
         "addr:housenumber": "15",
         "addr:street": "Industrial Drive",
-        "branch": "DuBois, PA",
+        "branch": "DuBois",
         "ref": "DUJIDHW"
       },
       "geometry": { "type": "Point", "coordinates": [-78.7362, 41.13114] }
@@ -81028,7 +81028,7 @@
         "addr:state": "OK",
         "website": "https://www.hilton.com/hotels/okcbkhw-homewood-suites-oklahoma-city-bricktown-ok/",
         "name": "Homewood Suites",
-        "branch": "Oklahoma City-Bricktown, OK",
+        "branch": "Oklahoma City-Bricktown",
         "brand:wikidata": "Q5890701",
         "addr:postcode": "73104",
         "addr:city": "Oklahoma City",
@@ -84086,7 +84086,7 @@
         "name": "Hampton Inn",
         "addr:housenumber": "1103",
         "addr:street": "North Suncoast Boulevard",
-        "branch": "Crystal River, FL",
+        "branch": "Crystal River",
         "ref": "OCFCYHX"
       },
       "geometry": { "type": "Point", "coordinates": [-82.5798, 28.878] }
@@ -84290,7 +84290,7 @@
         "website": "https://www.hilton.com/hotels/seannhw-homewood-suites-lynnwood-seattle-everett-wa/",
         "addr:postcode": "98037",
         "name": "Homewood Suites",
-        "branch": "Lynnwood Seattle Everett, WA",
+        "branch": "Lynnwood Seattle Everett",
         "addr:state": "WA",
         "addr:housenumber": "18123",
         "addr:street": "Alderwood Mall Parkway",
@@ -84866,7 +84866,7 @@
         "website": "https://www.hilton.com/hotels/slcmuht-home2-suites-salt-lake-city-murray-ut/",
         "addr:housenumber": "4927",
         "addr:street": "South State Street",
-        "branch": "Salt Lake City-Murray, UT",
+        "branch": "Salt Lake City-Murray",
         "ref": "SLCMUHT"
       },
       "geometry": { "type": "Point", "coordinates": [-111.888251, 40.664688] }
@@ -86087,7 +86087,7 @@
         "addr:city": "Nashville",
         "addr:housenumber": "832",
         "addr:street": "Royal Parkway",
-        "branch": "Nashville-Airport, TN",
+        "branch": "Nashville-Airport",
         "ref": "BNAAPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-86.66197, 36.145203] }
@@ -86376,7 +86376,7 @@
         "name": "Hilton Garden Inn",
         "addr:housenumber": "22600",
         "addr:street": "Bothell Everett Highway",
-        "branch": "Seattle/Bothell, WA",
+        "branch": "Seattle/Bothell",
         "ref": "SEABOGI"
       },
       "geometry": { "type": "Point", "coordinates": [-122.2172313, 47.7954046] }
@@ -87529,7 +87529,7 @@
         "addr:state": "NC",
         "addr:housenumber": "1921",
         "addr:street": "Ayrsley Town Boulevard",
-        "branch": "Charlotte/Ayrsley, NC",
+        "branch": "Charlotte/Ayrsley",
         "ref": "CLTALHW"
       },
       "geometry": { "type": "Point", "coordinates": [-80.935259, 35.138232] }
@@ -88391,7 +88391,7 @@
         "website": "https://www.hilton.com/hotels/ispmvht-home2-suites-new-york-long-island-city-manhattan-view-ny/",
         "addr:city": "Long Island City",
         "addr:state": "NY",
-        "branch": "New York Long Island City/ Manhattan View, NY",
+        "branch": "New York Long Island City/ Manhattan View",
         "addr:housenumber": "39-06",
         "addr:street": "30th Street",
         "ref": "ISPMVHT"
@@ -88620,7 +88620,7 @@
         "website": "https://www.hilton.com/hotels/lrudmhx-hampton-deming-nm/",
         "addr:housenumber": "3751",
         "addr:street": "East Cedar Street",
-        "branch": "Deming, NM",
+        "branch": "Deming",
         "ref": "LRUDMHX"
       },
       "geometry": {
@@ -88745,7 +88745,7 @@
         "addr:state": "ND",
         "addr:housenumber": "1652",
         "addr:street": "44th Street South",
-        "branch": "Fargo, ND",
+        "branch": "Fargo",
         "ref": "FARHTHT"
       },
       "geometry": { "type": "Point", "coordinates": [-96.858635, 46.855812] }
@@ -88808,7 +88808,7 @@
         "name": "Homewood Suites",
         "addr:housenumber": "835",
         "addr:street": "Gettysburg Avenue",
-        "branch": "Fresno Airport/Clovis, CA",
+        "branch": "Fresno Airport/Clovis",
         "ref": "FATCVHW"
       },
       "geometry": { "type": "Point", "coordinates": [-119.699215, 36.802255] }
@@ -89486,7 +89486,7 @@
         "addr:state": "NC",
         "addr:housenumber": "12030",
         "addr:street": "Copper Way",
-        "branch": "Charlotte Ballantyne, NC",
+        "branch": "Charlotte Ballantyne",
         "ref": "CLTBAHW"
       },
       "geometry": { "type": "Point", "coordinates": [-80.843354, 35.072113] }
@@ -89995,7 +89995,7 @@
         "name": "Hampton Inn",
         "addr:housenumber": "302",
         "addr:street": "Southeast Georgia Avenue",
-        "branch": "Sweetwater, TX",
+        "branch": "Sweetwater",
         "ref": "ABISWHX"
       },
       "geometry": { "type": "Point", "coordinates": [-100.3927, 32.4512] }
@@ -90156,7 +90156,7 @@
         "website": "https://www.hilton.com/hotels/dcalpht-home2-suites-lexington-park-patuxent-river-nas-md/",
         "addr:housenumber": "46058",
         "addr:street": "Valley Drive",
-        "branch": "Lexington Park Patuxent River NAS, MD",
+        "branch": "Lexington Park Patuxent River NAS",
         "ref": "DCALPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-76.463618, 38.272391] }
@@ -90590,7 +90590,7 @@
         "addr:city": "Thousand Oaks",
         "addr:housenumber": "510",
         "addr:street": "North Ventu Park Road",
-        "branch": "Thousand Oaks, CA",
+        "branch": "Thousand Oaks",
         "ref": "LAXTOHX"
       },
       "geometry": { "type": "Point", "coordinates": [-118.9104, 34.1864] }
@@ -90877,7 +90877,7 @@
         "addr:city": "Springfield",
         "addr:housenumber": "800",
         "addr:street": "Hall of Fame Avenue",
-        "branch": "Springfield, MA",
+        "branch": "Springfield",
         "ref": "SFYMAGI"
       },
       "geometry": { "type": "Point", "coordinates": [-72.583882, 42.093382] }
@@ -91000,7 +91000,7 @@
         "name": "Hampton Inn & Suites",
         "addr:housenumber": "2650",
         "addr:street": "Lake Vista Drive",
-        "branch": "Dallas/Lewisville-Vista Ridge Mall, TX",
+        "branch": "Dallas/Lewisville-Vista Ridge Mall",
         "ref": "DALVRHX"
       },
       "geometry": { "type": "Point", "coordinates": [-96.9664, 32.997] }
@@ -91073,7 +91073,7 @@
         "addr:state": "TX",
         "website": "https://www.hilton.com/hotels/maftwhw-homewood-suites-midland-tx/",
         "name": "Homewood Suites",
-        "branch": "Midland, TX",
+        "branch": "Midland",
         "addr:postcode": "79706",
         "addr:housenumber": "1401",
         "addr:street": "Tradewinds Boulevard",
@@ -91509,7 +91509,7 @@
         "addr:state": "PA",
         "addr:housenumber": "7686",
         "addr:street": "Industrial Boulevard Route 100",
-        "branch": "Allentown-West/Fogelsville, PA",
+        "branch": "Allentown-West/Fogelsville",
         "ref": "ABEHWHW"
       },
       "geometry": { "type": "Point", "coordinates": [-75.6123, 40.5657] }
@@ -91926,7 +91926,7 @@
         "addr:state": "TX",
         "addr:postcode": "75202",
         "name": "Homewood Suites",
-        "branch": "Dallas Downtown, TX",
+        "branch": "Dallas Downtown",
         "phone": "+1 214-748-4000",
         "addr:housenumber": "1025",
         "addr:street": "Elm Street",
@@ -93788,7 +93788,7 @@
         "official_name": "Homewood Suites by Hilton",
         "tourism": "hotel",
         "name": "Homewood Suites",
-        "branch": "Durango, CO",
+        "branch": "Durango",
         "addr:city": "Durango",
         "brand:wikidata": "Q5890701",
         "website": "https://www.hilton.com/hotels/drogshw-homewood-suites-durango-co/",
@@ -94433,7 +94433,7 @@
         "phone": "+1 434-244-6200",
         "addr:housenumber": "2036",
         "addr:street": "India Road",
-        "branch": "Charlottesville, VA",
+        "branch": "Charlottesville",
         "ref": "CHOCNHW"
       },
       "geometry": { "type": "Point", "coordinates": [-78.488106, 38.0616] }
@@ -96186,7 +96186,7 @@
         "addr:city": "Austin",
         "addr:housenumber": "14022",
         "addr:street": "US Highway 183",
-        "branch": "Austin/Cedar Park, TX",
+        "branch": "Austin/Cedar Park",
         "ref": "AUSCDHT"
       },
       "geometry": { "type": "Point", "coordinates": [-97.803123, 30.474541] }
@@ -97433,7 +97433,7 @@
         "addr:postcode": "08690",
         "addr:housenumber": "960",
         "addr:street": "US Highway 130",
-        "branch": "Hamilton, NJ",
+        "branch": "Hamilton",
         "ref": "TTNHAHW"
       },
       "geometry": {
@@ -98759,7 +98759,7 @@
         "website": "https://www.hilton.com/hotels/gainghw-homewood-suites-gaithersburg-washington-dc-north/",
         "addr:housenumber": "805",
         "addr:street": "Russell Avenue",
-        "branch": "Gaithersburg/ Washington, DC North",
+        "branch": "Gaithersburg/ Washington North",
         "ref": "GAINGHW"
       },
       "geometry": { "type": "Point", "coordinates": [-77.210166, 39.156463] }
@@ -98942,7 +98942,7 @@
         "addr:city": "Springfield",
         "addr:housenumber": "304",
         "addr:street": "Route 22 West",
-        "branch": "Springfield, NJ",
+        "branch": "Springfield",
         "ref": "EWRSPGI"
       },
       "geometry": {
@@ -99187,7 +99187,7 @@
         "website": "https://www.hilton.com/hotels/dcadchh-hilton-washington-dc-capitol-hill/",
         "phone": "+1 202-628-2100",
         "name": "Hilton Washington DC Capitol Hill",
-        "addr:city": "Washington, DC",
+        "addr:city": "Washington",
         "addr:postcode": "20001",
         "brand:wikidata": "Q598884",
         "addr:housenumber": "525",
@@ -99899,7 +99899,7 @@
         "addr:city": "Springfield",
         "addr:housenumber": "4155",
         "addr:street": "South Nature Center Way",
-        "branch": "Springfield, MO",
+        "branch": "Springfield",
         "ref": "SGFMOGI"
       },
       "geometry": { "type": "Point", "coordinates": [-93.2531, 37.1374] }
@@ -101778,7 +101778,7 @@
         "addr:city": "Akron",
         "addr:housenumber": "210",
         "addr:street": "Springside Drive",
-        "branch": "Akron Fairlawn, OH",
+        "branch": "Akron Fairlawn",
         "ref": "CAKFAHW"
       },
       "geometry": {
@@ -103541,7 +103541,7 @@
         "website": "https://www.hilton.com/hotels/atlifht-home2-suites-roswell-ga/",
         "addr:housenumber": "10990",
         "addr:street": "Westside Parkway",
-        "branch": "Roswell, GA",
+        "branch": "Roswell",
         "ref": "ATLIFHT"
       },
       "geometry": {
@@ -104304,7 +104304,7 @@
         "brand:wikidata": "Q5646230",
         "addr:housenumber": "3650",
         "addr:street": "Plano Parkway",
-        "branch": "Dallas-The Colony, TX",
+        "branch": "Dallas-The Colony",
         "ref": "DFWTCHX"
       },
       "geometry": {
@@ -104517,7 +104517,7 @@
         "website": "https://www.hilton.com/hotels/ausrohw-homewood-suites-austin-round-rock-tx/",
         "addr:housenumber": "2201",
         "addr:street": "South Mays",
-        "branch": "Austin/Round Rock, TX",
+        "branch": "Austin/Round Rock",
         "ref": "AUSROHW"
       },
       "geometry": { "type": "Point", "coordinates": [-97.6731, 30.4898] }
@@ -104683,7 +104683,7 @@
         "name": "Hampton Inn",
         "addr:housenumber": "6005",
         "addr:street": "South Main Street",
-        "branch": "Indianapolis Northwest/Zionsville, IN",
+        "branch": "Indianapolis Northwest/Zionsville",
         "ref": "INDZVHX"
       },
       "geometry": {
@@ -105497,7 +105497,7 @@
         "website": "https://www.hilton.com/hotels/seakthx-hampton-suites-seattle-kent-wa/",
         "addr:housenumber": "21109",
         "addr:street": "66th Avenue South",
-        "branch": "Seattle/Kent,WA",
+        "branch": "Seattle/Kent",
         "ref": "SEAKTHX"
       },
       "geometry": { "type": "Point", "coordinates": [-122.2527, 47.4127] }
@@ -107371,7 +107371,7 @@
         "addr:state": "LA",
         "addr:housenumber": "201",
         "addr:street": "Kaliste Saloom Road",
-        "branch": "Lafayette-Airport, LA",
+        "branch": "Lafayette-Airport",
         "ref": "LFTKSHW"
       },
       "geometry": {
@@ -108015,7 +108015,7 @@
         "brand": "Hilton Garden Inn",
         "addr:housenumber": "280",
         "addr:street": "Colonial Drive",
-        "branch": "Oxford/Anniston, AL",
+        "branch": "Oxford/Anniston",
         "ref": "ANBOXGI"
       },
       "geometry": { "type": "Point", "coordinates": [-85.7922, 33.6123] }
@@ -108296,7 +108296,7 @@
         "website": "https://www.hilton.com/hotels/acvcahx-hampton-suites-arcata-ca/",
         "addr:housenumber": "4750",
         "addr:street": "Valley West Boulevard",
-        "branch": "Arcata, CA",
+        "branch": "Arcata",
         "ref": "ACVCAHX"
       },
       "geometry": { "type": "Point", "coordinates": [-124.0834, 40.9014] }
@@ -108640,7 +108640,7 @@
         "addr:postcode": "20176",
         "addr:housenumber": "115",
         "addr:street": "Fort Evans Road Northeast",
-        "branch": "Leesburg, VA",
+        "branch": "Leesburg",
         "ref": "WASLGHW"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5437, 39.1079] }
@@ -109803,7 +109803,7 @@
         "phone": "+1 210-509-7770",
         "addr:housenumber": "215",
         "addr:street": "Richland Hills Drive",
-        "branch": "Lackland AFB/SeaWorld, TX",
+        "branch": "Lackland AFB/SeaWorld",
         "ref": "SATSOHW"
       },
       "geometry": { "type": "Point", "coordinates": [-98.6448, 29.4419] }
@@ -111141,7 +111141,7 @@
         "addr:postcode": "35806",
         "addr:housenumber": "7010",
         "addr:street": "Cabela Drive",
-        "branch": "Huntsville/Research Park Area, AL",
+        "branch": "Huntsville/Research Park Area",
         "ref": "HSVRPHT"
       },
       "geometry": { "type": "Point", "coordinates": [-86.677737, 34.709631] }
@@ -111366,7 +111366,7 @@
         "name": "Home2 Suites",
         "addr:housenumber": "10465",
         "addr:street": "Philadelphia Road",
-        "branch": "Baltimore/White Marsh, MD",
+        "branch": "Baltimore/White Marsh",
         "ref": "BALWHHT"
       },
       "geometry": { "type": "Point", "coordinates": [-76.442208, 39.374038] }
@@ -111649,7 +111649,7 @@
         "addr:city": "Bonita Springs",
         "addr:housenumber": "8901",
         "addr:street": "Highland Woods Boulevard",
-        "branch": "Bonita Springs, FL",
+        "branch": "Bonita Springs",
         "ref": "APFBOHW"
       },
       "geometry": { "type": "Point", "coordinates": [-81.8059, 26.3518] }
@@ -112093,7 +112093,7 @@
         "official_name": "Home2 Suites by Hilton",
         "addr:housenumber": "94",
         "addr:street": "Northeast Loop 410",
-        "branch": "San Antonio Airport, TX",
+        "branch": "San Antonio Airport",
         "ref": "SATAIHT"
       },
       "geometry": {
@@ -112884,7 +112884,7 @@
         "addr:city": "Frisco",
         "addr:housenumber": "2000",
         "addr:street": "Parkwood Boulevard",
-        "branch": "Dallas-Frisco, TX",
+        "branch": "Dallas-Frisco",
         "ref": "DFWDFHT"
       },
       "geometry": {

@@ -685,7 +685,7 @@
         "name": "Candlewood Suites",
         "brand": "Candlewood Suites",
         "addr:state": "NC",
-        "branch": "Mooresville/Lake Norman,NC",
+        "branch": "Mooresville/Lake Norman",
         "ref": "MQVCW"
       },
       "geometry": { "type": "Point", "coordinates": [-80.853073, 35.556666] }
@@ -7841,7 +7841,6 @@
         "website": "https://www.ihg.com/armyhotels/hotels/us/en/joint-base-lwis-mcchord/zylmb/hoteldetail",
         "name": "IHG Army Hotels Bronson Hall - Historia",
         "addr:city": "Joint Base Lwis-McChord",
-        "addr:street_address": "Bronson Hall Building 1020, 109th Division Road",
         "ref": "ZYLMB"
       },
       "geometry": { "type": "Point", "coordinates": [-122.615, 47.089722] }
@@ -9299,7 +9298,6 @@
         "phone": "+1 831-263-3040",
         "addr:postcode": "93928",
         "addr:city": "Jolon",
-        "addr:street_address": "Bldg 196 Infantry Road",
         "ref": "ZYICA"
       },
       "geometry": { "type": "Point", "coordinates": [-121.243583, 36.011346] }
@@ -14809,7 +14807,7 @@
         "addr:housenumber": "11500",
         "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/new-buffalo/nbumi/hoteldetail",
         "addr:postcode": "49117",
-        "branch": "New Buffalo, MI",
+        "branch": "New Buffalo",
         "ref": "NBUMI"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7322, 41.7771] }
@@ -15421,7 +15419,6 @@
         "phone": "+1 573-586-4800",
         "addr:state": "MO",
         "addr:postcode": "65473",
-        "addr:street_address": "Check-In Bldg. 2020, 4990 Nebraska Ave.",
         "ref": "MFLWA"
       },
       "geometry": { "type": "Point", "coordinates": [-92.108806, 37.763691] }
@@ -18199,7 +18196,6 @@
         "addr:state": "MO",
         "name": "IHG Army Hotels Warrior Lodge",
         "addr:postcode": "65473",
-        "addr:street_address": "Check-In Bldg. 2020, 4990 Nebraska Ave.",
         "ref": "MFLWC"
       },
       "geometry": { "type": "Point", "coordinates": [-92.116174, 37.777797] }
