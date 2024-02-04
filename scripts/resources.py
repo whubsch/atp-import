@@ -13,6 +13,15 @@ useless_tags = [
     "image",
 ]
 
+necessary_tags = {
+  "tourism",
+  "amenity",
+  "shop",
+  "healthcare",
+  "craft",
+  "office",
+}
+
 repeat_tags = [
     "image",
     "phone",

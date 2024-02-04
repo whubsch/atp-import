@@ -12,6 +12,7 @@ from resources import (
     name_expand,
     useless_tags,
     repeat_tags,
+    necessary_tags,
     saints,
 )
 
@@ -183,6 +184,10 @@ def run(file_list: list[str]) -> None:
 
         for obj in contents["features"]:
             objt: dict[str, str] = obj["properties"]
+
+            if (necessary_tags - set(objt)) == necessary_tags:
+                raise ValueError("No top-level tags on object")
+
             # remove useless ATP-generated tags
             for tag in useless_tags + wipe_repeat_tags:
                 objt.pop(tag, None)
