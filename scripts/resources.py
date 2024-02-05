@@ -14,12 +14,12 @@ useless_tags = [
 ]
 
 necessary_tags = {
-  "tourism",
-  "amenity",
-  "shop",
-  "healthcare",
-  "craft",
-  "office",
+    "tourism",
+    "amenity",
+    "shop",
+    "healthcare",
+    "craft",
+    "office",
 }
 
 repeat_tags = [
