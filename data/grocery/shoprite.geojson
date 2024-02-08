@@ -447,7 +447,7 @@
         "addr:state": "CT",
         "brand": "ShopRite",
         "opening_hours": "Mo-Su 07:00-22:00",
-        "name": "Grade A Market of Newfield Avenue",
+        "name": "ShopRite",
         "addr:postcode": "06905",
         "shop": "supermarket",
         "addr:housenumber": "563",
@@ -882,7 +882,7 @@
         "addr:city": "Rochelle Park",
         "brand:wikidata": "Q7501097",
         "addr:postcode": "07662",
-        "name": "ShopRite Liquors of Rochelle Park",
+        "name": "ShopRite",
         "brand": "ShopRite",
         "opening_hours": "Mo-Sa 07:00-22:00",
         "addr:housenumber": "220",
@@ -998,7 +998,7 @@
         "opening_hours": "Mo-We 09:00-21:00",
         "addr:state": "NJ",
         "addr:housenumber": "3585",
-        "name": "ShopRite Wines & Spirits of Freehold",
+        "name": "ShopRite",
         "website": "https://www.shoprite.com/sm/planning/rsid/735",
         "brand:wikidata": "Q7501097",
         "addr:street": "Route 9 North",
@@ -1963,7 +1963,7 @@
       "type": "Feature",
       "properties": {
         "opening_hours": "Mo-Sa 09:00-22:00",
-        "name": "ShopRite Liquors of Wharton",
+        "name": "ShopRite",
         "ref": "886",
         "addr:street": "Route 15",
         "addr:state": "NJ",
@@ -2065,7 +2065,7 @@
         "opening_hours": "Mo-Sa 09:00-22:00",
         "addr:state": "NJ",
         "addr:city": "35-07 Broadway",
-        "name": "ShopRite Wines & Spirits of Fair Lawn",
+        "name": "ShopRite",
         "brand:wikidata": "Q7501097",
         "addr:postcode": "07410",
         "ref": "790",
@@ -2968,7 +2968,7 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "brand:wikidata": "Q7501097",
         "addr:street": "Route 23",
-        "name": "ShopRite Wines & Spirits of Wantage",
+        "name": "ShopRite",
         "brand": "ShopRite",
         "addr:postcode": "07461",
         "addr:city": "Wantage",
@@ -3042,7 +3042,7 @@
         "opening_hours": "Mo-Sa 09:00-21:00",
         "ref": "895",
         "website": "https://www.shoprite.com/sm/planning/rsid/895",
-        "name": "ShopRite Wines & Spirits of Hackettstown",
+        "name": "ShopRite",
         "addr:state": "NJ",
         "addr:postcode": "07840",
         "brand:wikidata": "Q7501097",
@@ -3133,7 +3133,7 @@
         "opening_hours": "Mo-Sa 09:00-21:00",
         "ref": "897",
         "addr:postcode": "07416",
-        "name": "ShopRite Liquors of Franklin Boro",
+        "name": "ShopRite",
         "addr:state": "NJ",
         "website": "https://www.shoprite.com/sm/planning/rsid/897",
         "brand:wikidata": "Q7501097",
@@ -3273,7 +3273,7 @@
         "phone": "+1 973-883-1017",
         "brand:wikidata": "Q7501097",
         "addr:housenumber": "895",
-        "name": "ShopRite Wines & Spirits of Clifton",
+        "name": "ShopRite",
         "ref": "905",
         "addr:postcode": "07011",
         "brand": "ShopRite",
@@ -3699,7 +3699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grade A Market of Hope Street",
+        "name": "ShopRite",
         "phone": "+1 203-325-9991",
         "addr:city": "Stamford",
         "addr:street": "Hope Street",
@@ -4124,7 +4124,7 @@
         "shop": "supermarket",
         "ref": "889",
         "opening_hours": "Mo-Sa 09:00-21:00",
-        "name": "ShopRite Wines & Spirits of Wash. Township",
+        "name": "ShopRite",
         "addr:postcode": "07840",
         "website": "https://www.shoprite.com/sm/planning/rsid/889",
         "addr:street": "Route 46",
@@ -4173,7 +4173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ShopRite Wines & Spirits of Bayonne",
+        "name": "ShopRite",
         "website": "https://www.shoprite.com/sm/planning/rsid/885",
         "opening_hours": "Mo-Th 09:00-21:00",
         "ref": "885",
@@ -5340,7 +5340,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.shoprite.com/sm/planning/rsid/881",
-        "name": "ShopRite Liquors of Paramus",
+        "name": "ShopRite",
         "phone": "+1 201-843-7283",
         "addr:state": "NJ",
         "opening_hours": "Mo-Sa 08:00-22:00",
@@ -5531,6 +5531,10 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-28" }
+    "cleaning": {
+      "version": "0.1.2",
+      "datetime": "2024-01-28",
+      "status": "imported"
+    }
   }
 }

@@ -16,7 +16,7 @@ from resources import (
     saints,
 )
 
-VERSION = "0.1.2"
+VERSION = "0.1.3"
 
 FOLDER_PATH = "./data"
 
@@ -155,7 +155,11 @@ def run(file_list: list[str]) -> None:
         }
         if "dataset_attributes" in contents:
             try:
-                if contents["dataset_attributes"]["cleaning"]["version"] == VERSION:
+                if (
+                    contents["dataset_attributes"]["cleaning"]["version"] == VERSION
+                    or contents["dataset_attributes"]["cleaning"]["status"]
+                    == "imported"
+                ):
                     print_value(
                         "skipping",
                         file,
@@ -275,11 +279,15 @@ def run(file_list: list[str]) -> None:
             for web_tag in ["url", "website", "contact:website"]:
                 if web_tag in objt:
                     # remove url tracking parameters
-                    objt[web_tag] = regex.sub(
-                        r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*",
-                        r"\1",
-                        objt[web_tag],
-                    ).lower()
+                    objt[web_tag] = (
+                        regex.sub(
+                            r"(https?:\/\/[^\s?#]+)(\?)[^#\s]*(utm|cid)[^#\s]*",
+                            r"\1",
+                            objt[web_tag],
+                        )
+                        .lower()
+                        .replace(" ", "%20")
+                    )
 
             if "addr:postcode" in objt:
                 # remove extraneous postcode digits

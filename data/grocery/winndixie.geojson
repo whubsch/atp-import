@@ -19,10 +19,7 @@
         "addr:state": "FL",
         "branch": "Marion Oaks Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.17968, 29.014351]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.17968, 29.014351] }
     },
     {
       "type": "Feature",
@@ -41,10 +38,7 @@
         "website": "https://www.winndixie.com/storedetails/plantation/fl?search=757",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.288855, 26.1348]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.288855, 26.1348] }
     },
     {
       "type": "Feature",
@@ -62,10 +56,7 @@
         "addr:state": "LA",
         "addr:street": "Airline Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.197239, 29.977944]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.197239, 29.977944] }
     },
     {
       "type": "Feature",
@@ -75,7 +66,7 @@
         "ref": "128",
         "addr:housenumber": "3258",
         "addr:city": "Green Cove Springs",
-        "website": "https://www.winndixie.com/storedetails/green cove springs/fl?search=128",
+        "website": "https://www.winndixie.com/storedetails/green%20cove%20springs/fl?search=128",
         "brand:wikidata": "Q1264366",
         "addr:postcode": "32043",
         "shop": "supermarket",
@@ -95,7 +86,7 @@
         "name": "Winn-Dixie",
         "addr:housenumber": "5270",
         "ref": "2333",
-        "website": "https://www.winndixie.com/storedetails/palm bay/fl?search=2333",
+        "website": "https://www.winndixie.com/storedetails/palm%20bay/fl?search=2333",
         "branch": "Marketplace Shopping Center",
         "addr:city": "Palm Bay",
         "phone": "+1 321-728-1876",
@@ -105,10 +96,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.624684, 28.017757]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.624684, 28.017757] }
     },
     {
       "type": "Feature",
@@ -127,10 +115,7 @@
         "shop": "supermarket",
         "addr:housenumber": "640"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.632571, 32.850434]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.632571, 32.850434] }
     },
     {
       "type": "Feature",
@@ -142,17 +127,14 @@
         "addr:city": "Ocean Springs",
         "phone": "+1 228-875-8388",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/ocean springs/ms?search=1478",
+        "website": "https://www.winndixie.com/storedetails/ocean%20springs/ms?search=1478",
         "addr:housenumber": "1515",
         "ref": "1478",
         "shop": "supermarket",
         "addr:state": "MS",
         "addr:street": "Bienville Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.817535, 30.417292]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.817535, 30.417292] }
     },
     {
       "type": "Feature",
@@ -171,10 +153,7 @@
         "shop": "supermarket",
         "addr:city": "Montgomery"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.177172, 32.33737]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.177172, 32.33737] }
     },
     {
       "type": "Feature",
@@ -192,10 +171,7 @@
         "phone": "+1 985-645-0026",
         "addr:housenumber": "3030"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.783779, 30.261842]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.783779, 30.261842] }
     },
     {
       "type": "Feature",
@@ -214,10 +190,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.114148, 29.943499]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.114148, 29.943499] }
     },
     {
       "type": "Feature",
@@ -231,14 +204,11 @@
         "addr:city": "Lake Placid",
         "brand:wikidata": "Q1264366",
         "addr:street": "US Highway 27 South",
-        "website": "https://www.winndixie.com/storedetails/lake placid/fl?search=2548",
+        "website": "https://www.winndixie.com/storedetails/lake%20placid/fl?search=2548",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.345603, 27.266289]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.345603, 27.266289] }
     },
     {
       "type": "Feature",
@@ -257,10 +227,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.419065, 30.48729]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.419065, 30.48729] }
     },
     {
       "type": "Feature",
@@ -279,10 +246,7 @@
         "addr:street": "South College Street",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.496396, 32.576326]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.496396, 32.576326] }
     },
     {
       "type": "Feature",
@@ -300,10 +264,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.370338, 30.192338]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.370338, 30.192338] }
     },
     {
       "type": "Feature",
@@ -311,7 +272,7 @@
         "brand": "Winn-Dixie",
         "phone": "+1 904-269-0822",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/orange park/fl?search=43",
+        "website": "https://www.winndixie.com/storedetails/orange%20park/fl?search=43",
         "addr:street": "Park Avenue",
         "branch": "Live Oak Shopping Center",
         "ref": "43",
@@ -322,10 +283,7 @@
         "addr:postcode": "32073",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.702349, 30.166826]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.702349, 30.166826] }
     },
     {
       "type": "Feature",
@@ -344,10 +302,7 @@
         "addr:street": "South French Avenue",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.27497, 28.798046]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.27497, 28.798046] }
     },
     {
       "type": "Feature",
@@ -355,9 +310,9 @@
         "brand": "Winn-Dixie",
         "addr:postcode": "33716",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=649",
+        "website": "https://www.winndixie.com/storedetails/st%20petersburg/fl?search=649",
         "addr:housenumber": "11100",
-        "addr:street": "4th Street North",
+        "addr:street": "4th Streetreet North",
         "addr:city": "Saint Petersburg",
         "phone": "+1 727-577-7095",
         "brand:wikidata": "Q1264366",
@@ -366,10 +321,7 @@
         "ref": "649",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.640385, 27.873141]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.640385, 27.873141] }
     },
     {
       "type": "Feature",
@@ -387,10 +339,7 @@
         "addr:state": "FL",
         "addr:postcode": "34691"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.737847, 28.208607]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.737847, 28.208607] }
     },
     {
       "type": "Feature",
@@ -409,10 +358,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.214648, 28.228753]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.214648, 28.228753] }
     },
     {
       "type": "Feature",
@@ -432,10 +378,7 @@
         "addr:state": "LA",
         "branch": "Main Street Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.108618, 30.49845]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.108618, 30.49845] }
     },
     {
       "type": "Feature",
@@ -454,10 +397,7 @@
         "shop": "supermarket",
         "addr:housenumber": "1390"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.648457, 30.784807]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.648457, 30.784807] }
     },
     {
       "type": "Feature",
@@ -476,10 +416,7 @@
         "phone": "+1 352-726-4141",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.327176, 28.830902]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.327176, 28.830902] }
     },
     {
       "type": "Feature",
@@ -498,10 +435,7 @@
         "addr:state": "FL",
         "addr:housenumber": "1050"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.323646, 29.026667]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.323646, 29.026667] }
     },
     {
       "type": "Feature",
@@ -519,10 +453,7 @@
         "addr:state": "FL",
         "website": "https://www.winndixie.com/storedetails/largo/fl?search=2552"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.761567, 27.918093]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.761567, 27.918093] }
     },
     {
       "type": "Feature",
@@ -531,7 +462,7 @@
         "name": "Winn-Dixie",
         "addr:street": "East State Route 40",
         "branch": "Forest Center",
-        "website": "https://www.winndixie.com/storedetails/silver springs/fl?search=2206",
+        "website": "https://www.winndixie.com/storedetails/silver%20springs/fl?search=2206",
         "ref": "2206",
         "addr:postcode": "34488",
         "phone": "+1 352-625-6253",
@@ -541,10 +472,7 @@
         "addr:state": "FL",
         "addr:housenumber": "15912"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.890362, 29.181562]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.890362, 29.181562] }
     },
     {
       "type": "Feature",
@@ -555,7 +483,7 @@
         "addr:housenumber": "539",
         "ref": "303",
         "addr:city": "Hialeah",
-        "addr:street": "West 49th Street",
+        "addr:street": "West 49th Streetreet",
         "branch": "Palm Springs Mile Shopping Center",
         "addr:postcode": "33012",
         "brand:wikidata": "Q1264366",
@@ -563,10 +491,7 @@
         "website": "https://www.winndixie.com/storedetails/hialeah/fl?search=303",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.293932, 25.868381]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.293932, 25.868381] }
     },
     {
       "type": "Feature",
@@ -576,7 +501,7 @@
         "addr:postcode": "34606",
         "ref": "711",
         "phone": "+1 352-688-4800",
-        "website": "https://www.winndixie.com/storedetails/spring hill/fl?search=711",
+        "website": "https://www.winndixie.com/storedetails/spring%20hill/fl?search=711",
         "branch": "Timberhills Plaza",
         "addr:housenumber": "2240",
         "addr:street": "Commercial Way",
@@ -585,10 +510,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.620015, 28.464608]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.620015, 28.464608] }
     },
     {
       "type": "Feature",
@@ -606,10 +528,7 @@
         "addr:state": "LA",
         "addr:postcode": "70471"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.04314, 30.410883]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.04314, 30.410883] }
     },
     {
       "type": "Feature",
@@ -628,10 +547,7 @@
         "addr:housenumber": "2",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.307881, 28.890729]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.307881, 28.890729] }
     },
     {
       "type": "Feature",
@@ -649,10 +565,7 @@
         "addr:state": "FL",
         "addr:street": "Northwest 23rd Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.340618, 29.672821]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.340618, 29.672821] }
     },
     {
       "type": "Feature",
@@ -662,7 +575,7 @@
         "name": "Winn-Dixie",
         "addr:street": "Burnsed Boulevard",
         "addr:city": "The Villages",
-        "website": "https://www.winndixie.com/storedetails/the villages/fl?search=2545",
+        "website": "https://www.winndixie.com/storedetails/the%20villages/fl?search=2545",
         "brand:wikidata": "Q1264366",
         "addr:postcode": "32163",
         "phone": "+1 352-753-5575",
@@ -670,10 +583,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.016469, 28.863242]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.016469, 28.863242] }
     },
     {
       "type": "Feature",
@@ -692,10 +602,7 @@
         "addr:city": "Seminole",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.759962, 27.838069]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.759962, 27.838069] }
     },
     {
       "type": "Feature",
@@ -704,7 +611,7 @@
         "name": "Winn-Dixie",
         "addr:housenumber": "281",
         "branch": "Shoppes Of Victoria",
-        "website": "https://www.winndixie.com/storedetails/port saint lucie/fl?search=2348",
+        "website": "https://www.winndixie.com/storedetails/port%20saint%20lucie/fl?search=2348",
         "addr:postcode": "34984",
         "brand:wikidata": "Q1264366",
         "addr:street": "Southwest Port Saint Lucie Boulevard",
@@ -714,10 +621,7 @@
         "ref": "2348",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.355069, 27.275557]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.355069, 27.275557] }
     },
     {
       "type": "Feature",
@@ -731,15 +635,12 @@
         "ref": "333",
         "addr:postcode": "33410",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/palm beach gardens/fl?search=333",
+        "website": "https://www.winndixie.com/storedetails/palm%20beach%20gardens/fl?search=333",
         "branch": "Gardens Park Plaza",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.104857, 26.806742]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.104857, 26.806742] }
     },
     {
       "type": "Feature",
@@ -756,12 +657,9 @@
         "phone": "+1 904-543-8668",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/ponte vedra beach/fl?search=5"
+        "website": "https://www.winndixie.com/storedetails/ponte%20vedra%20beach/fl?search=5"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.388866, 30.226564]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.388866, 30.226564] }
     },
     {
       "type": "Feature",
@@ -780,10 +678,7 @@
         "addr:city": "Perry",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.584117, 30.097218]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.584117, 30.097218] }
     },
     {
       "type": "Feature",
@@ -802,10 +697,7 @@
         "shop": "supermarket",
         "branch": "Chelsea Corners"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.630892, 33.346331]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.630892, 33.346331] }
     },
     {
       "type": "Feature",
@@ -819,15 +711,12 @@
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "11092",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/spring hill/fl?search=708",
+        "website": "https://www.winndixie.com/storedetails/spring%20hill/fl?search=708",
         "addr:street": "Spring Hill Drive",
         "addr:state": "FL",
         "addr:postcode": "34608"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.540542, 28.459939]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.540542, 28.459939] }
     },
     {
       "type": "Feature",
@@ -846,10 +735,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.492155, 27.512643]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.492155, 27.512643] }
     },
     {
       "type": "Feature",
@@ -868,10 +754,7 @@
         "ref": "528",
         "addr:street": "McFarland Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.552496, 33.237257]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.552496, 33.237257] }
     },
     {
       "type": "Feature",
@@ -888,12 +771,9 @@
         "brand:wikidata": "Q1264366",
         "branch": "Alexander City Shopping Center",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/phenix city/al?search=433"
+        "website": "https://www.winndixie.com/storedetails/phenix%20city/al?search=433"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.098508, 32.47123]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.098508, 32.47123] }
     },
     {
       "type": "Feature",
@@ -911,10 +791,7 @@
         "addr:street": "Venture Drive",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.506518, 31.248085]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.506518, 31.248085] }
     },
     {
       "type": "Feature",
@@ -932,10 +809,7 @@
         "addr:city": "Seminole",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.788323, 27.866343]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.788323, 27.866343] }
     },
     {
       "type": "Feature",
@@ -949,15 +823,12 @@
         "ref": "681",
         "addr:postcode": "33782",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/pinellas park/fl?search=681",
+        "website": "https://www.winndixie.com/storedetails/pinellas%20park/fl?search=681",
         "addr:street": "102 Avenue North",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.727062, 27.866016]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.727062, 27.866016] }
     },
     {
       "type": "Feature",
@@ -975,10 +846,7 @@
         "addr:state": "FL",
         "addr:street": "North Florida Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.460751, 28.070433]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.460751, 28.070433] }
     },
     {
       "type": "Feature",
@@ -989,17 +857,14 @@
         "phone": "+1 813-754-9338",
         "addr:housenumber": "205",
         "addr:postcode": "33566",
-        "website": "https://www.winndixie.com/storedetails/plant city/fl?search=2435",
+        "website": "https://www.winndixie.com/storedetails/plant%20city/fl?search=2435",
         "brand:wikidata": "Q1264366",
         "addr:street": "West Alexander Street",
         "ref": "2435",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.12349, 27.987091]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.12349, 27.987091] }
     },
     {
       "type": "Feature",
@@ -1012,16 +877,13 @@
         "branch": "Tyrone Gardens Shopping Center",
         "addr:city": "Saint Petersburg",
         "ref": "671",
-        "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=671",
+        "website": "https://www.winndixie.com/storedetails/st%20petersburg/fl?search=671",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
         "addr:housenumber": "1050"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.71281, 27.78319]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.71281, 27.78319] }
     },
     {
       "type": "Feature",
@@ -1032,7 +894,7 @@
         "addr:housenumber": "17184",
         "addr:street": "Front Beach Road",
         "addr:postcode": "32413",
-        "website": "https://www.winndixie.com/storedetails/panama city beach/fl?search=494",
+        "website": "https://www.winndixie.com/storedetails/panama%20city%20beach/fl?search=494",
         "addr:city": "Panama City Beach",
         "ref": "494",
         "brand:wikidata": "Q1264366",
@@ -1040,10 +902,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.891956, 30.225001]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.891956, 30.225001] }
     },
     {
       "type": "Feature",
@@ -1055,17 +914,14 @@
         "addr:state": "GA",
         "phone": "+1 229-559-6409",
         "ref": "32",
-        "website": "https://www.winndixie.com/storedetails/lake park/ga?search=32",
+        "website": "https://www.winndixie.com/storedetails/lake%20park/ga?search=32",
         "brand:wikidata": "Q1264366",
         "addr:street": "Lakes Boulevard",
         "shop": "supermarket",
         "addr:housenumber": "1060",
         "branch": "Lake Frances Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.217009, 30.680976]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.217009, 30.680976] }
     },
     {
       "type": "Feature",
@@ -1075,18 +931,16 @@
         "branch": "Magnolia Park Shopping Center",
         "addr:postcode": "32301",
         "ref": "86",
-        "addr:full": "111-39 S. MAGNOLIA DRIVE",
         "phone": "+1 850-656-2219",
         "website": "https://www.winndixie.com/storedetails/tallahassee/fl?search=86",
         "brand:wikidata": "Q1264366",
         "addr:city": "Tallahassee",
         "shop": "supermarket",
-        "addr:state": "FL"
+        "addr:state": "FL",
+        "addr:housenumber": "111-39",
+        "addr:street": "South Magnolia Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.260035, 30.441089]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.260035, 30.441089] }
     },
     {
       "type": "Feature",
@@ -1104,10 +958,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.675421, 29.639185]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.675421, 29.639185] }
     },
     {
       "type": "Feature",
@@ -1116,7 +967,7 @@
         "phone": "+1 239-437-4037",
         "name": "Winn-Dixie",
         "addr:city": "Fort Myers",
-        "website": "https://www.winndixie.com/storedetails/fort myers/fl?search=2571",
+        "website": "https://www.winndixie.com/storedetails/fort%20myers/fl?search=2571",
         "addr:housenumber": "13300",
         "ref": "2571",
         "addr:street": "South Cleveland Avenue",
@@ -1147,10 +998,7 @@
         "addr:city": "Sarasota",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.483454, 27.297763]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.483454, 27.297763] }
     },
     {
       "type": "Feature",
@@ -1169,18 +1017,15 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.229602, 28.521578]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.229602, 28.521578] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "addr:street": "Southwest 24th Street",
-        "website": "https://www.winndixie.com/storedetails/ft lauderdale/fl?search=236",
+        "addr:street": "Southwest 24th Streetreet",
+        "website": "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=236",
         "ref": "236",
         "addr:postcode": "33315",
         "addr:city": "Fort Lauderdale",
@@ -1191,10 +1036,7 @@
         "addr:state": "FL",
         "branch": "Southland Plaza"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.155107, 26.093293]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.155107, 26.093293] }
     },
     {
       "type": "Feature",
@@ -1205,17 +1047,14 @@
         "name": "Winn-Dixie",
         "addr:postcode": "70810",
         "phone": "+1 225-766-8400",
-        "website": "https://www.winndixie.com/storedetails/baton rouge/la?search=1461",
+        "website": "https://www.winndixie.com/storedetails/baton%20rouge/la?search=1461",
         "addr:housenumber": "8601",
         "addr:street": "Siegen Lane",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-91.071693, 30.370266]
-      }
+      "geometry": { "type": "Point", "coordinates": [-91.071693, 30.370266] }
     },
     {
       "type": "Feature",
@@ -1233,10 +1072,7 @@
         "addr:postcode": "33570",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.432357, 27.727254]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.432357, 27.727254] }
     },
     {
       "type": "Feature",
@@ -1254,10 +1090,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.452642, 27.980794]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.452642, 27.980794] }
     },
     {
       "type": "Feature",
@@ -1275,38 +1108,32 @@
         "addr:housenumber": "750",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.288042, 27.979617]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.288042, 27.979617] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
-        "addr:street": "34th Street North",
+        "addr:street": "34th Streetreet North",
         "name": "Winn-Dixie",
         "phone": "+1 727-323-2900",
         "addr:housenumber": "2139",
         "addr:postcode": "33713",
         "ref": "2409",
         "addr:city": "Saint Petersburg",
-        "website": "https://www.winndixie.com/storedetails/saint petersburg/fl?search=2409",
+        "website": "https://www.winndixie.com/storedetails/saint%20petersburg/fl?search=2409",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.677986, 27.790524]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.677986, 27.790524] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "addr:street": "Southwest 152nd Street",
+        "addr:street": "Southwest 152nd Streetreet",
         "website": "https://www.winndixie.com/storedetails/miami/fl?search=393",
         "branch": "Deerwood Town Center",
         "phone": "+1 305-254-8928",
@@ -1318,10 +1145,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.388337, 25.628006]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.388337, 25.628006] }
     },
     {
       "type": "Feature",
@@ -1337,13 +1161,10 @@
         "addr:postcode": "34465",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/beverly hills/fl?search=2220",
+        "website": "https://www.winndixie.com/storedetails/beverly%20hills/fl?search=2220",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.469493, 28.915292]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.469493, 28.915292] }
     },
     {
       "type": "Feature",
@@ -1352,7 +1173,7 @@
         "name": "Winn-Dixie",
         "phone": "+1 561-996-7886",
         "addr:housenumber": "900",
-        "website": "https://www.winndixie.com/storedetails/belle glade/fl?search=381",
+        "website": "https://www.winndixie.com/storedetails/belle%20glade/fl?search=381",
         "addr:postcode": "33430",
         "brand:wikidata": "Q1264366",
         "ref": "381",
@@ -1362,10 +1183,7 @@
         "branch": "Big Lake Plaza",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.672156, 26.675014]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.672156, 26.675014] }
     },
     {
       "type": "Feature",
@@ -1384,10 +1202,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.828356, 27.213429]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.828356, 27.213429] }
     },
     {
       "type": "Feature",
@@ -1399,17 +1214,14 @@
         "addr:housenumber": "1830",
         "addr:city": "La Place",
         "addr:postcode": "70068",
-        "website": "https://www.winndixie.com/storedetails/la place/la?search=1583",
+        "website": "https://www.winndixie.com/storedetails/la%20place/la?search=1583",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "LA",
         "addr:street": "West Airline Highway",
         "branch": "Market Place At Laplace"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.502602, 30.075615]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.502602, 30.075615] }
     },
     {
       "type": "Feature",
@@ -1428,10 +1240,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.504418, 27.88309]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.504418, 27.88309] }
     },
     {
       "type": "Feature",
@@ -1450,10 +1259,7 @@
         "addr:state": "FL",
         "addr:street": "West Sample Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.199988, 26.271555]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.199988, 26.271555] }
     },
     {
       "type": "Feature",
@@ -1472,10 +1278,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.222935, 30.775074]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.222935, 30.775074] }
     },
     {
       "type": "Feature",
@@ -1515,10 +1318,7 @@
         "addr:street": "North 46th Avenue",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.191354, 26.045574]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.191354, 26.045574] }
     },
     {
       "type": "Feature",
@@ -1530,17 +1330,14 @@
         "phone": "+1 954-426-4404",
         "addr:city": "Deerfield Beach",
         "addr:postcode": "33441",
-        "website": "https://www.winndixie.com/storedetails/deerfield beach/fl?search=345",
+        "website": "https://www.winndixie.com/storedetails/deerfield%20beach/fl?search=345",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "1019",
         "addr:street": "South Federal Highway",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.094982, 26.30395]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.094982, 26.30395] }
     },
     {
       "type": "Feature",
@@ -1555,13 +1352,10 @@
         "ref": "196",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/crescent city/fl?search=196",
+        "website": "https://www.winndixie.com/storedetails/crescent%20city/fl?search=196",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.512312, 29.447654]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.512312, 29.447654] }
     },
     {
       "type": "Feature",
@@ -1580,10 +1374,7 @@
         "addr:state": "FL",
         "phone": "+1 561-586-5820"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.055348, 26.572707]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.055348, 26.572707] }
     },
     {
       "type": "Feature",
@@ -1599,13 +1390,10 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/royal palm beach/fl?search=212",
+        "website": "https://www.winndixie.com/storedetails/royal%20palm%20beach/fl?search=212",
         "branch": "Village Royale"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.231675, 26.707613]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.231675, 26.707613] }
     },
     {
       "type": "Feature",
@@ -1624,10 +1412,7 @@
         "addr:state": "FL",
         "addr:street": "South Apopka Vineland Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.504212, 28.392543]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.504212, 28.392543] }
     },
     {
       "type": "Feature",
@@ -1641,15 +1426,12 @@
         "addr:street": "North Collier Boulevard",
         "addr:postcode": "34145",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/marco island/fl?search=729",
+        "website": "https://www.winndixie.com/storedetails/marco%20island/fl?search=729",
         "shop": "supermarket",
         "phone": "+1 239-642-9126",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.729215, 25.951819]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.729215, 25.951819] }
     },
     {
       "type": "Feature",
@@ -1660,23 +1442,20 @@
         "ref": "2441",
         "addr:housenumber": "8837",
         "phone": "+1 813-988-4155",
-        "website": "https://www.winndixie.com/storedetails/temple terrace/fl?search=2441",
-        "addr:street": "North 56th Street",
+        "website": "https://www.winndixie.com/storedetails/temple%20terrace/fl?search=2441",
+        "addr:street": "North 56th Streetreet",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:city": "Temple Terrace",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.392041, 28.02918]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.392041, 28.02918] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/ormond beach/fl?search=2309",
+        "website": "https://www.winndixie.com/storedetails/ormond%20beach/fl?search=2309",
         "name": "Winn-Dixie",
         "addr:street": "West Granada Boulevard",
         "ref": "2309",
@@ -1689,10 +1468,7 @@
         "addr:state": "FL",
         "addr:housenumber": "353"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.068451, 29.282352]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.068451, 29.282352] }
     },
     {
       "type": "Feature",
@@ -1700,7 +1476,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "phone": "+1 305-460-9596",
-        "addr:street": "Southwest 22nd Street",
+        "addr:street": "Southwest 22nd Streetreet",
         "website": "https://www.winndixie.com/storedetails/miami/fl?search=251",
         "addr:city": "Miami",
         "ref": "251",
@@ -1710,10 +1486,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.247618, 25.750826]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.247618, 25.750826] }
     },
     {
       "type": "Feature",
@@ -1731,10 +1504,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.983233, 30.334391]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.983233, 30.334391] }
     },
     {
       "type": "Feature",
@@ -1743,7 +1513,7 @@
         "name": "Winn-Dixie",
         "phone": "+1 386-439-4301",
         "ref": "2244",
-        "website": "https://www.winndixie.com/storedetails/palm coast/fl?search=2244",
+        "website": "https://www.winndixie.com/storedetails/palm%20coast/fl?search=2244",
         "addr:postcode": "32137",
         "branch": "Flagler Regional Plaza",
         "addr:city": "Palm Coast",
@@ -1753,10 +1523,7 @@
         "addr:state": "FL",
         "addr:housenumber": "111"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.179584, 29.474295]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.179584, 29.474295] }
     },
     {
       "type": "Feature",
@@ -1775,10 +1542,7 @@
         "shop": "supermarket",
         "addr:city": "Columbus"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.918909, 32.491641]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.918909, 32.491641] }
     },
     {
       "type": "Feature",
@@ -1788,7 +1552,7 @@
         "addr:city": "Fort Myers",
         "addr:postcode": "33913",
         "phone": "+1 239-561-0493",
-        "website": "https://www.winndixie.com/storedetails/fort myers/fl?search=2522",
+        "website": "https://www.winndixie.com/storedetails/fort%20myers/fl?search=2522",
         "addr:street": "Colonial Boulevard",
         "addr:housenumber": "10580",
         "brand:wikidata": "Q1264366",
@@ -1817,16 +1581,13 @@
         "addr:state": "FL",
         "phone": "+1 941-475-9590"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.336097, 26.936556]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.336097, 26.936556] }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Winn-Dixie",
-        "phone": "+1 904-779-5906;+1 904-771-2822",
+        "phone": "+1 904-779-5906",
         "addr:city": "Jacksonville",
         "addr:postcode": "32210",
         "branch": "Cedar Hills Shopping Center",
@@ -1840,10 +1601,7 @@
         "addr:unit": "A",
         "addr:housenumber": "3538"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.738176, 30.271615]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.738176, 30.271615] }
     },
     {
       "type": "Feature",
@@ -1854,7 +1612,7 @@
         "branch": "Transmitter Crossing",
         "addr:street": "US 231 North",
         "phone": "+1 850-914-2333",
-        "website": "https://www.winndixie.com/storedetails/panama city/fl?search=481",
+        "website": "https://www.winndixie.com/storedetails/panama%20city/fl?search=481",
         "addr:housenumber": "3621",
         "brand:wikidata": "Q1264366",
         "ref": "481",
@@ -1862,10 +1620,7 @@
         "addr:city": "Panama City",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.606742, 30.215263]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.606742, 30.215263] }
     },
     {
       "type": "Feature",
@@ -1883,16 +1638,13 @@
         "shop": "supermarket",
         "addr:postcode": "36054"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.377112, 32.517556]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.377112, 32.517556] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/avon park/fl?search=609",
+        "website": "https://www.winndixie.com/storedetails/avon%20park/fl?search=609",
         "name": "Winn-Dixie",
         "addr:postcode": "33825",
         "addr:city": "Avon Park",
@@ -1905,10 +1657,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.515995, 27.58777]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.515995, 27.58777] }
     },
     {
       "type": "Feature",
@@ -1926,10 +1675,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.387036, 27.080345]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.387036, 27.080345] }
     },
     {
       "type": "Feature",
@@ -1948,10 +1694,7 @@
         "shop": "supermarket",
         "addr:street": "US Highway 78 East"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.245479, 33.842091]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.245479, 33.842091] }
     },
     {
       "type": "Feature",
@@ -1970,10 +1713,7 @@
         "addr:city": "Casselberry",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.322084, 28.696233]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.322084, 28.696233] }
     },
     {
       "type": "Feature",
@@ -1983,7 +1723,7 @@
         "addr:postcode": "33472",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/boynton beach/fl?search=2558",
+        "website": "https://www.winndixie.com/storedetails/boynton%20beach/fl?search=2558",
         "addr:unit": "310",
         "brand": "Winn-Dixie",
         "branch": "Cobblestone Commons",
@@ -1993,10 +1733,7 @@
         "addr:city": "Boynton Beach",
         "phone": "+1 561-536-2170"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.186111, 26.529193]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.186111, 26.529193] }
     },
     {
       "type": "Feature",
@@ -2015,10 +1752,7 @@
         "addr:state": "FL",
         "branch": "Closed Due to Storm Damage"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.073593, 24.715719]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.073593, 24.715719] }
     },
     {
       "type": "Feature",
@@ -2037,17 +1771,14 @@
         "addr:state": "LA",
         "ref": "1501"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.159155, 30.846191]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.159155, 30.846191] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "phone": "+1 386-454-3067",
-        "website": "https://www.winndixie.com/storedetails/high springs/fl?search=30",
+        "website": "https://www.winndixie.com/storedetails/high%20springs/fl?search=30",
         "name": "Winn-Dixie",
         "branch": "High Springs Plaza",
         "addr:city": "High Springs",
@@ -2059,10 +1790,7 @@
         "addr:street": "North US Highway 441",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.602264, 29.841465]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.602264, 29.841465] }
     },
     {
       "type": "Feature",
@@ -2081,10 +1809,7 @@
         "addr:street": "University Boulevard East",
         "branch": "Five Points Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.481571, 33.197684]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.481571, 33.197684] }
     },
     {
       "type": "Feature",
@@ -2103,10 +1828,7 @@
         "addr:state": "FL",
         "website": "https://www.winndixie.com/storedetails/lakeland/fl?search=632"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.97234, 27.93988]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.97234, 27.93988] }
     },
     {
       "type": "Feature",
@@ -2125,10 +1847,7 @@
         "ref": "506",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.260336, 30.534287]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.260336, 30.534287] }
     },
     {
       "type": "Feature",
@@ -2147,17 +1866,14 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.746596, 28.549915]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.746596, 28.549915] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "ref": "129",
-        "website": "https://www.winndixie.com/storedetails/st augustine/fl?search=129",
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=129",
         "name": "Winn-Dixie",
         "addr:postcode": "32080",
         "addr:street": "A1A South",
@@ -2168,10 +1884,7 @@
         "addr:city": "Saint Augustine",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.272258, 29.824542]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.272258, 29.824542] }
     },
     {
       "type": "Feature",
@@ -2190,10 +1903,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.469956, 28.524836]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.469956, 28.524836] }
     },
     {
       "type": "Feature",
@@ -2206,16 +1916,13 @@
         "phone": "+1 941-505-9208",
         "brand:wikidata": "Q1264366",
         "addr:street": "Bermont Road",
-        "website": "https://www.winndixie.com/storedetails/punta gorda/fl?search=741",
+        "website": "https://www.winndixie.com/storedetails/punta%20gorda/fl?search=741",
         "addr:housenumber": "27680",
         "shop": "supermarket",
         "addr:city": "Punta Gorda",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.99843, 26.947992]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.99843, 26.947992] }
     },
     {
       "type": "Feature",
@@ -2229,15 +1936,12 @@
         "addr:postcode": "32034",
         "brand:wikidata": "Q1264366",
         "addr:city": "Fernandina Beach",
-        "website": "https://www.winndixie.com/storedetails/fernandina beach/fl?search=84",
+        "website": "https://www.winndixie.com/storedetails/fernandina%20beach/fl?search=84",
         "shop": "supermarket",
         "ref": "84",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.458317, 30.647189]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.458317, 30.647189] }
     },
     {
       "type": "Feature",
@@ -2264,7 +1968,7 @@
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/fort lauderdale/fl?search=290",
+        "website": "https://www.winndixie.com/storedetails/fort%20lauderdale/fl?search=290",
         "addr:street": "North Federal Highway",
         "name": "Winn-Dixie",
         "ref": "290",
@@ -2277,10 +1981,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.136644, 26.131299]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.136644, 26.131299] }
     },
     {
       "type": "Feature",
@@ -2299,10 +2000,7 @@
         "addr:state": "FL",
         "phone": "+1 321-267-6977"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.844643, 28.638074]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.844643, 28.638074] }
     },
     {
       "type": "Feature",
@@ -2320,10 +2018,7 @@
         "addr:street": "Chaffee Road",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.846625, 30.306811]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.846625, 30.306811] }
     },
     {
       "type": "Feature",
@@ -2338,14 +2033,11 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:city": "Lady Lake",
-        "website": "https://www.winndixie.com/storedetails/lady lake/fl?search=2337",
+        "website": "https://www.winndixie.com/storedetails/lady%20lake/fl?search=2337",
         "ref": "2337",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.944772, 28.936404]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.944772, 28.936404] }
     },
     {
       "type": "Feature",
@@ -2363,10 +2055,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.481436, 27.936088]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.481436, 27.936088] }
     },
     {
       "type": "Feature",
@@ -2385,10 +2074,7 @@
         "addr:state": "FL",
         "addr:housenumber": "14900"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.213112, 25.911535]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.213112, 25.911535] }
     },
     {
       "type": "Feature",
@@ -2407,10 +2093,7 @@
         "addr:postcode": "33592",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.334766, 28.053342]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.334766, 28.053342] }
     },
     {
       "type": "Feature",
@@ -2429,10 +2112,7 @@
         "addr:city": "Columbus",
         "addr:street": "Veterans Parkway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.951735, 32.542877]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.951735, 32.542877] }
     },
     {
       "type": "Feature",
@@ -2445,16 +2125,13 @@
         "addr:housenumber": "17221",
         "branch": "Dolphin Plaza",
         "phone": "+1 305-625-6155",
-        "website": "https://www.winndixie.com/storedetails/miami gardens/fl?search=246",
+        "website": "https://www.winndixie.com/storedetails/miami%20gardens/fl?search=246",
         "addr:postcode": "33056",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.243674, 25.931368]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.243674, 25.931368] }
     },
     {
       "type": "Feature",
@@ -2473,10 +2150,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.177731, 28.656537]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.177731, 28.656537] }
     },
     {
       "type": "Feature",
@@ -2495,10 +2169,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.808697, 27.531204]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.808697, 27.531204] }
     },
     {
       "type": "Feature",
@@ -2517,10 +2188,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.299829, 26.109195]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.299829, 26.109195] }
     },
     {
       "type": "Feature",
@@ -2539,10 +2207,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.304133, 25.731705]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.304133, 25.731705] }
     },
     {
       "type": "Feature",
@@ -2561,10 +2226,7 @@
         "addr:state": "FL",
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=25"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.591064, 30.221303]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.591064, 30.221303] }
     },
     {
       "type": "Feature",
@@ -2583,10 +2245,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.878267, 30.061478]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.878267, 30.061478] }
     },
     {
       "type": "Feature",
@@ -2604,10 +2263,7 @@
         "addr:state": "FL",
         "addr:housenumber": "7131"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.150043, 29.26105]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.150043, 29.26105] }
     },
     {
       "type": "Feature",
@@ -2626,10 +2282,7 @@
         "phone": "+1 334-741-4140",
         "addr:street": "Foxrun Parkway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.363874, 32.665165]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.363874, 32.665165] }
     },
     {
       "type": "Feature",
@@ -2663,17 +2316,14 @@
         "addr:city": "Orange Park",
         "branch": "Clay Plaza",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/orange park/fl?search=8",
+        "website": "https://www.winndixie.com/storedetails/orange%20park/fl?search=8",
         "addr:street": "Blanding Boulevard",
         "addr:postcode": "32065",
         "addr:housenumber": "1339",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.798483, 30.122116]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.798483, 30.122116] }
     },
     {
       "type": "Feature",
@@ -2691,10 +2341,7 @@
         "phone": "+1 352-726-8143",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.34524, 28.837507]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.34524, 28.837507] }
     },
     {
       "type": "Feature",
@@ -2712,10 +2359,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.601761, 30.172137]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.601761, 30.172137] }
     },
     {
       "type": "Feature",
@@ -2729,15 +2373,12 @@
         "addr:city": "Alexander City",
         "phone": "+1 256-234-5141",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/alexander city/al?search=456",
+        "website": "https://www.winndixie.com/storedetails/alexander%20city/al?search=456",
         "shop": "supermarket",
         "addr:street": "US Highway 280",
         "addr:housenumber": "1061"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.961197, 32.92196]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.961197, 32.92196] }
     },
     {
       "type": "Feature",
@@ -2746,7 +2387,7 @@
         "addr:street": "Beal Parkway",
         "name": "Winn-Dixie",
         "addr:postcode": "32547",
-        "website": "https://www.winndixie.com/storedetails/ft walton beach/fl?search=541",
+        "website": "https://www.winndixie.com/storedetails/ft%20walton%20beach/fl?search=541",
         "phone": "+1 850-864-3891",
         "ref": "541",
         "addr:city": "Fort Walton Beach",
@@ -2756,10 +2397,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.640081, 30.447621]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.640081, 30.447621] }
     },
     {
       "type": "Feature",
@@ -2778,10 +2416,7 @@
         "addr:state": "FL",
         "addr:postcode": "34691"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.738973, 28.1835]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.738973, 28.1835] }
     },
     {
       "type": "Feature",
@@ -2796,14 +2431,11 @@
         "branch": "Shores Village",
         "phone": "+1 904-789-3827",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/st augustine/fl?search=112",
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=112",
         "addr:city": "Saint Augustine",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.321056, 29.791398]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.321056, 29.791398] }
     },
     {
       "type": "Feature",
@@ -2815,16 +2447,13 @@
         "addr:housenumber": "5660",
         "brand:wikidata": "Q1264366",
         "phone": "+1 239-731-1007",
-        "website": "https://www.winndixie.com/storedetails/fort myers/fl?search=2480",
+        "website": "https://www.winndixie.com/storedetails/fort%20myers/fl?search=2480",
         "addr:street": "Bayshore Road",
         "addr:postcode": "33917",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.863457, 26.687794]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.863457, 26.687794] }
     },
     {
       "type": "Feature",
@@ -2842,10 +2471,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.428652, 28.056317]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.428652, 28.056317] }
     },
     {
       "type": "Feature",
@@ -2862,19 +2488,16 @@
         "addr:housenumber": "220",
         "addr:city": "Saint Simons Island",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/st simons island/ga?search=19"
+        "website": "https://www.winndixie.com/storedetails/st%20simons%20island/ga?search=19"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.391467, 31.158279]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.391467, 31.158279] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/cutler bay/fl?search=371",
+        "website": "https://www.winndixie.com/storedetails/cutler%20bay/fl?search=371",
         "addr:housenumber": "19167",
         "branch": "Point Royale Shopping Center",
         "addr:street": "South Dixie Highway",
@@ -2886,10 +2509,7 @@
         "addr:city": "Cutler Bay",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.356992, 25.590035]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.356992, 25.590035] }
     },
     {
       "type": "Feature",
@@ -2898,7 +2518,7 @@
         "name": "Winn-Dixie",
         "addr:city": "Palmetto",
         "addr:housenumber": "515",
-        "addr:street": "7th Street West",
+        "addr:street": "7th Streetreet West",
         "ref": "2448",
         "brand:wikidata": "Q1264366",
         "addr:postcode": "34220",
@@ -2907,10 +2527,7 @@
         "phone": "+1 941-722-1954",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.570098, 27.51638]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.570098, 27.51638] }
     },
     {
       "type": "Feature",
@@ -2929,10 +2546,7 @@
         "addr:state": "FL",
         "branch": "Cordova Collections"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.209416, 30.469578]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.209416, 30.469578] }
     },
     {
       "type": "Feature",
@@ -2940,7 +2554,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "ref": "1430",
-        "website": "https://www.winndixie.com/storedetails/new orleans/la?search=1430",
+        "website": "https://www.winndixie.com/storedetails/new%20orleans/la?search=1430",
         "addr:street": "Tchoupitoulas Street",
         "branch": "Riverside Market",
         "addr:housenumber": "5400",
@@ -2951,10 +2565,7 @@
         "addr:state": "LA",
         "phone": "+1 504-895-2966"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.11686, 29.916084]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.11686, 29.916084] }
     },
     {
       "type": "Feature",
@@ -2962,7 +2573,7 @@
         "brand": "Winn-Dixie",
         "phone": "+1 305-279-5719",
         "name": "Winn-Dixie",
-        "addr:street": "Southwest 72nd Street",
+        "addr:street": "Southwest 72nd Streetreet",
         "addr:housenumber": "8710",
         "addr:city": "Miami",
         "brand:wikidata": "Q1264366",
@@ -2973,10 +2584,7 @@
         "addr:postcode": "33173",
         "branch": "Sunset Plaza"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.334701, 25.700957]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.334701, 25.700957] }
     },
     {
       "type": "Feature",
@@ -2987,17 +2595,14 @@
         "addr:state": "AL",
         "addr:city": "Vestavia Hills",
         "phone": "+1 205-969-2307",
-        "website": "https://www.winndixie.com/storedetails/vestavia hills/al?search=517",
+        "website": "https://www.winndixie.com/storedetails/vestavia%20hills/al?search=517",
         "brand:wikidata": "Q1264366",
         "addr:street": "Crosshaven Drive",
         "shop": "supermarket",
         "ref": "517",
         "addr:housenumber": "3925"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.730261, 33.463008]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.730261, 33.463008] }
     },
     {
       "type": "Feature",
@@ -3015,10 +2620,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.354289, 28.030979]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.354289, 28.030979] }
     },
     {
       "type": "Feature",
@@ -3030,16 +2632,13 @@
         "addr:postcode": "33136",
         "addr:city": "Miami",
         "website": "https://www.winndixie.com/storedetails/miami/fl?search=247",
-        "addr:street": "Northwest 11th Street",
+        "addr:street": "Northwest 11th Streetreet",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
         "phone": "+1 305-545-0127"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.213134, 25.785014]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.213134, 25.785014] }
     },
     {
       "type": "Feature",
@@ -3048,7 +2647,7 @@
         "phone": "+1 813-645-9674",
         "name": "Winn-Dixie",
         "addr:housenumber": "250",
-        "website": "https://www.winndixie.com/storedetails/apollo beach/fl?search=2528",
+        "website": "https://www.winndixie.com/storedetails/apollo%20beach/fl?search=2528",
         "addr:city": "Apollo Beach",
         "ref": "2528",
         "brand:wikidata": "Q1264366",
@@ -3057,10 +2656,7 @@
         "addr:street": "Harbor Village Lane",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4125, 27.751857]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.4125, 27.751857] }
     },
     {
       "type": "Feature",
@@ -3079,10 +2675,7 @@
         "branch": "Talladega Shopping Center",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.602908, 33.306304]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.602908, 33.306304] }
     },
     {
       "type": "Feature",
@@ -3098,13 +2691,10 @@
         "shop": "supermarket",
         "addr:street": "Davie Boulevard",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/ft lauderdale/fl?search=330",
+        "website": "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=330",
         "addr:housenumber": "3260"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.189154, 26.103613]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.189154, 26.103613] }
     },
     {
       "type": "Feature",
@@ -3114,7 +2704,7 @@
         "addr:city": "Hobe Sound",
         "name": "Winn-Dixie",
         "addr:street": "Southeast Bridge Road",
-        "website": "https://www.winndixie.com/storedetails/hobe sound/fl?search=305",
+        "website": "https://www.winndixie.com/storedetails/hobe%20sound/fl?search=305",
         "addr:housenumber": "8867",
         "branch": "The Marketplace",
         "addr:postcode": "33455",
@@ -3123,10 +2713,7 @@
         "phone": "+1 772-546-3221",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.134672, 27.061459]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.134672, 27.061459] }
     },
     {
       "type": "Feature",
@@ -3144,10 +2731,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.308568, 27.983059]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.308568, 27.983059] }
     },
     {
       "type": "Feature",
@@ -3157,7 +2741,7 @@
         "phone": "+1 225-261-6001",
         "name": "Winn-Dixie",
         "addr:street": "Joor Road",
-        "website": "https://www.winndixie.com/storedetails/baton rouge/la?search=1576",
+        "website": "https://www.winndixie.com/storedetails/baton%20rouge/la?search=1576",
         "brand:wikidata": "Q1264366",
         "branch": "Interstate Shopping Center",
         "ref": "1576",
@@ -3166,10 +2750,7 @@
         "addr:housenumber": "10974",
         "addr:postcode": "70818"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-91.051598, 30.546615]
-      }
+      "geometry": { "type": "Point", "coordinates": [-91.051598, 30.546615] }
     },
     {
       "type": "Feature",
@@ -3188,10 +2769,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.340423, 30.401902]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.340423, 30.401902] }
     },
     {
       "type": "Feature",
@@ -3210,10 +2788,7 @@
         "addr:city": "Brunswick",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.525526, 31.226269]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.525526, 31.226269] }
     },
     {
       "type": "Feature",
@@ -3232,10 +2807,7 @@
         "addr:state": "FL",
         "addr:postcode": "33838"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.630083, 28.016473]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.630083, 28.016473] }
     },
     {
       "type": "Feature",
@@ -3253,10 +2825,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.633082, 28.070952]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.633082, 28.070952] }
     },
     {
       "type": "Feature",
@@ -3275,10 +2844,7 @@
         "addr:city": "Leesburg",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.878715, 28.746449]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.878715, 28.746449] }
     },
     {
       "type": "Feature",
@@ -3297,10 +2863,7 @@
         "shop": "supermarket",
         "website": "https://www.winndixie.com/storedetails/valdosta/ga?search=140"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.293779, 30.875189]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.293779, 30.875189] }
     },
     {
       "type": "Feature",
@@ -3319,10 +2882,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.64382, 30.259784]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.64382, 30.259784] }
     },
     {
       "type": "Feature",
@@ -3333,7 +2893,7 @@
         "addr:housenumber": "7915",
         "addr:postcode": "33405",
         "addr:street": "South Dixie Highway",
-        "website": "https://www.winndixie.com/storedetails/west palm beach/fl?search=309",
+        "website": "https://www.winndixie.com/storedetails/west%20palm%20beach/fl?search=309",
         "brand:wikidata": "Q1264366",
         "ref": "309",
         "addr:city": "West Palm Beach",
@@ -3341,10 +2901,7 @@
         "branch": "Palm Coast Plaza",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.057693, 26.646797]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.057693, 26.646797] }
     },
     {
       "type": "Feature",
@@ -3358,16 +2915,13 @@
         "brand": "Winn-Dixie",
         "addr:street": "Henley Road",
         "ref": "135",
-        "website": "https://www.winndixie.com/storedetails/green cove springs/fl?search=135",
+        "website": "https://www.winndixie.com/storedetails/green%20cove%20springs/fl?search=135",
         "addr:housenumber": "2851",
         "addr:city": "Green Cove Springs",
         "brand:wikidata": "Q1264366",
         "branch": "Asbury Commons Ltd."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.807439, 30.046997]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.807439, 30.046997] }
     },
     {
       "type": "Feature",
@@ -3377,7 +2931,7 @@
         "branch": "Southport Plaza",
         "ref": "226",
         "addr:postcode": "33316",
-        "website": "https://www.winndixie.com/storedetails/ft lauderdale/fl?search=226",
+        "website": "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=226",
         "phone": "+1 954-763-2275",
         "addr:street": "Cordova Road",
         "addr:city": "Fort Lauderdale",
@@ -3386,10 +2940,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.13149, 26.101755]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.13149, 26.101755] }
     },
     {
       "type": "Feature",
@@ -3402,16 +2953,13 @@
         "branch": "Tiger Point Shopping Center",
         "addr:postcode": "32563",
         "addr:city": "Gulf Breeze",
-        "website": "https://www.winndixie.com/storedetails/gulf breeze/fl?search=412",
+        "website": "https://www.winndixie.com/storedetails/gulf%20breeze/fl?search=412",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3319",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.085376, 30.385836]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.085376, 30.385836] }
     },
     {
       "type": "Feature",
@@ -3422,7 +2970,7 @@
         "addr:street": "North Ocean Boulevard",
         "addr:housenumber": "3800",
         "phone": "+1 954-563-4110",
-        "website": "https://www.winndixie.com/storedetails/ft lauderdale/fl?search=386",
+        "website": "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=386",
         "ref": "386",
         "addr:city": "Fort Lauderdale",
         "brand:wikidata": "Q1264366",
@@ -3430,10 +2978,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.099049, 26.174866]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.099049, 26.174866] }
     },
     {
       "type": "Feature",
@@ -3452,10 +2997,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.776806, 28.05626]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.776806, 28.05626] }
     },
     {
       "type": "Feature",
@@ -3474,10 +3016,7 @@
         "addr:state": "FL",
         "addr:street": "University Boulevard North"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.602492, 30.330792]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.602492, 30.330792] }
     },
     {
       "type": "Feature",
@@ -3491,14 +3030,11 @@
         "phone": "+1 941-751-4394",
         "brand:wikidata": "Q1264366",
         "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=2519",
-        "addr:street": "14th Street West",
+        "addr:street": "14th Streetreet West",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.576876, 27.438145]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.576876, 27.438145] }
     },
     {
       "type": "Feature",
@@ -3516,10 +3052,7 @@
         "addr:city": "Gramercy",
         "addr:housenumber": "1803"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.699844, 30.06095]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.699844, 30.06095] }
     },
     {
       "type": "Feature",
@@ -3538,10 +3071,7 @@
         "addr:city": "Montgomery",
         "phone": "+1 334-286-9770"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.351262, 32.310463]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.351262, 32.310463] }
     },
     {
       "type": "Feature",
@@ -3549,7 +3079,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:housenumber": "1016",
-        "website": "https://www.winndixie.com/storedetails/cape coral/fl?search=2534",
+        "website": "https://www.winndixie.com/storedetails/cape%20coral/fl?search=2534",
         "addr:city": "Cape Coral",
         "brand:wikidata": "Q1264366",
         "ref": "2534",
@@ -3559,10 +3089,7 @@
         "phone": "+1 239-542-6464",
         "addr:street": "Cape Coral Parkway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.951592, 26.561375]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.951592, 26.561375] }
     },
     {
       "type": "Feature",
@@ -3570,7 +3097,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:city": "Doral",
-        "addr:street": "Northwest 41st Street",
+        "addr:street": "Northwest 41st Streetreet",
         "branch": "Winn Dixie - Doral Area",
         "addr:postcode": "33178",
         "addr:housenumber": "10505",
@@ -3581,10 +3108,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.366902, 25.812752]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.366902, 25.812752] }
     },
     {
       "type": "Feature",
@@ -3603,10 +3127,7 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.795376, 33.612557]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.795376, 33.612557] }
     },
     {
       "type": "Feature",
@@ -3617,7 +3138,7 @@
         "name": "Winn-Dixie",
         "branch": "Holly Hill Shopping Center",
         "addr:postcode": "32117",
-        "website": "https://www.winndixie.com/storedetails/holly hill/fl?search=2258",
+        "website": "https://www.winndixie.com/storedetails/holly%20hill/fl?search=2258",
         "addr:housenumber": "1541",
         "addr:street": "North Nova Road",
         "brand:wikidata": "Q1264366",
@@ -3625,10 +3146,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.055061, 29.237291]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.055061, 29.237291] }
     },
     {
       "type": "Feature",
@@ -3647,10 +3165,7 @@
         "addr:postcode": "32507",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.417921, 30.321395]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.417921, 30.321395] }
     },
     {
       "type": "Feature",
@@ -3659,7 +3174,7 @@
         "name": "Winn-Dixie",
         "ref": "2311",
         "addr:postcode": "32127",
-        "website": "https://www.winndixie.com/storedetails/port orange/fl?search=2311",
+        "website": "https://www.winndixie.com/storedetails/port%20orange/fl?search=2311",
         "addr:housenumber": "4025",
         "branch": "Riverwood Shopping Center",
         "phone": "+1 386-756-4814",
@@ -3669,10 +3184,7 @@
         "addr:state": "FL",
         "addr:street": "South Nova Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.994339, 29.118806]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.994339, 29.118806] }
     },
     {
       "type": "Feature",
@@ -3691,17 +3203,14 @@
         "addr:state": "FL",
         "phone": "+1 850-997-2247"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.871285, 30.53512]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.871285, 30.53512] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "ref": "2484",
-        "website": "https://www.winndixie.com/storedetails/spring hill/fl?search=2484",
+        "website": "https://www.winndixie.com/storedetails/spring%20hill/fl?search=2484",
         "name": "Winn-Dixie",
         "phone": "+1 352-688-1771",
         "addr:city": "Spring Hill",
@@ -3712,10 +3221,7 @@
         "addr:postcode": "34608",
         "addr:street": "Mariner Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.542224, 28.493367]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.542224, 28.493367] }
     },
     {
       "type": "Feature",
@@ -3734,10 +3240,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.48686, 30.502427]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.48686, 30.502427] }
     },
     {
       "type": "Feature",
@@ -3756,10 +3259,7 @@
         "shop": "supermarket",
         "addr:state": "MS"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.898262, 30.439121]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.898262, 30.439121] }
     },
     {
       "type": "Feature",
@@ -3778,10 +3278,7 @@
         "phone": "+1 904-996-0990",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.526944, 30.28507]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.526944, 30.28507] }
     },
     {
       "type": "Feature",
@@ -3790,7 +3287,7 @@
         "name": "Winn-Dixie",
         "addr:city": "The Villages",
         "addr:housenumber": "820",
-        "website": "https://www.winndixie.com/storedetails/the villages/fl?search=2523",
+        "website": "https://www.winndixie.com/storedetails/the%20villages/fl?search=2523",
         "brand:wikidata": "Q1264366",
         "addr:street": "Old Camp Road",
         "phone": "+1 352-391-1594",
@@ -3799,10 +3296,7 @@
         "addr:state": "FL",
         "addr:postcode": "32162"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.97008, 28.907227]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.97008, 28.907227] }
     },
     {
       "type": "Feature",
@@ -3811,7 +3305,7 @@
         "name": "Winn-Dixie",
         "addr:postcode": "33525",
         "addr:street": "Highway 301",
-        "website": "https://www.winndixie.com/storedetails/dade city/fl?search=608",
+        "website": "https://www.winndixie.com/storedetails/dade%20city/fl?search=608",
         "phone": "+1 352-523-2929",
         "addr:city": "Dade City",
         "ref": "608",
@@ -3821,10 +3315,7 @@
         "addr:state": "FL",
         "branch": "Dade City Market Place"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.189148, 28.342101]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.189148, 28.342101] }
     },
     {
       "type": "Feature",
@@ -3843,10 +3334,7 @@
         "website": "https://www.winndixie.com/storedetails/semmes/al?search=473",
         "addr:street": "Moffett Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.257146, 30.780093]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.257146, 30.780093] }
     },
     {
       "type": "Feature",
@@ -3859,17 +3347,14 @@
         "addr:state": "FL",
         "brand": "Winn-Dixie",
         "ref": "436",
-        "website": "https://www.winndixie.com/storedetails/lynn haven/fl?search=436",
+        "website": "https://www.winndixie.com/storedetails/lynn%20haven/fl?search=436",
         "phone": "+1 850-271-0066",
         "addr:postcode": "32444",
         "brand:wikidata": "Q1264366",
         "addr:city": "Lynn Haven",
         "addr:housenumber": "1812"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.650526, 30.230359]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.650526, 30.230359] }
     },
     {
       "type": "Feature",
@@ -3888,10 +3373,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.896937, 28.970765]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.896937, 28.970765] }
     },
     {
       "type": "Feature",
@@ -3910,10 +3392,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.360812, 28.699093]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.360812, 28.699093] }
     },
     {
       "type": "Feature",
@@ -3932,10 +3411,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.425601, 30.470024]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.425601, 30.470024] }
     },
     {
       "type": "Feature",
@@ -3955,10 +3431,7 @@
         "branch": "The Village Center at Viera Boulevard",
         "ref": "2557"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.719994, 28.267546]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.719994, 28.267546] }
     },
     {
       "type": "Feature",
@@ -3966,7 +3439,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:street": "North Ponce De Leon Boulevard",
-        "website": "https://www.winndixie.com/storedetails/st augustine/fl?search=182",
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=182",
         "phone": "+1 904-824-6233",
         "addr:housenumber": "3551",
         "brand:wikidata": "Q1264366",
@@ -3977,10 +3450,7 @@
         "addr:city": "Saint Augustine",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.327755, 29.925224]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.327755, 29.925224] }
     },
     {
       "type": "Feature",
@@ -3999,10 +3469,7 @@
         "shop": "supermarket",
         "branch": "Dothan East"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.360198, 31.212803]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.360198, 31.212803] }
     },
     {
       "type": "Feature",
@@ -4011,7 +3478,7 @@
         "name": "Winn-Dixie",
         "ref": "81",
         "addr:housenumber": "580",
-        "website": "https://www.winndixie.com/storedetails/lake city/fl?search=81",
+        "website": "https://www.winndixie.com/storedetails/lake%20city/fl?search=81",
         "branch": "Lake City Shopping Center",
         "addr:postcode": "32025",
         "phone": "+1 386-755-4404",
@@ -4021,10 +3488,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6382, 30.182497]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.6382, 30.182497] }
     },
     {
       "type": "Feature",
@@ -4043,10 +3507,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.374669, 25.980652]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.374669, 25.980652] }
     },
     {
       "type": "Feature",
@@ -4064,10 +3525,7 @@
         "phone": "+1 813-277-0442",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.452448, 27.98095]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.452448, 27.98095] }
     },
     {
       "type": "Feature",
@@ -4077,19 +3535,16 @@
         "addr:street": "Canaveral Plaza Boulevard",
         "addr:city": "Cocoa Beach",
         "phone": "+1 321-783-7265",
-        "branch": "Canaveral Plaza Shopping Cntr",
+        "branch": "Canaveral Plaza Shopping Center",
         "addr:postcode": "32931",
-        "website": "https://www.winndixie.com/storedetails/cocoa beach/fl?search=2325",
+        "website": "https://www.winndixie.com/storedetails/cocoa%20beach/fl?search=2325",
         "brand:wikidata": "Q1264366",
         "ref": "2325",
         "shop": "supermarket",
         "addr:state": "FL",
         "addr:housenumber": "100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.610086, 28.355993]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.610086, 28.355993] }
     },
     {
       "type": "Feature",
@@ -4098,7 +3553,7 @@
         "name": "Winn-Dixie",
         "branch": "Liquor",
         "addr:city": "Hialeah",
-        "addr:street": "West 49th Street",
+        "addr:street": "West 49th Streetreet",
         "addr:housenumber": "1640",
         "website": "https://www.winndixie.com/storedetails/hialeah/fl?search=293",
         "addr:postcode": "33012",
@@ -4108,10 +3563,7 @@
         "addr:state": "FL",
         "phone": "+1 305-822-7740"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.315817, 25.865102]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.315817, 25.865102] }
     },
     {
       "type": "Feature",
@@ -4121,7 +3573,7 @@
         "addr:postcode": "33935",
         "ref": "721",
         "addr:housenumber": "960",
-        "website": "https://www.winndixie.com/storedetails/la belle/fl?search=721",
+        "website": "https://www.winndixie.com/storedetails/la%20belle/fl?search=721",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:street": "South Main Street",
@@ -4129,10 +3581,7 @@
         "addr:state": "FL",
         "phone": "+1 863-675-3838"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.439289, 26.74764]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.439289, 26.74764] }
     },
     {
       "type": "Feature",
@@ -4152,10 +3601,7 @@
         "branch": "Bridewater Marketplace",
         "addr:street": "East Colonial Drive"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.183645, 28.563527]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.183645, 28.563527] }
     },
     {
       "type": "Feature",
@@ -4171,13 +3617,10 @@
         "brand:wikidata": "Q1264366",
         "branch": "Panama Plaza",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/panama city beach/fl?search=488",
+        "website": "https://www.winndixie.com/storedetails/panama%20city%20beach/fl?search=488",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.973307, 30.263142]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.973307, 30.263142] }
     },
     {
       "type": "Feature",
@@ -4187,7 +3630,7 @@
         "ref": "70",
         "addr:state": "GA",
         "addr:postcode": "31558",
-        "website": "https://www.winndixie.com/storedetails/saint marys/ga?search=70",
+        "website": "https://www.winndixie.com/storedetails/saint%20marys/ga?search=70",
         "addr:city": "Saint Marys",
         "brand:wikidata": "Q1264366",
         "addr:street": "Osborne Road",
@@ -4195,10 +3638,7 @@
         "addr:housenumber": "2714",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.578631, 30.754142]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.578631, 30.754142] }
     },
     {
       "type": "Feature",
@@ -4217,16 +3657,13 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.096993, 29.893695]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.096993, 29.893695] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/saint johns/fl?search=122",
+        "website": "https://www.winndixie.com/storedetails/saint%20johns/fl?search=122",
         "name": "Winn-Dixie",
         "addr:street": "Little Cypress Drive",
         "branch": "Grand Cypress",
@@ -4239,10 +3676,7 @@
         "addr:state": "FL",
         "addr:housenumber": "100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.48343, 30.10145]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.48343, 30.10145] }
     },
     {
       "type": "Feature",
@@ -4261,10 +3695,7 @@
         "ref": "759",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.435845, 26.43392]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.435845, 26.43392] }
     },
     {
       "type": "Feature",
@@ -4282,10 +3713,7 @@
         "addr:state": "FL",
         "addr:street": "County Line Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.356631, 28.169089]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.356631, 28.169089] }
     },
     {
       "type": "Feature",
@@ -4304,10 +3732,7 @@
         "website": "https://www.winndixie.com/storedetails/deland/fl?search=2342",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.323024, 29.084504]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.323024, 29.084504] }
     },
     {
       "type": "Feature",
@@ -4326,10 +3751,7 @@
         "addr:city": "Sarasota",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.460812, 27.336139]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.460812, 27.336139] }
     },
     {
       "type": "Feature",
@@ -4348,10 +3770,7 @@
         "addr:city": "Seminole",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.81807, 27.845133]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.81807, 27.845133] }
     },
     {
       "type": "Feature",
@@ -4361,7 +3780,7 @@
         "phone": "+1 321-419-0308",
         "name": "Winn-Dixie",
         "branch": "Plaza West",
-        "website": "https://www.winndixie.com/storedetails/w melbourne/fl?search=2568",
+        "website": "https://www.winndixie.com/storedetails/w%20melbourne/fl?search=2568",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "3170",
         "addr:street": "West New Haven Avenue",
@@ -4370,10 +3789,7 @@
         "addr:state": "FL",
         "addr:postcode": "32904"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.674148, 28.079926]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.674148, 28.079926] }
     },
     {
       "type": "Feature",
@@ -4391,10 +3807,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.695911, 30.245273]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.695911, 30.245273] }
     },
     {
       "type": "Feature",
@@ -4413,10 +3826,7 @@
         "addr:state": "FL",
         "addr:postcode": "33030"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.463337, 25.486678]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.463337, 25.486678] }
     },
     {
       "type": "Feature",
@@ -4435,10 +3845,7 @@
         "addr:state": "MS",
         "branch": "Orange Grove Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.097831, 30.451281]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.097831, 30.451281] }
     },
     {
       "type": "Feature",
@@ -4449,7 +3856,7 @@
         "addr:postcode": "32746",
         "phone": "+1 407-333-9792",
         "branch": "Goodings Lake Mary",
-        "website": "https://www.winndixie.com/storedetails/lake mary/fl?search=2380",
+        "website": "https://www.winndixie.com/storedetails/lake%20mary/fl?search=2380",
         "ref": "2380",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "120",
@@ -4457,10 +3864,7 @@
         "addr:city": "Lake Mary",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.369672, 28.757516]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.369672, 28.757516] }
     },
     {
       "type": "Feature",
@@ -4479,10 +3883,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.112327, 28.682463]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.112327, 28.682463] }
     },
     {
       "type": "Feature",
@@ -4500,17 +3901,14 @@
         "addr:street": "US 27 South",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.437908, 27.470578]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.437908, 27.470578] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/tarpon springs/fl?search=2532",
+        "website": "https://www.winndixie.com/storedetails/tarpon%20springs/fl?search=2532",
         "addr:city": "Tarpon Springs",
         "addr:street": "South Pinellas Avenue",
         "addr:postcode": "34689",
@@ -4521,10 +3919,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.756143, 28.136509]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.756143, 28.136509] }
     },
     {
       "type": "Feature",
@@ -4538,15 +3933,12 @@
         "branch": "Rutland Plaza",
         "brand:wikidata": "Q1264366",
         "phone": "+1 727-525-4632",
-        "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=698",
+        "website": "https://www.winndixie.com/storedetails/st%20petersburg/fl?search=698",
         "shop": "supermarket",
         "addr:street": "62 Avenue North",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.648756, 27.829885]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.648756, 27.829885] }
     },
     {
       "type": "Feature",
@@ -4565,10 +3957,7 @@
         "addr:street": "Highway 90",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.14746, 30.605215]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.14746, 30.605215] }
     },
     {
       "type": "Feature",
@@ -4587,31 +3976,25 @@
         "addr:street": "West Hallandale Beach Boulevard",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.163747, 25.983564]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.163747, 25.983564] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/sun city center/fl?search=619",
+        "website": "https://www.winndixie.com/storedetails/sun%20city%20center/fl?search=619",
         "addr:city": "Sun City Center",
         "addr:housenumber": "4445",
         "ref": "619",
         "addr:postcode": "33573",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
-        "addr:street": "Sun City Cntr Boulevard",
+        "addr:street": "Sun City Center Boulevard",
         "addr:state": "FL",
         "phone": "+1 813-634-1191"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.354396, 27.710769]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.354396, 27.710769] }
     },
     {
       "type": "Feature",
@@ -4629,10 +4012,7 @@
         "addr:state": "LA",
         "addr:housenumber": "211"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.125109, 30.002096]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.125109, 30.002096] }
     },
     {
       "type": "Feature",
@@ -4651,10 +4031,7 @@
         "addr:state": "FL",
         "website": "https://www.winndixie.com/storedetails/parker/fl?search=538"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.592692, 30.144421]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.592692, 30.144421] }
     },
     {
       "type": "Feature",
@@ -4673,17 +4050,14 @@
         "addr:housenumber": "4849",
         "branch": "Golden Gate Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.707306, 26.182005]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.707306, 26.182005] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/st augustine/fl?search=77",
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=77",
         "phone": "+1 904-829-5509",
         "branch": "Saint John's Plaza",
         "ref": "77",
@@ -4695,10 +4069,7 @@
         "addr:city": "Saint Augustine",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.326093, 29.879978]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.326093, 29.879978] }
     },
     {
       "type": "Feature",
@@ -4717,10 +4088,7 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.787275, 33.627966]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.787275, 33.627966] }
     },
     {
       "type": "Feature",
@@ -4739,10 +4107,7 @@
         "addr:postcode": "36619",
         "website": "https://www.winndixie.com/storedetails/mobile/al?search=572"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.171575, 30.587047]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.171575, 30.587047] }
     },
     {
       "type": "Feature",
@@ -4761,10 +4126,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.208582, 27.140252]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.208582, 27.140252] }
     },
     {
       "type": "Feature",
@@ -4774,18 +4136,15 @@
         "addr:postcode": "33704",
         "ref": "2443",
         "addr:housenumber": "3327",
-        "website": "https://www.winndixie.com/storedetails/saint petersburg/fl?search=2443",
+        "website": "https://www.winndixie.com/storedetails/saint%20petersburg/fl?search=2443",
         "addr:city": "Saint Petersburg",
         "phone": "+1 727-823-3538",
         "brand:wikidata": "Q1264366",
-        "addr:street": "9th Street North",
+        "addr:street": "9th Streetreet North",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.645617, 27.802555]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.645617, 27.802555] }
     },
     {
       "type": "Feature",
@@ -4797,24 +4156,21 @@
         "addr:housenumber": "3157",
         "phone": "+1 850-872-9300",
         "ref": "487",
-        "addr:street": "West 23rd Street",
+        "addr:street": "West 23rd Streetreet",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/panama city/fl?search=487",
+        "website": "https://www.winndixie.com/storedetails/panama%20city/fl?search=487",
         "shop": "supermarket",
         "addr:city": "Panama City",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.703042, 30.188649]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.703042, 30.188649] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/live oak/fl?search=198",
+        "website": "https://www.winndixie.com/storedetails/live%20oak/fl?search=198",
         "addr:housenumber": "911",
         "ref": "198",
         "addr:city": "Live Oak",
@@ -4825,10 +4181,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.001218, 30.282055]
-      }
+      "geometry": { "type": "Point", "coordinates": [-83.001218, 30.282055] }
     },
     {
       "type": "Feature",
@@ -4847,10 +4200,7 @@
         "phone": "+1 305-935-2969",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.142916, 25.964915]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.142916, 25.964915] }
     },
     {
       "type": "Feature",
@@ -4869,10 +4219,7 @@
         "shop": "supermarket",
         "addr:postcode": "36608"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.277434, 30.672442]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.277434, 30.672442] }
     },
     {
       "type": "Feature",
@@ -4885,16 +4232,13 @@
         "branch": "Palm Breeze Plaza",
         "phone": "+1 772-334-7270",
         "addr:street": "Northeast Jensen Beach Boulevard",
-        "website": "https://www.winndixie.com/storedetails/jensen beach/fl?search=308",
+        "website": "https://www.winndixie.com/storedetails/jensen%20beach/fl?search=308",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "ref": "308",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.237215, 27.24591]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.237215, 27.24591] }
     },
     {
       "type": "Feature",
@@ -4913,10 +4257,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.450725, 29.07833]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.450725, 29.07833] }
     },
     {
       "type": "Feature",
@@ -4927,7 +4268,7 @@
         "phone": "+1 305-221-3660",
         "website": "https://www.winndixie.com/storedetails/miami/fl?search=254",
         "addr:housenumber": "11241",
-        "addr:street": "SouthW. 40th Street",
+        "addr:street": "SouthW. 40th Streetreet",
         "ref": "254",
         "addr:city": "Miami",
         "brand:wikidata": "Q1264366",
@@ -4935,10 +4276,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.376413, 25.734548]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.376413, 25.734548] }
     },
     {
       "type": "Feature",
@@ -4957,10 +4295,7 @@
         "shop": "supermarket",
         "addr:street": "East Main Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.455338, 32.462147]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.455338, 32.462147] }
     },
     {
       "type": "Feature",
@@ -4968,7 +4303,7 @@
         "brand": "Winn-Dixie",
         "branch": "Canoe Creek Plaza",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/saint cloud/fl?search=2207",
+        "website": "https://www.winndixie.com/storedetails/saint%20cloud/fl?search=2207",
         "addr:city": "Saint Cloud",
         "phone": "+1 407-891-0634",
         "ref": "2207",
@@ -4979,10 +4314,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.294481, 28.199379]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.294481, 28.199379] }
     },
     {
       "type": "Feature",
@@ -5000,17 +4332,14 @@
         "addr:postcode": "70461",
         "website": "https://www.winndixie.com/storedetails/slidell/la?search=1502"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.720584, 30.289593]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.720584, 30.289593] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/port charlotte/fl?search=736",
+        "website": "https://www.winndixie.com/storedetails/port%20charlotte/fl?search=736",
         "addr:postcode": "33952",
         "addr:city": "Port Charlotte",
         "brand:wikidata": "Q1264366",
@@ -5022,10 +4351,7 @@
         "addr:street": "Tamiami Trail",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.097953, 26.98383]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.097953, 26.98383] }
     },
     {
       "type": "Feature",
@@ -5045,17 +4371,14 @@
         "ref": "2556",
         "addr:housenumber": "11700"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.633956, 30.160042]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.633956, 30.160042] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/palm bay/fl?search=2230",
+        "website": "https://www.winndixie.com/storedetails/palm%20bay/fl?search=2230",
         "addr:housenumber": "190",
         "branch": "Palm Bay West",
         "ref": "2230",
@@ -5067,10 +4390,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.675372, 27.997573]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.675372, 27.997573] }
     },
     {
       "type": "Feature",
@@ -5088,10 +4408,7 @@
         "ref": "171",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.458309, 29.385639]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.458309, 29.385639] }
     },
     {
       "type": "Feature",
@@ -5110,10 +4427,7 @@
         "phone": "+1 205-366-0355",
         "addr:street": "Highway 69 South"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.55309, 33.11786]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.55309, 33.11786] }
     },
     {
       "type": "Feature",
@@ -5132,10 +4446,7 @@
         "addr:street": "Paris Road",
         "addr:postcode": "70043"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.962644, 29.950093]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.962644, 29.950093] }
     },
     {
       "type": "Feature",
@@ -5154,10 +4465,7 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.919183, 33.335458]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.919183, 33.335458] }
     },
     {
       "type": "Feature",
@@ -5175,10 +4483,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.050784, 29.056885]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.050784, 29.056885] }
     },
     {
       "type": "Feature",
@@ -5197,10 +4502,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.362276, 29.986011]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.362276, 29.986011] }
     },
     {
       "type": "Feature",
@@ -5219,10 +4521,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.18863, 26.184512]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.18863, 26.184512] }
     },
     {
       "type": "Feature",
@@ -5241,10 +4540,7 @@
         "website": "https://www.winndixie.com/storedetails/yulee/fl?search=180",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.544405, 30.623985]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.544405, 30.623985] }
     },
     {
       "type": "Feature",
@@ -5262,10 +4558,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.520701, 30.728019]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.520701, 30.728019] }
     },
     {
       "type": "Feature",
@@ -5284,10 +4577,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.344796, 28.523412]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.344796, 28.523412] }
     },
     {
       "type": "Feature",
@@ -5304,12 +4594,9 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/lake wales/fl?search=701"
+        "website": "https://www.winndixie.com/storedetails/lake%20wales/fl?search=701"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.558262, 27.891987]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.558262, 27.891987] }
     },
     {
       "type": "Feature",
@@ -5319,7 +4606,7 @@
         "addr:housenumber": "109",
         "branch": "Long Beach Village",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/long beach/ms?search=1479",
+        "website": "https://www.winndixie.com/storedetails/long%20beach/ms?search=1479",
         "addr:street": "North Cleveland Avenue",
         "shop": "supermarket",
         "addr:city": "Long Beach",
@@ -5328,10 +4615,7 @@
         "addr:state": "MS",
         "phone": "+1 228-863-8680"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.148572, 30.353604]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.148572, 30.353604] }
     },
     {
       "type": "Feature",
@@ -5339,7 +4623,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:postcode": "32968",
-        "addr:street": "9th Street Southwest",
+        "addr:street": "9th Streetreet Southwest",
         "ref": "2366",
         "addr:city": "Vero Beach",
         "addr:housenumber": "2950",
@@ -5347,12 +4631,9 @@
         "phone": "+1 772-562-4303",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/vero beach/fl?search=2366"
+        "website": "https://www.winndixie.com/storedetails/vero%20beach/fl?search=2366"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.416719, 27.58849]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.416719, 27.58849] }
     },
     {
       "type": "Feature",
@@ -5370,10 +4651,7 @@
         "addr:city": "Valrico",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.242873, 27.93666]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.242873, 27.93666] }
     },
     {
       "type": "Feature",
@@ -5390,10 +4668,7 @@
         "addr:state": "FL",
         "phone": "+1 904-823-2122"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.513773, 30.061273]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.513773, 30.061273] }
     },
     {
       "type": "Feature",
@@ -5406,15 +4681,12 @@
         "addr:housenumber": "6851",
         "brand:wikidata": "Q1264366",
         "ref": "2411",
-        "website": "https://www.winndixie.com/storedetails/south pasadena/fl?search=2411",
+        "website": "https://www.winndixie.com/storedetails/south%20pasadena/fl?search=2411",
         "shop": "supermarket",
         "addr:postcode": "33707",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.73375, 27.759366]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.73375, 27.759366] }
     },
     {
       "type": "Feature",
@@ -5433,10 +4705,7 @@
         "addr:street": "State Route 200",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.825358, 30.567372]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.825358, 30.567372] }
     },
     {
       "type": "Feature",
@@ -5455,10 +4724,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.567952, 28.521073]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.567952, 28.521073] }
     },
     {
       "type": "Feature",
@@ -5469,7 +4735,7 @@
         "addr:street": "Beracasa Way",
         "ref": "355",
         "addr:postcode": "33433",
-        "website": "https://www.winndixie.com/storedetails/boca raton/fl?search=355",
+        "website": "https://www.winndixie.com/storedetails/boca%20raton/fl?search=355",
         "phone": "+1 561-368-5442",
         "addr:housenumber": "7024",
         "brand:wikidata": "Q1264366",
@@ -5477,10 +4743,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.155451, 26.352909]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.155451, 26.352909] }
     },
     {
       "type": "Feature",
@@ -5499,10 +4762,7 @@
         "shop": "supermarket",
         "addr:city": "Wetumpka"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.209806, 32.518063]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.209806, 32.518063] }
     },
     {
       "type": "Feature",
@@ -5510,7 +4770,7 @@
         "brand": "Winn-Dixie",
         "addr:housenumber": "4855",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/saint cloud/fl?search=2238",
+        "website": "https://www.winndixie.com/storedetails/saint%20cloud/fl?search=2238",
         "phone": "+1 407-892-3755",
         "addr:city": "Saint Cloud",
         "addr:street": "Irlo Bronson Memorial Highway",
@@ -5521,10 +4781,7 @@
         "ref": "2238",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.245259, 28.247719]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.245259, 28.247719] }
     },
     {
       "type": "Feature",
@@ -5536,22 +4793,19 @@
         "addr:city": "Key West",
         "addr:housenumber": "2778",
         "phone": "+1 305-294-0491",
-        "website": "https://www.winndixie.com/storedetails/key west/fl?search=317",
+        "website": "https://www.winndixie.com/storedetails/key%20west/fl?search=317",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
         "addr:street": "North Roosevelt Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.770953, 24.56456]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.770953, 24.56456] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/wesley chapel/fl?search=2503",
+        "website": "https://www.winndixie.com/storedetails/wesley%20chapel/fl?search=2503",
         "name": "Winn-Dixie",
         "addr:city": "Wesley Chapel",
         "addr:housenumber": "27301",
@@ -5563,10 +4817,7 @@
         "phone": "+1 813-994-5570",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.36476, 28.239837]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.36476, 28.239837] }
     },
     {
       "type": "Feature",
@@ -5584,10 +4835,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.239977, 29.994878]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.239977, 29.994878] }
     },
     {
       "type": "Feature",
@@ -5605,10 +4853,7 @@
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=176",
         "addr:housenumber": "8560"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.796296, 30.19401]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.796296, 30.19401] }
     },
     {
       "type": "Feature",
@@ -5626,10 +4871,7 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.065963, 32.39845]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.065963, 32.39845] }
     },
     {
       "type": "Feature",
@@ -5647,10 +4889,7 @@
         "addr:state": "FL",
         "addr:housenumber": "5805"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.619718, 27.494649]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.619718, 27.494649] }
     },
     {
       "type": "Feature",
@@ -5669,10 +4908,7 @@
         "branch": "Shotwell Street Plaza",
         "addr:postcode": "39819"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.564404, 30.90512]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.564404, 30.90512] }
     },
     {
       "type": "Feature",
@@ -5691,10 +4927,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.632209, 30.461027]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.632209, 30.461027] }
     },
     {
       "type": "Feature",
@@ -5703,20 +4936,18 @@
         "name": "Winn-Dixie",
         "ref": "2354",
         "addr:city": "Sebastian",
-        "addr:street": "Sebastian Boulevard STE B",
+        "addr:street": "Sebastian Boulevard",
         "phone": "+1 772-388-4866",
         "brand:wikidata": "Q1264366",
         "addr:housenumber": "995",
         "website": "https://www.winndixie.com/storedetails/sebastian/fl?search=2354",
-        "branch": "Sebastian Lake Shopping Cntr",
+        "branch": "Sebastian Lake Shopping Center",
         "shop": "supermarket",
         "addr:postcode": "32958",
-        "addr:state": "FL"
+        "addr:state": "FL",
+        "addr:unit": "B"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.495341, 27.779309]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.495341, 27.779309] }
     },
     {
       "type": "Feature",
@@ -5726,19 +4957,16 @@
         "name": "Winn-Dixie",
         "addr:postcode": "33160",
         "ref": "378",
-        "website": "https://www.winndixie.com/storedetails/n miami beach/fl?search=378",
+        "website": "https://www.winndixie.com/storedetails/n%20miami%20beach/fl?search=378",
         "phone": "+1 305-949-8298",
         "addr:city": "North Miami Beach",
         "brand:wikidata": "Q1264366",
-        "addr:street": "Northeast 163rd Street",
+        "addr:street": "Northeast 163rd Streetreet",
         "shop": "supermarket",
         "addr:housenumber": "3805",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.133684, 25.931471]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.133684, 25.931471] }
     },
     {
       "type": "Feature",
@@ -5756,10 +4984,7 @@
         "addr:street": "Southeast State Road 21",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.056208, 29.763077]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.056208, 29.763077] }
     },
     {
       "type": "Feature",
@@ -5777,17 +5002,14 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.211565, 25.875889]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.211565, 25.875889] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/port charlotte/fl?search=737",
+        "website": "https://www.winndixie.com/storedetails/port%20charlotte/fl?search=737",
         "phone": "+1 941-629-2662",
         "branch": "Kings Crossing Shopping Center",
         "addr:street": "Kings Highway",
@@ -5799,10 +5021,7 @@
         "ref": "737",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.052824, 27.004088]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.052824, 27.004088] }
     },
     {
       "type": "Feature",
@@ -5821,10 +5040,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.471428, 30.320572]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.471428, 30.320572] }
     },
     {
       "type": "Feature",
@@ -5838,22 +5054,19 @@
         "ref": "728",
         "shop": "supermarket",
         "addr:postcode": "33905",
-        "website": "https://www.winndixie.com/storedetails/fort myers/fl?search=728",
+        "website": "https://www.winndixie.com/storedetails/fort%20myers/fl?search=728",
         "addr:state": "FL",
         "addr:street": "Palm Beach Boulevard",
         "branch": "East Gate Square"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.719195, 26.71154]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.719195, 26.71154] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/haines city/fl?search=705",
+        "website": "https://www.winndixie.com/storedetails/haines%20city/fl?search=705",
         "addr:housenumber": "36019",
         "addr:postcode": "33844",
         "phone": "+1 863-421-6535",
@@ -5864,10 +5077,7 @@
         "addr:street": "US Highway 27 North",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.637325, 28.123737]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.637325, 28.123737] }
     },
     {
       "type": "Feature",
@@ -5883,12 +5093,9 @@
         "addr:housenumber": "9101",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/new port richey/fl?search=2459"
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=2459"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.67727, 28.289509]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.67727, 28.289509] }
     },
     {
       "type": "Feature",
@@ -5907,10 +5114,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.578668, 28.807036]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.578668, 28.807036] }
     },
     {
       "type": "Feature",
@@ -5926,13 +5130,10 @@
         "shop": "supermarket",
         "phone": "+1 727-847-1044",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/new port richey/fl?search=655",
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=655",
         "branch": "Elfers Square"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.713911, 28.218452]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.713911, 28.218452] }
     },
     {
       "type": "Feature",
@@ -5951,10 +5152,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.537124, 28.688355]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.537124, 28.688355] }
     },
     {
       "type": "Feature",
@@ -5973,10 +5171,7 @@
         "addr:housenumber": "92100",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.524112, 25.004362]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.524112, 25.004362] }
     },
     {
       "type": "Feature",
@@ -5989,16 +5184,13 @@
         "branch": "Charleston Square",
         "ref": "397",
         "addr:city": "Lake Worth",
-        "website": "https://www.winndixie.com/storedetails/lake worth/fl?search=397",
+        "website": "https://www.winndixie.com/storedetails/lake%20worth/fl?search=397",
         "brand:wikidata": "Q1264366",
         "phone": "+1 561-966-2177",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.14806, 26.571464]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.14806, 26.571464] }
     },
     {
       "type": "Feature",
@@ -6017,10 +5209,7 @@
         "shop": "supermarket",
         "addr:street": "Westgate Parkway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.432201, 31.259258]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.432201, 31.259258] }
     },
     {
       "type": "Feature",
@@ -6039,10 +5228,7 @@
         "addr:state": "FL",
         "phone": "+1 305-234-0265"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.414972, 25.597582]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.414972, 25.597582] }
     },
     {
       "type": "Feature",
@@ -6060,10 +5246,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.200766, 27.861035]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.200766, 27.861035] }
     },
     {
       "type": "Feature",
@@ -6073,7 +5256,7 @@
         "addr:street": "West Palm Coast Parkway",
         "branch": "Palm Coast Corners Shopping Center",
         "phone": "+1 386-446-4774",
-        "website": "https://www.winndixie.com/storedetails/palm coast/fl?search=2247",
+        "website": "https://www.winndixie.com/storedetails/palm%20coast/fl?search=2247",
         "addr:postcode": "32137",
         "addr:housenumber": "1260",
         "addr:city": "Palm Coast",
@@ -6082,10 +5265,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.229397, 29.550463]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.229397, 29.550463] }
     },
     {
       "type": "Feature",
@@ -6104,10 +5284,7 @@
         "shop": "supermarket",
         "branch": "Foley Commons"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.681462, 30.393225]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.681462, 30.393225] }
     },
     {
       "type": "Feature",
@@ -6126,10 +5303,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.735508, 30.310272]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.735508, 30.310272] }
     },
     {
       "type": "Feature",
@@ -6138,7 +5312,7 @@
         "name": "Winn-Dixie",
         "addr:city": "Miramar Beach",
         "ref": "510",
-        "website": "https://www.winndixie.com/storedetails/miramar beach/fl?search=510",
+        "website": "https://www.winndixie.com/storedetails/miramar%20beach/fl?search=510",
         "addr:street": "Poinciana Boulevard",
         "phone": "+1 850-650-2139",
         "addr:postcode": "32550",
@@ -6147,10 +5321,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.352264, 30.377228]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.352264, 30.377228] }
     },
     {
       "type": "Feature",
@@ -6162,17 +5333,14 @@
         "phone": "+1 407-547-3444",
         "branch": "Griffin Farm Shopping Plaza",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/lake mary/fl?search=2566",
+        "website": "https://www.winndixie.com/storedetails/lake%20mary/fl?search=2566",
         "ref": "2566",
         "shop": "supermarket",
         "addr:city": "Lake Mary",
         "addr:housenumber": "211",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.335042, 28.755803]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.335042, 28.755803] }
     },
     {
       "type": "Feature",
@@ -6191,10 +5359,7 @@
         "shop": "supermarket",
         "addr:postcode": "36609"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.18894, 30.662424]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.18894, 30.662424] }
     },
     {
       "type": "Feature",
@@ -6203,7 +5368,7 @@
         "name": "Winn-Dixie",
         "phone": "+1 407-339-1593",
         "ref": "2266",
-        "website": "https://www.winndixie.com/storedetails/fern park/fl?search=2266",
+        "website": "https://www.winndixie.com/storedetails/fern%20park/fl?search=2266",
         "addr:housenumber": "7800",
         "addr:city": "Fern Park",
         "addr:postcode": "32730",
@@ -6213,10 +5378,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.350241, 28.652899]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.350241, 28.652899] }
     },
     {
       "type": "Feature",
@@ -6235,10 +5397,7 @@
         "addr:state": "LA",
         "addr:street": "Highway 90"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.343185, 29.912722]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.343185, 29.912722] }
     },
     {
       "type": "Feature",
@@ -6257,10 +5416,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.054208, 30.631897]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.054208, 30.631897] }
     },
     {
       "type": "Feature",
@@ -6279,10 +5435,7 @@
         "addr:street": "North Ferdon Boulevard",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.559287, 30.793792]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.559287, 30.793792] }
     },
     {
       "type": "Feature",
@@ -6292,7 +5445,7 @@
         "ref": "658",
         "addr:street": "Municipal Drive",
         "addr:city": "Madeira Beach",
-        "website": "https://www.winndixie.com/storedetails/madeira beach/fl?search=658",
+        "website": "https://www.winndixie.com/storedetails/madeira%20beach/fl?search=658",
         "phone": "+1 727-392-1003",
         "addr:housenumber": "15200",
         "brand:wikidata": "Q1264366",
@@ -6301,10 +5454,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.802781, 27.803473]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.802781, 27.803473] }
     },
     {
       "type": "Feature",
@@ -6344,10 +5494,7 @@
         "addr:state": "FL",
         "addr:postcode": "33618"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.504065, 28.094918]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.504065, 28.094918] }
     },
     {
       "type": "Feature",
@@ -6366,10 +5513,7 @@
         "shop": "supermarket",
         "addr:postcode": "36608"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.223842, 30.706029]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.223842, 30.706029] }
     },
     {
       "type": "Feature",
@@ -6377,7 +5521,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:city": "Palm Harbor",
-        "website": "https://www.winndixie.com/storedetails/palm harbor/fl?search=2425",
+        "website": "https://www.winndixie.com/storedetails/palm%20harbor/fl?search=2425",
         "addr:street": "Tampa Street",
         "addr:housenumber": "1360",
         "brand:wikidata": "Q1264366",
@@ -6387,10 +5531,7 @@
         "ref": "2425",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.76275, 28.067005]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.76275, 28.067005] }
     },
     {
       "type": "Feature",
@@ -6409,10 +5550,7 @@
         "addr:state": "FL",
         "phone": "+1 352-799-2220"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.404273, 28.542751]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.404273, 28.542751] }
     },
     {
       "type": "Feature",
@@ -6423,17 +5561,14 @@
         "addr:postcode": "70816",
         "addr:street": "Coursey Boulevard",
         "addr:housenumber": "13002",
-        "website": "https://www.winndixie.com/storedetails/baton rouge/la?search=1577",
+        "website": "https://www.winndixie.com/storedetails/baton%20rouge/la?search=1577",
         "brand:wikidata": "Q1264366",
         "ref": "1577",
         "shop": "supermarket",
         "addr:state": "LA",
         "phone": "+1 225-756-7102"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-91.03473, 30.408223]
-      }
+      "geometry": { "type": "Point", "coordinates": [-91.03473, 30.408223] }
     },
     {
       "type": "Feature",
@@ -6452,10 +5587,7 @@
         "addr:street": "Highway 39 North",
         "addr:state": "MS"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.67694, 32.412424]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.67694, 32.412424] }
     },
     {
       "type": "Feature",
@@ -6470,14 +5602,11 @@
         "brand:wikidata": "Q1264366",
         "addr:street": "Eglin Parkway Northwest",
         "addr:housenumber": "99",
-        "website": "https://www.winndixie.com/storedetails/fort walton beach/fl?search=566",
+        "website": "https://www.winndixie.com/storedetails/fort%20walton%20beach/fl?search=566",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.608223, 30.4192]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.608223, 30.4192] }
     },
     {
       "type": "Feature",
@@ -6495,17 +5624,13 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.328469, 27.880487]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.328469, 27.880487] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "addr:full": "6060-10 FT CAROLINE ROAD",
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=51",
         "addr:city": "Jacksonville",
         "branch": "Fort Caroline Trading Post",
@@ -6514,12 +5639,11 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "ref": "51",
-        "addr:state": "FL"
+        "addr:state": "FL",
+        "addr:housenumber": "6060-10",
+        "addr:street": "Fort Caroline Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.596518, 30.365103]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.596518, 30.365103] }
     },
     {
       "type": "Feature",
@@ -6538,10 +5662,7 @@
         "addr:city": "Quincy",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.597621, 30.586995]
-      }
+      "geometry": { "type": "Point", "coordinates": [-84.597621, 30.586995] }
     },
     {
       "type": "Feature",
@@ -6560,10 +5681,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.189315, 30.498084]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.189315, 30.498084] }
     },
     {
       "type": "Feature",
@@ -6583,10 +5701,7 @@
         "website": "https://www.winndixie.com/storedetails/theodore/al?search=580",
         "addr:housenumber": "5827"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.169954, 30.553891]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.169954, 30.553891] }
     },
     {
       "type": "Feature",
@@ -6601,13 +5716,12 @@
         "brand:wikidata": "Q1264366",
         "phone": "+1 904-519-9952",
         "shop": "supermarket",
-        "addr:full": "10915-122 Baymeadows Road Unit 12",
-        "addr:state": "FL"
+        "addr:state": "FL",
+        "addr:housenumber": "10915-122",
+        "addr:street": "Baymeadows Road",
+        "addr:unit": "12"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.518395, 30.21746]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.518395, 30.21746] }
     },
     {
       "type": "Feature",
@@ -6616,7 +5730,7 @@
         "name": "Winn-Dixie",
         "addr:city": "River Ridge",
         "phone": "+1 504-738-2682",
-        "website": "https://www.winndixie.com/storedetails/river ridge/la?search=1404",
+        "website": "https://www.winndixie.com/storedetails/river%20ridge/la?search=1404",
         "addr:housenumber": "8601",
         "ref": "1404",
         "addr:postcode": "70123",
@@ -6625,10 +5739,7 @@
         "addr:state": "LA",
         "addr:street": "Jefferson Highway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.211927, 29.943322]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.211927, 29.943322] }
     },
     {
       "type": "Feature",
@@ -6646,10 +5757,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.901819, 30.673089]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.901819, 30.673089] }
     },
     {
       "type": "Feature",
@@ -6668,10 +5776,7 @@
         "addr:state": "FL",
         "website": "https://www.winndixie.com/storedetails/navarre/fl?search=501"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.860016, 30.40295]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.860016, 30.40295] }
     },
     {
       "type": "Feature",
@@ -6690,10 +5795,7 @@
         "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=153",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.779925, 30.294602]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.779925, 30.294602] }
     },
     {
       "type": "Feature",
@@ -6712,10 +5814,7 @@
         "website": "https://www.winndixie.com/storedetails/lakeland/fl?search=631",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.922432, 28.00967]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.922432, 28.00967] }
     },
     {
       "type": "Feature",
@@ -6734,10 +5833,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.692601, 28.3624]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.692601, 28.3624] }
     },
     {
       "type": "Feature",
@@ -6747,7 +5843,7 @@
         "addr:street": "Little Cypress Drive",
         "branch": "Grand Cypress",
         "addr:postcode": "32259",
-        "website": "https://www.winndixie.com/storedetails/saint johns/fl?search=121",
+        "website": "https://www.winndixie.com/storedetails/saint%20johns/fl?search=121",
         "ref": "121",
         "phone": "+1 904-895-7261",
         "brand:wikidata": "Q1264366",
@@ -6756,10 +5852,7 @@
         "addr:state": "FL",
         "addr:housenumber": "100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.479442, 30.103725]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.479442, 30.103725] }
     },
     {
       "type": "Feature",
@@ -6777,10 +5870,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.690466, 26.245893]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.690466, 26.245893] }
     },
     {
       "type": "Feature",
@@ -6789,7 +5879,7 @@
         "name": "Winn-Dixie",
         "addr:housenumber": "1545",
         "ref": "103",
-        "website": "https://www.winndixie.com/storedetails/fleming island/fl?search=103",
+        "website": "https://www.winndixie.com/storedetails/fleming%20island/fl?search=103",
         "addr:city": "Fleming Island",
         "branch": "Eagle Harbor",
         "addr:postcode": "32003",
@@ -6799,10 +5889,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.710902, 30.100091]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.710902, 30.100091] }
     },
     {
       "type": "Feature",
@@ -6821,17 +5908,14 @@
         "addr:street": "Montevallo Road",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.728555, 33.520192]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.728555, 33.520192] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "ref": "1472",
-        "website": "https://www.winndixie.com/storedetails/new orleans/la?search=1472",
+        "website": "https://www.winndixie.com/storedetails/new%20orleans/la?search=1472",
         "addr:street": "North Carrollton",
         "name": "Winn-Dixie",
         "addr:postcode": "70119",
@@ -6842,10 +5926,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.099344, 29.978256]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.099344, 29.978256] }
     },
     {
       "type": "Feature",
@@ -6864,10 +5945,7 @@
         "shop": "supermarket",
         "addr:street": "Baldwin Square"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.884773, 30.520681]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.884773, 30.520681] }
     },
     {
       "type": "Feature",
@@ -6885,10 +5963,7 @@
         "addr:state": "FL",
         "addr:street": "53rd Avenue East"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.554212, 27.446405]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.554212, 27.446405] }
     },
     {
       "type": "Feature",
@@ -6907,10 +5982,7 @@
         "addr:postcode": "32063",
         "addr:street": "South R 121st South"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.124269, 30.264619]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.124269, 30.264619] }
     },
     {
       "type": "Feature",
@@ -6928,10 +6000,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.032875, 29.887985]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.032875, 29.887985] }
     },
     {
       "type": "Feature",
@@ -6950,10 +6019,7 @@
         "phone": "+1 941-795-4638",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.635677, 27.463709]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.635677, 27.463709] }
     },
     {
       "type": "Feature",
@@ -6972,10 +6038,7 @@
         "addr:postcode": "33607",
         "addr:unit": "101"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.485652, 27.975688]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.485652, 27.975688] }
     },
     {
       "type": "Feature",
@@ -6986,7 +6049,7 @@
         "name": "Winn-Dixie",
         "addr:street": "Rainbow Drive",
         "addr:state": "AL",
-        "website": "https://www.winndixie.com/storedetails/rainbow city/al?search=442",
+        "website": "https://www.winndixie.com/storedetails/rainbow%20city/al?search=442",
         "ref": "442",
         "branch": "Rainbow Marketplace",
         "addr:housenumber": "3331",
@@ -6994,10 +6057,7 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.036897, 33.960236]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.036897, 33.960236] }
     },
     {
       "type": "Feature",
@@ -7005,7 +6065,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "branch": "Haydel Realty Shopping Center",
-        "website": "https://www.winndixie.com/storedetails/new orleans/la?search=1439",
+        "website": "https://www.winndixie.com/storedetails/new%20orleans/la?search=1439",
         "addr:postcode": "70127",
         "phone": "+1 504-244-0701",
         "addr:housenumber": "9701",
@@ -7016,10 +6076,7 @@
         "addr:state": "LA",
         "addr:street": "Chef Menteur Highway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.97215, 30.018926]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.97215, 30.018926] }
     },
     {
       "type": "Feature",
@@ -7027,7 +6084,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:postcode": "34429",
-        "website": "https://www.winndixie.com/storedetails/crystal river/fl?search=2421",
+        "website": "https://www.winndixie.com/storedetails/crystal%20river/fl?search=2421",
         "ref": "2421",
         "addr:city": "Crystal River",
         "addr:housenumber": "1651",
@@ -7037,10 +6094,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.580812, 28.883342]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.580812, 28.883342] }
     },
     {
       "type": "Feature",
@@ -7053,7 +6107,7 @@
         "addr:postcode": "33149",
         "branch": "Key Biscayne Shopping Center",
         "addr:city": "Key Biscayne",
-        "website": "https://www.winndixie.com/storedetails/key biscayne/fl?search=373",
+        "website": "https://www.winndixie.com/storedetails/key%20biscayne/fl?search=373",
         "ref": "373",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
@@ -7081,10 +6135,7 @@
         "addr:housenumber": "980",
         "branch": "California Club Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.185383, 25.961839]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.185383, 25.961839] }
     },
     {
       "type": "Feature",
@@ -7094,7 +6145,7 @@
         "branch": "Central Shopping Center",
         "ref": "369",
         "addr:postcode": "33126",
-        "addr:street": "Northwest 7th Street",
+        "addr:street": "Northwest 7th Streetreet",
         "addr:housenumber": "3807",
         "addr:city": "Miami",
         "phone": "+1 305-817-5525",
@@ -7103,10 +6154,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.258702, 25.780823]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.258702, 25.780823] }
     },
     {
       "type": "Feature",
@@ -7125,10 +6173,7 @@
         "addr:state": "FL",
         "addr:postcode": "32937"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.584383, 28.137751]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.584383, 28.137751] }
     },
     {
       "type": "Feature",
@@ -7146,10 +6191,7 @@
         "addr:housenumber": "500",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.69448, 33.417324]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.69448, 33.417324] }
     },
     {
       "type": "Feature",
@@ -7168,10 +6210,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.72343, 28.816901]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.72343, 28.816901] }
     },
     {
       "type": "Feature",
@@ -7190,10 +6229,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.665491, 30.37112]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.665491, 30.37112] }
     },
     {
       "type": "Feature",
@@ -7207,15 +6243,12 @@
         "addr:postcode": "33016",
         "ref": "262",
         "brand:wikidata": "Q1264366",
-        "website": "https://www.winndixie.com/storedetails/miami lakes/fl?search=262",
+        "website": "https://www.winndixie.com/storedetails/miami%20lakes/fl?search=262",
         "shop": "supermarket",
         "phone": "+1 305-558-9207",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.328383, 25.914987]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.328383, 25.914987] }
     },
     {
       "type": "Feature",
@@ -7228,16 +6261,13 @@
         "addr:postcode": "32266",
         "addr:street": "Atlantic Boulevard",
         "addr:city": "Neptune Beach",
-        "website": "https://www.winndixie.com/storedetails/neptune beach/fl?search=18",
+        "website": "https://www.winndixie.com/storedetails/neptune%20beach/fl?search=18",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
         "addr:housenumber": "1209"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.409607, 30.323023]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.409607, 30.323023] }
     },
     {
       "type": "Feature",
@@ -7248,17 +6278,14 @@
         "name": "Winn-Dixie",
         "ref": "2474",
         "addr:housenumber": "61",
-        "website": "https://www.winndixie.com/storedetails/lehigh acres/fl?search=2474",
+        "website": "https://www.winndixie.com/storedetails/lehigh%20acres/fl?search=2474",
         "phone": "+1 239-369-6200",
         "addr:street": "Bell Boulevard North",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.61244, 26.602552]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.61244, 26.602552] }
     },
     {
       "type": "Feature",
@@ -7277,10 +6304,7 @@
         "ref": "60",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.478891, 31.160022]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.478891, 31.160022] }
     },
     {
       "type": "Feature",
@@ -7288,7 +6312,7 @@
         "brand": "Winn-Dixie",
         "branch": "West-D Plaza",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/daytona beach shores/fl?search=2263",
+        "website": "https://www.winndixie.com/storedetails/daytona%20beach%20shores/fl?search=2263",
         "addr:postcode": "32118",
         "addr:city": "Daytona Beach Shores",
         "phone": "+1 386-253-7713",
@@ -7299,10 +6323,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.994015, 29.195949]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.994015, 29.195949] }
     },
     {
       "type": "Feature",
@@ -7321,10 +6342,7 @@
         "phone": "+1 251-471-3115",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.075305, 30.680424]
-      }
+      "geometry": { "type": "Point", "coordinates": [-88.075305, 30.680424] }
     },
     {
       "type": "Feature",
@@ -7342,10 +6360,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.685602, 28.874258]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.685602, 28.874258] }
     },
     {
       "type": "Feature",
@@ -7364,10 +6379,7 @@
         "addr:city": "Montgomery",
         "branch": "Country Club Shopping Center"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.284183, 32.357922]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.284183, 32.357922] }
     },
     {
       "type": "Feature",
@@ -7386,10 +6398,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.484852, 28.026791]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.484852, 28.026791] }
     },
     {
       "type": "Feature",
@@ -7407,10 +6416,7 @@
         "addr:state": "FL",
         "addr:housenumber": "17649"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.574098, 28.127309]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.574098, 28.127309] }
     },
     {
       "type": "Feature",
@@ -7429,17 +6435,14 @@
         "addr:state": "FL",
         "addr:street": "County Road No 1"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.764186, 28.021614]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.764186, 28.021614] }
     },
     {
       "type": "Feature",
       "properties": {
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/fort pierce/fl?search=2349",
+        "website": "https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2349",
         "addr:city": "Fort Pierce",
         "ref": "2349",
         "addr:postcode": "34951",
@@ -7451,10 +6454,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.396404, 27.52227]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.396404, 27.52227] }
     },
     {
       "type": "Feature",
@@ -7472,10 +6472,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.33267, 27.790255]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.33267, 27.790255] }
     },
     {
       "type": "Feature",
@@ -7488,17 +6485,14 @@
         "phone": "+1 850-892-0668",
         "addr:state": "FL",
         "brand": "Winn-Dixie",
-        "website": "https://www.winndixie.com/storedetails/defuniak springs/fl?search=577",
+        "website": "https://www.winndixie.com/storedetails/defuniak%20springs/fl?search=577",
         "addr:unit": "G",
         "addr:postcode": "32435",
         "ref": "577",
         "addr:street": "US Highway 331 South",
         "brand:wikidata": "Q1264366"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.124508, 30.707731]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.124508, 30.707731] }
     },
     {
       "type": "Feature",
@@ -7516,10 +6510,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.173159, 28.25325]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.173159, 28.25325] }
     },
     {
       "type": "Feature",
@@ -7538,10 +6529,7 @@
         "addr:state": "FL",
         "addr:postcode": "33470"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.305969, 26.754242]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.305969, 26.754242] }
     },
     {
       "type": "Feature",
@@ -7554,16 +6542,13 @@
         "addr:housenumber": "12120",
         "branch": "New Port Richey Market Place",
         "ref": "672",
-        "website": "https://www.winndixie.com/storedetails/new port richey/fl?search=672",
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=672",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "FL",
         "addr:street": "Moon Lake Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.601692, 28.332864]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.601692, 28.332864] }
     },
     {
       "type": "Feature",
@@ -7582,10 +6567,7 @@
         "addr:state": "FL",
         "addr:street": "South Highway 29"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.295777, 30.58074]
-      }
+      "geometry": { "type": "Point", "coordinates": [-87.295777, 30.58074] }
     },
     {
       "type": "Feature",
@@ -7604,10 +6586,7 @@
         "addr:street": "Monument Road",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.524509, 30.346202]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.524509, 30.346202] }
     },
     {
       "type": "Feature",
@@ -7625,10 +6604,7 @@
         "shop": "supermarket",
         "addr:state": "LA"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.137658, 30.453839]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.137658, 30.453839] }
     },
     {
       "type": "Feature",
@@ -7640,17 +6616,14 @@
         "ref": "358",
         "addr:housenumber": "251",
         "addr:street": "Key Deer Boulevard",
-        "website": "https://www.winndixie.com/storedetails/big pine key/fl?search=358",
+        "website": "https://www.winndixie.com/storedetails/big%20pine%20key/fl?search=358",
         "branch": "Big Pine Plaza",
         "brand:wikidata": "Q1264366",
         "addr:postcode": "33043",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.356936, 24.673238]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.356936, 24.673238] }
     },
     {
       "type": "Feature",
@@ -7669,10 +6642,7 @@
         "addr:state": "LA",
         "addr:postcode": "70791"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-91.150618, 30.650644]
-      }
+      "geometry": { "type": "Point", "coordinates": [-91.150618, 30.650644] }
     },
     {
       "type": "Feature",
@@ -7683,17 +6653,14 @@
         "addr:street": "Massachusetts Avenue",
         "addr:postcode": "34653",
         "addr:housenumber": "6400",
-        "website": "https://www.winndixie.com/storedetails/new port richey/fl?search=2429",
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=2429",
         "ref": "2429",
         "brand:wikidata": "Q1264366",
         "phone": "+1 727-841-7381",
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.708924, 28.257446]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.708924, 28.257446] }
     },
     {
       "type": "Feature",
@@ -7712,10 +6679,7 @@
         "addr:city": "Pinson",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.679583, 33.695429]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.679583, 33.695429] }
     },
     {
       "type": "Feature",
@@ -7732,12 +6696,9 @@
         "addr:street": "Overseas Highway",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/key largo/fl?search=352"
+        "website": "https://www.winndixie.com/storedetails/key%20largo/fl?search=352"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.384646, 25.160553]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.384646, 25.160553] }
     },
     {
       "type": "Feature",
@@ -7756,10 +6717,7 @@
         "website": "https://www.winndixie.com/storedetails/lakeland/fl?search=664",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.947973, 28.127516]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.947973, 28.127516] }
     },
     {
       "type": "Feature",
@@ -7769,7 +6727,7 @@
         "addr:street": "US Highway 1",
         "addr:city": "Port Saint John",
         "phone": "+1 321-636-3801",
-        "website": "https://www.winndixie.com/storedetails/port st john/fl?search=2329",
+        "website": "https://www.winndixie.com/storedetails/port%20st%20john/fl?search=2329",
         "addr:housenumber": "6257",
         "ref": "2329",
         "brand:wikidata": "Q1264366",
@@ -7778,10 +6736,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.768863, 28.471492]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.768863, 28.471492] }
     },
     {
       "type": "Feature",
@@ -7800,10 +6755,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.131748, 25.987033]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.131748, 25.987033] }
     },
     {
       "type": "Feature",
@@ -7822,10 +6774,7 @@
         "ref": "2326",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.820767, 28.586814]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.820767, 28.586814] }
     },
     {
       "type": "Feature",
@@ -7841,13 +6790,10 @@
         "addr:postcode": "34982",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/fort pierce/fl?search=2355",
+        "website": "https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2355",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.328552, 27.375021]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.328552, 27.375021] }
     },
     {
       "type": "Feature",
@@ -7866,10 +6812,7 @@
         "addr:state": "MS",
         "addr:street": "Hardy Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.354168, 31.322699]
-      }
+      "geometry": { "type": "Point", "coordinates": [-89.354168, 31.322699] }
     },
     {
       "type": "Feature",
@@ -7888,10 +6831,7 @@
         "shop": "supermarket",
         "addr:postcode": "35173"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.618128, 33.615242]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.618128, 33.615242] }
     },
     {
       "type": "Feature",
@@ -7903,7 +6843,7 @@
         "addr:housenumber": "340",
         "shop": "supermarket",
         "addr:state": "FL",
-        "website": "https://www.winndixie.com/storedetails/altamonte springs/fl?search=2388",
+        "website": "https://www.winndixie.com/storedetails/altamonte%20springs/fl?search=2388",
         "brand": "Winn-Dixie",
         "addr:postcode": "32714",
         "brand:wikidata": "Q1264366",
@@ -7911,10 +6851,7 @@
         "branch": "West Town Shopping Center",
         "addr:city": "Altamonte Springs"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.422545, 28.657652]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.422545, 28.657652] }
     },
     {
       "type": "Feature",
@@ -7929,14 +6866,11 @@
         "brand:wikidata": "Q1264366",
         "addr:postcode": "33709",
         "shop": "supermarket",
-        "website": "https://www.winndixie.com/storedetails/kenneth city/fl?search=684",
+        "website": "https://www.winndixie.com/storedetails/kenneth%20city/fl?search=684",
         "addr:state": "FL",
         "addr:street": "54th Avenue North"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.713081, 27.81969]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.713081, 27.81969] }
     },
     {
       "type": "Feature",
@@ -7955,10 +6889,7 @@
         "brand:wikidata": "Q1264366",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.147016, 31.877941]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.147016, 31.877941] }
     },
     {
       "type": "Feature",
@@ -7966,7 +6897,7 @@
         "brand": "Winn-Dixie",
         "name": "Winn-Dixie",
         "addr:postcode": "33956",
-        "website": "https://www.winndixie.com/storedetails/st james city/fl?search=726",
+        "website": "https://www.winndixie.com/storedetails/st%20james%20city/fl?search=726",
         "phone": "+1 239-283-4404",
         "addr:street": "Stringfellow Road",
         "addr:housenumber": "9864",
@@ -7977,10 +6908,7 @@
         "ref": "726",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.113412, 26.605311]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.113412, 26.605311] }
     },
     {
       "type": "Feature",
@@ -7999,10 +6927,7 @@
         "addr:housenumber": "981",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.477424, 30.390252]
-      }
+      "geometry": { "type": "Point", "coordinates": [-86.477424, 30.390252] }
     },
     {
       "type": "Feature",
@@ -8021,10 +6946,7 @@
         "website": "https://www.winndixie.com/storedetails/lutz/fl?search=611",
         "branch": "Sunset Plaza"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.461711, 28.140458]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.461711, 28.140458] }
     },
     {
       "type": "Feature",
@@ -8034,7 +6956,7 @@
         "addr:street": "Thomas Drive",
         "name": "Winn-Dixie",
         "phone": "+1 850-234-1200",
-        "website": "https://www.winndixie.com/storedetails/panama city/fl?search=552",
+        "website": "https://www.winndixie.com/storedetails/panama%20city/fl?search=552",
         "ref": "552",
         "brand:wikidata": "Q1264366",
         "branch": "Bay Point Marketplace",
@@ -8043,10 +6965,7 @@
         "addr:postcode": "32408",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.751212, 30.158311]
-      }
+      "geometry": { "type": "Point", "coordinates": [-85.751212, 30.158311] }
     },
     {
       "type": "Feature",
@@ -8064,10 +6983,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.270533, 26.933842]
-      }
+      "geometry": { "type": "Point", "coordinates": [-82.270533, 26.933842] }
     },
     {
       "type": "Feature",
@@ -8080,16 +6996,13 @@
         "phone": "+1 504-398-0313",
         "ref": "1426",
         "addr:city": "New Orleans",
-        "website": "https://www.winndixie.com/storedetails/new orleans/la?search=1426",
+        "website": "https://www.winndixie.com/storedetails/new%20orleans/la?search=1426",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
         "addr:state": "LA",
         "addr:postcode": "70131"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.011627, 29.923615]
-      }
+      "geometry": { "type": "Point", "coordinates": [-90.011627, 29.923615] }
     },
     {
       "type": "Feature",
@@ -8100,7 +7013,7 @@
         "ref": "214",
         "addr:postcode": "33127",
         "addr:housenumber": "1150",
-        "addr:street": "Northwest 54th Street",
+        "addr:street": "Northwest 54th Streetreet",
         "addr:city": "Miami",
         "phone": "+1 305-757-0696",
         "website": "https://www.winndixie.com/storedetails/miami/fl?search=214",
@@ -8108,10 +7021,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.21509, 25.823458]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.21509, 25.823458] }
     },
     {
       "type": "Feature",
@@ -8129,10 +7039,7 @@
         "shop": "supermarket",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.224633, 28.945003]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.224633, 28.945003] }
     },
     {
       "type": "Feature",
@@ -8150,10 +7057,7 @@
         "addr:housenumber": "1737",
         "addr:street": "East Oak Street"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.837918, 27.209968]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.837918, 27.209968] }
     },
     {
       "type": "Feature",
@@ -8162,9 +7066,9 @@
         "name": "Winn-Dixie",
         "addr:city": "New Smyrna Beach",
         "addr:street": "State Road 44",
-        "branch": "Coast Plaza Shopping Cntr",
+        "branch": "Coast Plaza Shopping Center",
         "phone": "+1 386-423-3111",
-        "website": "https://www.winndixie.com/storedetails/new smyrna beach/fl?search=2304",
+        "website": "https://www.winndixie.com/storedetails/new%20smyrna%20beach/fl?search=2304",
         "addr:postcode": "32168",
         "brand:wikidata": "Q1264366",
         "shop": "supermarket",
@@ -8172,10 +7076,7 @@
         "ref": "2304",
         "addr:state": "FL"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.944048, 29.01616]
-      }
+      "geometry": { "type": "Point", "coordinates": [-80.944048, 29.01616] }
     },
     {
       "type": "Feature",
@@ -8193,10 +7094,14 @@
         "addr:city": "Brunswick",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.587359, 31.141081]
-      }
+      "geometry": { "type": "Point", "coordinates": [-81.587359, 31.141081] }
     }
-  ]
+  ],
+  "dataset_attributes": {
+    "cleaning": {
+      "version": "0.1.3",
+      "datetime": "2024-02-07",
+      "status": "imported"
+    }
+  }
 }
