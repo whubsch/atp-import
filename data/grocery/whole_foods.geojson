@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Bethesda",
         "ref": "bethesda",
         "opening_hours": "Mo-Su 07:00-21:00",
@@ -25,7 +25,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 203-319-9544",
         "opening_hours": "Mo-Su 07:00-21:00",
         "shop": "supermarket",
@@ -45,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MI",
         "addr:street": "East Grand River Avenue",
         "addr:postcode": "48823",
@@ -65,7 +65,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Indianapolis",
         "ref": "marketsquare",
         "shop": "supermarket",
@@ -86,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "RI",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "university",
         "website": "https://www.wholefoodsmarket.com/stores/university",
         "addr:housenumber": "601",
@@ -105,7 +105,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "8190",
         "addr:city": "Dallas",
         "phone": "+1 214-342-4850",
@@ -128,7 +128,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "lakegrove",
         "addr:street": "New Moriches Road",
         "addr:housenumber": "120",
@@ -149,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "addr:housenumber": "925",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 604-678-0500",
         "addr:street": "Main Street",
         "branch": "West Vancouver",
@@ -169,7 +169,7 @@
       "type": "Feature",
       "properties": {
         "addr:housenumber": "40",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "andover",
         "addr:postcode": "01810",
         "shop": "supermarket",
@@ -190,7 +190,7 @@
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/dublin",
         "branch": "Columbus",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "phone": "+1 614-760-5556",
         "opening_hours": "Mo-Su 08:00-21:00",
@@ -206,7 +206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "shop": "supermarket",
         "addr:city": "Albany",
         "addr:street": "Central Avenue",
@@ -226,7 +226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/stpaul",
         "addr:street": "Selby Avenue",
         "addr:state": "MN",
@@ -246,7 +246,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "17th Street",
         "addr:housenumber": "501",
         "addr:city": "Fort Lauderdale",
@@ -266,7 +266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Tamarac",
         "addr:housenumber": "7400",
         "addr:street": "East Hampden Avenue",
@@ -286,7 +286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Yonge Street",
         "addr:city": "North York",
         "addr:postcode": "M2N5M5",
@@ -306,7 +306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "lagunabeach",
         "addr:state": "CA",
         "addr:city": "Laguna Beach",
@@ -327,7 +327,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "North Academy Boulevard",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/ppk",
         "addr:city": "Colorado Springs",
         "phone": "+1 719-531-9999",
@@ -346,7 +346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 860-523-7174",
         "branch": "Bishops Corner",
         "addr:housenumber": "340",
@@ -366,7 +366,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "devon",
         "addr:housenumber": "821",
         "shop": "supermarket",
@@ -386,7 +386,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "319",
         "addr:street": "Chimney Rock Road",
         "addr:state": "NJ",
@@ -406,7 +406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 718-290-1010",
         "addr:city": "Brooklyn",
         "branch": "Fort Greene",
@@ -427,7 +427,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 781-277-5200",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Pleasant Street",
         "branch": "South Weymouth",
         "shop": "supermarket",
@@ -446,7 +446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "website": "https://www.wholefoodsmarket.com/stores/sedona",
         "opening_hours": "Mo-Su 07:00-21:00",
@@ -467,7 +467,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Kildeer",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60047",
         "website": "https://www.wholefoodsmarket.com/stores/kildeer",
         "addr:state": "IL",
@@ -487,7 +487,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "West 75th Street",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60540",
         "phone": "+1 630-579-7700",
         "addr:state": "IL",
@@ -510,7 +510,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "South Canal Street",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "IL",
         "shop": "supermarket",
         "addr:postcode": "60607",
@@ -530,7 +530,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Boston",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Cambridge Street",
         "opening_hours": "Mo-Su 07:00-21:00",
         "shop": "supermarket",
@@ -549,7 +549,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "bend",
         "phone": "+1 541-389-0151",
         "addr:postcode": "97701",
@@ -569,7 +569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Highlands Ranch",
         "addr:city": "Highlands Ranch",
         "addr:housenumber": "9366",
@@ -589,7 +589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Bellingham",
         "website": "https://www.wholefoodsmarket.com/stores/bellinghamlakeway",
         "addr:housenumber": "1030",
@@ -609,7 +609,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Savannah Highway",
         "addr:city": "Charleston",
         "shop": "supermarket",
@@ -629,7 +629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Stonestown",
         "addr:street": "20th Avenue",
         "ref": "stonestown",
@@ -650,7 +650,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Greenway",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 971-371-7000",
         "ref": "greenway",
         "addr:state": "OR",
@@ -669,7 +669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Augustine Drive",
         "addr:state": "CA",
         "ref": "santaclara",
@@ -689,7 +689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "916",
         "branch": "Newton",
         "addr:city": "Newton",
@@ -709,7 +709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "addr:postcode": "85054",
         "addr:city": "Phoenix",
@@ -729,7 +729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Jersey City",
         "addr:state": "NJ",
         "ref": "jerseycity",
@@ -750,7 +750,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Oakland",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/oakland",
         "addr:state": "CA",
         "addr:postcode": "94612",
@@ -769,7 +769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Santa Fe (Cerrillos)",
         "addr:state": "NM",
         "phone": "+1 505-992-1700",
@@ -790,7 +790,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 310-752-1155",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "santamonicapico",
         "website": "https://www.wholefoodsmarket.com/stores/santamonicapico",
         "addr:postcode": "90404",
@@ -810,7 +810,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 973-587-1470",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "wayne",
         "addr:state": "NJ",
         "branch": "Wayne",
@@ -829,7 +829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Angeles",
         "ref": "westwood",
         "addr:state": "CA",
@@ -849,7 +849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "beverly",
         "addr:postcode": "01915",
         "shop": "supermarket",
@@ -869,7 +869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "website": "https://www.wholefoodsmarket.com/stores/mason",
         "shop": "supermarket",
@@ -892,7 +892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 941-316-4700",
         "addr:postcode": "34236",
         "branch": "Sarasota",
@@ -912,7 +912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 970-927-1500",
         "addr:housenumber": "340",
         "shop": "supermarket",
@@ -932,7 +932,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "91206",
         "addr:city": "Glendale",
         "branch": "Glendale",
@@ -953,7 +953,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "Diamond Boulevard",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Concord",
         "addr:state": "CA",
         "addr:housenumber": "2085",
@@ -973,7 +973,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 804-956-3750",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Richmond VA",
         "addr:street": "West Broad Street",
         "shop": "supermarket",
@@ -993,7 +993,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/vienna",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 703-319-2000",
         "branch": "Vienna",
         "addr:street": "Maple Avenue East",
@@ -1012,7 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "brookside",
         "addr:state": "OK",
         "branch": "Brookside",
@@ -1032,7 +1032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Milwaukee",
         "website": "https://www.wholefoodsmarket.com/stores/mlw",
         "branch": "Milwaukee",
@@ -1055,7 +1055,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 415-552-1155",
         "addr:postcode": "94107",
         "addr:state": "CA",
@@ -1075,7 +1075,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Turkey Lake Road",
         "branch": "Orlando",
         "addr:housenumber": "8003",
@@ -1099,7 +1099,7 @@
       "type": "Feature",
       "properties": {
         "ref": "fortcollins",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/fortcollins",
         "phone": "+1 970-267-9200",
         "addr:street": "South College Avenue",
@@ -1119,7 +1119,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 314-474-7300",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Central West End",
         "addr:postcode": "63108",
         "ref": "centralwestend",
@@ -1141,7 +1141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Seattle",
         "addr:postcode": "98116",
         "shop": "supermarket",
@@ -1161,7 +1161,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 212-673-5388",
         "addr:postcode": "10003",
         "addr:housenumber": "4",
@@ -1181,7 +1181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "fairview",
         "branch": "Fairview",
         "addr:street": "Stacy Road",
@@ -1206,7 +1206,7 @@
       "properties": {
         "addr:state": "NE",
         "addr:city": "Lincoln",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/lincoln",
         "branch": "Lincoln",
         "addr:housenumber": "6055",
@@ -1226,7 +1226,7 @@
       "properties": {
         "addr:city": "Princeton",
         "website": "https://www.wholefoodsmarket.com/stores/princeton",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "ref": "princeton",
         "addr:housenumber": "3495",
@@ -1245,7 +1245,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Boca Raton",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 561-447-0000",
         "ref": "bocaraton",
         "addr:postcode": "33431",
@@ -1267,7 +1267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 512-831-3981",
         "opening_hours": "Mo-Su 07:00-22:00",
         "branch": "Domain",
@@ -1287,7 +1287,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "West Burleigh Street",
         "ref": "wauwatosa",
         "website": "https://www.wholefoodsmarket.com/stores/wauwatosa",
@@ -1310,7 +1310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 732-515-6180",
         "addr:state": "NJ",
         "addr:housenumber": "645",
@@ -1330,7 +1330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Torrance",
         "addr:postcode": "90505",
         "phone": "+1 310-257-8700",
@@ -1351,7 +1351,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 808-379-1800",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/queen",
         "addr:postcode": "96814",
         "branch": "Queen",
@@ -1371,7 +1371,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/lajolla",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "phone": "+1 858-642-6700",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -1390,7 +1390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "branch": "Ponce de Leon",
         "ref": "poncedeleon",
@@ -1411,7 +1411,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 813-264-3600",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Tampa",
         "addr:street": "Northdale Boulevard",
         "shop": "supermarket",
@@ -1433,7 +1433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "beverlyhills",
         "addr:housenumber": "239",
         "addr:state": "CA",
@@ -1456,7 +1456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "TN",
         "phone": "+1 901-896-3245",
         "addr:postcode": "38138",
@@ -1479,7 +1479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "phone": "+1 408-419-1290",
         "branch": "Sunnyvale",
@@ -1500,7 +1500,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Boston",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "symphony",
         "phone": "+1 617-375-1010",
         "addr:street": "Westland Avenue",
@@ -1520,7 +1520,7 @@
       "type": "Feature",
       "properties": {
         "ref": "palmdesert",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Palm Desert",
         "name": "Whole Foods Market",
         "addr:postcode": "92260",
@@ -1538,7 +1538,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 808-738-0820",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Honolulu (Kahala Mall)",
         "addr:postcode": "96816",
         "addr:state": "HI",
@@ -1557,7 +1557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "opening_hours": "Mo-Su 07:00-22:00",
         "addr:postcode": "90245",
@@ -1581,7 +1581,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 310-315-0662",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "90403",
         "addr:state": "CA",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -1600,7 +1600,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Cross Hill Road",
         "branch": "Columbia",
         "addr:housenumber": "702",
@@ -1620,7 +1620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/boise",
         "addr:state": "ID",
         "addr:city": "Boise",
@@ -1644,7 +1644,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "Santa Monica Boulevard",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/westhollywood",
         "addr:state": "CA",
         "ref": "westhollywood",
@@ -1663,7 +1663,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/victoria",
         "addr:state": "BC",
         "shop": "supermarket",
@@ -1686,7 +1686,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "addr:city": "Closter",
         "branch": "Closter",
@@ -1710,7 +1710,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Towson Row",
         "addr:housenumber": "300",
         "addr:postcode": "21204",
@@ -1733,7 +1733,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "Colleyvile Boulevard",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Colleyville",
         "addr:state": "TX",
         "addr:postcode": "76034",
@@ -1752,7 +1752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60660",
         "ref": "chicagoedgewater",
         "branch": "Chicago Edgewater",
@@ -1774,7 +1774,7 @@
       "properties": {
         "addr:street": "Waugh Drive",
         "phone": "+1 713-284-1260",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "addr:housenumber": "701",
         "branch": "Montrose",
@@ -1792,7 +1792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Roswell Road",
         "addr:state": "GA",
         "website": "https://www.wholefoodsmarket.com/stores/sandysprings",
@@ -1812,7 +1812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/columbuscircle",
         "addr:street": "Columbus Circle",
         "addr:city": "New York",
@@ -1832,7 +1832,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Metcalf Avenue",
         "website": "https://www.wholefoodsmarket.com/stores/overlandpark",
         "ref": "overlandpark",
@@ -1852,7 +1852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "South Highland Drive",
         "addr:postcode": "84121",
         "website": "https://www.wholefoodsmarket.com/stores/highlanddrive",
@@ -1872,7 +1872,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 412-409-4550",
         "ref": "southhills",
         "addr:postcode": "15241",
@@ -1895,7 +1895,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/bouldertablemesa",
         "addr:city": "Boulder",
         "phone": "+1 303-376-6980",
@@ -1915,7 +1915,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Westport",
         "addr:housenumber": "399",
         "branch": "Westport",
@@ -1936,7 +1936,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Little Rock",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/bowman",
         "branch": "Bowman",
         "phone": "+1 501-312-2326",
@@ -1955,7 +1955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "90403",
         "website": "https://www.wholefoodsmarket.com/stores/montanaave",
         "addr:street": "Montana Avenue",
@@ -1976,7 +1976,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Savannah",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "East Victory Drive",
         "addr:state": "GA",
         "branch": "Savannah",
@@ -1995,7 +1995,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "blithedale",
         "website": "https://www.wholefoodsmarket.com/stores/blithedale",
         "addr:state": "CA",
@@ -2015,7 +2015,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "90",
         "website": "https://www.wholefoodsmarket.com/stores/greenwich",
         "opening_hours": "Mo-Su 07:00-21:00",
@@ -2035,7 +2035,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Winter Park North",
         "ref": "winterparknorth",
         "addr:city": "Winter Park",
@@ -2057,7 +2057,7 @@
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/wellington",
         "opening_hours": "Mo-Su 08:00-22:00",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 561-904-4000",
         "name": "Whole Foods Market",
         "addr:postcode": "33414",
@@ -2073,7 +2073,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Vineyard",
         "addr:city": "San Antonio",
         "addr:state": "TX",
@@ -2093,7 +2093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "ON",
         "shop": "supermarket",
         "addr:street": "Highway 7",
@@ -2113,7 +2113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Somerset Street",
         "addr:state": "ME",
         "addr:city": "Portland",
@@ -2134,7 +2134,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/beecave",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Hill Country Boulevard",
         "addr:state": "TX",
         "shop": "supermarket",
@@ -2154,7 +2154,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "North Federal Highway",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Fort Lauderdale",
         "branch": "Fort Lauderdale",
         "addr:housenumber": "2000",
@@ -2173,7 +2173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Arlington",
         "addr:housenumber": "520",
         "ref": "pentagoncity",
@@ -2194,7 +2194,7 @@
       "type": "Feature",
       "properties": {
         "addr:housenumber": "23401",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/malibu",
         "addr:city": "Malibu",
         "branch": "Malibu",
@@ -2214,7 +2214,7 @@
       "type": "Feature",
       "properties": {
         "ref": "tenaya",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NV",
         "addr:postcode": "89128",
         "branch": "Tenaya",
@@ -2231,7 +2231,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "lakewood",
         "addr:city": "Dallas",
         "addr:state": "TX",
@@ -2251,7 +2251,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "website": "https://www.wholefoodsmarket.com/stores/merchantswalk",
         "addr:city": "Marietta",
@@ -2275,7 +2275,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "RI",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "02906",
         "addr:city": "Providence",
         "shop": "supermarket",
@@ -2295,7 +2295,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "21401",
         "opening_hours": "Mo-Su 07:00-21:00",
         "shop": "supermarket",
@@ -2316,7 +2316,7 @@
       "properties": {
         "addr:city": "Deerfield",
         "website": "https://www.wholefoodsmarket.com/stores/deerfield",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60015",
         "ref": "deerfield",
         "phone": "+1 847-444-1900",
@@ -2334,7 +2334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/longmont",
         "ref": "longmont",
         "addr:housenumber": "1250",
@@ -2357,7 +2357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/buffalo",
         "addr:postcode": "14226",
         "addr:street": "Sheridan Drive",
@@ -2377,7 +2377,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "40th Street Northwest",
         "addr:postcode": "20016",
         "addr:state": "DC",
@@ -2397,7 +2397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "plano",
         "phone": "+1 972-612-6729",
         "addr:street": "Preston Road",
@@ -2417,7 +2417,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/katy",
         "branch": "Katy",
         "addr:city": "Katy",
@@ -2437,7 +2437,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/portchester",
         "addr:postcode": "10573",
         "addr:housenumber": "575",
@@ -2460,7 +2460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MI",
         "shop": "supermarket",
         "addr:street": "Washtenaw Avenue",
@@ -2480,7 +2480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Sugar Hollow Road",
         "addr:housenumber": "5",
         "addr:city": "Danbury",
@@ -2502,7 +2502,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "94705",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Berkeley",
         "addr:city": "Berkeley",
         "addr:state": "CA",
@@ -2522,7 +2522,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 479-695-5561",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "fayetteville",
         "website": "https://www.wholefoodsmarket.com/stores/fayetteville",
         "addr:postcode": "72703",
@@ -2541,7 +2541,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Upland",
         "addr:state": "CA",
         "website": "https://www.wholefoodsmarket.com/stores/upland",
@@ -2561,7 +2561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Superior",
         "ref": "superior",
         "addr:housenumber": "303",
@@ -2581,7 +2581,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/playavista",
         "addr:state": "CA",
         "phone": "+1 310-862-9900",
@@ -2604,7 +2604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "phone": "+1 713-520-1937",
         "website": "https://www.wholefoodsmarket.com/stores/kirby",
@@ -2625,7 +2625,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/pembrokepines",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Pines Boulevard",
         "shop": "supermarket",
         "branch": "Pembroke Pines",
@@ -2647,7 +2647,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "shop": "supermarket",
         "ref": "southglenn",
         "phone": "+1 303-996-3660",
@@ -2667,7 +2667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Belmar",
         "addr:housenumber": "444",
         "addr:street": "South Wadsworth Boulevard",
@@ -2690,7 +2690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Jackson",
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Whole Foods Market",
@@ -2708,7 +2708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Carmel",
         "website": "https://www.wholefoodsmarket.com/stores/carmel",
         "branch": "Carmel",
@@ -2728,7 +2728,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60126",
         "addr:city": "Elmhurst",
         "branch": "Elmhurst",
@@ -2748,7 +2748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Waverly Walk Avenue",
         "branch": "Waverly",
         "addr:housenumber": "7221",
@@ -2771,7 +2771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Biscayne Boulevard",
         "addr:postcode": "33181",
         "website": "https://www.wholefoodsmarket.com/stores/northmiami",
@@ -2791,7 +2791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "ref": "postoak",
         "phone": "+1 713-346-0537",
@@ -2811,7 +2811,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Bridgeport Way West",
         "branch": "Chambers Bay",
         "addr:city": "University Place",
@@ -2832,7 +2832,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Mount Washington",
         "ref": "mountwashington",
         "phone": "+1 410-532-6700",
@@ -2851,7 +2851,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "ref": "santabarbara",
         "addr:postcode": "93105",
@@ -2874,7 +2874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "addr:city": "Phoenix",
         "phone": "+1 602-761-4750",
@@ -2894,7 +2894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "12th Street Northwest",
         "website": "https://www.wholefoodsmarket.com/stores/historicwalterreed",
         "addr:state": "DC",
@@ -2914,7 +2914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Russell Street",
         "addr:housenumber": "327",
         "addr:city": "Hadley",
@@ -2934,7 +2934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Harlem",
         "website": "https://www.wholefoodsmarket.com/stores/harlem",
         "phone": "+1 212-678-1940",
@@ -2954,7 +2954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "50",
         "addr:city": "Avon",
         "addr:street": "Climax Road",
@@ -2974,7 +2974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Seattle",
         "ref": "westlake",
         "phone": "+1 206-621-9700",
@@ -2994,7 +2994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/uppereastside",
         "phone": "+1 646-891-3888",
         "addr:street": "3rd Avenue",
@@ -3014,7 +3014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "website": "https://www.wholefoodsmarket.com/stores/marlton",
         "ref": "marlton",
@@ -3034,7 +3034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/riverstreet",
         "addr:postcode": "02139",
         "addr:housenumber": "340",
@@ -3054,7 +3054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Bellingham",
         "phone": "+1 508-966-3331",
         "addr:street": "Hartford Avenue",
@@ -3074,7 +3074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "TN",
         "addr:postcode": "37215",
         "addr:housenumber": "4021",
@@ -3094,7 +3094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "hydepark",
         "phone": "+1 773-819-1600",
         "branch": "Hyde Park",
@@ -3114,7 +3114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "11762",
         "website": "https://www.wholefoodsmarket.com/stores/massapequa",
         "addr:city": "Massapequa Park",
@@ -3135,7 +3135,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/wellesley",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Wellesley",
         "shop": "supermarket",
         "addr:housenumber": "442",
@@ -3157,7 +3157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Arlington",
         "branch": "Parkway",
         "addr:housenumber": "801",
@@ -3177,7 +3177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Main Street",
         "website": "https://www.wholefoodsmarket.com/stores/melrose",
         "ref": "melrose",
@@ -3198,7 +3198,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 775-852-8023",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "89502",
         "addr:street": "South Virginia Street",
         "ref": "reno",
@@ -3220,7 +3220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "ref": "bellaire",
         "opening_hours": "Mo-Su 07:00-21:00",
@@ -3240,7 +3240,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 214-361-8887",
         "branch": "Forest",
         "addr:street": "Preston Road",
@@ -3260,7 +3260,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "50",
         "addr:state": "OH",
         "website": "https://www.wholefoodsmarket.com/stores/orangevillage",
@@ -3280,7 +3280,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "website": "https://www.wholefoodsmarket.com/stores/tempe",
         "addr:city": "Tempe",
@@ -3300,7 +3300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 703-448-1600",
         "addr:housenumber": "7511",
         "shop": "supermarket",
@@ -3321,7 +3321,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/highlandvillage",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "TX",
         "addr:postcode": "75077",
         "shop": "supermarket",
@@ -3340,7 +3340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 763-416-7300",
         "addr:state": "MN",
         "ref": "maplegrove",
@@ -3360,7 +3360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "TN",
         "addr:postcode": "38117",
         "addr:street": "Poplar Avenue",
@@ -3380,7 +3380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "phone": "+1 678-534-3138",
         "ref": "avalon",
@@ -3400,7 +3400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 617-491-0040",
         "shop": "supermarket",
         "branch": "Fresh Pond",
@@ -3421,7 +3421,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "92823",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "opening_hours": "Mo-Su 07:00-22:00",
         "website": "https://www.wholefoodsmarket.com/stores/brea",
@@ -3440,7 +3440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/southcapitolhill",
         "addr:postcode": "20003",
         "addr:state": "DC",
@@ -3460,7 +3460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/tallahassee",
         "shop": "supermarket",
         "addr:state": "FL",
@@ -3480,7 +3480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "addr:street": "Westheimer Road",
         "addr:postcode": "77042",
@@ -3503,7 +3503,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Mount Diablo Boulevard",
         "addr:postcode": "94549",
         "addr:state": "CA",
@@ -3526,7 +3526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "parkridge",
         "addr:postcode": "60068",
         "phone": "+1 847-292-7100",
@@ -3546,7 +3546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:postcode": "95864",
         "ref": "sacramento",
@@ -3566,7 +3566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Coral Springs",
         "addr:postcode": "33071",
         "branch": "Coral Springs",
@@ -3586,7 +3586,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/brentwood",
         "branch": "Brentwood",
         "addr:city": "Los Angeles",
@@ -3606,7 +3606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "addr:postcode": "43219",
         "addr:street": "Easton Gateway Drive",
@@ -3626,7 +3626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 859-971-8600",
         "website": "https://www.wholefoodsmarket.com/stores/lexington",
         "shop": "supermarket",
@@ -3647,7 +3647,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 781-592-2200",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Paradise Road",
         "addr:postcode": "01907",
         "shop": "supermarket",
@@ -3666,7 +3666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Berkeley",
         "addr:street": "Gilman Street",
         "addr:state": "CA",
@@ -3686,7 +3686,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Vancouver",
         "website": "https://www.wholefoodsmarket.com/stores/kits",
         "branch": "Kitsilano",
@@ -3707,7 +3707,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/paramus",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Bergen Town Center",
         "addr:state": "NJ",
         "branch": "Paramus",
@@ -3730,7 +3730,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "91403",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "shermanoaks-west",
         "website": "https://www.wholefoodsmarket.com/stores/shermanoaks-west",
         "addr:state": "CA",
@@ -3749,7 +3749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Glendale",
         "ref": "coloradoblvd",
         "branch": "Colorado Boulevard",
@@ -3769,7 +3769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 604-205-5032",
         "addr:postcode": "V5C 3Z3",
         "website": "https://www.wholefoodsmarket.com/stores/northburnaby",
@@ -3789,7 +3789,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "413",
         "website": "https://www.wholefoodsmarket.com/stores/jamaicaplain",
         "shop": "supermarket",
@@ -3809,7 +3809,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Morristown",
         "phone": "+1 973-385-1900",
         "addr:state": "NJ",
@@ -3829,7 +3829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "phone": "+1 470-552-3040",
         "shop": "supermarket",
@@ -3850,7 +3850,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "20910",
         "addr:housenumber": "833",
         "website": "https://www.wholefoodsmarket.com/stores/silverspring",
@@ -3870,7 +3870,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/yonkers",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "shop": "supermarket",
         "addr:housenumber": "1",
         "ref": "yonkers",
@@ -3892,7 +3892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Mandeville",
         "addr:city": "Mandeville",
         "ref": "mandeville",
@@ -3915,7 +3915,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:street": "North Moorpark Road",
         "addr:housenumber": "740",
@@ -3937,7 +3937,7 @@
       "properties": {
         "branch": "Schaumburg",
         "ref": "schaumburg",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 847-585-5800",
         "addr:state": "IL",
         "addr:street": "North Martingale Road",
@@ -3955,7 +3955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 773-205-1100",
         "website": "https://www.wholefoodsmarket.com/stores/sauganash",
         "addr:postcode": "60646",
@@ -3975,7 +3975,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "shop": "supermarket",
         "addr:street": "Springfield Plaza",
         "ref": "springfieldplaza",
@@ -3999,7 +3999,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 773-472-0400",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "North Halsted Street",
         "addr:postcode": "60613",
         "addr:state": "IL",
@@ -4018,7 +4018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "10036",
         "addr:housenumber": "1095",
         "addr:city": "New York",
@@ -4038,7 +4038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Gunbarrel Road",
         "addr:state": "TN",
         "addr:postcode": "37421",
@@ -4058,7 +4058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "website": "https://www.wholefoodsmarket.com/stores/westorange",
         "branch": "West Orange",
@@ -4078,7 +4078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Seattle",
         "branch": "Madison Broadway",
         "ref": "madisonbroadway",
@@ -4098,7 +4098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "70",
         "addr:postcode": "96732",
         "addr:state": "HI",
@@ -4119,7 +4119,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "20852",
         "addr:street": "Woodglen Drive",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -4138,7 +4138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "923",
         "branch": "Charleston",
         "addr:street": "Houston Northcutt Boulevard",
@@ -4158,7 +4158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Glastonbury",
         "ref": "glastonbury",
         "website": "https://www.wholefoodsmarket.com/stores/glastonbury",
@@ -4178,7 +4178,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "851",
         "addr:state": "IL",
         "shop": "supermarket",
@@ -4198,7 +4198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "92646",
         "addr:state": "CA",
         "addr:street": "Adams Avenue",
@@ -4220,7 +4220,7 @@
       "properties": {
         "phone": "+1 336-722-9233",
         "website": "https://www.wholefoodsmarket.com/stores/winston-salem",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Winston-Salem",
         "addr:street": "Miller Street",
         "addr:housenumber": "41",
@@ -4238,7 +4238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Alamo Quarry",
         "addr:street": "East Basse Road",
         "phone": "+1 210-826-4676",
@@ -4258,7 +4258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/milford",
         "addr:street": "Boston Post Road",
         "shop": "supermarket",
@@ -4278,7 +4278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Galleria Boulevard",
         "addr:state": "CA",
         "addr:postcode": "95678",
@@ -4301,7 +4301,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "70119",
         "phone": "+1 504-434-3364",
         "addr:housenumber": "300",
@@ -4323,7 +4323,7 @@
       "properties": {
         "branch": "Fort Apache",
         "addr:street": "West Charleston Boulevard",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "89117",
         "phone": "+1 702-254-8655",
         "addr:city": "Las Vegas",
@@ -4342,7 +4342,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Cedar Park",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "183 Toll Road",
         "branch": "Cedar Park",
         "phone": "+1 512-690-2605",
@@ -4364,7 +4364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Delray Beach",
         "ref": "delraybeach",
         "addr:postcode": "33444",
@@ -4384,7 +4384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "woodlandhills",
         "addr:city": "Woodland Hills",
         "addr:state": "CA",
@@ -4404,7 +4404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "addr:postcode": "77070",
         "ref": "champions",
@@ -4425,7 +4425,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/medford",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Medford",
         "addr:city": "Medford",
         "addr:housenumber": "2151",
@@ -4444,7 +4444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Pearl Street",
         "branch": "Pearl",
         "phone": "+1 303-545-6611",
@@ -4464,7 +4464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Arlington",
         "ref": "arlington-ma",
         "shop": "supermarket",
@@ -4485,7 +4485,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "Worcester Road",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Framingham",
         "addr:housenumber": "575",
         "addr:city": "Framingham",
@@ -4504,7 +4504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Huntsville",
         "shop": "supermarket",
         "addr:housenumber": "2501",
@@ -4527,7 +4527,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Kirkland",
         "website": "https://www.wholefoodsmarket.com/stores/kirkland",
         "shop": "supermarket",
@@ -4547,7 +4547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 636-527-1160",
         "addr:postcode": "63017",
         "addr:city": "Town and Country",
@@ -4567,7 +4567,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "92618",
         "addr:state": "CA",
         "phone": "+1 949-777-8500",
@@ -4587,7 +4587,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Louisville",
         "addr:city": "Louisville",
         "ref": "louisville",
@@ -4608,7 +4608,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Plymouth Meeting",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "500",
         "ref": "plymouthmeeting",
         "addr:street": "West Germantown Pike",
@@ -4631,7 +4631,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/addison",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Addison",
         "branch": "Addison",
         "addr:housenumber": "5100",
@@ -4651,7 +4651,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/cleveland",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "addr:street": "Cedar Road",
         "addr:postcode": "44118",
@@ -4670,7 +4670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "addr:street": "Peachtree Boulevard",
         "phone": "+1 470-552-0750",
@@ -4690,7 +4690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/westbury",
         "addr:city": "Garden City",
         "addr:postcode": "11530",
@@ -4711,7 +4711,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/santacruz",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "santacruz",
         "addr:state": "CA",
         "addr:housenumber": "911",
@@ -4733,7 +4733,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "777",
         "addr:city": "San Jose",
         "addr:state": "CA",
@@ -4753,7 +4753,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "629",
         "addr:street": "Kailua Road",
         "ref": "kailua",
@@ -4773,7 +4773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Pasadena",
         "addr:street": "East Foothill Boulevard",
         "addr:postcode": "91107",
@@ -4796,7 +4796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MI",
         "phone": "+1 734-997-7500",
         "addr:street": "West Eisenhower Parkway",
@@ -4816,7 +4816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Madison Yards Way",
         "addr:city": "Madison",
         "shop": "supermarket",
@@ -4836,7 +4836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "19046",
         "website": "https://www.wholefoodsmarket.com/stores/jenkintown",
         "addr:city": "Jenkintown",
@@ -4856,7 +4856,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 571-634-3610",
         "addr:city": "McLean",
         "shop": "supermarket",
@@ -4876,7 +4876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "H Street Northeast",
         "addr:state": "DC",
         "website": "https://www.wholefoodsmarket.com/stores/hstreet",
@@ -4897,7 +4897,7 @@
       "type": "Feature",
       "properties": {
         "branch": "San Rafael",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "94901",
         "addr:state": "CA",
         "website": "https://www.wholefoodsmarket.com/stores/sanrafael",
@@ -4916,7 +4916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/toronto",
         "addr:city": "Toronto",
         "addr:state": "ON",
@@ -4939,7 +4939,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "TN",
         "phone": "+1 865-291-6400",
         "addr:street": "Papermill Drive Northwest",
@@ -4960,7 +4960,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/orlandpark",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60462",
         "addr:housenumber": "15260",
         "ref": "orlandpark",
@@ -4979,7 +4979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/southbeach",
         "phone": "+1 305-938-2800",
         "addr:street": "Alton Road",
@@ -5000,7 +5000,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Bozeman",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/bozeman",
         "shop": "supermarket",
         "addr:state": "MT",
@@ -5019,7 +5019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Alpine Avenue",
         "addr:city": "Boulder",
         "ref": "idealmarket",
@@ -5039,7 +5039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "addr:postcode": "45209",
         "addr:housenumber": "2693",
@@ -5059,7 +5059,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "536",
         "branch": "Sudbury",
         "addr:street": "Boston Post Road",
@@ -5079,7 +5079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 616-226-8880",
         "addr:state": "MI",
         "website": "https://www.wholefoodsmarket.com/stores/grandrapids",
@@ -5099,7 +5099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "opening_hours": "Mo-Su 07:00-22:00",
         "shop": "supermarket",
@@ -5119,7 +5119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "6741",
         "phone": "+1 469-845-8001",
         "addr:state": "TX",
@@ -5139,7 +5139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/montclair",
         "addr:city": "Montclair",
         "addr:housenumber": "701",
@@ -5159,7 +5159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Seattle",
         "ref": "rooseveltsquare",
         "website": "https://www.wholefoodsmarket.com/stores/rooseveltsquare",
@@ -5179,7 +5179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Excelsior Boulevard",
         "website": "https://www.wholefoodsmarket.com/stores/uptownminneapolis",
         "addr:state": "MN",
@@ -5200,7 +5200,7 @@
       "type": "Feature",
       "properties": {
         "ref": "st-louis",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MO",
         "branch": "Galleria",
         "addr:city": "Saint Louis",
@@ -5220,7 +5220,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Dadeland",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "33156",
         "website": "https://www.wholefoodsmarket.com/stores/dadeland",
         "shop": "supermarket",
@@ -5239,7 +5239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "phone": "+1 470-552-4201",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -5259,7 +5259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Angeles",
         "addr:state": "CA",
         "addr:postcode": "90064",
@@ -5279,7 +5279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60661",
         "branch": "West Loop",
         "ref": "westloop",
@@ -5299,7 +5299,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MN",
         "ref": "hennepin",
         "shop": "supermarket",
@@ -5320,7 +5320,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "NE",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/omaha",
         "phone": "+1 402-393-1200",
         "shop": "supermarket",
@@ -5340,7 +5340,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Bedford",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 781-275-8264",
         "addr:street": "Great Road",
         "addr:city": "Bedford",
@@ -5359,7 +5359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Fairfax",
         "shop": "supermarket",
         "ref": "fairlakes",
@@ -5383,7 +5383,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "Daniels Parkway",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Fort Myers",
         "branch": "Fort Myers",
         "phone": "+1 239-935-6550",
@@ -5402,7 +5402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "20",
         "phone": "+1 914-340-5130",
         "website": "https://www.wholefoodsmarket.com/stores/chappaqua",
@@ -5422,7 +5422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "IA",
         "ref": "westdesmoines",
         "branch": "West Des Moines",
@@ -5445,7 +5445,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "70508",
         "branch": "Ambassador Caffery",
         "phone": "+1 337-314-9653",
@@ -5469,7 +5469,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 313-576-5300",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MI",
         "addr:city": "Detroit",
         "addr:housenumber": "115",
@@ -5491,7 +5491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/rochesterhills",
         "ref": "rochesterhills",
         "addr:postcode": "48309",
@@ -5511,7 +5511,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "70",
         "branch": "Asheville",
         "ref": "asheville",
@@ -5531,7 +5531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Portland",
         "website": "https://www.wholefoodsmarket.com/stores/fremont",
         "phone": "+1 503-288-3414",
@@ -5551,7 +5551,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "305",
         "ref": "altamontesprings",
         "website": "https://www.wholefoodsmarket.com/stores/altamontesprings",
@@ -5572,7 +5572,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/kansascity",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Kansas City",
         "branch": "Kansas City",
         "addr:housenumber": "301",
@@ -5591,7 +5591,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 503-645-9200",
         "addr:housenumber": "9940",
         "addr:state": "OR",
@@ -5614,7 +5614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 541-434-8820",
         "addr:state": "OR",
         "shop": "supermarket",
@@ -5635,7 +5635,7 @@
       "type": "Feature",
       "properties": {
         "ref": "governorsranch",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 303-586-5220",
         "addr:housenumber": "5155",
         "addr:street": "South Wadsworth Boulevard",
@@ -5654,7 +5654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 707-762-9352",
         "addr:street": "East Washington Street",
         "ref": "petaluma",
@@ -5674,7 +5674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 980-213-2400",
         "branch": "Charlotte",
         "ref": "charlotte",
@@ -5694,7 +5694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Edgewater",
         "website": "https://www.wholefoodsmarket.com/stores/edgewater",
         "addr:housenumber": "905",
@@ -5715,7 +5715,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/floridaavenue",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 202-519-3400",
         "addr:housenumber": "967",
         "ref": "floridaavenue",
@@ -5736,7 +5736,7 @@
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/exton",
         "addr:city": "Exton",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 610-423-6360",
         "branch": "Exton",
         "addr:street": "North Pottstown Pike",
@@ -5754,7 +5754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/sugarhouse",
         "branch": "Sugar House",
         "addr:state": "UT",
@@ -5774,7 +5774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "downtownmiami",
         "phone": "+1 305-995-0600",
         "branch": "Downtown Miami",
@@ -5794,7 +5794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 312-587-0648",
         "addr:postcode": "60642",
         "branch": "Lincoln Park",
@@ -5817,7 +5817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 805-751-4300",
         "addr:street": "Town Center Drive",
         "addr:state": "CA",
@@ -5840,7 +5840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Vancouver",
         "addr:housenumber": "510",
         "addr:state": "BC",
@@ -5860,7 +5860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "TN",
         "addr:postcode": "37203",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -5880,7 +5880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "429",
         "addr:city": "Jericho",
         "branch": "Jericho",
@@ -5900,7 +5900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "clark",
         "addr:state": "NJ",
         "branch": "Clark",
@@ -5924,7 +5924,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/newark",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "addr:housenumber": "633",
         "phone": "+1 973-755-5080",
@@ -5943,7 +5943,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Santa Rosa",
         "addr:postcode": "95405",
         "addr:state": "CA",
@@ -5966,7 +5966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "South Tunnel Road",
         "branch": "East Asheville",
         "addr:housenumber": "4",
@@ -5989,7 +5989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/uptowndallas",
         "ref": "uptowndallas",
         "addr:city": "Dallas",
@@ -6009,7 +6009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/oakville",
         "addr:state": "ON",
         "addr:housenumber": "301",
@@ -6029,7 +6029,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Grape Road",
         "phone": "+1 574-247-5800",
         "addr:housenumber": "4230",
@@ -6049,7 +6049,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 423-702-7300",
         "addr:state": "TN",
         "addr:housenumber": "301",
@@ -6072,7 +6072,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Rochester",
         "website": "https://www.wholefoodsmarket.com/stores/rochester",
         "ref": "rochester",
@@ -6092,7 +6092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Indianapolis",
         "ref": "eightysixthst",
         "branch": "Eighty-Sixth Street",
@@ -6112,7 +6112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60189",
         "ref": "wheaton",
         "addr:state": "IL",
@@ -6136,7 +6136,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 424-434-7960",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Angeles",
         "addr:postcode": "90016",
         "addr:state": "CA",
@@ -6155,7 +6155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "woburn",
         "addr:housenumber": "400",
         "shop": "supermarket",
@@ -6175,7 +6175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "305",
         "addr:city": "Woodbury",
         "addr:state": "MN",
@@ -6195,7 +6195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Bel Aire Plaza",
         "addr:postcode": "94558",
         "addr:state": "CA",
@@ -6215,7 +6215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "riverforest",
         "branch": "River Forest",
         "addr:postcode": "60305",
@@ -6236,7 +6236,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 617-337-9700",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Charlestown",
         "addr:street": "Austin Street",
         "addr:postcode": "02129",
@@ -6255,7 +6255,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Greensboro",
         "phone": "+1 336-398-2880",
         "addr:postcode": "27408",
@@ -6277,7 +6277,7 @@
       "properties": {
         "branch": "Wynnewood",
         "phone": "+1 610-896-3737",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "wynnewood",
         "website": "https://www.wholefoodsmarket.com/stores/wynnewood",
         "addr:street": "East Wynnewood Road",
@@ -6296,7 +6296,7 @@
       "type": "Feature",
       "properties": {
         "ref": "kenwood",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "branch": "Kenwood",
         "shop": "supermarket",
@@ -6317,7 +6317,7 @@
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/whiteplains",
         "phone": "+1 914-288-1300",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "whiteplains",
         "addr:housenumber": "110",
         "shop": "supermarket",
@@ -6335,7 +6335,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "streeterville",
         "addr:postcode": "60611",
         "addr:state": "IL",
@@ -6356,7 +6356,7 @@
       "type": "Feature",
       "properties": {
         "addr:street": "Northern Boulevard",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "11030",
         "phone": "+1 516-869-8900",
         "ref": "manhasset",
@@ -6375,7 +6375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Redmond",
         "phone": "+1 425-881-2600",
         "addr:housenumber": "17991",
@@ -6396,7 +6396,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/friendshipheights",
         "ref": "friendshipheights",
         "addr:housenumber": "4420",
@@ -6415,7 +6415,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93704",
@@ -6435,7 +6435,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Shreveport",
         "addr:postcode": "71105",
         "phone": "+1 318-462-9895",
@@ -6458,7 +6458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/castlerock",
         "branch": "Castle Rock",
         "addr:street": "Promenade Parkway",
@@ -6480,7 +6480,7 @@
       "properties": {
         "branch": "Williamsburg",
         "phone": "+1 718-734-2321",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "238",
         "addr:city": "Brooklyn",
         "ref": "williamsburg",
@@ -6499,7 +6499,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Baton Rouge",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Corporate Boulevard",
         "branch": "Baton Rouge",
         "shop": "supermarket",
@@ -6521,7 +6521,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "addr:city": "Vauxhall",
         "website": "https://www.wholefoodsmarket.com/stores/millburn",
@@ -6544,7 +6544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 973-822-8444",
         "addr:street": "Main Street",
         "addr:state": "NJ",
@@ -6564,7 +6564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Arlington",
         "branch": "Arlington VA",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -6584,7 +6584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "shop": "supermarket",
         "ref": "folsom",
@@ -6610,7 +6610,7 @@
         "website": "https://www.wholefoodsmarket.com/stores/schererville",
         "phone": "+1 219-864-5400",
         "opening_hours": "Mo-Su 08:00-22:00",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Schererville",
         "ref": "schererville",
         "name": "Whole Foods Market",
@@ -6629,7 +6629,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 604-973-1014",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "13th Street East",
         "branch": "North Vancouver",
         "addr:state": "BC",
@@ -6648,7 +6648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 661-260-2377",
         "addr:state": "CA",
         "addr:postcode": "91355",
@@ -6668,7 +6668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 832-246-5600",
         "addr:postcode": "77380",
         "website": "https://www.wholefoodsmarket.com/stores/thewoodlands",
@@ -6688,7 +6688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/lynnfield",
         "addr:city": "Lynnfield",
         "addr:housenumber": "427",
@@ -6712,7 +6712,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Palm Beach Gardens",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "33410",
         "phone": "+1 561-691-8550",
         "website": "https://www.wholefoodsmarket.com/stores/palmbeachgardens",
@@ -6734,7 +6734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/arbortrails",
         "phone": "+1 512-358-2460",
         "addr:state": "TX",
@@ -6754,7 +6754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Downtown Evanston",
         "addr:postcode": "60201",
         "addr:street": "Chicago Avenue",
@@ -6774,7 +6774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/lakeviewnew",
         "addr:street": "North Ashland Avenue",
         "addr:postcode": "60657",
@@ -6794,7 +6794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Spring House",
         "ref": "springhouse",
         "branch": "Spring House",
@@ -6814,7 +6814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/cupertino",
         "addr:city": "Cupertino",
         "addr:state": "CA",
@@ -6834,7 +6834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "davie",
         "shop": "supermarket",
         "phone": "+1 954-916-3000",
@@ -6857,7 +6857,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Laguna Niguel",
         "addr:postcode": "92677",
         "addr:state": "CA",
@@ -6877,7 +6877,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "paloalto",
         "branch": "Palo Alto",
         "addr:state": "CA",
@@ -6897,7 +6897,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "New Waverly Place",
         "addr:postcode": "27518",
         "addr:housenumber": "102",
@@ -6918,7 +6918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:postcode": "92782",
         "branch": "Jamboree",
@@ -6938,7 +6938,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Santa Rosa",
         "ref": "coddingtown",
         "addr:state": "CA",
@@ -6961,7 +6961,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "400",
         "ref": "uptowncharlotte",
         "addr:street": "East Brooklyn Village Avenue",
@@ -6982,7 +6982,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "91326",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 818-363-3933",
         "website": "https://www.wholefoodsmarket.com/stores/porterranch",
         "addr:state": "CA",
@@ -7001,7 +7001,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "West Broad Street",
         "addr:housenumber": "11173",
         "shop": "supermarket",
@@ -7024,7 +7024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Lake Norman",
         "addr:city": "Huntersville",
         "shop": "supermarket",
@@ -7044,7 +7044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 925-452-2226",
         "addr:state": "CA",
         "branch": "Dublin CA",
@@ -7068,7 +7068,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Ocean",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:housenumber": "1150",
         "website": "https://www.wholefoodsmarket.com/stores/ocean",
@@ -7087,7 +7087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "West Napa Street",
         "addr:city": "Sonoma",
         "addr:state": "CA",
@@ -7107,7 +7107,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 434-973-4900",
         "addr:city": "Charlottesville",
         "opening_hours": "Mo-Su 07:00-21:00",
@@ -7130,7 +7130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "eastliberty",
         "addr:postcode": "15206",
         "website": "https://www.wholefoodsmarket.com/stores/eastliberty",
@@ -7151,7 +7151,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "92647",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Edinger Avenue",
         "website": "https://www.wholefoodsmarket.com/stores/huntingtonbeach",
         "ref": "huntingtonbeach",
@@ -7173,7 +7173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "ashburn",
         "phone": "+1 571-223-4440",
         "addr:postcode": "20147",
@@ -7194,7 +7194,7 @@
       "type": "Feature",
       "properties": {
         "ref": "commack",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/commack",
         "addr:state": "NY",
         "opening_hours": "Mo-Su 08:00-21:00",
@@ -7211,7 +7211,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "63",
         "ref": "nomad",
         "addr:street": "Madison Avenue",
@@ -7234,7 +7234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/wilmington",
         "addr:street": "Oleander Drive",
         "branch": "Wilmington",
@@ -7255,7 +7255,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 610-848-7200",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "West Chester Pike",
         "branch": "Newtown",
         "shop": "supermarket",
@@ -7275,7 +7275,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/naples",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Strada Place",
         "addr:city": "Naples",
         "branch": "Naples",
@@ -7294,7 +7294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "addr:city": "Tucson",
         "ref": "riverroad",
@@ -7317,7 +7317,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "10001",
         "ref": "chelsea",
         "addr:city": "New York",
@@ -7337,7 +7337,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/sandiego",
         "addr:housenumber": "711",
         "addr:state": "CA",
@@ -7357,7 +7357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "19130",
         "ref": "phillycentercity",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -7378,7 +7378,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/midtowntampa",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 813-323-9466",
         "ref": "midtowntampa",
         "addr:street": "Midtown Drive",
@@ -7397,7 +7397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "67206",
         "ref": "wichita",
         "shop": "supermarket",
@@ -7420,7 +7420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 915-236-1420",
         "addr:state": "TX",
         "shop": "supermarket",
@@ -7440,7 +7440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "State Route 35 North",
         "addr:state": "NJ",
         "shop": "supermarket",
@@ -7460,7 +7460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/redwoodcity",
         "addr:state": "CA",
         "addr:housenumber": "1250",
@@ -7480,7 +7480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 720-941-4100",
         "opening_hours": "Mo-Su 07:00-22:00",
         "shop": "supermarket",
@@ -7503,7 +7503,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "fremont-ca",
         "addr:postcode": "94538",
         "addr:state": "CA",
@@ -7526,7 +7526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "18106",
         "branch": "Allentown",
         "ref": "allentown",
@@ -7547,7 +7547,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Evergreen Park",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/evergreenpark",
         "ref": "evergreenpark",
         "addr:housenumber": "9600",
@@ -7566,7 +7566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Woodruff Road",
         "website": "https://www.wholefoodsmarket.com/stores/greenville",
         "addr:housenumber": "1140",
@@ -7586,7 +7586,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/westford",
         "addr:city": "Westford",
         "branch": "Westford",
@@ -7606,7 +7606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "37067",
         "phone": "+1 615-550-5660",
         "addr:state": "TN",
@@ -7626,7 +7626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:postcode": "94583",
         "branch": "San Ramon",
@@ -7646,7 +7646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "91105",
         "ref": "arroyo",
         "addr:city": "Pasadena",
@@ -7666,7 +7666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Frisco",
         "website": "https://www.wholefoodsmarket.com/stores/frisco",
         "ref": "frisco",
@@ -7687,7 +7687,7 @@
       "type": "Feature",
       "properties": {
         "addr:housenumber": "12090",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Newport News",
         "shop": "supermarket",
         "phone": "+1 757-947-2460",
@@ -7709,7 +7709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 352-244-8302",
         "branch": "Gainesville",
         "addr:housenumber": "3490",
@@ -7729,7 +7729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "phone": "+1 310-566-9480",
         "addr:housenumber": "225",
@@ -7749,7 +7749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "website": "https://www.wholefoodsmarket.com/stores/voss",
         "branch": "Voss",
@@ -7769,7 +7769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Lynnwood",
         "addr:city": "Lynnwood",
         "ref": "lynnwood",
@@ -7790,7 +7790,7 @@
       "type": "Feature",
       "properties": {
         "ref": "parsippany",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Parsippany",
         "addr:street": "Waterview Boulevard",
         "addr:state": "NJ",
@@ -7810,7 +7810,7 @@
       "type": "Feature",
       "properties": {
         "ref": "albuquerque",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Albuquerque",
         "addr:state": "NM",
         "branch": "Academy",
@@ -7830,7 +7830,7 @@
       "type": "Feature",
       "properties": {
         "ref": "duluth",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "branch": "Johns Creek",
         "addr:postcode": "30097",
@@ -7849,7 +7849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "3rd Street South",
         "ref": "jacksonvillebeach",
         "branch": "Jacksonville Beach",
@@ -7870,7 +7870,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Oakland",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "94609",
         "addr:state": "CA",
         "addr:housenumber": "5110",
@@ -7889,7 +7889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/haightstreet",
         "ref": "haightstreet",
         "addr:state": "CA",
@@ -7909,7 +7909,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Clearwater",
         "phone": "+1 727-724-7100",
         "addr:street": "US 19 North",
@@ -7929,7 +7929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Gatos",
         "ref": "losgatos",
         "phone": "+1 408-358-4434",
@@ -7949,7 +7949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "addr:city": "Tucson",
         "branch": "Oracle",
@@ -7969,7 +7969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "dedham",
         "addr:housenumber": "300",
         "branch": "Dedham",
@@ -7989,7 +7989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:street": "Market Street",
         "addr:postcode": "94114",
@@ -8010,7 +8010,7 @@
       "type": "Feature",
       "properties": {
         "ref": "jacksonville",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/jacksonville",
         "branch": "Jacksonville",
         "addr:city": "Jacksonville",
@@ -8030,7 +8030,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "84098",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "canyoncorners",
         "addr:state": "UT",
         "addr:housenumber": "6598",
@@ -8050,7 +8050,7 @@
       "type": "Feature",
       "properties": {
         "ref": "southlaketahoe",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "branch": "South Lake Tahoe",
         "addr:city": "South Lake Tahoe",
@@ -8069,7 +8069,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/sqo",
         "ref": "sqo",
         "addr:state": "ON",
@@ -8092,7 +8092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "93405",
         "website": "https://www.wholefoodsmarket.com/stores/sanluisobispo",
         "addr:city": "San Luis Obispo",
@@ -8113,7 +8113,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 913-764-5656",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "KS",
         "ref": "olathe",
         "opening_hours": "Mo-Su 08:00-21:00",
@@ -8134,7 +8134,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Raleigh",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "North Raleigh",
         "addr:housenumber": "8710",
         "addr:postcode": "27615",
@@ -8156,7 +8156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "4th Street",
         "addr:postcode": "94107",
         "addr:state": "CA",
@@ -8177,7 +8177,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/chapelhill",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Chapel Hill",
         "addr:street": "South Elliot Road",
         "addr:housenumber": "81",
@@ -8196,7 +8196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/onewallstreet",
         "phone": "+1 646-779-8229",
         "addr:city": "New York",
@@ -8216,7 +8216,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Portland",
         "addr:state": "OR",
         "addr:postcode": "97213",
@@ -8237,7 +8237,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "90017",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Angeles",
         "addr:housenumber": "788",
         "addr:state": "CA",
@@ -8257,7 +8257,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/longbeachlakewood",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Long Beach Lakewood",
         "phone": "+1 562-548-1840",
         "ref": "longbeachlakewood",
@@ -8276,7 +8276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "NJ",
         "website": "https://www.wholefoodsmarket.com/stores/woodclifflake",
         "branch": "Woodcliff Lake",
@@ -8296,7 +8296,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Marlboro",
         "addr:state": "NJ",
         "addr:housenumber": "113",
@@ -8319,7 +8319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Union Station",
         "opening_hours": "Mo-Su 07:00-21:00",
         "shop": "supermarket",
@@ -8339,7 +8339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:postcode": "94114",
         "ref": "noevalley",
@@ -8359,7 +8359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "addr:postcode": "44116",
         "addr:street": "Detroit Road",
@@ -8380,7 +8380,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 303-277-1339",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Colfax",
         "website": "https://www.wholefoodsmarket.com/stores/colfax",
         "addr:city": "Golden",
@@ -8400,7 +8400,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/hinsdale",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60521",
         "branch": "Hinsdale",
         "addr:housenumber": "500",
@@ -8419,7 +8419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "addr:postcode": "44313",
         "website": "https://www.wholefoodsmarket.com/stores/akron",
@@ -8439,7 +8439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/gloverpark",
         "phone": "+1 202-747-5570",
         "addr:postcode": "20007",
@@ -8457,7 +8457,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Perry Highway",
         "website": "https://www.wholefoodsmarket.com/stores/wexford",
         "ref": "wexford",
@@ -8480,7 +8480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Destin",
         "website": "https://www.wholefoodsmarket.com/stores/destin",
         "addr:city": "Destin",
@@ -8504,7 +8504,7 @@
       "type": "Feature",
       "properties": {
         "ref": "midtown-east",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 646-497-1222",
         "addr:postcode": "10022",
         "branch": "Midtown East (East 57th Street)",
@@ -8523,7 +8523,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "reston",
         "website": "https://www.wholefoodsmarket.com/stores/reston",
         "shop": "supermarket",
@@ -8546,7 +8546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "888",
         "branch": "Bellevue",
         "addr:city": "Bellevue",
@@ -8567,7 +8567,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/franklin",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "94109",
         "addr:state": "CA",
         "branch": "Franklin",
@@ -8587,7 +8587,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/sherman-oaks",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Sherman Oaks",
         "addr:postcode": "91423",
         "ref": "sherman-oaks",
@@ -8606,7 +8606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "eastaustin",
         "addr:housenumber": "901",
         "addr:street": "East 5th Street",
@@ -8626,7 +8626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Walnut Creek",
         "addr:state": "CA",
         "phone": "+1 925-274-9700",
@@ -8646,7 +8646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "shrewsbury",
         "website": "https://www.wholefoodsmarket.com/stores/shrewsbury",
         "addr:postcode": "01545",
@@ -8666,7 +8666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 702-589-7711",
         "addr:postcode": "89119",
         "website": "https://www.wholefoodsmarket.com/stores/lvb",
@@ -8689,7 +8689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Robson",
         "addr:city": "Vancouver",
         "website": "https://www.wholefoodsmarket.com/stores/robson",
@@ -8710,7 +8710,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 305-682-4400",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Biscayne Boulevard",
         "addr:postcode": "33180",
         "website": "https://www.wholefoodsmarket.com/stores/aventura",
@@ -8729,7 +8729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Angeles",
         "website": "https://www.wholefoodsmarket.com/stores/fairfax",
         "addr:state": "CA",
@@ -8749,7 +8749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "75082",
         "ref": "cityline",
         "addr:state": "TX",
@@ -8773,7 +8773,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 818-239-5380",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "CA",
         "addr:postcode": "91505",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -8792,7 +8792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Upper West Side",
         "addr:postcode": "10025",
         "website": "https://www.wholefoodsmarket.com/stores/upperwestside",
@@ -8812,7 +8812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/westpalmbeach",
         "branch": "West Palm Beach",
         "addr:street": "Palm Beach Lakes Boulevard",
@@ -8836,7 +8836,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Laurelhurst",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Portland",
         "website": "https://www.wholefoodsmarket.com/stores/laurelhurst",
         "addr:state": "OR",
@@ -8855,7 +8855,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "pstreet",
         "addr:postcode": "20005",
         "branch": "P Street",
@@ -8875,7 +8875,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 952-830-3500",
         "addr:housenumber": "7401",
         "addr:state": "MN",
@@ -8895,7 +8895,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 630-655-5000",
         "addr:housenumber": "6300",
         "branch": "Willowbrook",
@@ -8916,7 +8916,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 551-300-6080",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Weehawken",
         "addr:state": "NJ",
         "website": "https://www.wholefoodsmarket.com/stores/weehawken",
@@ -8935,7 +8935,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Greenwich Street",
         "addr:city": "New York",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -8955,7 +8955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 603-318-7550",
         "addr:state": "NH",
         "addr:street": "Amherst Street",
@@ -8976,7 +8976,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Los Altos",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "losaltos",
         "addr:street": "El Camino Real",
         "addr:state": "CA",
@@ -8995,7 +8995,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 703-706-0891",
         "website": "https://www.wholefoodsmarket.com/stores/alexandria",
         "addr:street": "Duke Street",
@@ -9015,7 +9015,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Via De La Valle",
         "addr:state": "CA",
         "phone": "+1 858-436-9800",
@@ -9038,7 +9038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Prospect Street",
         "website": "https://www.wholefoodsmarket.com/stores/cambridge",
         "addr:housenumber": "115",
@@ -9058,7 +9058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Seattle",
         "website": "https://www.wholefoodsmarket.com/stores/interbay",
         "addr:postcode": "98119",
@@ -9081,7 +9081,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "5298",
         "addr:postcode": "34243",
         "shop": "supermarket",
@@ -9101,7 +9101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Kennesaw",
         "addr:state": "GA",
         "branch": "Kennesaw",
@@ -9121,7 +9121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "southstreet",
         "addr:postcode": "19147",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -9141,7 +9141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "50",
         "branch": "Hilton Head Island",
         "addr:city": "Hilton Head Island",
@@ -9162,7 +9162,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Little Patuxent Parkway",
         "website": "https://www.wholefoodsmarket.com/stores/columbia-md",
         "ref": "columbia-md",
@@ -9181,7 +9181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "647",
         "ref": "newtonville",
         "addr:city": "Newton",
@@ -9202,7 +9202,7 @@
       "type": "Feature",
       "properties": {
         "phone": "+1 650-358-6900",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "San Mateo",
         "ref": "sanmateo",
         "addr:state": "CA",
@@ -9221,7 +9221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "7380",
         "website": "https://www.wholefoodsmarket.com/stores/tigard",
         "branch": "Bridgeport",
@@ -9243,7 +9243,7 @@
       "properties": {
         "phone": "+1 212-420-1320",
         "addr:housenumber": "95",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "10002",
         "branch": "Bowery",
         "addr:city": "New York",
@@ -9262,7 +9262,7 @@
       "type": "Feature",
       "properties": {
         "ref": "chandler",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "branch": "Chandler",
         "addr:street": "West Ray Road",
@@ -9281,7 +9281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "website": "https://www.wholefoodsmarket.com/stores/dayton",
         "addr:city": "Dayton",
@@ -9301,7 +9301,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "GA",
         "branch": "Decatur",
         "addr:postcode": "30033",
@@ -9321,7 +9321,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Riverside Drive",
         "addr:postcode": "91423",
         "website": "https://www.wholefoodsmarket.com/stores/shermanoakseast",
@@ -9341,7 +9341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Hyannis",
         "addr:city": "Hyannis",
         "ref": "hyannis",
@@ -9362,7 +9362,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Boston",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "348",
         "phone": "+1 617-904-1000",
         "website": "https://www.wholefoodsmarket.com/stores/southend",
@@ -9381,7 +9381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/novato",
         "addr:city": "Novato",
         "branch": "Novato",
@@ -9404,7 +9404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Sebastopol",
         "phone": "+1 707-829-9801",
         "branch": "Sebastopol",
@@ -9424,7 +9424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "coralgables",
         "addr:street": "Red Road",
         "addr:city": "Coral Gables",
@@ -9444,7 +9444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Henderson",
         "opening_hours": "Mo-Su 07:00-22:00",
         "shop": "supermarket",
@@ -9467,7 +9467,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Walnut Creek",
         "ref": "ygnaciovalleyroad",
         "addr:state": "CA",
@@ -9487,7 +9487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 720-643-1750",
         "addr:housenumber": "900",
         "shop": "supermarket",
@@ -9507,7 +9507,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "50",
         "website": "https://www.wholefoodsmarket.com/stores/westhartford",
         "ref": "westhartford",
@@ -9530,7 +9530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "westcary",
         "phone": "+1 984-228-0300",
         "addr:postcode": "27519",
@@ -9550,7 +9550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Minnetonka",
         "ref": "minnetonka",
         "addr:state": "MN",
@@ -9572,7 +9572,7 @@
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/redondobeach",
         "ref": "redondobeach",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "North Pacific Coast Highway",
         "addr:state": "CA",
         "addr:housenumber": "405",
@@ -9590,7 +9590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "South Bascom Avenue",
         "website": "https://www.wholefoodsmarket.com/stores/campbell",
         "addr:state": "CA",
@@ -9613,7 +9613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "foggybottom",
         "addr:postcode": "20037",
         "phone": "+1 202-296-1660",
@@ -9633,7 +9633,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Lake Oswego",
         "website": "https://www.wholefoodsmarket.com/stores/lakeoswego",
         "phone": "+1 503-782-4672",
@@ -9656,7 +9656,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Woodbury Avenue",
         "website": "https://www.wholefoodsmarket.com/stores/portsmouth",
         "addr:state": "NH",
@@ -9678,7 +9678,7 @@
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/westbloomfield",
         "phone": "+1 248-538-4600",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "MI",
         "addr:city": "West Bloomfield",
         "branch": "West Bloomfield",
@@ -9699,7 +9699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "yale",
         "addr:state": "OK",
         "addr:housenumber": "9136",
@@ -9722,7 +9722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "35243",
         "addr:city": "Birmingham",
         "branch": "Mountain Brook",
@@ -9742,7 +9742,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "addr:city": "Phoenix",
         "addr:street": "North Tatum Boulevard",
@@ -9762,7 +9762,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Brooklyn",
         "addr:street": "3rd Street",
         "addr:housenumber": "214",
@@ -9782,7 +9782,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OH",
         "shop": "supermarket",
         "addr:housenumber": "1555",
@@ -9805,7 +9805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "opening_hours": "Mo-Su 08:00-21:00",
         "name": "Whole Foods Market",
         "addr:state": "NJ",
@@ -9823,7 +9823,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Houston",
         "addr:street": "North Loop West",
         "addr:state": "TX",
@@ -9843,7 +9843,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Virginia Beach",
         "branch": "Virginia Beach",
         "addr:street": "Laskin Road",
@@ -9863,7 +9863,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "OK",
         "addr:street": "North Western Avenue",
         "addr:postcode": "73118",
@@ -9883,7 +9883,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "lamar",
         "addr:housenumber": "525",
         "addr:street": "North Lamar Boulevard",
@@ -9903,7 +9903,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Portland",
         "addr:postcode": "97209",
         "branch": "Pearl District Portland",
@@ -9924,7 +9924,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/arabellastation",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "arabellastation",
         "phone": "+1 504-899-9119",
         "addr:postcode": "70115",
@@ -9944,7 +9944,7 @@
       "type": "Feature",
       "properties": {
         "ref": "durham",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "27705",
         "addr:housenumber": "621",
         "phone": "+1 919-286-2290",
@@ -9963,7 +9963,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Birmingham",
         "phone": "+1 248-649-9600",
         "addr:state": "MI",
@@ -9983,7 +9983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "manhattanwest",
         "branch": "Manhattan West",
         "addr:postcode": "10001",
@@ -10003,7 +10003,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "South 700 East",
         "addr:state": "UT",
         "addr:housenumber": "544",
@@ -10023,7 +10023,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Bank Street",
         "phone": "+1 613-565-7150",
         "addr:state": "ON",
@@ -10046,7 +10046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Toronto",
         "website": "https://www.wholefoodsmarket.com/stores/leaside",
         "addr:state": "ON",
@@ -10071,7 +10071,7 @@
       "properties": {
         "addr:street": "North Federal Highway",
         "addr:postcode": "33062",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Pompano Beach",
         "website": "https://www.wholefoodsmarket.com/stores/pompanobeach",
         "shop": "supermarket",
@@ -10089,7 +10089,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "darien",
         "shop": "supermarket",
         "phone": "+1 203-662-0577",
@@ -10109,7 +10109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Capitola",
         "addr:state": "CA",
         "shop": "supermarket",
@@ -10129,7 +10129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Albuquerque",
         "addr:postcode": "87110",
         "phone": "+1 505-260-1366",
@@ -10149,7 +10149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "60201",
         "phone": "+1 847-424-5700",
         "addr:street": "Green Bay Road",
@@ -10170,7 +10170,7 @@
       "type": "Feature",
       "properties": {
         "branch": "Long Beach",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "90803",
         "addr:state": "CA",
         "addr:housenumber": "6400",
@@ -10189,7 +10189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:state": "AZ",
         "addr:city": "Tucson",
         "phone": "+1 520-795-9844",
@@ -10210,7 +10210,7 @@
       "type": "Feature",
       "properties": {
         "ref": "flagstaff",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "86001",
         "addr:state": "AZ",
         "website": "https://www.wholefoodsmarket.com/stores/flagstaff",
@@ -10230,7 +10230,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "20878",
         "addr:housenumber": "316",
         "addr:street": "Kentlands Boulevard",
@@ -10249,7 +10249,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/newport",
         "addr:housenumber": "415",
         "addr:state": "CA",
@@ -10272,7 +10272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/somerville",
         "branch": "Somerville",
         "shop": "supermarket",
@@ -10294,7 +10294,7 @@
       "properties": {
         "branch": "Garden City Center",
         "addr:state": "RI",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Cranston",
         "website": "https://www.wholefoodsmarket.com/stores/cranston",
         "phone": "+1 401-942-7600",
@@ -10313,7 +10313,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Brighton",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/brighton",
         "branch": "Brighton",
         "phone": "+1 617-738-8187",
@@ -10332,7 +10332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 214-520-7993",
         "ref": "highlandpark",
         "addr:housenumber": "4100",
@@ -10354,7 +10354,7 @@
       "properties": {
         "phone": "+1 410-528-1640",
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/harboreast",
         "addr:housenumber": "711",
         "addr:postcode": "21202",
@@ -10373,7 +10373,7 @@
       "type": "Feature",
       "properties": {
         "addr:state": "MD",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "opening_hours": "Mo-Su 07:00-22:00",
         "shop": "supermarket",
         "addr:postcode": "20737",
@@ -10393,7 +10393,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "One Chicago",
         "addr:postcode": "60654",
         "addr:housenumber": "3",
@@ -10414,7 +10414,7 @@
       "type": "Feature",
       "properties": {
         "ref": "cherryhill",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "phone": "+1 856-651-5271",
         "addr:state": "NJ",
         "shop": "supermarket",
@@ -10437,7 +10437,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "17601",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "lancaster",
         "website": "https://www.wholefoodsmarket.com/stores/lancaster",
         "branch": "Lancaster",
@@ -10456,7 +10456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Northbrook",
         "addr:housenumber": "840",
         "addr:state": "IL",
@@ -10479,7 +10479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Sugar Land",
         "addr:city": "Sugar Land",
         "phone": "+1 281-491-5577",
@@ -10499,7 +10499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Glen Mills",
         "branch": "Glen Mills",
         "addr:postcode": "19342",
@@ -10523,7 +10523,7 @@
       "type": "Feature",
       "properties": {
         "ref": "hingham",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "94",
         "shop": "supermarket",
         "phone": "+1 781-741-8050",
@@ -10546,7 +10546,7 @@
       "type": "Feature",
       "properties": {
         "addr:postcode": "90039",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Los Angeles",
         "website": "https://www.wholefoodsmarket.com/stores/silverlake",
         "addr:street": "Glendale Boulevard",
@@ -10565,7 +10565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Jackson",
         "website": "https://www.wholefoodsmarket.com/stores/jacksonwyoming",
         "ref": "jacksonwyoming",
@@ -10586,7 +10586,7 @@
       "type": "Feature",
       "properties": {
         "ref": "washingtonpark",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "website": "https://www.wholefoodsmarket.com/stores/washingtonpark",
         "branch": "Washington Park",
         "opening_hours": "Mo-Su 07:00-21:00",
@@ -10605,7 +10605,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "Main Street",
         "addr:city": "Westminster",
         "addr:housenumber": "4451",
@@ -10625,7 +10625,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Monterey",
         "addr:housenumber": "800",
         "ref": "monterey",
@@ -10645,7 +10645,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Ridgewood",
         "ref": "ridgewood",
         "addr:state": "NJ",
@@ -10665,7 +10665,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "San Jose",
         "addr:state": "CA",
         "ref": "blossomhill",
@@ -10688,7 +10688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "branch": "Gateway",
         "addr:state": "TX",
         "shop": "supermarket",
@@ -10708,7 +10708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "ref": "fortworth",
         "addr:state": "TX",
         "shop": "supermarket",
@@ -10728,7 +10728,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "28803",
         "shop": "supermarket",
         "website": "https://www.wholefoodsmarket.com/stores/southasheville",
@@ -10748,7 +10748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:city": "Metairie",
         "phone": "+1 504-888-8225",
         "addr:postcode": "70002",
@@ -10771,7 +10771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:street": "South River Road",
         "addr:state": "NH",
         "addr:city": "Bedford",
@@ -10795,7 +10795,7 @@
       "type": "Feature",
       "properties": {
         "website": "https://www.wholefoodsmarket.com/stores/millvalley",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:housenumber": "414",
         "addr:state": "CA",
         "addr:postcode": "94941",
@@ -10815,7 +10815,7 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Raleigh",
-        "brand": "Whole Foods",
+        "brand": "Whole Foods Market",
         "addr:postcode": "27607",
         "addr:housenumber": "3540",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -10833,6 +10833,10 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-30" }
+    "cleaning": {
+      "version": "0.1.2",
+      "datetime": "2024-01-30",
+      "status": "imported"
+    }
   }
 }

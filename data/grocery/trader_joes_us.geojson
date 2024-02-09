@@ -11238,6 +11238,10 @@
     }
   ],
   "dataset_attributes": {
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-30" }
+    "cleaning": {
+      "version": "0.1.2",
+      "datetime": "2024-01-30",
+      "status": "imported"
+    }
   }
 }
