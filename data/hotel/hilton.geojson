@@ -83604,7 +83604,7 @@
         "brand": "Hilton Garden Inn",
         "phone": "+1 585-248-9000",
         "addr:housenumber": "800",
-        "addr:street": "Pittsford",
+        "addr:street": "",
         "branch": "Rochester/Pittsford",
         "ref": "ROCPTGI"
       },
@@ -102995,7 +102995,7 @@
         "addr:state": "PA",
         "addr:city": "Easton",
         "addr:housenumber": "3723",
-        "addr:street": "Easton",
+        "addr:street": "",
         "branch": "Easton",
         "ref": "EASPAHX"
       },
