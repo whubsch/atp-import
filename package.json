@@ -4,7 +4,7 @@
   "description": "Package to hold and process files associated with an import of All the Places data into OSM.",
   "main": "index.js",
   "scripts": {
-    "mr": "mr cooperative change --out build/missing.json data/missing.osm",
+    "mr": "mr cooperative change --out build/missing_new.json data/missing.osm",
     "clean": "python3.12 scripts/clean.py",
     "format": "python3 -m black scripts && prettier data --write"
   },

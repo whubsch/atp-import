@@ -227,7 +227,7 @@ def run(file_list: list[str]) -> None:
                 street = abbrs(objt["addr:street"])
 
                 street = regex.sub(
-                    r"St\.?(?= [NESW]\.?[EW]?\.?)|(?<=[0-9][thndstr]{2} )St\.?|St\.?$",
+                    r"St\.?(?= [NESW]\.?[EW]?\.?)|(?<=[0-9][thndstr]{2} )St\.?\b|St\.?$",
                     "Street",
                     street,
                 )
