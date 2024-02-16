@@ -103,7 +103,7 @@
         "addr:housenumber": "1499",
         "phone": "+1 510-898-2650",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "addr:city": "Berkeley",
         "addr:state": "California",
@@ -857,7 +857,7 @@
       "properties": {
         "addr:postcode": "86001-6314",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "branch": "@ Flagstaff",
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-flagstaff/aiden-by-best-western-flagstaff/propertycode.03175.html",
@@ -3024,7 +3024,7 @@
         "brand": "Best Western Plus",
         "addr:street": "Saint Albert Trail",
         "name": "Best Western Plus",
-        "branch": "The Inn at St. Albert",
+        "branch": "The Inn at Saint Albert",
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-st-albert/best-western-plus-the-inn-at-st-albert/propertycode.61082.html",
         "addr:city": "Saint Albert",
         "phone": "+1 780-470-3800",
@@ -17616,7 +17616,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-scottsdale/aiden-by-best-western-scottsdale-north/propertycode.03169.html",
         "addr:postcode": "85260-6772",
@@ -18738,7 +18738,7 @@
       "properties": {
         "addr:street": "Magazine Street",
         "ref": "19095",
-        "branch": "St. Christopher Hotel",
+        "branch": "Saint Christopher Hotel",
         "brand:wikidata": "Q830334",
         "brand": "Best Western Plus",
         "phone": "+1 504-648-0444",
@@ -23956,7 +23956,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-west-yarmouth/aiden-by-best-western-cape-point/propertycode.22070.html",
         "phone": "+1 508-778-1500",
@@ -27376,7 +27376,7 @@
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-sedona/aiden-by-best-western-sedona/propertycode.03174.html",
         "addr:housenumber": "2545",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "addr:city": "Sedona",
         "branch": "@ Sedona",
@@ -27696,7 +27696,7 @@
       "properties": {
         "branch": "@ Denver West/Golden",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "phone": "+1 303-277-0200",
         "addr:housenumber": "15059",
@@ -31794,7 +31794,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "phone": "+1 775-829-4600",
         "name": "Aiden",
         "addr:postcode": "89502-6022",
@@ -32164,7 +32164,7 @@
         "addr:housenumber": "301",
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-saint-simons-island/best-western-plus-st-simons/propertycode.11216.html",
         "ref": "11216",
-        "branch": "St. Simons",
+        "branch": "Saint Simons",
         "addr:city": "Saint Simons Island",
         "tourism": "hotel"
       },
@@ -33125,7 +33125,7 @@
       "properties": {
         "addr:housenumber": "61",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "addr:postcode": "P7A 4L7",
         "branch": "@ Superior Shores",
@@ -34568,9 +34568,9 @@
       "type": "Feature",
       "properties": {
         "addr:city": "Saint George",
-        "branch": "@ St. George",
+        "branch": "@ Saint George",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "phone": "+1 435-673-3541",
         "addr:postcode": "84770-2955",
@@ -34777,7 +34777,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "addr:housenumber": "2200",
         "website": "https://www.bestwestern.com/en_us/book/hotels-in-austin/aiden-by-best-western-austin-city-hotel/propertycode.44679.html",
@@ -37389,7 +37389,7 @@
         "addr:street": "Hospitality Lane",
         "phone": "+1 727-577-9200",
         "brand": "Surestay",
-        "branch": "St. Pete Clearwater Airport",
+        "branch": "Saint Pete Clearwater Airport",
         "tourism": "hotel"
       },
       "geometry": { "type": "Point", "coordinates": [-82.683319, 27.895129] }
@@ -38767,7 +38767,7 @@
       "properties": {
         "addr:street": "National Road",
         "brand:wikidata": "Q830334",
-        "branch": "St. Clairsville Inn & Suites",
+        "branch": "Saint Clairsville Inn & Suites",
         "phone": "+1 740-699-0010",
         "addr:housenumber": "51654",
         "ref": "36173",
@@ -39147,7 +39147,7 @@
       "properties": {
         "addr:city": "Warm Springs",
         "brand:wikidata": "Q830334",
-        "brand": "Aiden by Best Western",
+        "brand": "Aiden",
         "name": "Aiden",
         "addr:state": "Georgia",
         "addr:postcode": "31830-2057",
@@ -42873,7 +42873,7 @@
         "addr:city": "Saint-Jerome",
         "name": "Best Western",
         "addr:postcode": "J7Y 3L8",
-        "branch": "Hotel St. Jerome",
+        "branch": "Hotel Saint Jerome",
         "addr:street": "Monseigneur",
         "phone": "+1 450-438-1155",
         "addr:housenumber": "420",

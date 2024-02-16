@@ -2892,16 +2892,17 @@
       "properties": {
         "addr:postcode": "31548",
         "website": "https://www.choicehotels.com/georgia/kingsland/suburban-hotels",
-        "brand:wikidata": "Q113152401;Q113152195",
+        "brand:wikidata": "Q113152401",
         "tourism": "hotel",
         "addr:state": "GA",
-        "name": "Quality Inn Kingsland",
-        "addr:street": "Robert L. Edenfield Drive;Robert L Edenfield Drive",
+        "name": "Quality Inn",
+        "addr:street": "Robert L. Edenfield Drive",
         "phone": "+1 912-576-9400",
-        "brand": "Quality;Suburban",
+        "brand": "Quality",
         "addr:city": "Kingsland",
-        "ref": "GA953;GA421",
-        "addr:housenumber": "111"
+        "ref": "GA953",
+        "addr:housenumber": "111",
+        "branch": "Kingsland"
       },
       "geometry": { "type": "Point", "coordinates": [-81.656799, 30.788369] }
     },
@@ -18031,18 +18032,18 @@
     {
       "type": "Feature",
       "properties": {
-        "ref": "SC154;SC649",
-        "brand": "Rodeway;Suburban",
+        "ref": "SC154",
+        "brand": "Rodeway",
         "addr:street": "Piney Grove Road",
         "addr:city": "Columbia",
-        "brand:wikidata": "Q7356709;Q113152401",
+        "brand:wikidata": "Q7356709",
         "addr:housenumber": "499",
         "addr:state": "SC",
         "website": "https://www.choicehotels.com/south-carolina/west-columbia/quality-inn-hotels",
         "name": "Suburban Studios",
         "phone": "+1 803-798-0500",
         "addr:postcode": "29210",
-        "tourism": "hotel;motel"
+        "tourism": "hotel"
       },
       "geometry": { "type": "Point", "coordinates": [-81.139327, 34.069138] }
     },
@@ -44800,18 +44801,18 @@
     {
       "type": "Feature",
       "properties": {
-        "addr:street": "East US 501;US 501 East",
+        "addr:street": "East US 501",
         "website": "https://www.choicehotels.com/south-carolina/surfside-beach/comfort-inn-hotels",
-        "brand": "Suburban;Econo Lodge",
-        "brand:wikidata": "Q113152401;Q5333330",
+        "brand": "Suburban",
+        "brand:wikidata": "Q113152401",
         "addr:housenumber": "2376",
         "addr:postcode": "29526",
         "phone": "+1 843-347-7254",
         "addr:city": "Conway",
         "addr:state": "SC",
         "name": "Econo Lodge At The University",
-        "ref": "SC149;SC538",
-        "tourism": "hotel;motel"
+        "ref": "SC149",
+        "tourism": "hotel"
       },
       "geometry": { "type": "Point", "coordinates": [-78.996577, 33.788956] }
     },
@@ -83008,16 +83009,16 @@
       "properties": {
         "website": "https://www.choicehotels.com/virginia/williamsburg/quality-inn-hotels",
         "addr:postcode": "23188",
-        "brand": "Rodeway;Suburban",
+        "brand": "Rodeway",
         "addr:street": "Richmond Road",
-        "ref": "VA535;VA866",
+        "ref": "VA535",
         "addr:state": "VA",
         "name": "Rodeway Inn & Suites Williamsburg Central",
-        "brand:wikidata": "Q7356709;Q113152401",
+        "brand:wikidata": "Q7356709",
         "phone": "+1 757-645-3636",
         "addr:housenumber": "5351",
         "addr:city": "Williamsburg",
-        "tourism": "hotel;motel"
+        "tourism": "hotel"
       },
       "geometry": { "type": "Point", "coordinates": [-76.731893, 37.310413] }
     },
@@ -102741,7 +102742,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ref": "CO376;CO377",
+        "ref": "CO376",
         "phone": "+1 970-403-1350",
         "tourism": "hotel",
         "website": "https://www.choicehotels.com/colorado/durango/quality-inn-hotels",
@@ -102750,9 +102751,9 @@
         "addr:street": "Escalante Drive",
         "addr:housenumber": "1260",
         "addr:city": "Durango",
-        "brand:wikidata": "Q69588194;Q113152432",
+        "brand:wikidata": "Q69588194",
         "name": "MainStay Suites Durango",
-        "brand": "Sleep;MainStay"
+        "brand": "Sleep"
       },
       "geometry": { "type": "Point", "coordinates": [-107.86062, 37.22638] }
     },
