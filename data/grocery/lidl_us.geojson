@@ -1,0 +1,3143 @@
+{
+  "type": "FeatureCollection",
+  "dataset_attributes": {
+    "@spider": "lidl_us",
+    "spider:collection_time": "2024-02-11T05:15:28.489670",
+    "cleaning": { "version": "0.1.3", "datetime": "2024-02-15" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "w6GN4Vq_RIqSKnbclv-vJNGf4N4=",
+      "properties": {
+        "ref": "1001",
+        "shop": "supermarket",
+        "addr:city": "North Chesterfield",
+        "addr:state": "VA",
+        "addr:postcode": "23235",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1311",
+        "addr:street": "Mall Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.606834, 37.512142] }
+    },
+    {
+      "type": "Feature",
+      "id": "hj3-OmfDih36-4037ZLZ2Z2Jdbw=",
+      "properties": {
+        "ref": "1003",
+        "shop": "supermarket",
+        "addr:city": "Newport News",
+        "addr:state": "VA",
+        "addr:postcode": "23606",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11880",
+        "addr:street": "Jefferson Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.48392, 37.090706] }
+    },
+    {
+      "type": "Feature",
+      "id": "sAlNIqRrl3AcCWH9t1YGWczrlto=",
+      "properties": {
+        "ref": "1006",
+        "shop": "supermarket",
+        "addr:city": "Suffolk",
+        "addr:state": "VA",
+        "addr:postcode": "23435",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1001",
+        "addr:street": "Community Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.43859, 36.875088] }
+    },
+    {
+      "type": "Feature",
+      "id": "BB4fc05isVCDz1NEqosEYg5ofQc=",
+      "properties": {
+        "ref": "1009",
+        "shop": "supermarket",
+        "addr:city": "Greenville",
+        "addr:state": "NC",
+        "addr:postcode": "27858",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1800",
+        "addr:street": "East Fire Tower Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.3587, 35.564632] }
+    },
+    {
+      "type": "Feature",
+      "id": "N5LPms-Vs8km7wBW--wGxegi4rM=",
+      "properties": {
+        "ref": "1010",
+        "shop": "supermarket",
+        "addr:city": "Winston Salem",
+        "addr:state": "NC",
+        "addr:postcode": "27127",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3315",
+        "addr:street": "Sides Branch Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.26134, 36.031605] }
+    },
+    {
+      "type": "Feature",
+      "id": "zJhpjLBjcCVSQKDCHVm0KFhq8_U=",
+      "properties": {
+        "ref": "1015",
+        "shop": "supermarket",
+        "addr:city": "Indian Land",
+        "addr:state": "SC",
+        "addr:postcode": "29707",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9990",
+        "addr:street": "Charlotte Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.85271, 35.010246] }
+    },
+    {
+      "type": "Feature",
+      "id": "6nYExegGRD6ROsYDTwMECZgNAa0=",
+      "properties": {
+        "ref": "1017",
+        "shop": "supermarket",
+        "addr:city": "Rock Hill",
+        "addr:state": "SC",
+        "addr:postcode": "29730",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1260",
+        "addr:street": "Herrons Ferry Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.98097, 34.97869] }
+    },
+    {
+      "type": "Feature",
+      "id": "XTLYwJkdXQEzESNdQGvp4p3SGjM=",
+      "properties": {
+        "ref": "1018",
+        "shop": "supermarket",
+        "addr:city": "Charlotte",
+        "addr:state": "NC",
+        "addr:postcode": "28270",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9318",
+        "addr:street": "Monroe Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.74206, 35.144577] }
+    },
+    {
+      "type": "Feature",
+      "id": "oSgxKfs0c2BZaqnUzcrSiBxN_ug=",
+      "properties": {
+        "ref": "1019",
+        "shop": "supermarket",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23231",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5110",
+        "addr:street": "South Laburnum Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.34987, 37.516] }
+    },
+    {
+      "type": "Feature",
+      "id": "DmlTiIC_WcceK8xjvS2xPSiJLl4=",
+      "properties": {
+        "ref": "1023",
+        "shop": "supermarket",
+        "addr:city": "Aberdeen",
+        "addr:state": "MD",
+        "addr:postcode": "21001",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "621",
+        "addr:street": "South Philadelphia Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.17168, 39.498722] }
+    },
+    {
+      "type": "Feature",
+      "id": "DHa9LoWIjnKJuVrxClbxpewW0Lg=",
+      "properties": {
+        "ref": "1028",
+        "shop": "supermarket",
+        "addr:city": "Bowie",
+        "addr:state": "MD",
+        "addr:postcode": "20720",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "13401",
+        "addr:street": "Annapolis Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.77333, 38.97187] }
+    },
+    {
+      "type": "Feature",
+      "id": "_rZTAD_M67OtHBElR_BcvnNVTeI=",
+      "properties": {
+        "ref": "1031",
+        "shop": "supermarket",
+        "addr:city": "Woodbridge",
+        "addr:state": "VA",
+        "addr:postcode": "22192",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2070",
+        "addr:street": "Tacketts Village Square"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.27727, 38.67468] }
+    },
+    {
+      "type": "Feature",
+      "id": "yi2pb6umeWgwCpyYdtu72RFhxy4=",
+      "properties": {
+        "ref": "1033",
+        "shop": "supermarket",
+        "addr:city": "Wake Forest",
+        "addr:state": "NC",
+        "addr:postcode": "27587",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1120",
+        "addr:street": "South Main Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.51788, 35.96607] }
+    },
+    {
+      "type": "Feature",
+      "id": "d6DISIhTa1fgM6yuK-71jKp6I3M=",
+      "properties": {
+        "ref": "1035",
+        "shop": "supermarket",
+        "addr:city": "Philadelphia",
+        "addr:state": "PA",
+        "addr:postcode": "19137",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2290",
+        "addr:street": "East Butler Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.09291, 39.996674] }
+    },
+    {
+      "type": "Feature",
+      "id": "45AUU4xmeywpVIfI01u9UgF6QJU=",
+      "properties": {
+        "ref": "1038",
+        "shop": "supermarket",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22407",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5455",
+        "addr:street": "Plank Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.56046, 38.29108] }
+    },
+    {
+      "type": "Feature",
+      "id": "w0rmM79fDKCPKcbhMLA2zCEoaIY=",
+      "properties": {
+        "ref": "1039",
+        "shop": "supermarket",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22406",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1175",
+        "addr:street": "Warrenton Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.52505, 38.36976] }
+    },
+    {
+      "type": "Feature",
+      "id": "YJXWJChHYN0FjJGccLtUoiUnA28=",
+      "properties": {
+        "ref": "1040",
+        "shop": "supermarket",
+        "addr:city": "Gastonia",
+        "addr:state": "NC",
+        "addr:postcode": "28054",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "951",
+        "addr:street": "East Hudson Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.171646, 35.232388] }
+    },
+    {
+      "type": "Feature",
+      "id": "neZf_5DGTc5wjIyiyNXCxd5LRFA=",
+      "properties": {
+        "ref": "1042",
+        "shop": "supermarket",
+        "addr:city": "Spartanburg",
+        "addr:state": "SC",
+        "addr:postcode": "29301",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8180",
+        "addr:street": "Warren H. Abernathy Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.00474, 34.9354] }
+    },
+    {
+      "type": "Feature",
+      "id": "z3mRSXQajp0kl7Gvkx786h8I-XQ=",
+      "properties": {
+        "ref": "1044",
+        "shop": "supermarket",
+        "addr:city": "Charlotte",
+        "addr:state": "NC",
+        "addr:postcode": "28262",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "615",
+        "addr:street": "West Mallard Creek Church Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.740944, 35.3312] }
+    },
+    {
+      "type": "Feature",
+      "id": "qdTT83It7FpexuIugNgXDSVTqn0=",
+      "properties": {
+        "ref": "1045",
+        "shop": "supermarket",
+        "addr:city": "Raleigh",
+        "addr:state": "NC",
+        "addr:postcode": "27609",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4308",
+        "addr:street": "Wake Forest Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.611626, 35.839794] }
+    },
+    {
+      "type": "Feature",
+      "id": "cgECU17kbMwX8yi1lSzYFXgeegU=",
+      "properties": {
+        "ref": "1050",
+        "shop": "supermarket",
+        "addr:city": "Hampton",
+        "addr:state": "VA",
+        "addr:postcode": "23666",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2000",
+        "addr:street": "West Mercury Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.39881, 37.04048] }
+    },
+    {
+      "type": "Feature",
+      "id": "cdcSsxYVf5rpadZk-OBjOhsc-T4=",
+      "properties": {
+        "ref": "1052",
+        "shop": "supermarket",
+        "addr:city": "Augusta",
+        "addr:state": "GA",
+        "addr:postcode": "30909",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1096",
+        "addr:street": "Alexander Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.02745, 33.511276] }
+    },
+    {
+      "type": "Feature",
+      "id": "iutldoLYwZRJMjENDDXmpBienN4=",
+      "properties": {
+        "ref": "1053",
+        "shop": "supermarket",
+        "addr:city": "Culpeper",
+        "addr:state": "VA",
+        "addr:postcode": "22701",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "15169",
+        "addr:street": "Brandy Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.97255, 38.4837] }
+    },
+    {
+      "type": "Feature",
+      "id": "bpDh7I_2DTWL5UoAqn6siEJsU9I=",
+      "properties": {
+        "ref": "1057",
+        "shop": "supermarket",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23464",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6196",
+        "addr:street": "Providence Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.20762, 36.812107] }
+    },
+    {
+      "type": "Feature",
+      "id": "FFxvVxfMKY0HSGdN45J2ZancpSA=",
+      "properties": {
+        "ref": "1058",
+        "shop": "supermarket",
+        "addr:city": "Sanford",
+        "addr:state": "NC",
+        "addr:postcode": "27332",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3209",
+        "addr:street": "NC 87 South"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.129234, 35.44746] }
+    },
+    {
+      "type": "Feature",
+      "id": "tqYAySQyjwuE4byE_4SL53ALb8M=",
+      "properties": {
+        "ref": "1059",
+        "shop": "supermarket",
+        "addr:city": "Dumfries",
+        "addr:state": "VA",
+        "addr:postcode": "22025",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "16601",
+        "addr:street": "Dumfries Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.334305, 38.595257] }
+    },
+    {
+      "type": "Feature",
+      "id": "NhVSapDoXYVc_KSG3yuV52uWL7M=",
+      "properties": {
+        "ref": "1060",
+        "shop": "supermarket",
+        "addr:city": "Chester",
+        "addr:state": "VA",
+        "addr:postcode": "23831",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11701",
+        "addr:street": "Iron Bridge Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.49257, 37.353527] }
+    },
+    {
+      "type": "Feature",
+      "id": "1ggMa2nwqOZzsY_efe5K1k814ac=",
+      "properties": {
+        "ref": "1063",
+        "shop": "supermarket",
+        "addr:city": "Chesapeake",
+        "addr:state": "VA",
+        "addr:postcode": "23321",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4033",
+        "addr:street": "Portsmouth Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.40804, 36.82449] }
+    },
+    {
+      "type": "Feature",
+      "id": "POnWzCXH2yYspEMM8Ex3BVbK_G8=",
+      "properties": {
+        "ref": "1064",
+        "shop": "supermarket",
+        "addr:city": "Greenville",
+        "addr:state": "SC",
+        "addr:postcode": "29615",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2037",
+        "addr:street": "Wade Hampton Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.355225, 34.884586] }
+    },
+    {
+      "type": "Feature",
+      "id": "OrSEUBgJMtaQY2Uf5xMxS6YCOwc=",
+      "properties": {
+        "ref": "1074",
+        "shop": "supermarket",
+        "addr:city": "Wilson",
+        "addr:state": "NC",
+        "addr:postcode": "27896-8234",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3520",
+        "addr:street": "Raleigh Road Parkway West"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.96349, 35.74481] }
+    },
+    {
+      "type": "Feature",
+      "id": "69EiGbHpXeJHaX1dQf8gkG1YgS0=",
+      "properties": {
+        "ref": "1080",
+        "shop": "supermarket",
+        "addr:city": "Wilmington",
+        "addr:state": "NC",
+        "addr:postcode": "28403",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1451",
+        "addr:street": "Eastwood Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.83645, 34.23189] }
+    },
+    {
+      "type": "Feature",
+      "id": "VSnVI1qzpMgu9lvOGUaJIC5a7eM=",
+      "properties": {
+        "ref": "1081",
+        "shop": "supermarket",
+        "addr:city": "York",
+        "addr:state": "PA",
+        "addr:postcode": "17403",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "980",
+        "addr:street": "South Richland Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.74086, 39.94426] }
+    },
+    {
+      "type": "Feature",
+      "id": "R_G4UmsvDrlP3PcSg1paQ_nObNE=",
+      "properties": {
+        "ref": "1088",
+        "shop": "supermarket",
+        "addr:city": "Spartanburg",
+        "addr:state": "SC",
+        "addr:postcode": "29307",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2200",
+        "addr:street": "East Main Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.88271, 34.973488] }
+    },
+    {
+      "type": "Feature",
+      "id": "CGrHe0FfJeGDA2GZ8e3Uaw47eGI=",
+      "properties": {
+        "ref": "1089",
+        "shop": "supermarket",
+        "addr:city": "Morehead City",
+        "addr:state": "NC",
+        "addr:postcode": "28557",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5038",
+        "addr:street": "US 70 Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.796, 34.73679] }
+    },
+    {
+      "type": "Feature",
+      "id": "ZJlM9X7HpqDkg87KYz25cGrtfZM=",
+      "properties": {
+        "ref": "1092",
+        "shop": "supermarket",
+        "addr:city": "Columbia",
+        "addr:state": "SC",
+        "addr:postcode": "29229",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1401",
+        "addr:street": "Summit Parkway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.910706, 34.15736] }
+    },
+    {
+      "type": "Feature",
+      "id": "ufB3tsZit6zfNY66VW5x1_vXlr8=",
+      "properties": {
+        "ref": "1093",
+        "shop": "supermarket",
+        "addr:city": "Waldorf",
+        "addr:state": "MD",
+        "addr:postcode": "20603",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3461",
+        "addr:street": "Promenande Place"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.93281, 38.617332] }
+    },
+    {
+      "type": "Feature",
+      "id": "Zt2okecdyeAofffRafk0UsXhd9Q=",
+      "properties": {
+        "ref": "1094",
+        "shop": "supermarket",
+        "addr:city": "Vineland",
+        "addr:state": "NJ",
+        "addr:postcode": "08360",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1107",
+        "addr:street": "West Landis Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.04782, 39.48676] }
+    },
+    {
+      "type": "Feature",
+      "id": "uFhkRrs38OjTjiDeV468WfqVwHk=",
+      "properties": {
+        "ref": "1096",
+        "shop": "supermarket",
+        "addr:city": "Easton",
+        "addr:state": "PA",
+        "addr:postcode": "18042",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1120",
+        "addr:street": "South 25th Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.24603, 40.675137] }
+    },
+    {
+      "type": "Feature",
+      "id": "8hhDds-B9VhHvYUi6B2fQpyIMvY=",
+      "properties": {
+        "ref": "1097",
+        "shop": "supermarket",
+        "addr:city": "Indian Trail",
+        "addr:state": "NC",
+        "addr:postcode": "28079",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "14600",
+        "addr:street": "East Independence Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.652954, 35.076447] }
+    },
+    {
+      "type": "Feature",
+      "id": "w0nSR8lYTeaLNXvqz8gsAYJDfGk=",
+      "properties": {
+        "ref": "1099",
+        "shop": "supermarket",
+        "addr:city": "Orangeburg",
+        "addr:state": "SC",
+        "addr:postcode": "29118",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2510",
+        "addr:street": "North Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.884544, 33.524345] }
+    },
+    {
+      "type": "Feature",
+      "id": "drbzBE2gKmu0_1R_FyzbOJqEAFk=",
+      "properties": {
+        "ref": "1103",
+        "shop": "supermarket",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23518",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6440",
+        "addr:street": "North Military Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.22627, 36.900394] }
+    },
+    {
+      "type": "Feature",
+      "id": "Quxd-fHxgHrZsyBNqKElLqMtO7g=",
+      "properties": {
+        "ref": "1105",
+        "shop": "supermarket",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23454",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1209",
+        "addr:street": "Edison Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.00255, 36.77901] }
+    },
+    {
+      "type": "Feature",
+      "id": "mAzKmnwFLkGA1e_2sFz156JrS3I=",
+      "properties": {
+        "ref": "1107",
+        "shop": "supermarket",
+        "addr:city": "Winston Salem",
+        "addr:state": "NC",
+        "addr:postcode": "27106",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2445",
+        "addr:street": "Fairlawn Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.29195, 36.143185] }
+    },
+    {
+      "type": "Feature",
+      "id": "BJOFTyvGD8Xd9XQX_QQiO0gDcL4=",
+      "properties": {
+        "ref": "1108",
+        "shop": "supermarket",
+        "addr:city": "District Heights",
+        "addr:state": "MD",
+        "addr:postcode": "20747",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "7200",
+        "addr:street": "Marlboro Pike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.88266, 38.850773] }
+    },
+    {
+      "type": "Feature",
+      "id": "LSGkAr8fJi1yXrZVGl5d6ITZvzE=",
+      "properties": {
+        "ref": "1110",
+        "shop": "supermarket",
+        "addr:city": "Cary",
+        "addr:state": "NC",
+        "addr:postcode": "27513",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1105",
+        "addr:street": "North Harrison Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.783035, 35.805904] }
+    },
+    {
+      "type": "Feature",
+      "id": "dG6y-YK5AFQRHhEbO_Ki6d2has8=",
+      "properties": {
+        "ref": "1112",
+        "shop": "supermarket",
+        "addr:city": "Chantilly",
+        "addr:state": "VA",
+        "addr:postcode": "20151",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "14445",
+        "addr:street": "Chantilly Crossing Lane"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.4462, 38.90012] }
+    },
+    {
+      "type": "Feature",
+      "id": "Bm-OLrWyZe_Hrfc8rs4aGS0Wy_U=",
+      "properties": {
+        "ref": "1116",
+        "shop": "supermarket",
+        "addr:city": "Goose Creek",
+        "addr:state": "SC",
+        "addr:postcode": "29445",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "435",
+        "addr:street": "Saint James Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.05649, 33.02594] }
+    },
+    {
+      "type": "Feature",
+      "id": "rnqJKtOn2LLXKkMqEmw0dlp-G1U=",
+      "properties": {
+        "ref": "1117",
+        "shop": "supermarket",
+        "addr:city": "Henrico",
+        "addr:state": "VA",
+        "addr:postcode": "23228",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9101",
+        "addr:street": "Hermitage Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.504074, 37.62693] }
+    },
+    {
+      "type": "Feature",
+      "id": "GEIj2gBDXcF6PXUFuDOJGVR8CZw=",
+      "properties": {
+        "ref": "1119",
+        "shop": "supermarket",
+        "addr:city": "Union",
+        "addr:state": "NJ",
+        "addr:postcode": "07083",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2375",
+        "addr:street": "Route 22"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.29421, 40.69125] }
+    },
+    {
+      "type": "Feature",
+      "id": "UWX0TZRmK-9NeQWcxnRMwwHJrbw=",
+      "properties": {
+        "ref": "1120",
+        "shop": "supermarket",
+        "addr:city": "Lexington",
+        "addr:state": "SC",
+        "addr:postcode": "29072",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5215",
+        "addr:street": "Sunset Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.20178, 34.005096] }
+    },
+    {
+      "type": "Feature",
+      "id": "WA-YbjGLrf6iLCfYOgMH8BqrhFo=",
+      "properties": {
+        "ref": "1126",
+        "shop": "supermarket",
+        "addr:city": "Greenwood",
+        "addr:state": "SC",
+        "addr:postcode": "29649",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "425",
+        "addr:street": "Bypass 72 Northwest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.18084, 34.2099] }
+    },
+    {
+      "type": "Feature",
+      "id": "YGdqgKlrSVmAQFWZvoal8g_zrB8=",
+      "properties": {
+        "ref": "1129",
+        "shop": "supermarket",
+        "addr:city": "Middletown",
+        "addr:state": "DE",
+        "addr:postcode": "19709",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "359",
+        "addr:street": "Auto Park Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.730736, 39.44514] }
+    },
+    {
+      "type": "Feature",
+      "id": "X8la_ccLxbA_DlRLU-0lvLYjQAo=",
+      "properties": {
+        "ref": "1132",
+        "shop": "supermarket",
+        "addr:city": "Manassas",
+        "addr:state": "VA",
+        "addr:postcode": "20109",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11782",
+        "addr:street": "Sudley Manor Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.52096, 38.78497] }
+    },
+    {
+      "type": "Feature",
+      "id": "A1GspLJl8-vv9JPjuza8w-Elves=",
+      "properties": {
+        "ref": "1133",
+        "shop": "supermarket",
+        "addr:city": "Lanham",
+        "addr:state": "MD",
+        "addr:postcode": "20706",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "7500",
+        "addr:street": "Mission Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.823265, 38.991497] }
+    },
+    {
+      "type": "Feature",
+      "id": "w_ZuYZSI14C4OjlgzbPjb8txTa0=",
+      "properties": {
+        "ref": "1134",
+        "shop": "supermarket",
+        "addr:city": "Hazlet",
+        "addr:state": "NJ",
+        "addr:postcode": "07730",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2973",
+        "addr:street": "Route 35"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.17676, 40.41809] }
+    },
+    {
+      "type": "Feature",
+      "id": "xt0FVLKcUj0MQCmBfpAdtkYs568=",
+      "properties": {
+        "ref": "1136",
+        "shop": "supermarket",
+        "addr:city": "Greensboro",
+        "addr:state": "NC",
+        "addr:postcode": "27407",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5696",
+        "addr:street": "West Gate City Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.89463, 36.017838] }
+    },
+    {
+      "type": "Feature",
+      "id": "FCObOjmpZLGzGG09Z7osH91gO6I=",
+      "properties": {
+        "ref": "1138",
+        "shop": "supermarket",
+        "addr:city": "Royersford",
+        "addr:state": "PA",
+        "addr:postcode": "19468",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1831",
+        "addr:street": "East Ridge Pike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.496506, 40.214073] }
+    },
+    {
+      "type": "Feature",
+      "id": "bN1G0mUQ9f1bVRdXYgpAGTL2Kz8=",
+      "properties": {
+        "ref": "1140",
+        "shop": "supermarket",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23453",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3248",
+        "addr:street": "Holland Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.083626, 36.797924] }
+    },
+    {
+      "type": "Feature",
+      "id": "ODOvot-nuY56iAeSLdprJK5IuE8=",
+      "properties": {
+        "ref": "1141",
+        "shop": "supermarket",
+        "addr:city": "Greenville",
+        "addr:state": "SC",
+        "addr:postcode": "29607",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1866",
+        "addr:street": "Woodruff Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.265785, 34.819748] }
+    },
+    {
+      "type": "Feature",
+      "id": "EMY2k7E8QpxBtOVnRaVsu0wnM10=",
+      "properties": {
+        "ref": "1157",
+        "shop": "supermarket",
+        "addr:city": "Raleigh",
+        "addr:state": "NC",
+        "addr:postcode": "27616",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4115",
+        "addr:street": "Buffaloe Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.56913, 35.831455] }
+    },
+    {
+      "type": "Feature",
+      "id": "y_kcypxgAs7wxT4InT3nUj_NZbk=",
+      "properties": {
+        "ref": "1159",
+        "shop": "supermarket",
+        "addr:city": "College Park",
+        "addr:state": "MD",
+        "addr:postcode": "20740",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8601",
+        "addr:street": "Baltimore Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.93173, 38.996243] }
+    },
+    {
+      "type": "Feature",
+      "id": "HyiOvGDIcuFT7DWjSGRKyqBTewU=",
+      "properties": {
+        "ref": "1161",
+        "shop": "supermarket",
+        "addr:city": "Matthews",
+        "addr:state": "NC",
+        "addr:postcode": "28105",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4520",
+        "addr:street": "Margaret Wallace Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.708, 35.171597] }
+    },
+    {
+      "type": "Feature",
+      "id": "eBsoFxbLbV7PES8945fLc-AJLB0=",
+      "properties": {
+        "ref": "1162",
+        "shop": "supermarket",
+        "addr:city": "Cherry Hill",
+        "addr:state": "NJ",
+        "addr:postcode": "08002",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "400",
+        "addr:street": "NJ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.04984, 39.936123] }
+    },
+    {
+      "type": "Feature",
+      "id": "KxlGu94_yn39DYJaCQKH6MSmtcU=",
+      "properties": {
+        "ref": "1163",
+        "shop": "supermarket",
+        "addr:city": "Concord",
+        "addr:state": "NC",
+        "addr:postcode": "28027",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8930",
+        "addr:street": "Christenbury Parkway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.73169, 35.37639] }
+    },
+    {
+      "type": "Feature",
+      "id": "GaSD7tZJkZqrIzyAi6TXlj5mlLY=",
+      "properties": {
+        "ref": "1166",
+        "shop": "supermarket",
+        "addr:city": "Dover",
+        "addr:state": "DE",
+        "addr:postcode": "19901",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "150",
+        "addr:street": "North DuPont Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.51696, 39.166973] }
+    },
+    {
+      "type": "Feature",
+      "id": "mcaTJBUlGG-Y_5htBdcr92Qjeo4=",
+      "properties": {
+        "ref": "1170",
+        "shop": "supermarket",
+        "addr:city": "Mableton",
+        "addr:state": "GA",
+        "addr:postcode": "30126",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4844",
+        "addr:street": "Floyd Road Southwest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.57664, 33.83697] }
+    },
+    {
+      "type": "Feature",
+      "id": "O7_pI8a5bSyda22a48ClEdVNbYE=",
+      "properties": {
+        "ref": "1176",
+        "shop": "supermarket",
+        "addr:city": "Lacey",
+        "addr:state": "NJ",
+        "addr:postcode": "08734",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "514",
+        "addr:street": "Us 9"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.179375, 39.856625] }
+    },
+    {
+      "type": "Feature",
+      "id": "0JqXnrfBRYZ25ju02qyJvI3TbP4=",
+      "properties": {
+        "ref": "1177",
+        "shop": "supermarket",
+        "addr:city": "Eatontown",
+        "addr:state": "NJ",
+        "addr:postcode": "07724",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "136",
+        "addr:street": "Njsh 35"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0545, 40.295864] }
+    },
+    {
+      "type": "Feature",
+      "id": "OTssHmnw15vrmeZc4NEFBUt-wF4=",
+      "properties": {
+        "ref": "1186",
+        "shop": "supermarket",
+        "addr:city": "Jonesboro",
+        "addr:state": "GA",
+        "addr:postcode": "30236",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8155",
+        "addr:street": "Tara Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.363655, 33.530273] }
+    },
+    {
+      "type": "Feature",
+      "id": "H44AJ7JfyUQ59AS6HWne74PhwdA=",
+      "properties": {
+        "ref": "1199",
+        "shop": "supermarket",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23230",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4700",
+        "addr:street": "West Broad Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.49092, 37.57987] }
+    },
+    {
+      "type": "Feature",
+      "id": "bHyEUkwtUfAFEugtlCUjjenNcag=",
+      "properties": {
+        "ref": "1203",
+        "shop": "supermarket",
+        "addr:city": "Folsom",
+        "addr:state": "PA",
+        "addr:postcode": "19033",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "420",
+        "addr:street": "MacDade Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.326164, 39.888824] }
+    },
+    {
+      "type": "Feature",
+      "id": "YP_0EER0j7q-ueYgD9QHcokAWxQ=",
+      "properties": {
+        "ref": "1208",
+        "shop": "supermarket",
+        "addr:city": "Lawrenceville",
+        "addr:state": "GA",
+        "addr:postcode": "30044",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3520",
+        "addr:street": "Sugarloaf Parkway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.02162, 33.925987] }
+    },
+    {
+      "type": "Feature",
+      "id": "-n5gv2612NI-7htx5otqHeRyZ0s=",
+      "properties": {
+        "ref": "1215",
+        "shop": "supermarket",
+        "addr:city": "Broadlands",
+        "addr:state": "VA",
+        "addr:postcode": "20148-3807",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "21285",
+        "addr:street": "Coopers Hawk Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.48449, 39.06635] }
+    },
+    {
+      "type": "Feature",
+      "id": "qy8QisnJUPu0RgRLxTajpOBlXCI=",
+      "properties": {
+        "ref": "1229",
+        "shop": "supermarket",
+        "addr:city": "Springfield",
+        "addr:state": "VA",
+        "addr:postcode": "22150",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6801",
+        "addr:street": "Commerce Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.18416, 38.782265] }
+    },
+    {
+      "type": "Feature",
+      "id": "FAe7NxEMT4cWuy_LoTXsM9-RA4w=",
+      "properties": {
+        "ref": "1243",
+        "shop": "supermarket",
+        "addr:city": "Manassas",
+        "addr:state": "VA",
+        "addr:postcode": "20110",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9795",
+        "addr:street": "Liberia Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.45049, 38.7429] }
+    },
+    {
+      "type": "Feature",
+      "id": "cNunrG8Sx7CVn2chYPu-aM8vnk0=",
+      "properties": {
+        "ref": "1246",
+        "shop": "supermarket",
+        "addr:city": "Trooper",
+        "addr:state": "PA",
+        "addr:postcode": "19403",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2613",
+        "addr:street": "Ridge Pike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.3907, 40.14304] }
+    },
+    {
+      "type": "Feature",
+      "id": "QjP-pfT00s70vX9yX8EbjzFBnhI=",
+      "properties": {
+        "ref": "1247",
+        "shop": "supermarket",
+        "addr:city": "Suwanee",
+        "addr:state": "GA",
+        "addr:postcode": "30024",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2985",
+        "addr:street": "Peachtree Parkway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.16799, 34.090015] }
+    },
+    {
+      "type": "Feature",
+      "id": "h_RBYQ4RhDNJ6zqME_O_2UgyEms=",
+      "properties": {
+        "ref": "1248",
+        "shop": "supermarket",
+        "addr:city": "Marietta",
+        "addr:state": "GA",
+        "addr:postcode": "30064",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2641",
+        "addr:street": "Powder Springs Road Southwest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.63015, 33.867943] }
+    },
+    {
+      "type": "Feature",
+      "id": "TTEBC9S0CkTDlFYBSVaE-z-v7LI=",
+      "properties": {
+        "ref": "1250",
+        "shop": "supermarket",
+        "addr:city": "Philadelphia",
+        "addr:state": "PA",
+        "addr:postcode": "19114",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9175",
+        "addr:street": "Roosevelt Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0324, 40.076675] }
+    },
+    {
+      "type": "Feature",
+      "id": "zNvk3mH0cZSAQrc4zDy6Hl3GmU4=",
+      "properties": {
+        "ref": "1262",
+        "shop": "supermarket",
+        "addr:city": "Snellville",
+        "addr:state": "GA",
+        "addr:postcode": "30039",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3821",
+        "addr:street": "Stone Mountain Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.06395, 33.840572] }
+    },
+    {
+      "type": "Feature",
+      "id": "TS-i66ZGLPBnSNWA6Mz7F-uriL8=",
+      "properties": {
+        "ref": "1285",
+        "shop": "supermarket",
+        "addr:city": "Hagerstown",
+        "addr:state": "MD",
+        "addr:postcode": "21740",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "733",
+        "addr:street": "Dual Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.706566, 39.635628] }
+    },
+    {
+      "type": "Feature",
+      "id": "Y_dj4iJthlbBHWOn2X5CEIAdlxQ=",
+      "properties": {
+        "ref": "1290",
+        "shop": "supermarket",
+        "addr:city": "Decatur",
+        "addr:state": "GA",
+        "addr:postcode": "30035",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6038",
+        "addr:street": "Covington Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.1716, 33.72369] }
+    },
+    {
+      "type": "Feature",
+      "id": "74M_UMwIF4L-7k5yiMuxs0_bCZ8=",
+      "properties": {
+        "ref": "1299",
+        "shop": "supermarket",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23455",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1030",
+        "addr:street": "Independence Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.13411, 36.87313] }
+    },
+    {
+      "type": "Feature",
+      "id": "nMIWsqdg6lVFC-1Ozta8IB4vE8Q=",
+      "properties": {
+        "ref": "1342",
+        "shop": "supermarket",
+        "addr:city": "Cinnaminson",
+        "addr:state": "NJ",
+        "addr:postcode": "08077",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "601",
+        "addr:street": "Highway 130 South"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.99945, 39.993668] }
+    },
+    {
+      "type": "Feature",
+      "id": "fKXGLVDIz9ivmEjGOjs5GNArl-g=",
+      "properties": {
+        "ref": "1352",
+        "shop": "supermarket",
+        "addr:city": "Lancaster",
+        "addr:state": "PA",
+        "addr:postcode": "17603",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2001",
+        "addr:street": "Columbia Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.35899, 40.039127] }
+    },
+    {
+      "type": "Feature",
+      "id": "nmwS1fDNoGGPCVcPihMYBjT8oSc=",
+      "properties": {
+        "ref": "1372",
+        "shop": "supermarket",
+        "addr:city": "Staten Island",
+        "addr:state": "NY",
+        "addr:postcode": "10314",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "283",
+        "addr:street": "Platinum Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.16823, 40.57901] }
+    },
+    {
+      "type": "Feature",
+      "id": "STBjG_U4tlw_xIzOSg5D7UQ1BhE=",
+      "properties": {
+        "ref": "1394",
+        "shop": "supermarket",
+        "addr:city": "Ashburn",
+        "addr:state": "VA",
+        "addr:postcode": "20147",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "44175",
+        "addr:street": "Ashbrook Marketplace Plaza"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.47347, 39.060333] }
+    },
+    {
+      "type": "Feature",
+      "id": "LfuyJTA1iy5XxjJpAwqi9WScWwQ=",
+      "properties": {
+        "ref": "1409",
+        "shop": "supermarket",
+        "addr:city": "Montgomery Village",
+        "addr:state": "MD",
+        "addr:postcode": "20886",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "19225",
+        "addr:street": "Montgomery Village Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.20334, 39.17165] }
+    },
+    {
+      "type": "Feature",
+      "id": "wzHaIz3_mF9bddi12VRMMzHSR-w=",
+      "properties": {
+        "ref": "1410",
+        "shop": "supermarket",
+        "addr:city": "Bergenfield",
+        "addr:state": "NJ",
+        "addr:postcode": "07621",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "80",
+        "addr:street": "New Bridge Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.00107, 40.913216] }
+    },
+    {
+      "type": "Feature",
+      "id": "Z8VlAlvVm3DCa3eC0UzZuzy6E90=",
+      "properties": {
+        "ref": "1411",
+        "shop": "supermarket",
+        "addr:city": "Lansdale",
+        "addr:state": "PA",
+        "addr:postcode": "19446",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1150",
+        "addr:street": "Welsh Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.298805, 40.249485] }
+    },
+    {
+      "type": "Feature",
+      "id": "jO2n34SqQJibhHqP4WVyBx9lD7w=",
+      "properties": {
+        "ref": "1412",
+        "shop": "supermarket",
+        "addr:street_address": "Suite R70 3500 Oleander Dr",
+        "addr:city": "Wilmington",
+        "addr:state": "NC",
+        "addr:postcode": "28403",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.90166, 34.214718] }
+    },
+    {
+      "type": "Feature",
+      "id": "wRi0ZbS_FZ7qPH-ifeuUm6PWfhQ=",
+      "properties": {
+        "ref": "1413",
+        "shop": "supermarket",
+        "addr:city": "Catonsville",
+        "addr:state": "MD",
+        "addr:postcode": "21228",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6026",
+        "addr:street": "Baltimore National Pike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.7448, 39.28494] }
+    },
+    {
+      "type": "Feature",
+      "id": "MO99SVmDcB_x_8BkwfE-CBeMlDs=",
+      "properties": {
+        "ref": "1415",
+        "shop": "supermarket",
+        "addr:city": "Woodstock",
+        "addr:state": "GA",
+        "addr:postcode": "30189",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6421",
+        "addr:street": "Bells Ferry Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.58177, 34.11146] }
+    },
+    {
+      "type": "Feature",
+      "id": "A7tch7jx5aFSrnfoPN7zFoeqv5Q=",
+      "properties": {
+        "ref": "1416",
+        "shop": "supermarket",
+        "addr:city": "Apex",
+        "addr:state": "NC",
+        "addr:postcode": "27502",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "670",
+        "addr:street": "Grand Central Station"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.842705, 35.73852] }
+    },
+    {
+      "type": "Feature",
+      "id": "eApqQaYXrMK_wnMtqtUlz1e9MTg=",
+      "properties": {
+        "ref": "1417",
+        "shop": "supermarket",
+        "addr:city": "Charlotte",
+        "addr:state": "NC",
+        "addr:postcode": "28273",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11225",
+        "addr:street": "South Tryon Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.962326, 35.11512] }
+    },
+    {
+      "type": "Feature",
+      "id": "cmycD6HAr47-WOz9ESv2nlAKKds=",
+      "properties": {
+        "ref": "1418",
+        "shop": "supermarket",
+        "addr:city": "Burlington",
+        "addr:state": "NC",
+        "addr:postcode": "27215",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3010",
+        "addr:street": "South Church Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.49146, 36.080505] }
+    },
+    {
+      "type": "Feature",
+      "id": "449qYnLlr_QlyqhTjSMvVJrEvoM=",
+      "properties": {
+        "ref": "1419",
+        "shop": "supermarket",
+        "addr:city": "Nottingham",
+        "addr:state": "MD",
+        "addr:postcode": "21236",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8667",
+        "addr:street": "Belair Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.48941, 39.39095] }
+    },
+    {
+      "type": "Feature",
+      "id": "TnXlxJ1cRJTKy-ThOT2q9dYoXbM=",
+      "properties": {
+        "ref": "1420",
+        "shop": "supermarket",
+        "addr:city": "Roswell",
+        "addr:state": "GA",
+        "addr:postcode": "30076",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "690",
+        "addr:street": "Holcomb Bridge Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.33979, 34.03332] }
+    },
+    {
+      "type": "Feature",
+      "id": "zgV_uFzqfTRHnhYM9KR9PKUUZa0=",
+      "properties": {
+        "ref": "1423",
+        "shop": "supermarket",
+        "addr:city": "Woodbridge",
+        "addr:state": "NJ",
+        "addr:postcode": "07095",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "789",
+        "addr:street": "Saint George Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.28889, 40.566795] }
+    },
+    {
+      "type": "Feature",
+      "id": "mzRe6pWqEAzRndKtJt_8CFJpcMI=",
+      "properties": {
+        "ref": "1425",
+        "shop": "supermarket",
+        "addr:city": "Brick",
+        "addr:state": "NJ",
+        "addr:postcode": "08723",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2770",
+        "addr:street": "Hooper Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.135796, 40.056606] }
+    },
+    {
+      "type": "Feature",
+      "id": "2tKPVRslj61nVF6WcYJYK6J9gRA=",
+      "properties": {
+        "ref": "1426",
+        "shop": "supermarket",
+        "addr:city": "Fayetteville",
+        "addr:state": "NC",
+        "addr:postcode": "28314",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1912",
+        "addr:street": "Skibo Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.965965, 35.07008] }
+    },
+    {
+      "type": "Feature",
+      "id": "f8gXzXd86GAJmS-2vrb2aqewxSo=",
+      "properties": {
+        "ref": "1428",
+        "shop": "supermarket",
+        "addr:city": "Duluth",
+        "addr:state": "GA",
+        "addr:postcode": "30097",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2330",
+        "addr:street": "Peachtree Industrial Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.13822, 34.022808] }
+    },
+    {
+      "type": "Feature",
+      "id": "IZvlW43IufCKZeSxzSbK1dow9Yc=",
+      "properties": {
+        "ref": "1429",
+        "shop": "supermarket",
+        "addr:city": "Lawrenceville",
+        "addr:state": "NJ",
+        "addr:postcode": "08648",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2497",
+        "addr:street": "Brunswick Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.726456, 40.258526] }
+    },
+    {
+      "type": "Feature",
+      "id": "l9qvm0ewmN_1Z02KnUUk7sxn3KI=",
+      "properties": {
+        "ref": "1430",
+        "shop": "supermarket",
+        "addr:city": "Marietta",
+        "addr:state": "GA",
+        "addr:postcode": "30064",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "670",
+        "addr:street": "Whitlock Avenue Southwest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.571915, 33.952084] }
+    },
+    {
+      "type": "Feature",
+      "id": "wFEojjLtVx4D3otUiBWt-YhCebs=",
+      "properties": {
+        "ref": "1431",
+        "shop": "supermarket",
+        "addr:city": "Glassboro",
+        "addr:state": "NJ",
+        "addr:postcode": "08028",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "779",
+        "addr:street": "Delsea Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.11543, 39.721924] }
+    },
+    {
+      "type": "Feature",
+      "id": "oTcysfjXOgKTW1Lr4MNL_qRsKfM=",
+      "properties": {
+        "ref": "1433",
+        "shop": "supermarket",
+        "addr:city": "Garwood",
+        "addr:state": "NJ",
+        "addr:postcode": "07027",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "10",
+        "addr:street": "South Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.31535, 40.65292] }
+    },
+    {
+      "type": "Feature",
+      "id": "vj3WBnp5ZTZoKSIKQlzlE-8jveg=",
+      "properties": {
+        "ref": "1434",
+        "shop": "supermarket",
+        "addr:city": "North Brunswick",
+        "addr:state": "NJ",
+        "addr:postcode": "08902",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "500",
+        "addr:street": "Milltown Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.45097, 40.464603] }
+    },
+    {
+      "type": "Feature",
+      "id": "l-dloD7YFjVRYrEkIidPPgJNgLA=",
+      "properties": {
+        "ref": "1435",
+        "shop": "supermarket",
+        "addr:city": "Fairfax",
+        "addr:state": "VA",
+        "addr:postcode": "22030",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11179",
+        "addr:street": "Route 29"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.33203, 38.850063] }
+    },
+    {
+      "type": "Feature",
+      "id": "h63IVxmFuZR4Fb68qodjYn7NWNU=",
+      "properties": {
+        "ref": "1436",
+        "shop": "supermarket",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20020",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2224",
+        "addr:street": "Town Center Drive Southeast"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.96738, 38.861256] }
+    },
+    {
+      "type": "Feature",
+      "id": "gKb0DG9UFsE4vomC1EcIZt2XQho=",
+      "properties": {
+        "ref": "1437",
+        "shop": "supermarket",
+        "addr:city": "Glen Burnie",
+        "addr:state": "MD",
+        "addr:postcode": "21061",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "7700",
+        "addr:street": "Ritchie Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.6129, 39.151527] }
+    },
+    {
+      "type": "Feature",
+      "id": "YxoF-VW-jdbxCeGI7M8oBxLCLjE=",
+      "properties": {
+        "ref": "1439",
+        "shop": "supermarket",
+        "addr:city": "Peachtree Corners",
+        "addr:state": "GA",
+        "addr:postcode": "30092",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5270",
+        "addr:street": "Peachtree Parkway Northwest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.21764, 33.977608] }
+    },
+    {
+      "type": "Feature",
+      "id": "q2rtpD65xoJQkUOJXLBSQmRmeNI=",
+      "properties": {
+        "ref": "1440",
+        "shop": "supermarket",
+        "addr:city": "Elmwood Park",
+        "addr:state": "NJ",
+        "addr:postcode": "07407",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "58",
+        "addr:street": "Broadway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.126, 40.91813] }
+    },
+    {
+      "type": "Feature",
+      "id": "eVEIlegnhWKTQ9QqOJ0cZn-3wbY=",
+      "properties": {
+        "ref": "1442",
+        "shop": "supermarket",
+        "addr:city": "Reading",
+        "addr:state": "PA",
+        "addr:postcode": "19608",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3564",
+        "addr:street": "Penn Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.0118, 40.325504] }
+    },
+    {
+      "type": "Feature",
+      "id": "3XiJZrlOWr9Yj0mX2cKDQkAhtIE=",
+      "properties": {
+        "ref": "1443",
+        "shop": "supermarket",
+        "addr:city": "Bayonne",
+        "addr:state": "NJ",
+        "addr:postcode": "07002",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "20",
+        "addr:street": "Goldsborough Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.10705, 40.670704] }
+    },
+    {
+      "type": "Feature",
+      "id": "B8aWHzjH8Xknto_vJ_DHeb4qYlY=",
+      "properties": {
+        "ref": "1444",
+        "shop": "supermarket",
+        "addr:city": "Atlanta",
+        "addr:state": "GA",
+        "addr:postcode": "30329",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2480",
+        "addr:street": "Briarcliff Road Northeast"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.3319, 33.827103] }
+    },
+    {
+      "type": "Feature",
+      "id": "SvEG51qrBHvkCAhcY98B2Azu2mA=",
+      "properties": {
+        "ref": "1445",
+        "shop": "supermarket",
+        "addr:city": "Marietta",
+        "addr:state": "GA",
+        "addr:postcode": "30068",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1205",
+        "addr:street": "Johnson Ferry Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.41758, 33.978203] }
+    },
+    {
+      "type": "Feature",
+      "id": "oQtiRH9udgj87Uqpmv0QYNkA3YQ=",
+      "properties": {
+        "ref": "1446",
+        "shop": "supermarket",
+        "addr:city": "Alexandria",
+        "addr:state": "VA",
+        "addr:postcode": "22312",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6548",
+        "addr:street": "Little River Turnpike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.16129, 38.823242] }
+    },
+    {
+      "type": "Feature",
+      "id": "3nchpa5cJdp6CD4R4Ph9iArbQc8=",
+      "properties": {
+        "ref": "1448",
+        "shop": "supermarket",
+        "addr:city": "Park Ridge",
+        "addr:state": "NJ",
+        "addr:postcode": "07656",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "199",
+        "addr:street": "Kinderkamack Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.030716, 41.03672] }
+    },
+    {
+      "type": "Feature",
+      "id": "nscoRgvxsFLuDE-agg-a-IOZ9e4=",
+      "properties": {
+        "ref": "1449",
+        "shop": "supermarket",
+        "addr:city": "Weehawken",
+        "addr:state": "NJ",
+        "addr:postcode": "07086",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4100",
+        "addr:street": "Park Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.020996, 40.773983] }
+    },
+    {
+      "type": "Feature",
+      "id": "vmH1pakwcYxTBWuoUYM-WcvMUmY=",
+      "properties": {
+        "ref": "1450",
+        "shop": "supermarket",
+        "addr:city": "Columbia",
+        "addr:state": "MD",
+        "addr:postcode": "21044",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "10300",
+        "addr:street": "Little Patuxent Parkway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.86565, 39.2115] }
+    },
+    {
+      "type": "Feature",
+      "id": "T-axVge3PrtxO39CXVBznW5dfXo=",
+      "properties": {
+        "ref": "1453",
+        "shop": "supermarket",
+        "addr:city": "Atlanta",
+        "addr:state": "GA",
+        "addr:postcode": "30317",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1855",
+        "addr:street": "Memorial Drive Southeast"
+      },
+      "geometry": { "type": "Point", "coordinates": [-84.328896, 33.747425] }
+    },
+    {
+      "type": "Feature",
+      "id": "S4OYZElwL8pobSnNjLZ7LGtrKmY=",
+      "properties": {
+        "ref": "1454",
+        "shop": "supermarket",
+        "addr:city": "Morristown",
+        "addr:state": "NJ",
+        "addr:postcode": "07960",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "191",
+        "addr:street": "East Hanover Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.47442, 40.818943] }
+    },
+    {
+      "type": "Feature",
+      "id": "MVD0vZzrpwjqaoBCa7ibjjHh8tQ=",
+      "properties": {
+        "ref": "1455",
+        "shop": "supermarket",
+        "addr:city": "North Charleston",
+        "addr:state": "SC",
+        "addr:postcode": "29420",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8849",
+        "addr:street": "Dorchester Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.12079, 32.9223] }
+    },
+    {
+      "type": "Feature",
+      "id": "XnYsX1jwCray0gM5Lvt0CbraGhk=",
+      "properties": {
+        "ref": "1459",
+        "shop": "supermarket",
+        "addr:city": "Baltimore",
+        "addr:state": "MD",
+        "addr:postcode": "21218",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1504",
+        "addr:street": "Havenwood Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59097, 39.3412] }
+    },
+    {
+      "type": "Feature",
+      "id": "LEnYIF66Wms1ww_92oeFEg_-BOk=",
+      "properties": {
+        "ref": "1460",
+        "shop": "supermarket",
+        "addr:city": "Lorton",
+        "addr:state": "VA",
+        "addr:postcode": "22079",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9001",
+        "addr:street": "White Spruce Way"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.228775, 38.707897] }
+    },
+    {
+      "type": "Feature",
+      "id": "C9xlAJHoHIBiSu9KR7OZcD9thlU=",
+      "properties": {
+        "ref": "1461",
+        "shop": "supermarket",
+        "addr:city": "Timonium",
+        "addr:state": "MD",
+        "addr:postcode": "21093",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "15",
+        "addr:street": "East Padonia Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.61969, 39.43705] }
+    },
+    {
+      "type": "Feature",
+      "id": "v84n3udG19hIpbqGyufoY3Z5dB0=",
+      "properties": {
+        "ref": "1463",
+        "shop": "supermarket",
+        "addr:city": "Egg Harbor Township",
+        "addr:state": "NJ",
+        "addr:postcode": "08234",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3121",
+        "addr:street": "Fire Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.5625, 39.39288] }
+    },
+    {
+      "type": "Feature",
+      "id": "atGaqI17gQDwD9YlImfCICstlzc=",
+      "properties": {
+        "ref": "1467",
+        "shop": "supermarket",
+        "addr:city": "Pompton Lakes",
+        "addr:state": "NJ",
+        "addr:postcode": "07442",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "63",
+        "addr:street": "Wanaque Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.29174, 41.004536] }
+    },
+    {
+      "type": "Feature",
+      "id": "FLmWd4xpUCaGQ_57Ar9kn4ZcgpM=",
+      "properties": {
+        "ref": "1469",
+        "shop": "supermarket",
+        "addr:city": "Falls Church",
+        "addr:state": "VA",
+        "addr:postcode": "22042",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2901",
+        "addr:street": "Gallows Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.22644, 38.87353] }
+    },
+    {
+      "type": "Feature",
+      "id": "Ao9LhphAiODO5bH18zNphHZOP0c=",
+      "properties": {
+        "ref": "1471",
+        "shop": "supermarket",
+        "addr:city": "Reisterstown",
+        "addr:state": "MD",
+        "addr:postcode": "21136",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11991",
+        "addr:street": "Reisterstown Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.81591, 39.449043] }
+    },
+    {
+      "type": "Feature",
+      "id": "pFAMp16s6Z4QIsiXvGrsqPMaQ78=",
+      "properties": {
+        "ref": "1473",
+        "shop": "supermarket",
+        "addr:city": "New Hyde Park",
+        "addr:state": "NY",
+        "addr:postcode": "11040",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2475",
+        "addr:street": "Jericho Turnpike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.65743, 40.743626] }
+    },
+    {
+      "type": "Feature",
+      "id": "CkmHVCa1UMIG84NhtE0LqTfPH9o=",
+      "properties": {
+        "ref": "1477",
+        "shop": "supermarket",
+        "addr:city": "Buford",
+        "addr:state": "GA",
+        "addr:postcode": "30519",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1945",
+        "addr:street": "Braselton Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-83.953575, 34.03599] }
+    },
+    {
+      "type": "Feature",
+      "id": "6cODnT1X_83WQYs9ChiC-xhqAHs=",
+      "properties": {
+        "ref": "1478",
+        "shop": "supermarket",
+        "addr:city": "Sterling",
+        "addr:state": "VA",
+        "addr:postcode": "20164",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "47100",
+        "addr:street": "Community Plaza"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.37586, 39.01583] }
+    },
+    {
+      "type": "Feature",
+      "id": "U7Lwfc8hh9yTtO-tT81EnaI2QnE=",
+      "properties": {
+        "ref": "1482",
+        "shop": "supermarket",
+        "addr:city": "Belleville",
+        "addr:state": "NJ",
+        "addr:postcode": "07109",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "414",
+        "addr:street": "Main Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.14028, 40.802097] }
+    },
+    {
+      "type": "Feature",
+      "id": "Tf6--0nbXiFsnhpTWDkTTL0AcYU=",
+      "properties": {
+        "ref": "1484",
+        "shop": "supermarket",
+        "addr:city": "Exton",
+        "addr:state": "PA",
+        "addr:postcode": "19341",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "104",
+        "addr:street": "Bartlett Avenue",
+        "addr:unit": "100"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.62656, 40.021454] }
+    },
+    {
+      "type": "Feature",
+      "id": "FlMaLHV2w0erj-cyJmQ0ReGD-ho=",
+      "properties": {
+        "ref": "1488",
+        "shop": "supermarket",
+        "addr:city": "Frederick",
+        "addr:state": "MD",
+        "addr:postcode": "21702",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1003",
+        "addr:street": "West Patrick Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.44099, 39.41844] }
+    },
+    {
+      "type": "Feature",
+      "id": "o2S38hxx2vD7cD8s0jrLxJkksPo=",
+      "properties": {
+        "ref": "1497",
+        "shop": "supermarket",
+        "addr:city": "Charlotte",
+        "addr:state": "NC",
+        "addr:postcode": "28226",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "11200",
+        "addr:street": "Carmel Commons Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.852585, 35.083187] }
+    },
+    {
+      "type": "Feature",
+      "id": "ytYcxJqXqS4uuXahFwDYG-mbrKA=",
+      "properties": {
+        "ref": "1499",
+        "shop": "supermarket",
+        "addr:city": "Riverhead",
+        "addr:state": "NY",
+        "addr:postcode": "11901",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1151",
+        "addr:street": "Old Country Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.673096, 40.933548] }
+    },
+    {
+      "type": "Feature",
+      "id": "k6s1jp8ArsLKY5Goze_LyNAyQ2A=",
+      "properties": {
+        "ref": "1503",
+        "shop": "supermarket",
+        "addr:city": "Deer Park",
+        "addr:state": "NY",
+        "addr:postcode": "11729",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "450",
+        "addr:street": "Commack Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.3131, 40.76288] }
+    },
+    {
+      "type": "Feature",
+      "id": "uCahOSIH351x4wkXbmytqj1PNE4=",
+      "properties": {
+        "ref": "1506",
+        "shop": "supermarket",
+        "addr:city": "Clifton Heights",
+        "addr:state": "PA",
+        "addr:postcode": "19018",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "713",
+        "addr:street": "East Baltimore Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.30444, 39.92676] }
+    },
+    {
+      "type": "Feature",
+      "id": "F51-M0nJnC0poYw0OQO91I1bMlo=",
+      "properties": {
+        "ref": "1512",
+        "shop": "supermarket",
+        "addr:city": "Greensboro",
+        "addr:state": "NC",
+        "addr:postcode": "27455",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3005",
+        "addr:street": "Martinsville Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.82959, 36.11707] }
+    },
+    {
+      "type": "Feature",
+      "id": "3g8xWeHRLbpXhb8RIkbqikjxrfw=",
+      "properties": {
+        "ref": "1523",
+        "shop": "supermarket",
+        "addr:city": "McLean",
+        "addr:state": "VA",
+        "addr:postcode": "22101",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1330",
+        "addr:street": "Chain Bridge Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.17579, 38.93966] }
+    },
+    {
+      "type": "Feature",
+      "id": "sCvwxlrcIJH3xC-a0LzNntllNSQ=",
+      "properties": {
+        "ref": "1530",
+        "shop": "supermarket",
+        "addr:city": "Garner",
+        "addr:state": "NC",
+        "addr:postcode": "27529",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2694",
+        "addr:street": "Timber Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.6416, 35.707546] }
+    },
+    {
+      "type": "Feature",
+      "id": "IdG5jQe_nulGh9N6kGB-ZWZpd68=",
+      "properties": {
+        "ref": "1531",
+        "shop": "supermarket",
+        "addr:city": "Commack",
+        "addr:state": "NY",
+        "addr:postcode": "11725",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "210",
+        "addr:street": "Jericho Turnpike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.26577, 40.846397] }
+    },
+    {
+      "type": "Feature",
+      "id": "Ij05Z0fMkAjy0H95XDS1UP2eu1c=",
+      "properties": {
+        "ref": "1542",
+        "shop": "supermarket",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20010",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3100",
+        "addr:street": "14th Street Northwest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.033005, 38.93012] }
+    },
+    {
+      "type": "Feature",
+      "id": "Zqk2LyOx72dCLgMp4gnmmZhg3XU=",
+      "properties": {
+        "ref": "1546",
+        "shop": "supermarket",
+        "addr:city": "Vienna",
+        "addr:state": "VA",
+        "addr:postcode": "22182",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "8387",
+        "addr:street": "Leesburg Pike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.236496, 38.921886] }
+    },
+    {
+      "type": "Feature",
+      "id": "0YKKtrr3jX-F2gCJBpWp0inZ0rE=",
+      "properties": {
+        "ref": "1559",
+        "shop": "supermarket",
+        "addr:city": "Elmhurst",
+        "addr:state": "NY",
+        "addr:postcode": "11373-4449",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "88-01",
+        "addr:street": "Queens Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.87426, 40.735733] }
+    },
+    {
+      "type": "Feature",
+      "id": "fwrnW9qdEgq4qUviHDNkE-To_Jo=",
+      "properties": {
+        "ref": "3500",
+        "shop": "supermarket",
+        "addr:city": "Arlington",
+        "addr:state": "VA",
+        "addr:postcode": "22202",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "3500",
+        "addr:street": "South Clark Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.0522, 38.8438] }
+    },
+    {
+      "type": "Feature",
+      "id": "eVOSk3-H8HQcqH8B8LU63lNzZWw=",
+      "properties": {
+        "ref": "8001",
+        "shop": "supermarket",
+        "addr:city": "Islip",
+        "addr:state": "NY",
+        "addr:postcode": "11751",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "155",
+        "addr:street": "Islip Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.20765, 40.735764] }
+    },
+    {
+      "type": "Feature",
+      "id": "ByOTeVrJHrNbRUc2CzuRyNjcGBM=",
+      "properties": {
+        "ref": "8002",
+        "shop": "supermarket",
+        "addr:city": "East Rockaway",
+        "addr:state": "NY",
+        "addr:postcode": "11518",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "492",
+        "addr:street": "Atlantic Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.66544, 40.64199] }
+    },
+    {
+      "type": "Feature",
+      "id": "wZbqhdvJlh1Ze295aW-nqDHEZMc=",
+      "properties": {
+        "ref": "8003",
+        "shop": "supermarket",
+        "addr:city": "Huntington Station",
+        "addr:state": "NY",
+        "addr:postcode": "11746",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "711",
+        "addr:street": "East Jericho Turnpike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.38376, 40.83463] }
+    },
+    {
+      "type": "Feature",
+      "id": "iWwS5I5zfI8jLgPwRLYBL382Dp4=",
+      "properties": {
+        "ref": "8004",
+        "shop": "supermarket",
+        "addr:city": "Syosset",
+        "addr:state": "NY",
+        "addr:postcode": "11791",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "271",
+        "addr:street": "Jericho Turnpike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.50517, 40.81148] }
+    },
+    {
+      "type": "Feature",
+      "id": "r-uhbYKUva8iT8R1DCXd8bZIxPU=",
+      "properties": {
+        "ref": "8006",
+        "shop": "supermarket",
+        "addr:city": "Merrick",
+        "addr:state": "NY",
+        "addr:postcode": "11566",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1686",
+        "addr:street": "Merrick Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.55979, 40.65362] }
+    },
+    {
+      "type": "Feature",
+      "id": "DWrrBBwNLj-EQZ8NKBj_bjKqhF8=",
+      "properties": {
+        "ref": "8007",
+        "shop": "supermarket",
+        "addr:city": "West Babylon",
+        "addr:state": "NY",
+        "addr:postcode": "11704",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "725",
+        "addr:street": "Sunrise Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.34192, 40.713825] }
+    },
+    {
+      "type": "Feature",
+      "id": "vTzuhUN3Lxkg1fG6X5xAm0BM7fY=",
+      "properties": {
+        "ref": "8008",
+        "shop": "supermarket",
+        "addr:city": "West Babylon",
+        "addr:state": "NY",
+        "addr:postcode": "11704",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "531",
+        "addr:street": "Montauk Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.34597, 40.68571] }
+    },
+    {
+      "type": "Feature",
+      "id": "rmBUKyOzR3KqhBg5o7XgJoYFxZQ=",
+      "properties": {
+        "ref": "8009",
+        "shop": "supermarket",
+        "addr:city": "Massapequa",
+        "addr:state": "NY",
+        "addr:postcode": "11758",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "5601",
+        "addr:street": "Merrick Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.43042, 40.66946] }
+    },
+    {
+      "type": "Feature",
+      "id": "vXUmU7e9Dqm_TcRQcdwKTcgqngI=",
+      "properties": {
+        "ref": "8011",
+        "shop": "supermarket",
+        "addr:city": "Harlem",
+        "addr:state": "NY",
+        "addr:postcode": "10026",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2187",
+        "addr:street": "Frederick Douglass Boulevard"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.956, 40.80356] }
+    },
+    {
+      "type": "Feature",
+      "id": "16J-lODNSQuzuCfRkizMTRGb1JQ=",
+      "properties": {
+        "ref": "8012",
+        "shop": "supermarket",
+        "addr:city": "Oakdale",
+        "addr:state": "NY",
+        "addr:postcode": "11769",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "4560",
+        "addr:street": "Sunrise Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.11698, 40.752438] }
+    },
+    {
+      "type": "Feature",
+      "id": "r-3j2JUFQ1DUuwOzmDwbLQ8KLro=",
+      "properties": {
+        "ref": "8013",
+        "shop": "supermarket",
+        "addr:city": "East Patchogue",
+        "addr:state": "NY",
+        "addr:postcode": "11772",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "655",
+        "addr:street": "Montauk Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.98977, 40.76886] }
+    },
+    {
+      "type": "Feature",
+      "id": "MMdtZby_7JngbnOzsnl7tkH1-eM=",
+      "properties": {
+        "ref": "8014",
+        "shop": "supermarket",
+        "addr:city": "East Northport",
+        "addr:state": "NY",
+        "addr:postcode": "11731",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "560",
+        "addr:street": "Larkfield Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.31972, 40.858395] }
+    },
+    {
+      "type": "Feature",
+      "id": "9mJe36M007m-MjqszFOnpzt7zXM=",
+      "properties": {
+        "ref": "8015",
+        "shop": "supermarket",
+        "addr:city": "Astoria",
+        "addr:state": "NY",
+        "addr:postcode": "11105",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "19-30",
+        "addr:street": "37th Street"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.90647, 40.774567] }
+    },
+    {
+      "type": "Feature",
+      "id": "cFInNAAmwPLMjsMqZCYYSmPpJy8=",
+      "properties": {
+        "ref": "8017",
+        "shop": "supermarket",
+        "addr:city": "East Meadow",
+        "addr:state": "NY",
+        "addr:postcode": "11554",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1980",
+        "addr:street": "Hempstead Turnpike"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.56297, 40.724148] }
+    },
+    {
+      "type": "Feature",
+      "id": "FKbkwSh6mZsEjKohJEz6cdMukIo=",
+      "properties": {
+        "ref": "8018",
+        "shop": "supermarket",
+        "addr:city": "Westhampton Beach",
+        "addr:state": "NY",
+        "addr:postcode": "11978",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "70",
+        "addr:street": "Sunset Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.64461, 40.814964] }
+    },
+    {
+      "type": "Feature",
+      "id": "fb8FTjdNPO23eiaVgGMEb-2MdIw=",
+      "properties": {
+        "ref": "8019",
+        "shop": "supermarket",
+        "addr:city": "Lake Grove",
+        "addr:state": "NY",
+        "addr:postcode": "11755",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2900",
+        "addr:street": "Middle Country Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.11538, 40.859497] }
+    },
+    {
+      "type": "Feature",
+      "id": "vm80fzfoyTm2RbChDX9m8IU6tdk=",
+      "properties": {
+        "ref": "8020",
+        "shop": "supermarket",
+        "addr:city": "Center Moriches",
+        "addr:state": "NY",
+        "addr:postcode": "11934",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "812",
+        "addr:street": "Montauk Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.8102, 40.802418] }
+    },
+    {
+      "type": "Feature",
+      "id": "sqAbXnky5iqJ3pSktbqiqWzvoS0=",
+      "properties": {
+        "ref": "8021",
+        "shop": "supermarket",
+        "addr:city": "Plainview",
+        "addr:state": "NY",
+        "addr:postcode": "11803",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "1054",
+        "addr:street": "Old Country Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.47141, 40.776024] }
+    },
+    {
+      "type": "Feature",
+      "id": "0vN2yVbOSQGbM-54lsTDkeZBLQ0=",
+      "properties": {
+        "ref": "8023",
+        "shop": "supermarket",
+        "addr:city": "Franklin Square",
+        "addr:state": "NY",
+        "addr:postcode": "11010",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "696",
+        "addr:street": "Dogwood Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.66783, 40.688614] }
+    },
+    {
+      "type": "Feature",
+      "id": "ERYMW0vdeUevNx1spA9_JNF4F7g=",
+      "properties": {
+        "ref": "8024",
+        "shop": "supermarket",
+        "addr:city": "Farmingdale",
+        "addr:state": "NY",
+        "addr:postcode": "11735",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "501",
+        "addr:street": "Northwest Drive"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.4586, 40.719067] }
+    },
+    {
+      "type": "Feature",
+      "id": "XPT1XkNp5DkKsMpN6FSMbY8oy6o=",
+      "properties": {
+        "ref": "8025",
+        "shop": "supermarket",
+        "addr:city": "Selden",
+        "addr:state": "NY",
+        "addr:postcode": "11784",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "211",
+        "addr:street": "Middle Country Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.02152, 40.867966] }
+    },
+    {
+      "type": "Feature",
+      "id": "b6EWapa89aIPSSI7vxg3jZb6mhk=",
+      "properties": {
+        "ref": "8026",
+        "shop": "supermarket",
+        "addr:city": "Shirley",
+        "addr:state": "NY",
+        "addr:postcode": "11967",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "800",
+        "addr:street": "Montauk Highway"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.8706, 40.800766] }
+    },
+    {
+      "type": "Feature",
+      "id": "VxcbXN2-JaQMo6FUXp5qpOnS_rY=",
+      "properties": {
+        "ref": "8030",
+        "shop": "supermarket",
+        "addr:city": "Takoma Park",
+        "addr:state": "MD",
+        "addr:postcode": "20912",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "6881",
+        "addr:street": "New Hampshire Avenue"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.99546, 38.974224] }
+    },
+    {
+      "type": "Feature",
+      "id": "feMAB_PUeJNwYzU3j8eFvr08P9Q=",
+      "properties": {
+        "ref": "8031",
+        "shop": "supermarket",
+        "addr:city": "Burke",
+        "addr:state": "VA",
+        "addr:postcode": "22015",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "9274",
+        "addr:street": "Old Keene Mill Road",
+        "addr:unit": "A"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.266556, 38.776077] }
+    },
+    {
+      "type": "Feature",
+      "id": "vZs88NLlQS7KJmw9BGF-CtU8mN8=",
+      "properties": {
+        "ref": "8034",
+        "shop": "supermarket",
+        "addr:city": "Annapolis",
+        "addr:state": "MD",
+        "addr:postcode": "21401",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2371",
+        "addr:street": "Solomons Island Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.53793, 38.97992] }
+    },
+    {
+      "type": "Feature",
+      "id": "Y9h5ijM5oWkyvcV6UL-mVGEOHxQ=",
+      "properties": {
+        "ref": "8035",
+        "shop": "supermarket",
+        "addr:city": "Wheaton",
+        "addr:state": "MD",
+        "addr:postcode": "20902",
+        "name": "Lidl",
+        "phone": "+1 844-747-5435",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "addr:housenumber": "2201",
+        "addr:street": "Randolph Road"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.046715, 39.059727] }
+    }
+  ]
+}

@@ -27,10 +27,7 @@
         "addr:street": "West Philadelphia Street",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6699769, 34.0327024]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6699769, 34.0327024] }
     },
     {
       "type": "Feature",
@@ -50,10 +47,7 @@
         "addr:city": "Fontana",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.436775, 34.104389]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.436775, 34.104389] }
     },
     {
       "type": "Feature",
@@ -73,10 +67,7 @@
         "brand": "Stater Bros.",
         "addr:street": "Iris Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2087778, 33.8920361]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2087778, 33.8920361] }
     },
     {
       "type": "Feature",
@@ -96,10 +87,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "16920"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1735421, 35.0681961]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1735421, 35.0681961] }
     },
     {
       "type": "Feature",
@@ -119,10 +107,7 @@
         "branch": "Mountain Plaza",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6718102, 34.1222029]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6718102, 34.1222029] }
     },
     {
       "type": "Feature",
@@ -142,10 +127,7 @@
         "website": "https://www.staterbros.com/stores/52",
         "ref": "52"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7016897, 34.0182366]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7016897, 34.0182366] }
     },
     {
       "type": "Feature",
@@ -165,10 +147,7 @@
         "phone": "+1 951-926-6432",
         "addr:housenumber": "30712"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1236028, 33.5924514]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1236028, 33.5924514] }
     },
     {
       "type": "Feature",
@@ -187,10 +166,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4728643, 33.8972695]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4728643, 33.8972695] }
     },
     {
       "type": "Feature",
@@ -210,10 +186,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6595345, 34.0643352]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6595345, 34.0643352] }
     },
     {
       "type": "Feature",
@@ -233,10 +206,7 @@
         "brand": "Stater Bros.",
         "phone": "+1 714-779-2020"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8050396, 33.86604]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8050396, 33.86604] }
     },
     {
       "type": "Feature",
@@ -256,10 +226,7 @@
         "brand": "Stater Bros.",
         "addr:street": "Apple Valley Road"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.240513, 34.4740919]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.240513, 34.4740919] }
     },
     {
       "type": "Feature",
@@ -279,10 +246,7 @@
         "brand": "Stater Bros.",
         "phone": "+1 909-874-5195"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3606339, 34.1067714]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3606339, 34.1067714] }
     },
     {
       "type": "Feature",
@@ -302,10 +266,7 @@
         "website": "https://www.staterbros.com/stores/73",
         "ref": "73"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6888586, 34.079996]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6888586, 34.079996] }
     },
     {
       "type": "Feature",
@@ -325,10 +286,7 @@
         "branch": "East Highland",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1720914, 34.1112474]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1720914, 34.1112474] }
     },
     {
       "type": "Feature",
@@ -348,10 +306,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/120"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.3975517, 34.1297192]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.3975517, 34.1297192] }
     },
     {
       "type": "Feature",
@@ -371,10 +326,7 @@
         "website": "https://www.staterbros.com/stores/85",
         "ref": "85"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6096528, 34.0785318]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6096528, 34.0785318] }
     },
     {
       "type": "Feature",
@@ -394,10 +346,7 @@
         "phone": "+1 760-244-1503",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2946147, 34.4220356]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2946147, 34.4220356] }
     },
     {
       "type": "Feature",
@@ -417,10 +366,7 @@
         "brand": "Stater Bros.",
         "branch": "Oak Glen"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0325144, 34.0474508]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0325144, 34.0474508] }
     },
     {
       "type": "Feature",
@@ -440,10 +386,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "28100"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1905317, 34.2505226]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1905317, 34.2505226] }
     },
     {
       "type": "Feature",
@@ -463,10 +406,7 @@
         "brand": "Stater Bros.",
         "addr:street": "West Florida Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0046318, 33.7465647]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0046318, 33.7465647] }
     },
     {
       "type": "Feature",
@@ -486,10 +426,7 @@
         "phone": "+1 562-943-3783",
         "addr:housenumber": "12800"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0106491, 33.9155899]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0106491, 33.9155899] }
     },
     {
       "type": "Feature",
@@ -509,10 +446,7 @@
         "website": "https://www.staterbros.com/stores/94",
         "ref": "94"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2504868, 33.7086819]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.2504868, 33.7086819] }
     },
     {
       "type": "Feature",
@@ -532,10 +466,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/196"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.784064, 34.2704087]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.784064, 34.2704087] }
     },
     {
       "type": "Feature",
@@ -555,10 +486,7 @@
         "brand": "Stater Bros.",
         "addr:postcode": "92509"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4055226, 33.9976104]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4055226, 33.9976104] }
     },
     {
       "type": "Feature",
@@ -578,10 +506,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Rancho Cucamonga"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5388778, 34.1225697]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5388778, 34.1225697] }
     },
     {
       "type": "Feature",
@@ -601,10 +526,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/141"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4647928, 34.4039223]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.4647928, 34.4039223] }
     },
     {
       "type": "Feature",
@@ -623,10 +545,7 @@
         "ref": "209",
         "addr:housenumber": "8373"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6226165, 33.9577775]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6226165, 33.9577775] }
     },
     {
       "type": "Feature",
@@ -646,10 +565,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "2845"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1823879, 34.6615931]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1823879, 34.6615931] }
     },
     {
       "type": "Feature",
@@ -668,10 +584,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9803549, 33.7579743]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9803549, 33.7579743] }
     },
     {
       "type": "Feature",
@@ -691,10 +604,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/155"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1419832, 33.9439647]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1419832, 33.9439647] }
     },
     {
       "type": "Feature",
@@ -714,10 +624,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "1800"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.834701, 33.8017449]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.834701, 33.8017449] }
     },
     {
       "type": "Feature",
@@ -737,10 +644,7 @@
         "addr:postcode": "90808",
         "addr:city": "Long Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1055926, 33.8113918]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1055926, 33.8113918] }
     },
     {
       "type": "Feature",
@@ -759,10 +663,7 @@
         "addr:street": "East 40th Street",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2827669, 34.163803]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2827669, 34.163803] }
     },
     {
       "type": "Feature",
@@ -781,10 +682,7 @@
         "shop": "supermarket",
         "addr:city": "Artesia"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0813538, 33.8731925]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0813538, 33.8731925] }
     },
     {
       "type": "Feature",
@@ -804,10 +702,7 @@
         "addr:city": "Claremont",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.73549, 34.107878]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.73549, 34.107878] }
     },
     {
       "type": "Feature",
@@ -827,10 +722,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "9909"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1138232, 32.959563]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1138232, 32.959563] }
     },
     {
       "type": "Feature",
@@ -850,10 +742,7 @@
         "website": "https://www.staterbros.com/stores/62",
         "ref": "62"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5942512, 33.8693734]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5942512, 33.8693734] }
     },
     {
       "type": "Feature",
@@ -873,10 +762,7 @@
         "ref": "56",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.836363, 34.1075111]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.836363, 34.1075111] }
     },
     {
       "type": "Feature",
@@ -896,10 +782,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/176"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4015871, 34.5079102]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4015871, 34.5079102] }
     },
     {
       "type": "Feature",
@@ -918,10 +801,7 @@
         "shop": "supermarket",
         "addr:housenumber": "21602"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1922987, 34.4729265]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1922987, 34.4729265] }
     },
     {
       "type": "Feature",
@@ -941,10 +821,7 @@
         "brand": "Stater Bros.",
         "phone": "+1 909-882-0461"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3035727, 34.1632945]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3035727, 34.1632945] }
     },
     {
       "type": "Feature",
@@ -964,10 +841,7 @@
         "website": "https://www.staterbros.com/stores/70",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.065536, 33.8884102]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.065536, 33.8884102] }
     },
     {
       "type": "Feature",
@@ -986,10 +860,7 @@
         "shop": "supermarket",
         "addr:city": "San Jacinto"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9716546, 33.8041941]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9716546, 33.8041941] }
     },
     {
       "type": "Feature",
@@ -1009,10 +880,7 @@
         "addr:street": "Florida Avenue",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9037808, 33.7490846]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9037808, 33.7490846] }
     },
     {
       "type": "Feature",
@@ -1031,10 +899,7 @@
         "ref": "71",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0567619, 33.9959056]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0567619, 33.9959056] }
     },
     {
       "type": "Feature",
@@ -1053,10 +918,7 @@
         "addr:postcode": "92211",
         "addr:housenumber": "78210"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2993218, 33.7615529]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.2993218, 33.7615529] }
     },
     {
       "type": "Feature",
@@ -1076,10 +938,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Victorville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3317152, 34.5201637]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3317152, 34.5201637] }
     },
     {
       "type": "Feature",
@@ -1099,10 +958,7 @@
         "brand": "Stater Bros.",
         "addr:street": "West Highland Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3081454, 34.1351622]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3081454, 34.1351622] }
     },
     {
       "type": "Feature",
@@ -1122,10 +978,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/186"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2517203, 33.1264932]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2517203, 33.1264932] }
     },
     {
       "type": "Feature",
@@ -1145,10 +998,7 @@
         "addr:city": "Laguna Woods",
         "branch": "Laguna Woods"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.731424, 33.6083455]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.731424, 33.6083455] }
     },
     {
       "type": "Feature",
@@ -1167,10 +1017,7 @@
         "addr:city": "Big Bear Lake",
         "addr:housenumber": "42171"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.8837185, 34.2521989]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.8837185, 34.2521989] }
     },
     {
       "type": "Feature",
@@ -1190,10 +1037,7 @@
         "brand": "Stater Bros.",
         "addr:street": "North Grand Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8735779, 34.0978529]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8735779, 34.0978529] }
     },
     {
       "type": "Feature",
@@ -1213,10 +1057,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Fullerton"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9110777, 33.8982987]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9110777, 33.8982987] }
     },
     {
       "type": "Feature",
@@ -1236,10 +1077,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "15757"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3195309, 34.422561]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3195309, 34.422561] }
     },
     {
       "type": "Feature",
@@ -1259,10 +1097,7 @@
         "addr:street": "River Road",
         "website": "https://www.staterbros.com/stores/199"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5903871, 33.9152434]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5903871, 33.9152434] }
     },
     {
       "type": "Feature",
@@ -1282,10 +1117,7 @@
         "addr:street": "Hancock Avenue",
         "addr:housenumber": "25050"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1822121, 33.571041]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1822121, 33.571041] }
     },
     {
       "type": "Feature",
@@ -1305,10 +1137,7 @@
         "phone": "+1 951-674-1349",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3679824, 33.6868861]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3679824, 33.6868861] }
     },
     {
       "type": "Feature",
@@ -1327,10 +1156,7 @@
         "shop": "supermarket",
         "addr:postcode": "92410"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2759874, 34.1223259]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2759874, 34.1223259] }
     },
     {
       "type": "Feature",
@@ -1350,10 +1176,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/144"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0957717, 34.6883211]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0957717, 34.6883211] }
     },
     {
       "type": "Feature",
@@ -1374,10 +1197,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.577033, 33.9998198]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.577033, 33.9998198] }
     },
     {
       "type": "Feature",
@@ -1397,10 +1217,7 @@
         "brand": "Stater Bros.",
         "phone": "+1 661-285-9184"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.043557, 34.5593251]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.043557, 34.5593251] }
     },
     {
       "type": "Feature",
@@ -1420,10 +1237,7 @@
         "brand": "Stater Bros.",
         "addr:street": "Newport Boulevard"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9088806, 33.650578]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9088806, 33.650578] }
     },
     {
       "type": "Feature",
@@ -1443,10 +1257,7 @@
         "phone": "+1 562-941-7711",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0278488, 33.9413707]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0278488, 33.9413707] }
     },
     {
       "type": "Feature",
@@ -1466,10 +1277,7 @@
         "addr:street": "Chapman Avenue",
         "branch": "Chapman"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9771597, 33.7880472]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9771597, 33.7880472] }
     },
     {
       "type": "Feature",
@@ -1489,10 +1297,7 @@
         "branch": "Cypress",
         "addr:city": "Cypress"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0292934, 33.8160383]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0292934, 33.8160383] }
     },
     {
       "type": "Feature",
@@ -1511,10 +1316,7 @@
         "shop": "supermarket",
         "phone": "+1 714-437-0754"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9065483, 33.6801333]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9065483, 33.6801333] }
     },
     {
       "type": "Feature",
@@ -1534,10 +1336,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/165"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8179046, 33.7891893]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8179046, 33.7891893] }
     },
     {
       "type": "Feature",
@@ -1557,10 +1356,7 @@
         "ref": "43",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3692677, 34.1227754]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3692677, 34.1227754] }
     },
     {
       "type": "Feature",
@@ -1580,10 +1376,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/166"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9579417, 33.8242788]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9579417, 33.8242788] }
     },
     {
       "type": "Feature",
@@ -1603,10 +1396,7 @@
         "phone": "+1 909-864-0122",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2079233, 34.1357701]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2079233, 34.1357701] }
     },
     {
       "type": "Feature",
@@ -1625,10 +1415,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.914683, 34.0314107]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.914683, 34.0314107] }
     },
     {
       "type": "Feature",
@@ -1648,10 +1435,7 @@
         "addr:street": "Hidden Valley Parkway",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5554079, 33.8982862]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5554079, 33.8982862] }
     },
     {
       "type": "Feature",
@@ -1671,10 +1455,7 @@
         "brand": "Stater Bros.",
         "ref": "109"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6679603, 35.6351491]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6679603, 35.6351491] }
     },
     {
       "type": "Feature",
@@ -1694,10 +1475,7 @@
         "brand": "Stater Bros.",
         "phone": "+1 760-252-5422"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0133465, 34.885142]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0133465, 34.885142] }
     },
     {
       "type": "Feature",
@@ -1717,10 +1495,7 @@
         "brand": "Stater Bros.",
         "addr:postcode": "92509"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4830497, 33.9985258]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4830497, 33.9985258] }
     },
     {
       "type": "Feature",
@@ -1740,10 +1515,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "11"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.181894, 34.0637972]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.181894, 34.0637972] }
     },
     {
       "type": "Feature",
@@ -1763,10 +1535,7 @@
         "brand": "Stater Bros.",
         "branch": "Blaine"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3415367, 33.9857597]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3415367, 33.9857597] }
     },
     {
       "type": "Feature",
@@ -1786,10 +1555,7 @@
         "brand": "Stater Bros.",
         "addr:street": "Warner Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9352435, 33.7170771]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9352435, 33.7170771] }
     },
     {
       "type": "Feature",
@@ -1809,10 +1575,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Chino"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6525601, 34.0033434]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6525601, 34.0033434] }
     },
     {
       "type": "Feature",
@@ -1832,10 +1595,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/122"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3468426, 34.4272334]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3468426, 34.4272334] }
     },
     {
       "type": "Feature",
@@ -1854,10 +1614,7 @@
         "addr:housenumber": "9750",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5954686, 34.1327121]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5954686, 34.1327121] }
     },
     {
       "type": "Feature",
@@ -1877,10 +1634,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/185"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.175609, 33.9114124]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.175609, 33.9114124] }
     },
     {
       "type": "Feature",
@@ -1900,10 +1654,7 @@
         "addr:street": "Ramon Road",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.4561129, 33.814937]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.4561129, 33.814937] }
     },
     {
       "type": "Feature",
@@ -1923,10 +1674,7 @@
         "ref": "84",
         "addr:city": "Desert Hot Springs"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.5004305, 33.952498]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.5004305, 33.952498] }
     },
     {
       "type": "Feature",
@@ -1946,10 +1694,7 @@
         "phone": "+1 909-629-9244",
         "addr:street": "North Garey Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7532803, 34.06822]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7532803, 34.06822] }
     },
     {
       "type": "Feature",
@@ -1969,10 +1714,7 @@
         "branch": "La Quinta",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2923775, 33.7150647]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.2923775, 33.7150647] }
     },
     {
       "type": "Feature",
@@ -1992,10 +1734,7 @@
         "website": "https://www.staterbros.com/stores/96",
         "ref": "96"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.4185591, 34.1210853]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.4185591, 34.1210853] }
     },
     {
       "type": "Feature",
@@ -2015,10 +1754,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/198"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8163973, 33.7114798]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8163973, 33.7114798] }
     },
     {
       "type": "Feature",
@@ -2038,10 +1774,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/133"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9343282, 33.939982]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9343282, 33.939982] }
     },
     {
       "type": "Feature",
@@ -2061,10 +1794,7 @@
         "website": "https://www.staterbros.com/stores/202",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1118903, 34.1699706]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1118903, 34.1699706] }
     },
     {
       "type": "Feature",
@@ -2084,10 +1814,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/143"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.706126, 33.57205]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.706126, 33.57205] }
     },
     {
       "type": "Feature",
@@ -2107,10 +1834,7 @@
         "addr:city": "Ladera Ranch",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6312475, 33.5642049]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6312475, 33.5642049] }
     },
     {
       "type": "Feature",
@@ -2130,10 +1854,7 @@
         "addr:street": "Warner Avenue",
         "addr:city": "Huntington Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0047935, 33.7169217]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0047935, 33.7169217] }
     },
     {
       "type": "Feature",
@@ -2152,10 +1873,7 @@
         "shop": "supermarket",
         "ref": "208"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5739018, 34.0755831]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5739018, 34.0755831] }
     },
     {
       "type": "Feature",
@@ -2175,10 +1893,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6536601, 33.4589886]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6536601, 33.4589886] }
     },
     {
       "type": "Feature",
@@ -2198,10 +1913,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.323359, 34.0675068]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.323359, 34.0675068] }
     },
     {
       "type": "Feature",
@@ -2221,10 +1933,7 @@
         "branch": "Firestone",
         "website": "https://www.staterbros.com/stores/154"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0930645, 33.9179681]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0930645, 33.9179681] }
     },
     {
       "type": "Feature",
@@ -2244,10 +1953,7 @@
         "website": "https://www.staterbros.com/stores/40",
         "ref": "40"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8369125, 33.7681535]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8369125, 33.7681535] }
     },
     {
       "type": "Feature",
@@ -2267,10 +1973,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/163"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.8787491, 33.0349958]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.8787491, 33.0349958] }
     },
     {
       "type": "Feature",
@@ -2289,10 +1992,7 @@
         "shop": "supermarket",
         "phone": "+1 951-343-2562"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4367571, 33.9456298]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4367571, 33.9456298] }
     },
     {
       "type": "Feature",
@@ -2312,10 +2012,7 @@
         "addr:postcode": "91709",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7588692, 33.9938562]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7588692, 33.9938562] }
     },
     {
       "type": "Feature",
@@ -2334,10 +2031,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8827638, 34.1296298]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8827638, 34.1296298] }
     },
     {
       "type": "Feature",
@@ -2357,10 +2051,7 @@
         "brand": "Stater Bros.",
         "branch": "La Verne"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7662807, 34.1123637]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.7662807, 34.1123637] }
     },
     {
       "type": "Feature",
@@ -2380,10 +2071,7 @@
         "addr:street": "Eagle Glen Parkway",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5232587, 33.8229453]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5232587, 33.8229453] }
     },
     {
       "type": "Feature",
@@ -2403,10 +2091,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "1536"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.207071, 34.04829]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.207071, 34.04829] }
     },
     {
       "type": "Feature",
@@ -2425,10 +2110,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4419652, 33.9238906]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4419652, 33.9238906] }
     },
     {
       "type": "Feature",
@@ -2448,10 +2130,7 @@
         "website": "https://www.staterbros.com/stores/61",
         "ref": "61"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3894949, 34.0744852]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3894949, 34.0744852] }
     },
     {
       "type": "Feature",
@@ -2471,10 +2150,7 @@
         "phone": "+1 909-463-2490",
         "website": "https://www.staterbros.com/stores/175"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4755511, 34.1513359]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4755511, 34.1513359] }
     },
     {
       "type": "Feature",
@@ -2494,10 +2170,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Perris"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2272629, 33.7997009]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2272629, 33.7997009] }
     },
     {
       "type": "Feature",
@@ -2517,10 +2190,7 @@
         "brand": "Stater Bros.",
         "branch": "West Covina"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9094355, 34.0771874]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9094355, 34.0771874] }
     },
     {
       "type": "Feature",
@@ -2540,10 +2210,7 @@
         "addr:street": "Florida Avenue",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9316848, 33.7467912]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9316848, 33.7467912] }
     },
     {
       "type": "Feature",
@@ -2563,10 +2230,7 @@
         "brand": "Stater Bros.",
         "addr:street": "Vista Chino"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.4779085, 33.8460347]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.4779085, 33.8460347] }
     },
     {
       "type": "Feature",
@@ -2586,10 +2250,7 @@
         "branch": "Victorville",
         "addr:city": "Victorville"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3630247, 34.471833]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3630247, 34.471833] }
     },
     {
       "type": "Feature",
@@ -2608,10 +2269,7 @@
         "shop": "supermarket",
         "addr:postcode": "92354"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.245514, 34.04936]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.245514, 34.04936] }
     },
     {
       "type": "Feature",
@@ -2631,10 +2289,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/188"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3202837, 34.0327835]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3202837, 34.0327835] }
     },
     {
       "type": "Feature",
@@ -2654,10 +2309,7 @@
         "addr:housenumber": "1717",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.5259633, 33.8439683]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.5259633, 33.8439683] }
     },
     {
       "type": "Feature",
@@ -2676,10 +2328,7 @@
         "shop": "supermarket",
         "addr:postcode": "92586"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1923695, 33.7115583]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1923695, 33.7115583] }
     },
     {
       "type": "Feature",
@@ -2699,10 +2348,7 @@
         "addr:street": "Mission Trail",
         "phone": "+1 951-245-5802"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2981965, 33.6531034]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2981965, 33.6531034] }
     },
     {
       "type": "Feature",
@@ -2722,10 +2368,7 @@
         "addr:postcode": "92806",
         "website": "https://www.staterbros.com/stores/131"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8903877, 33.849521]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8903877, 33.849521] }
     },
     {
       "type": "Feature",
@@ -2745,10 +2388,7 @@
         "brand": "Stater Bros.",
         "addr:postcode": "92509"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4524593, 33.9773662]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4524593, 33.9773662] }
     },
     {
       "type": "Feature",
@@ -2768,10 +2408,7 @@
         "branch": "North Moreno Valley",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2628352, 33.9477121]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2628352, 33.9477121] }
     },
     {
       "type": "Feature",
@@ -2791,10 +2428,7 @@
         "website": "https://www.staterbros.com/stores/132",
         "addr:street": "Orangethorpe Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0016826, 33.8602979]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0016826, 33.8602979] }
     },
     {
       "type": "Feature",
@@ -2814,10 +2448,7 @@
         "website": "https://www.staterbros.com/stores/201",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3246225, 33.9162587]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3246225, 33.9162587] }
     },
     {
       "type": "Feature",
@@ -2837,10 +2468,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "31813"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1014872, 33.4783228]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1014872, 33.4783228] }
     },
     {
       "type": "Feature",
@@ -2859,10 +2487,7 @@
         "shop": "supermarket",
         "addr:housenumber": "11810"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0505041, 33.9803072]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.0505041, 33.9803072] }
     },
     {
       "type": "Feature",
@@ -2882,10 +2507,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Huntington Beach"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9524334, 33.672322]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9524334, 33.672322] }
     },
     {
       "type": "Feature",
@@ -2904,10 +2526,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4517846, 33.9448036]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4517846, 33.9448036] }
     },
     {
       "type": "Feature",
@@ -2927,10 +2546,7 @@
         "website": "https://www.staterbros.com/stores/152",
         "phone": "+1 760-741-5052"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1295085, 33.1368528]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1295085, 33.1368528] }
     },
     {
       "type": "Feature",
@@ -2950,10 +2566,7 @@
         "phone": "+1 909-882-3214",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2541087, 34.1368811]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2541087, 34.1368811] }
     },
     {
       "type": "Feature",
@@ -2973,10 +2586,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/153"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1484188, 33.8887993]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.1484188, 33.8887993] }
     },
     {
       "type": "Feature",
@@ -2996,10 +2606,7 @@
         "branch": "Red Hill",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8178707, 33.732062]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8178707, 33.732062] }
     },
     {
       "type": "Feature",
@@ -3019,10 +2626,7 @@
         "brand": "Stater Bros.",
         "addr:street": "North El Camino Real"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2666012, 33.0667222]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2666012, 33.0667222] }
     },
     {
       "type": "Feature",
@@ -3042,10 +2646,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "919"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6708935, 34.105407]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6708935, 34.105407] }
     },
     {
       "type": "Feature",
@@ -3065,10 +2666,7 @@
         "website": "https://www.staterbros.com/stores/168",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8521681, 34.042833]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8521681, 34.042833] }
     },
     {
       "type": "Feature",
@@ -3088,10 +2686,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.830375, 34.1270537]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.830375, 34.1270537] }
     },
     {
       "type": "Feature",
@@ -3111,10 +2706,7 @@
         "brand": "Stater Bros.",
         "addr:street": "East Stetson Avenue"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.970065, 33.7308799]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.970065, 33.7308799] }
     },
     {
       "type": "Feature",
@@ -3133,10 +2725,7 @@
         "shop": "supermarket",
         "addr:postcode": "92223"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9756636, 33.9482109]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9756636, 33.9482109] }
     },
     {
       "type": "Feature",
@@ -3156,10 +2745,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/111"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2068872, 33.6864465]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2068872, 33.6864465] }
     },
     {
       "type": "Feature",
@@ -3179,10 +2765,7 @@
         "website": "https://www.staterbros.com/stores/103",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5464238, 33.86553]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5464238, 33.86553] }
     },
     {
       "type": "Feature",
@@ -3202,10 +2785,7 @@
         "ref": "60",
         "addr:housenumber": "18527"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8099858, 33.889921]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8099858, 33.889921] }
     },
     {
       "type": "Feature",
@@ -3223,10 +2803,7 @@
         "shop": "supermarket",
         "addr:housenumber": "8770"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5826427, 34.1215188]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5826427, 34.1215188] }
     },
     {
       "type": "Feature",
@@ -3246,10 +2823,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/174"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2478351, 33.5970735]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2478351, 33.5970735] }
     },
     {
       "type": "Feature",
@@ -3269,10 +2843,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5736566, 34.4250313]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5736566, 34.4250313] }
     },
     {
       "type": "Feature",
@@ -3291,10 +2862,7 @@
         "addr:city": "Twentynine Palms",
         "addr:postcode": "92277"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.0969879, 34.1352286]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.0969879, 34.1352286] }
     },
     {
       "type": "Feature",
@@ -3314,10 +2882,7 @@
         "brand": "Stater Bros.",
         "addr:housenumber": "19756"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8701074, 33.9862908]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8701074, 33.9862908] }
     },
     {
       "type": "Feature",
@@ -3337,10 +2902,7 @@
         "website": "https://www.staterbros.com/stores/179",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4338086, 34.0498001]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4338086, 34.0498001] }
     },
     {
       "type": "Feature",
@@ -3360,10 +2922,7 @@
         "name": "Stater Bros.",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2913264, 34.0500112]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2913264, 34.0500112] }
     },
     {
       "type": "Feature",
@@ -3383,10 +2942,7 @@
         "website": "https://www.staterbros.com/stores/80",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3649867, 33.8835768]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3649867, 33.8835768] }
     },
     {
       "type": "Feature",
@@ -3405,10 +2961,7 @@
         "addr:postcode": "92532",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2623759, 33.6661528]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2623759, 33.6661528] }
     },
     {
       "type": "Feature",
@@ -3427,10 +2980,7 @@
         "shop": "supermarket",
         "addr:city": "San Jacinto"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9566414, 33.7722333]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9566414, 33.7722333] }
     },
     {
       "type": "Feature",
@@ -3449,10 +2999,7 @@
         "shop": "supermarket",
         "addr:postcode": "92223"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9497863, 33.9284437]
-      }
+      "geometry": { "type": "Point", "coordinates": [-116.9497863, 33.9284437] }
     },
     {
       "type": "Feature",
@@ -3472,10 +3019,7 @@
         "branch": "Redlands",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1402624, 34.0715338]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1402624, 34.0715338] }
     },
     {
       "type": "Feature",
@@ -3495,10 +3039,7 @@
         "website": "https://www.staterbros.com/stores/130",
         "addr:street": "East Avenue South"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.083462, 34.5595517]
-      }
+      "geometry": { "type": "Point", "coordinates": [-118.083462, 34.5595517] }
     },
     {
       "type": "Feature",
@@ -3518,10 +3059,7 @@
         "ref": "88",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.524859, 33.974855]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.524859, 33.974855] }
     },
     {
       "type": "Feature",
@@ -3541,10 +3079,7 @@
         "phone": "+1 951-682-3101",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3865102, 33.9345274]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3865102, 33.9345274] }
     },
     {
       "type": "Feature",
@@ -3564,10 +3099,7 @@
         "brand": "Stater Bros.",
         "addr:street": "East Imperial Highway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8432403, 33.9058116]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.8432403, 33.9058116] }
     },
     {
       "type": "Feature",
@@ -3587,10 +3119,7 @@
         "website": "https://www.staterbros.com/stores/95",
         "ref": "95"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.408557, 34.1009398]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.408557, 34.1009398] }
     },
     {
       "type": "Feature",
@@ -3610,10 +3139,7 @@
         "addr:housenumber": "29061",
         "website": "https://www.staterbros.com/stores/197"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1526308, 33.6838301]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.1526308, 33.6838301] }
     },
     {
       "type": "Feature",
@@ -3633,10 +3159,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Fullerton"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9426379, 33.8732266]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9426379, 33.8732266] }
     },
     {
       "type": "Feature",
@@ -3655,10 +3178,7 @@
         "brand": "Stater Bros.",
         "shop": "supermarket"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0378797, 33.9663519]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0378797, 33.9663519] }
     },
     {
       "type": "Feature",
@@ -3678,10 +3198,7 @@
         "brand": "Stater Bros.",
         "website": "https://www.staterbros.com/stores/142"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6799945, 33.6386736]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.6799945, 33.6386736] }
     },
     {
       "type": "Feature",
@@ -3701,10 +3218,7 @@
         "ref": "22",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4877085, 33.9162227]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.4877085, 33.9162227] }
     },
     {
       "type": "Feature",
@@ -3724,10 +3238,7 @@
         "addr:city": "Oceanside",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3332416, 33.2265052]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.3332416, 33.2265052] }
     },
     {
       "type": "Feature",
@@ -3747,10 +3258,7 @@
         "ref": "23",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0532961, 34.03495]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0532961, 34.03495] }
     },
     {
       "type": "Feature",
@@ -3770,10 +3278,7 @@
         "brand": "Stater Bros.",
         "phone": "+1 760-727-7080"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2190152, 33.1629724]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2190152, 33.1629724] }
     },
     {
       "type": "Feature",
@@ -3793,10 +3298,7 @@
         "brand": "Stater Bros.",
         "addr:city": "Santa Ana"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9051216, 33.7263288]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.9051216, 33.7263288] }
     },
     {
       "type": "Feature",
@@ -3816,10 +3318,7 @@
         "website": "https://www.staterbros.com/stores/157",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2435255, 33.220409]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.2435255, 33.220409] }
     },
     {
       "type": "Feature",
@@ -3839,10 +3338,7 @@
         "ref": "44",
         "brand": "Stater Bros."
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5603158, 33.9225744]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.5603158, 33.9225744] }
     },
     {
       "type": "Feature",
@@ -3862,10 +3358,7 @@
         "brand": "Stater Bros.",
         "branch": "Poway"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0372962, 32.9558928]
-      }
+      "geometry": { "type": "Point", "coordinates": [-117.0372962, 32.9558928] }
     }
   ]
 }

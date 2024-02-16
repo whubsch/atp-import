@@ -178,7 +178,7 @@
         "name": "ShopRite",
         "addr:state": "NY",
         "ref": "808",
-        "addr:street": "College Plaza Selden"
+        "addr:street": "College Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-73.047136, 40.866247] }
     },

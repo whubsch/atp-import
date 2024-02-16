@@ -3,7 +3,11 @@
   "dataset_attributes": {
     "@spider": "wegmans",
     "spider:collection_time": "2023-09-10T17:11:32.057117",
-    "cleaning": { "version": "0.1.2", "datetime": "2024-01-31" }
+    "cleaning": {
+      "version": "0.1.2",
+      "datetime": "2024-01-31",
+      "status": "imported"
+    }
   },
   "features": [
     {
@@ -1480,7 +1484,7 @@
         "brand": "Wegmans",
         "brand:wikidata": "Q11288478",
         "addr:housenumber": "3791",
-        "addr:street": "Easton",
+        "addr:street": "",
         "branch": "Nazareth"
       },
       "geometry": { "type": "Point", "coordinates": [-75.28783, 40.7153] }

@@ -24116,7 +24116,7 @@
         "brand:wikidata": "Q41171672",
         "addr:postcode": "60563",
         "addr:housenumber": "1440",
-        "addr:street": "Naperville",
+        "addr:street": "",
         "brand": "ALDI",
         "opening_hours": "Mo-Su 08:30-20:00",
         "website": "https://stores.aldi.us/il/naperville/1440-naperville-wheaton-rd",
@@ -37561,7 +37561,7 @@
       "type": "Feature",
       "properties": {
         "brand:wikidata": "Q41171672",
-        "addr:street": "West Florissant",
+        "addr:street": "West",
         "addr:housenumber": "11296",
         "phone": "+1 855-955-2534",
         "brand": "ALDI",
