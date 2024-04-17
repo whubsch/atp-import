@@ -15,8 +15,9 @@ from resources import (
     necessary_tags,
     saints,
 )
+from atlus import atlus_request
 
-VERSION = "0.1.3"
+VERSION = "0.2.0"
 
 FOLDER_PATH = "./data"
 
@@ -134,7 +135,7 @@ def abbrs(value: str) -> str:
 
     # expand 'SR' if no other street types
     value = sr_comp.sub("State Route", value)
-    return value.rstrip().lstrip().replace("  ", " ")
+    return value.strip().replace("  ", " ")
 
 
 def print_value(action: str, file: str, brand: str, items: int) -> None:
@@ -186,6 +187,8 @@ def run(file_list: list[str]) -> None:
             ):
                 wipe_repeat_tags.append(repeat_tag)
 
+        contents["features"] = atlus_request(contents["features"])
+
         for obj in contents["features"]:
             objt: dict[str, str] = obj["properties"]
 
@@ -199,57 +202,6 @@ def run(file_list: list[str]) -> None:
             for name_tag in ["name", "branch", "addr:city"]:
                 if name_tag in objt:
                     objt[name_tag] = get_first(abbrs(get_title(objt[name_tag])))
-
-            for addr_tag in ["addr:street_address", "addr:full"]:
-                if addr_tag in objt:
-                    if all(key in objt for key in ["addr:street", "addr:housenumber"]):
-                        objt.pop(addr_tag, None)
-                        continue
-
-                    # split up ATP-generated address field
-                    address_match = regex.match(
-                        r"([0-9-]+|One|Two)(?:-?([A-Z]+))? ([a-zA-Z .'0-9]+)",
-                        objt[addr_tag],
-                    )
-                    if address_match:
-                        objt["addr:housenumber"] = address_match.group(1)
-                        objt["addr:street"] = abbrs(get_title(address_match.group(3)))
-                        objt.update(
-                            {"addr:unit": address_match.group(2)}
-                            if address_match.group(2)
-                            else {}
-                        )
-                        objt.pop(addr_tag, None)
-                        objt.pop("addr:full", None)
-                        break
-
-            if "addr:street" in objt:
-                street = abbrs(objt["addr:street"])
-
-                street = regex.sub(
-                    r"St\.?(?= [NESW]\.?[EW]?\.?)|(?<=[0-9][thndstr]{2} )St\.?\b|St\.?$",
-                    "Street",
-                    street,
-                )
-                suite_match = regex.search(
-                    r"(.+?),? (?:(?:S(?:ui)?te|Uni?t|R(?:oo)?m|Apt|Dept|Trlr|Hngr)\.? |#)([A-Z0-9]+)",
-                    street,
-                    flags=regex.IGNORECASE,
-                )
-                if suite_match:
-                    street = suite_match.group(1)
-                    objt["addr:unit"] = suite_match.group(2)
-
-                objt["addr:street"] = street
-
-            if "addr:housenumber" in objt:
-                # pull out unit numbers
-                unit_match = regex.search(
-                    r"^([0-9]+)[ -]?([A-Za-z]+)$", objt["addr:housenumber"]
-                )
-                if unit_match:
-                    objt["addr:housenumber"] = unit_match.group(1)
-                    objt["addr:unit"] = unit_match.group(2)
 
             for phone_tag in ["phone", "contact:phone", "fax"]:
                 if phone_tag in objt:
@@ -320,6 +272,7 @@ def run(file_list: list[str]) -> None:
                     objt["opening_hours"] = ";".join(
                         [each.split(",")[0] for each in op]
                     )
+                objt["opening_hours"] = objt["opening_hours"].removeprefix("Mo-Su ")
 
             obj["properties"] = objt
 
