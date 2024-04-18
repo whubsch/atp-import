@@ -17,15 +17,15 @@
         "addr:city": "Chicago",
         "addr:state": "IL",
         "addr:postcode": "60610",
-        "addr:country": "US",
-        "name": "1212 North LaSalle",
+        "name": "Quiznos",
         "phone": "+1 312-642-3355",
         "website": "https://order.quiznos.com/menu/1212-n-lasalle-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-21:00; Sa 11:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "164",
-        "addr:street": "West Division Street"
+        "addr:street": "West Division Street",
+        "branch": "1212 North LaSalle"
       },
       "geometry": {
         "type": "Point",
@@ -43,15 +43,15 @@
         "addr:city": "Torrance",
         "addr:state": "CA",
         "addr:postcode": "90501",
-        "addr:country": "US",
-        "name": "190th and Normandie",
+        "name": "Quiznos",
         "phone": "+1 310-320-0939",
         "website": "https://order.quiznos.com/menu/190th-normandie-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-16:00; Su 11:00-16:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1441",
-        "addr:street": "West Knox Street"
+        "addr:street": "West Knox Street",
+        "branch": "190th and Normandie"
       },
       "geometry": { "type": "Point", "coordinates": [-118.30123, 33.85404] }
     },
@@ -66,8 +66,7 @@
         "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80239",
-        "addr:country": "US",
-        "name": "45th and Peoria Street",
+        "name": "Quiznos",
         "phone": "+1 303-362-1088",
         "website": "https://order.quiznos.com/menu/45th-peoria-street-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:30-17:00",
@@ -75,7 +74,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4505",
         "addr:street": "Peoria Street",
-        "addr:unit": "102"
+        "addr:unit": "102",
+        "branch": "45th and Peoria Street"
       },
       "geometry": { "type": "Point", "coordinates": [-104.84725, 39.778179] }
     },
@@ -90,8 +90,7 @@
         "addr:city": "Vancouver",
         "addr:state": "WA",
         "addr:postcode": "98665",
-        "addr:country": "US",
-        "name": "99 Street Crossing",
+        "name": "Quiznos",
         "phone": "+1 360-546-5396",
         "website": "https://order.quiznos.com/menu/99-street-crossing-2?handoff=delivery",
         "opening_hours": "10:00-20:00",
@@ -99,7 +98,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1217",
         "addr:street": "Northeast 99th Street",
-        "addr:unit": "103"
+        "addr:unit": "103",
+        "branch": "99 Street Crossing"
       },
       "geometry": {
         "type": "Point",
@@ -118,15 +118,15 @@
         "addr:city": "Schofield Barracks",
         "addr:state": "HI",
         "addr:postcode": "96857",
-        "addr:country": "US",
-        "name": "AAFES - Schofield Barracks, Building 752",
+        "name": "Quiznos",
         "phone": "+1 808-861-5403",
         "website": "https://order.quiznos.com/menu/aafes-schofield-barracks-bldg-752-2?handoff=delivery",
         "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:30-16:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1",
-        "addr:street": "Schofield Barracks"
+        "addr:street": "Schofield Barracks",
+        "branch": "AAFES - Schofield Barracks, Building 752"
       },
       "geometry": { "type": "Point", "coordinates": [-158.06535, 21.50139] }
     },
@@ -141,15 +141,15 @@
         "addr:city": "Lorain",
         "addr:state": "OH",
         "addr:postcode": "44053",
-        "addr:country": "US",
-        "name": "Amherst",
+        "name": "Quiznos",
         "phone": "+1 440-282-3382",
         "website": "https://order.quiznos.com/menu/amherst-4?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1980",
-        "addr:street": "Cooper Foster Park Road West"
+        "addr:street": "Cooper Foster Park Road West",
+        "branch": "Amherst"
       },
       "geometry": { "type": "Point", "coordinates": [-82.20151, 41.41855] }
     },
@@ -164,15 +164,15 @@
         "addr:city": "Fremont",
         "addr:state": "CA",
         "addr:postcode": "94538",
-        "addr:country": "US",
-        "name": "Auto Mall",
+        "name": "Quiznos",
         "phone": "+1 510-991-6732",
         "website": "https://order.quiznos.com/menu/auto-mall-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-16:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "43937",
-        "addr:street": "Hugo Terrace"
+        "addr:street": "Hugo Terrace",
+        "branch": "Auto Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-121.947722, 37.511503] }
     },
@@ -187,8 +187,7 @@
         "addr:city": "Salt Lake City",
         "addr:state": "UT",
         "addr:postcode": "84104",
-        "addr:country": "US",
-        "name": "Bangerter Pointe",
+        "name": "Quiznos",
         "phone": "+1 801-973-6300",
         "website": "https://order.quiznos.com/menu/bangerter-pointe-2?handoff=delivery",
         "opening_hours": "Mo-Fr 07:00-18:00",
@@ -196,7 +195,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1775",
         "addr:street": "South 4130 West",
-        "addr:unit": "D"
+        "addr:unit": "D",
+        "branch": "Bangerter Pointe"
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +214,7 @@
         "addr:city": "Marrero",
         "addr:state": "LA",
         "addr:postcode": "70072",
-        "addr:country": "US",
-        "name": "Barataria",
+        "name": "Quiznos",
         "phone": "+1 504-340-0887",
         "website": "https://order.quiznos.com/menu/barataria-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -223,7 +222,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1855",
         "addr:street": "Barataria Boulevard",
-        "addr:unit": "C1"
+        "addr:unit": "C1",
+        "branch": "Barataria"
       },
       "geometry": { "type": "Point", "coordinates": [-90.09864, 29.87721] }
     },
@@ -238,8 +238,7 @@
         "addr:city": "Cedar Rapids",
         "addr:state": "IA",
         "addr:postcode": "52402",
-        "addr:country": "US",
-        "name": "Blairs Place Shopping Center",
+        "name": "Quiznos",
         "phone": "+1 319-294-8524",
         "website": "https://order.quiznos.com/menu/blairs-place-shopping-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -247,7 +246,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "600",
         "addr:street": "Blairs Ferry Road Northeast",
-        "addr:unit": "E"
+        "addr:unit": "E",
+        "branch": "Blairs Place Shopping Center"
       },
       "geometry": { "type": "Point", "coordinates": [-91.64308, 42.03491] }
     },
@@ -262,15 +262,15 @@
         "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33155",
-        "addr:country": "US",
-        "name": "BMS Bird East",
+        "name": "Quiznos",
         "phone": "+1 305-661-2890",
         "website": "https://order.quiznos.com/menu/bms-bird-east-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "7100",
-        "addr:street": "Southwest Bird Road"
+        "addr:street": "Southwest Bird Road",
+        "branch": "BMS Bird East"
       },
       "geometry": { "type": "Point", "coordinates": [-80.30948, 25.73296] }
     },
@@ -285,15 +285,15 @@
         "addr:city": "Tomah",
         "addr:state": "WI",
         "addr:postcode": "54660",
-        "addr:country": "US",
-        "name": "BP - Highway 12 and 16",
+        "name": "Quiznos",
         "phone": "+1 608-372-4677",
         "website": "https://order.quiznos.com/menu/bp-highway-12-16-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-16:00; Su 10:00-14:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1030",
-        "addr:street": "East CLifton Street"
+        "addr:street": "East CLifton Street",
+        "branch": "BP - Highway 12 and 16"
       },
       "geometry": { "type": "Point", "coordinates": [-90.49898, 43.97233] }
     },
@@ -308,14 +308,14 @@
         "addr:city": "Portland",
         "addr:state": "TN",
         "addr:postcode": "37148",
-        "addr:country": "US",
-        "name": "BP - Highway 31 West",
+        "name": "Quiznos",
         "phone": "+1 615-325-1159",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5500",
-        "addr:street": "Highway 31 West"
+        "addr:street": "Highway 31 West",
+        "branch": "BP - Highway 31 West"
       },
       "geometry": { "type": "Point", "coordinates": [-86.59207, 36.59101] }
     },
@@ -330,15 +330,15 @@
         "addr:city": "Metropolis",
         "addr:state": "IL",
         "addr:postcode": "62960",
-        "addr:country": "US",
-        "name": "BP - Highway 45 and Dever Road",
+        "name": "Quiznos",
         "phone": "+1 618-524-5907",
         "website": "https://order.quiznos.com/menu/bp-highway-45-dever-road-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2105",
-        "addr:street": "East 5th Street"
+        "addr:street": "East 5th Street",
+        "branch": "BP - Highway 45 and Dever Road"
       },
       "geometry": { "type": "Point", "coordinates": [-88.68964, 37.16156] }
     },
@@ -354,15 +354,15 @@
         "addr:city": "Madison",
         "addr:state": "WI",
         "addr:postcode": "53715",
-        "addr:country": "US",
-        "name": "BP - Park Street Madison",
+        "name": "Quiznos",
         "phone": "+1 608-268-1010",
         "website": "https://order.quiznos.com/menu/bp-park-street-madison-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 11:00-15:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "318",
-        "addr:street": "South Park Street"
+        "addr:street": "South Park Street",
+        "branch": "BP - Park Street Madison"
       },
       "geometry": { "type": "Point", "coordinates": [-89.40083, 43.06433] }
     },
@@ -377,8 +377,7 @@
         "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77025",
-        "addr:country": "US",
-        "name": "Braesmain",
+        "name": "Quiznos",
         "phone": "+1 832-778-8014",
         "website": "https://order.quiznos.com/menu/braesmain-2?handoff=delivery",
         "opening_hours": "Mo-Sa 09:30-21:00; Su 11:00-20:00",
@@ -386,7 +385,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "8502",
         "addr:street": "Main Street",
-        "addr:unit": "A"
+        "addr:unit": "A",
+        "branch": "Braesmain"
       },
       "geometry": {
         "type": "Point",
@@ -404,8 +404,7 @@
         "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85040",
-        "addr:country": "US",
-        "name": "Broadway Commerce Park",
+        "name": "Quiznos",
         "phone": "+1 602-431-5754",
         "website": "https://order.quiznos.com/menu/broadway-commerce-park-2?handoff=delivery",
         "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-15:00",
@@ -413,7 +412,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4001",
         "addr:street": "East Broadway Road",
-        "addr:unit": "B12A"
+        "addr:unit": "B12A",
+        "branch": "Broadway Commerce Park"
       },
       "geometry": {
         "type": "Point",
@@ -431,15 +431,15 @@
         "addr:city": "San Antonio",
         "addr:state": "TX",
         "addr:postcode": "78229",
-        "addr:country": "US",
-        "name": "Callaghan Road Center",
+        "name": "Quiznos",
         "phone": "+1 210-308-5525",
         "website": "https://order.quiznos.com/menu/callaghan-road-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "6408",
-        "addr:street": "Callaghan Road"
+        "addr:street": "Callaghan Road",
+        "branch": "Callaghan Road Center"
       },
       "geometry": {
         "type": "Point",
@@ -457,15 +457,15 @@
         "addr:city": "Plainfield",
         "addr:state": "IN",
         "addr:postcode": "46168",
-        "addr:country": "US",
-        "name": "Cambridge Place Shopping Center",
+        "name": "Quiznos",
         "phone": "+1 317-838-7433",
         "website": "https://order.quiznos.com/menu/cambridge-place-shopping-center-2?handoff=delivery",
         "opening_hours": "10:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5971",
-        "addr:street": "Cambridge Way"
+        "addr:street": "Cambridge Way",
+        "branch": "Cambridge Place Shopping Center"
       },
       "geometry": { "type": "Point", "coordinates": [-86.36969, 39.67721] }
     },
@@ -480,14 +480,14 @@
         "addr:city": "Camp Douglas",
         "addr:state": "WI",
         "addr:postcode": "54618",
-        "addr:country": "US",
-        "name": "Camp Douglas",
+        "name": "Quiznos",
         "phone": "+1 608-427-3115",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "200",
-        "addr:street": "Highway 12/16"
+        "addr:street": "Highway 12/16",
+        "branch": "Camp Douglas"
       },
       "geometry": { "type": "Point", "coordinates": [-90.36889, 43.99144] }
     },
@@ -502,15 +502,15 @@
         "addr:city": "Rochester Hills",
         "addr:state": "MI",
         "addr:postcode": "48309",
-        "addr:country": "US",
-        "name": "Campus at Auburn and Crooks",
+        "name": "Quiznos",
         "phone": "+1 248-853-4268",
         "website": "https://order.quiznos.com/menu/campus-at-auburn-crooks-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-18:00; Su 11:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2933",
-        "addr:street": "Crooks Road"
+        "addr:street": "Crooks Road",
+        "branch": "Campus at Auburn and Crooks"
       },
       "geometry": {
         "type": "Point",
@@ -529,14 +529,14 @@
         "addr:city": "Goodlettsville",
         "addr:state": "TN",
         "addr:postcode": "37072",
-        "addr:country": "US",
-        "name": "Carousel Plaza",
+        "name": "Quiznos",
         "phone": "+1 615-705-1198",
         "opening_hours": "Mo-Fr 10:30-19:30; Sa 11:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "919",
-        "addr:street": "Conference Drive"
+        "addr:street": "Conference Drive",
+        "branch": "Carousel Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-86.70103, 36.32352] }
     },
@@ -551,15 +551,15 @@
         "addr:city": "Centralia",
         "addr:state": "WA",
         "addr:postcode": "98531",
-        "addr:country": "US",
-        "name": "Centralia Factory Outlets",
+        "name": "Quiznos",
         "phone": "+1 360-330-5100",
         "website": "https://order.quiznos.com/menu/central-timeia-factory-outlets-2?handoff=delivery",
         "opening_hours": "10:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "136",
-        "addr:street": "West High Street"
+        "addr:street": "West High Street",
+        "branch": "Centralia Factory Outlets"
       },
       "geometry": {
         "type": "Point",
@@ -577,8 +577,7 @@
         "addr:city": "Yakima",
         "addr:state": "WA",
         "addr:postcode": "98908",
-        "addr:country": "US",
-        "name": "Chalet Place Shopping Center",
+        "name": "Quiznos",
         "phone": "+1 509-469-7111",
         "website": "https://order.quiznos.com/menu/chalet-place-shopping-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -586,7 +585,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5603",
         "addr:street": "Summitview Avenue",
-        "addr:unit": "102"
+        "addr:unit": "102",
+        "branch": "Chalet Place Shopping Center"
       },
       "geometry": {
         "type": "Point",
@@ -604,8 +604,7 @@
         "addr:city": "New Albany",
         "addr:state": "IN",
         "addr:postcode": "47150",
-        "addr:country": "US",
-        "name": "Charlestown Road",
+        "name": "Quiznos",
         "phone": "+1 812-981-7849",
         "website": "https://order.quiznos.com/menu/charlestown-road-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -613,7 +612,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4212",
         "addr:street": "Charlestown Road",
-        "addr:unit": "1"
+        "addr:unit": "1",
+        "branch": "Charlestown Road"
       },
       "geometry": { "type": "Point", "coordinates": [-85.79423, 38.35212] }
     },
@@ -628,15 +628,15 @@
         "addr:city": "Chaska",
         "addr:state": "MN",
         "addr:postcode": "55318",
-        "addr:country": "US",
-        "name": "Chaska Commons",
+        "name": "Quiznos",
         "phone": "+1 952-448-7827",
         "website": "https://order.quiznos.com/menu/chaska-commons-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "232",
-        "addr:street": "Pioneer Trail"
+        "addr:street": "Pioneer Trail",
+        "branch": "Chaska Commons"
       },
       "geometry": {
         "type": "Point",
@@ -654,15 +654,15 @@
         "addr:city": "Belmont",
         "addr:state": "OH",
         "addr:postcode": "43718",
-        "addr:country": "US",
-        "name": "Marathon - Bel-Morr Market",
+        "name": "Quiznos",
         "phone": "+1 740-782-0015",
         "website": "https://order.quiznos.com/menu/marathon-bel-morr-market-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "66440",
-        "addr:street": "Belmont Morristown Road"
+        "addr:street": "Belmont Morristown Road",
+        "branch": "Marathon - Bel-Morr Market"
       },
       "geometry": { "type": "Point", "coordinates": [-81.05336, 40.06081] }
     },
@@ -677,14 +677,14 @@
         "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77041",
-        "addr:country": "US",
-        "name": "Chevron - Fuel Depot",
+        "name": "Quiznos",
         "phone": "+1 713-937-6154",
         "opening_hours": "Mo-We 10:00-18:00; Th 10:00-06:00; Fr-Sa 10:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "10920",
-        "addr:street": "West Little York Road"
+        "addr:street": "West Little York Road",
+        "branch": "Chevron - Fuel Depot"
       },
       "geometry": { "type": "Point", "coordinates": [-95.56926, 29.8672] }
     },
@@ -699,8 +699,7 @@
         "addr:city": "Russellville",
         "addr:state": "AR",
         "addr:postcode": "72801",
-        "addr:country": "US",
-        "name": "City Mall",
+        "name": "Quiznos",
         "phone": "+1 479-968-7827",
         "website": "https://order.quiznos.com/menu/city-mall-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -708,7 +707,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "407",
         "addr:street": "North Arkansas Avenue",
-        "addr:unit": "3"
+        "addr:unit": "3",
+        "branch": "City Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-93.13363, 35.28133] }
     },
@@ -723,8 +723,7 @@
         "addr:city": "Woodbury",
         "addr:state": "MN",
         "addr:postcode": "55129",
-        "addr:country": "US",
-        "name": "City Walk",
+        "name": "Quiznos",
         "phone": "+1 651-738-1100",
         "website": "https://order.quiznos.com/menu/city-walk-2?handoff=delivery",
         "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-20:00",
@@ -732,7 +731,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "10075",
         "addr:street": "City Walk Drive",
-        "addr:unit": "F"
+        "addr:unit": "F",
+        "branch": "City Walk"
       },
       "geometry": { "type": "Point", "coordinates": [-92.90249, 44.9429] }
     },
@@ -747,15 +747,15 @@
         "addr:city": "Dodge City",
         "addr:state": "KS",
         "addr:postcode": "67801",
-        "addr:country": "US",
-        "name": "Conoco - Gary Avenue and Highway 50",
+        "name": "Quiznos",
         "phone": "+1 620-338-8345",
         "website": "https://order.quiznos.com/menu/conoco-gary-avenue-hwy-50-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2615",
-        "addr:street": "Gary Avenue"
+        "addr:street": "Gary Avenue",
+        "branch": "Conoco - Gary Avenue and Highway 50"
       },
       "geometry": { "type": "Point", "coordinates": [-100.0195, 37.77955] }
     },
@@ -770,14 +770,14 @@
         "addr:city": "Conroe",
         "addr:state": "TX",
         "addr:postcode": "77304",
-        "addr:country": "US",
-        "name": "Conroe Regional Medical Center",
+        "name": "Quiznos",
         "phone": "+1 936-703-5008",
         "opening_hours": "Mo-Fr 09:00-22:00; Sa 10:00-22:00; Su 11:00-22:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "504",
-        "addr:street": "Medical Center Boulevard"
+        "addr:street": "Medical Center Boulevard",
+        "branch": "Conroe Regional Medical Center"
       },
       "geometry": { "type": "Point", "coordinates": [-95.46741, 30.28504] }
     },
@@ -792,8 +792,7 @@
         "addr:city": "San Clemente",
         "addr:state": "CA",
         "addr:postcode": "92673",
-        "addr:country": "US",
-        "name": "Courtyards at Talega",
+        "name": "Quiznos",
         "phone": "+1 949-218-1930",
         "website": "https://order.quiznos.com/menu/courtyards-at-talega-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su 10:00-16:00",
@@ -801,7 +800,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1001",
         "addr:street": "Avenida Pico",
-        "addr:unit": "F"
+        "addr:unit": "F",
+        "branch": "Courtyards at Talega"
       },
       "geometry": { "type": "Point", "coordinates": [-117.60498, 33.45404] }
     },
@@ -817,14 +817,14 @@
         "addr:city": "Branson",
         "addr:state": "MO",
         "addr:postcode": "65616",
-        "addr:country": "US",
-        "name": "Cross Creek Center",
+        "name": "Quiznos",
         "phone": "+1 417-231-4558",
         "opening_hours": "08:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "225",
-        "addr:street": "Cross Creek Boulevard"
+        "addr:street": "Cross Creek Boulevard",
+        "branch": "Cross Creek Center"
       },
       "geometry": { "type": "Point", "coordinates": [-93.18827, 36.64341] }
     },
@@ -839,8 +839,7 @@
         "addr:city": "Orange",
         "addr:state": "CT",
         "addr:postcode": "06477",
-        "addr:country": "US",
-        "name": "Crossroads Plaza",
+        "name": "Quiznos",
         "phone": "+1 203-795-7000",
         "website": "https://order.quiznos.com/menu/crossroads-plaza-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:30-20:00; Su 11:00-19:00",
@@ -848,7 +847,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "263",
         "addr:street": "Boston Post Road",
-        "addr:unit": "2"
+        "addr:unit": "2",
+        "branch": "Crossroads Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -866,14 +866,14 @@
         "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80249",
-        "addr:country": "US",
-        "name": "DIA Concourse A",
+        "name": "Quiznos",
         "phone": "+1 303-342-7396",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "8400",
-        "addr:street": "Pena Boulevard"
+        "addr:street": "Pena Boulevard",
+        "branch": "DIA Concourse A"
       },
       "geometry": { "type": "Point", "coordinates": [-104.67415, 39.85323] }
     },
@@ -888,15 +888,15 @@
         "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32202",
-        "addr:country": "US",
-        "name": "Downtown",
+        "name": "Quiznos",
         "phone": "+1 904-798-8889",
         "website": "https://order.quiznos.com/menu/downtown-2?handoff=delivery",
         "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "224",
-        "addr:street": "North Hogan Street"
+        "addr:street": "North Hogan Street",
+        "branch": "Downtown"
       },
       "geometry": {
         "type": "Point",
@@ -914,8 +914,7 @@
         "addr:city": "Dupont",
         "addr:state": "WA",
         "addr:postcode": "98327",
-        "addr:country": "US",
-        "name": "Dupont Station",
+        "name": "Quiznos",
         "phone": "+1 253-964-4700",
         "website": "https://order.quiznos.com/menu/dupont-station-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:30; Sa-Su 11:00-17:30",
@@ -923,7 +922,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1520",
         "addr:street": "Wilmington Drive",
-        "addr:unit": "C2"
+        "addr:unit": "C2",
+        "branch": "Dupont Station"
       },
       "geometry": { "type": "Point", "coordinates": [-122.64399, 47.09152] }
     },
@@ -938,8 +938,7 @@
         "addr:city": "Duvall",
         "addr:state": "WA",
         "addr:postcode": "98019",
-        "addr:country": "US",
-        "name": "Duvall Safeway Plaza",
+        "name": "Quiznos",
         "phone": "+1 425-844-0755",
         "website": "https://order.quiznos.com/menu/duvall-safeway-plaza-2?handoff=delivery",
         "opening_hours": "10:00-20:00",
@@ -947,7 +946,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "14110",
         "addr:street": "Main Street Northeast",
-        "addr:unit": "C"
+        "addr:unit": "C",
+        "branch": "Duvall Safeway Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-121.98703, 47.72713] }
     },
@@ -962,8 +962,7 @@
         "addr:city": "Weatherford",
         "addr:state": "OK",
         "addr:postcode": "73096",
-        "addr:country": "US",
-        "name": "East Main",
+        "name": "Quiznos",
         "phone": "+1 580-772-7849",
         "website": "https://order.quiznos.com/menu/east-main-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -971,7 +970,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "701",
         "addr:street": "East Main Street",
-        "addr:unit": "A"
+        "addr:unit": "A",
+        "branch": "East Main"
       },
       "geometry": {
         "type": "Point",
@@ -989,8 +989,7 @@
         "addr:city": "Harahan",
         "addr:state": "LA",
         "addr:postcode": "70123",
-        "addr:country": "US",
-        "name": "Elmwood Village Plaza",
+        "name": "Quiznos",
         "phone": "+1 504-729-4111",
         "website": "https://order.quiznos.com/menu/elmwood-village-plaza-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -998,7 +997,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1130",
         "addr:street": "South Clearview Parkway",
-        "addr:unit": "D"
+        "addr:unit": "D",
+        "branch": "Elmwood Village Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -1016,15 +1016,15 @@
         "addr:city": "Raleigh",
         "addr:state": "NC",
         "addr:postcode": "27615",
-        "addr:country": "US",
-        "name": "Falls Village",
+        "name": "Quiznos",
         "phone": "+1 919-676-1909",
         "website": "https://order.quiznos.com/menu/falls-village-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "6605",
-        "addr:street": "Falls of Neuse Road"
+        "addr:street": "Falls of Neuse Road",
+        "branch": "Falls Village"
       },
       "geometry": { "type": "Point", "coordinates": [-78.622443, 35.873111] }
     },
@@ -1039,15 +1039,15 @@
         "addr:city": "Jamestown",
         "addr:state": "ND",
         "addr:postcode": "58401",
-        "addr:country": "US",
-        "name": "First Avenue and Eighth Street",
+        "name": "Quiznos",
         "phone": "+1 701-251-9348",
         "website": "https://order.quiznos.com/menu/first-avenue-eighth-street-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "721",
-        "addr:street": "1st Avenue South"
+        "addr:street": "1st Avenue South",
+        "branch": "First Avenue and Eighth Street"
       },
       "geometry": {
         "type": "Point",
@@ -1065,14 +1065,14 @@
         "addr:city": "Sioux Falls",
         "addr:state": "SD",
         "addr:postcode": "57104",
-        "addr:country": "US",
-        "name": "Food and Fuel",
+        "name": "Quiznos",
         "phone": "+1 605-334-5550",
         "opening_hours": "Mo-Fr 10:30-19:00; Sa 11:00-15:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2505",
-        "addr:street": "West Russell Street"
+        "addr:street": "West Russell Street",
+        "branch": "Food and Fuel"
       },
       "geometry": { "type": "Point", "coordinates": [-96.7595, 43.56416] }
     },
@@ -1087,15 +1087,15 @@
         "addr:city": "Fort Liberty",
         "addr:state": "NC",
         "addr:postcode": "28310",
-        "addr:country": "US",
-        "name": "Fort Liberty Army Base - Building A",
+        "name": "Quiznos",
         "phone": "+1 910-495-1471",
         "website": "https://order.quiznos.com/menu/fort-bragg-army-base-building-2?handoff=delivery",
         "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 11:00-16:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3587",
-        "addr:street": "Butner Road"
+        "addr:street": "Butner Road",
+        "branch": "Fort Liberty Army Base - Building A"
       },
       "geometry": { "type": "Point", "coordinates": [-79.01765, 35.15238] }
     },
@@ -1111,14 +1111,14 @@
         "addr:city": "Fort Myers",
         "addr:state": "FL",
         "addr:postcode": "33913",
-        "addr:country": "US",
-        "name": "Fort Myers Int'l Airport",
+        "name": "Quiznos",
         "phone": "+1 239-482-3507",
         "opening_hours": "09:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "11000",
-        "addr:street": "Terminal Axis Road"
+        "addr:street": "Terminal Axis Road",
+        "branch": "Fort Myers Int'l Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-81.75528, 26.53363] }
     },
@@ -1133,15 +1133,15 @@
         "addr:city": "Stafford",
         "addr:state": "TX",
         "addr:postcode": "77477",
-        "addr:country": "US",
-        "name": "Fountains",
+        "name": "Quiznos",
         "phone": "+1 281-277-2444",
         "website": "https://order.quiznos.com/menu/fountains-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "11339",
-        "addr:street": "Fountain Lake Drive"
+        "addr:street": "Fountain Lake Drive",
+        "branch": "Fountains"
       },
       "geometry": {
         "type": "Point",
@@ -1159,8 +1159,7 @@
         "addr:city": "Fowler",
         "addr:state": "CA",
         "addr:postcode": "93625",
-        "addr:country": "US",
-        "name": "Fowler Crossroads",
+        "name": "Quiznos",
         "phone": "+1 559-834-6284",
         "website": "https://order.quiznos.com/menu/fowler-crossroads-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -1168,7 +1167,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "216",
         "addr:street": "West Merced Street",
-        "addr:unit": "104"
+        "addr:unit": "104",
+        "branch": "Fowler Crossroads"
       },
       "geometry": { "type": "Point", "coordinates": [-119.68312, 36.62797] }
     },
@@ -1183,8 +1183,7 @@
         "addr:city": "Port Orchard",
         "addr:state": "WA",
         "addr:postcode": "98366",
-        "addr:country": "US",
-        "name": "Fred Meyer - Sedgwick Road",
+        "name": "Quiznos",
         "phone": "+1 360-874-9612",
         "website": "https://order.quiznos.com/menu/fred-meyer-sedgwick-road-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -1192,7 +1191,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1888",
         "addr:street": "Southeast Sedgwick Road",
-        "addr:unit": "103"
+        "addr:unit": "103",
+        "branch": "Fred Meyer - Sedgwick Road"
       },
       "geometry": { "type": "Point", "coordinates": [-122.62926, 47.5046] }
     },
@@ -1208,15 +1208,15 @@
         "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95841",
-        "addr:country": "US",
-        "name": "Garfield Corner",
+        "name": "Quiznos",
         "phone": "+1 916-334-0284",
         "website": "https://order.quiznos.com/menu/garfield-corner-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "6306",
-        "addr:street": "Garfield Avenue"
+        "addr:street": "Garfield Avenue",
+        "branch": "Garfield Corner"
       },
       "geometry": { "type": "Point", "coordinates": [-121.3339, 38.68006] }
     },
@@ -1231,8 +1231,7 @@
         "addr:city": "Glendale",
         "addr:state": "AZ",
         "addr:postcode": "85305",
-        "addr:country": "US",
-        "name": "Glendale",
+        "name": "Quiznos",
         "phone": "+1 623-772-0220",
         "website": "https://order.quiznos.com/menu/glendale-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-20:00",
@@ -1240,7 +1239,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "9230",
         "addr:street": "West Northern Avenue",
-        "addr:unit": "107"
+        "addr:unit": "107",
+        "branch": "Glendale"
       },
       "geometry": {
         "type": "Point",
@@ -1258,8 +1258,7 @@
         "addr:city": "Plano",
         "addr:state": "TX",
         "addr:postcode": "75023",
-        "addr:country": "US",
-        "name": "Golden Plaza",
+        "name": "Quiznos",
         "phone": "+1 972-575-8700",
         "website": "https://order.quiznos.com/menu/golden-plaza-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
@@ -1267,7 +1266,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "280",
         "addr:street": "Legacy Parkway",
-        "addr:unit": "200"
+        "addr:unit": "200",
+        "branch": "Golden Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-96.69806, 33.06752] }
     },
@@ -1282,15 +1282,15 @@
         "addr:city": "Goldsboro",
         "addr:state": "NC",
         "addr:postcode": "27534",
-        "addr:country": "US",
-        "name": "Goldsboro",
+        "name": "Quiznos",
         "phone": "+1 919-731-7315",
         "website": "https://order.quiznos.com/menu/goldsboro-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1813",
-        "addr:street": "Wayne Memorial Drive"
+        "addr:street": "Wayne Memorial Drive",
+        "branch": "Goldsboro"
       },
       "geometry": { "type": "Point", "coordinates": [-77.97143, 35.39459] }
     },
@@ -1305,8 +1305,7 @@
         "addr:city": "Round Rock",
         "addr:state": "TX",
         "addr:postcode": "78664",
-        "addr:country": "US",
-        "name": "Greenlawn Crossing",
+        "name": "Quiznos",
         "phone": "+1 512-248-2929",
         "website": "https://order.quiznos.com/menu/greenlawn-crossing-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00",
@@ -1314,7 +1313,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "603",
         "addr:street": "Louis Henna Boulevard",
-        "addr:unit": "B120"
+        "addr:unit": "B120",
+        "branch": "Greenlawn Crossing"
       },
       "geometry": {
         "type": "Point",
@@ -1332,15 +1332,15 @@
         "addr:city": "Hagerstown",
         "addr:state": "MD",
         "addr:postcode": "21740",
-        "addr:country": "US",
-        "name": "Hagerstown Shopping Center",
+        "name": "Quiznos",
         "phone": "+1 301-665-1006",
         "website": "https://order.quiznos.com/menu/hagerstown-shopping-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "55",
-        "addr:street": "Eastern Boulevard North"
+        "addr:street": "Eastern Boulevard North",
+        "branch": "Hagerstown Shopping Center"
       },
       "geometry": { "type": "Point", "coordinates": [-77.69954, 39.63296] }
     },
@@ -1355,15 +1355,15 @@
         "addr:city": "Richmond",
         "addr:state": "CA",
         "addr:postcode": "94804",
-        "addr:country": "US",
-        "name": "Harbor Gate",
+        "name": "Quiznos",
         "phone": "+1 510-620-1930",
         "website": "https://order.quiznos.com/menu/harbor-gate-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su 11:00-15:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2175",
-        "addr:street": "Meeker Avenue"
+        "addr:street": "Meeker Avenue",
+        "branch": "Harbor Gate"
       },
       "geometry": {
         "type": "Point",
@@ -1382,15 +1382,15 @@
         "addr:city": "Hastings",
         "addr:state": "NE",
         "addr:postcode": "68901",
-        "addr:country": "US",
-        "name": "Hastings",
+        "name": "Quiznos",
         "phone": "+1 402-461-3800",
         "website": "https://order.quiznos.com/menu/hastings-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "320",
-        "addr:street": "South Burlington Avenue"
+        "addr:street": "South Burlington Avenue",
+        "branch": "Hastings"
       },
       "geometry": {
         "type": "Point",
@@ -1408,15 +1408,15 @@
         "addr:city": "Hawthorne",
         "addr:state": "CA",
         "addr:postcode": "90250",
-        "addr:country": "US",
-        "name": "Hawthorne Commercial Center",
+        "name": "Quiznos",
         "phone": "+1 323-779-9007",
         "website": "https://order.quiznos.com/menu/hawthorne-commercial-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2909",
-        "addr:street": "West 120th Street"
+        "addr:street": "West 120th Street",
+        "branch": "Hawthorne Commercial Center"
       },
       "geometry": {
         "type": "Point",
@@ -1434,15 +1434,15 @@
         "addr:city": "Mitchell",
         "addr:state": "SD",
         "addr:postcode": "57301",
-        "addr:country": "US",
-        "name": "Highland Mall",
+        "name": "Quiznos",
         "phone": "+1 605-995-1010",
         "website": "https://order.quiznos.com/menu/highland-mall-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2100",
-        "addr:street": "Highland Way"
+        "addr:street": "Highland Way",
+        "branch": "Highland Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-98.00863, 43.69045] }
     },
@@ -1459,12 +1459,12 @@
         "addr:city": "Honolulu",
         "addr:state": "HI",
         "addr:postcode": "96819",
-        "addr:country": "US",
-        "name": "Honolulu International Airport",
+        "name": "Quiznos",
         "phone": "+1 808-833-9939",
         "opening_hours": "08:00-22:30",
         "brand": "Quizno's",
-        "brand:wikidata": "Q1936229"
+        "brand:wikidata": "Q1936229",
+        "branch": "Honolulu International Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-157.92163, 21.33311] }
     },
@@ -1479,15 +1479,15 @@
         "addr:city": "Dyersville",
         "addr:state": "IA",
         "addr:postcode": "52040",
-        "addr:country": "US",
-        "name": "Highway 136 - 9th Street",
+        "name": "Quiznos",
         "phone": "+1 563-875-2434",
         "website": "https://order.quiznos.com/menu/hwy-136-9th-street-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1426",
-        "addr:street": "9th Street Southeast"
+        "addr:street": "9th Street Southeast",
+        "branch": "Highway 136 - 9th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-91.11431, 42.47195] }
     },
@@ -1502,14 +1502,14 @@
         "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34208",
-        "addr:country": "US",
-        "name": "Highway 64 and 66th St Court East",
+        "name": "Quiznos",
         "phone": "+1 941-909-7757",
         "opening_hours": "06:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "575",
-        "addr:street": "66th Street Court East"
+        "addr:street": "66th Street Court East",
+        "branch": "Highway 64 and 66th St Court East"
       },
       "geometry": { "type": "Point", "coordinates": [-82.47825, 27.49289] }
     },
@@ -1524,8 +1524,7 @@
         "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80211",
-        "addr:country": "US",
-        "name": "Interstate 70 and Pecos Street",
+        "name": "Quiznos",
         "phone": "+1 303-433-0895",
         "website": "https://order.quiznos.com/menu/interstate-70-pecos-street-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-15:00",
@@ -1533,7 +1532,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4640",
         "addr:street": "Pecos Street",
-        "addr:unit": "A"
+        "addr:unit": "A",
+        "branch": "Interstate 70 and Pecos Street"
       },
       "geometry": { "type": "Point", "coordinates": [-105.00622, 39.780934] }
     },
@@ -1548,8 +1548,7 @@
         "addr:city": "Tukwila",
         "addr:state": "WA",
         "addr:postcode": "98168",
-        "addr:country": "US",
-        "name": "Interurban Retail Center",
+        "name": "Quiznos",
         "phone": "+1 206-444-6119",
         "website": "https://order.quiznos.com/menu/interurban-retail-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -1557,7 +1556,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "13038",
         "addr:street": "Interurban Avenue South",
-        "addr:unit": "140"
+        "addr:unit": "140",
+        "branch": "Interurban Retail Center"
       },
       "geometry": {
         "type": "Point",
@@ -1575,15 +1575,15 @@
         "addr:city": "Jackson Hole",
         "addr:state": "WY",
         "addr:postcode": "83001",
-        "addr:country": "US",
-        "name": "Jackson Hole",
+        "name": "Quiznos",
         "phone": "+1 307-733-0201",
         "website": "https://order.quiznos.com/menu/jackson-hole-2?handoff=delivery",
         "opening_hours": "Mo-Fr 11:00-19:30; Sa-Su 11:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1325",
-        "addr:street": "South Highway 89"
+        "addr:street": "South Highway 89",
+        "branch": "Jackson Hole"
       },
       "geometry": { "type": "Point", "coordinates": [-110.80653, 43.46479] }
     },
@@ -1598,15 +1598,15 @@
         "addr:city": "Mathews",
         "addr:state": "LA",
         "addr:postcode": "70375",
-        "addr:country": "US",
-        "name": "Jester's Court Too Truck Stop - Highway 308",
+        "name": "Quiznos",
         "phone": "+1 985-532-0777",
         "website": "https://order.quiznos.com/menu/jesters-court-too-truck-stop-highway-308-2?handoff=delivery",
         "opening_hours": "09:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5375",
-        "addr:street": "Highway 308"
+        "addr:street": "Highway 308",
+        "branch": "Jester's Court Too Truck Stop - Highway 308"
       },
       "geometry": { "type": "Point", "coordinates": [-90.53831, 29.67247] }
     },
@@ -1621,8 +1621,7 @@
         "addr:city": "Carrollton",
         "addr:state": "TX",
         "addr:postcode": "75006",
-        "addr:country": "US",
-        "name": "Keller/Josey",
+        "name": "Quiznos",
         "phone": "+1 972-446-2852",
         "website": "https://order.quiznos.com/menu/kellerjosey-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-18:00",
@@ -1630,7 +1629,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2150",
         "addr:street": "North Josey Lane",
-        "addr:unit": "122"
+        "addr:unit": "122",
+        "branch": "Keller/Josey"
       },
       "geometry": {
         "type": "Point",
@@ -1648,14 +1648,14 @@
         "addr:city": "Pittsburg",
         "addr:state": "TX",
         "addr:postcode": "75686",
-        "addr:country": "US",
-        "name": "Lafayette St & Highland Avenue",
+        "name": "Quiznos",
         "phone": "+1 903-856-7700",
         "opening_hours": "11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "310",
-        "addr:street": "South Greer Boulevard"
+        "addr:street": "South Greer Boulevard",
+        "branch": "Lafayette St & Highland Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-94.96222, 32.9917] }
     },
@@ -1670,14 +1670,14 @@
         "addr:city": "Kingsland",
         "addr:state": "GA",
         "addr:postcode": "31548",
-        "addr:country": "US",
-        "name": "Laurel Island & Brazell Road",
+        "name": "Quiznos",
         "phone": "+1 912-576-2702",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5289",
-        "addr:street": "Laurel Island Parkway"
+        "addr:street": "Laurel Island Parkway",
+        "branch": "Laurel Island & Brazell Road"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6608, 30.82739] }
     },
@@ -1692,15 +1692,15 @@
         "addr:city": "Springfield",
         "addr:state": "IL",
         "addr:postcode": "62794",
-        "addr:country": "US",
-        "name": "Lincoln Land Community College",
+        "name": "Quiznos",
         "phone": "+1 217-786-2400",
         "website": "https://order.quiznos.com/menu/lincoln-land-community-college-2?handoff=delivery",
         "opening_hours": "Mo-Fr 09:00-14:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5250",
-        "addr:street": "Shepherd Road"
+        "addr:street": "Shepherd Road",
+        "branch": "Lincoln Land Community College"
       },
       "geometry": { "type": "Point", "coordinates": [-89.61073, 39.72145] }
     },
@@ -1715,14 +1715,14 @@
         "addr:city": "Lolo",
         "addr:state": "MT",
         "addr:postcode": "59847",
-        "addr:country": "US",
-        "name": "Lolo Super Stop - Highway 93 South",
+        "name": "Quiznos",
         "phone": "+1 406-273-3800",
         "opening_hours": "Mo 10:00-19:00; Tu-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "12011",
-        "addr:street": "Highway 93 South"
+        "addr:street": "Highway 93 South",
+        "branch": "Lolo Super Stop - Highway 93 South"
       },
       "geometry": { "type": "Point", "coordinates": [-114.08264, 46.74712] }
     },
@@ -1737,8 +1737,7 @@
         "addr:city": "Los Angeles",
         "addr:state": "CA",
         "addr:postcode": "90012",
-        "addr:country": "US",
-        "name": "Los Angeles City Mall",
+        "name": "Quiznos",
         "phone": "+1 213-995-3100",
         "website": "https://order.quiznos.com/menu/los-angeles-city-mall-2?handoff=delivery",
         "opening_hours": "Mo-Fr 08:00-16:00",
@@ -1746,7 +1745,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "201",
         "addr:street": "North Los Angeles Street",
-        "addr:unit": "22"
+        "addr:unit": "22",
+        "branch": "Los Angeles City Mall"
       },
       "geometry": {
         "type": "Point",
@@ -1764,15 +1764,15 @@
         "addr:city": "Commerce Township",
         "addr:state": "MI",
         "addr:postcode": "48390",
-        "addr:country": "US",
-        "name": "Maple and Benstein",
+        "name": "Quiznos",
         "phone": "+1 248-669-4267",
         "website": "https://order.quiznos.com/menu/maple-benstein-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "760",
-        "addr:street": "Benstein Road"
+        "addr:street": "Benstein Road",
+        "branch": "Maple and Benstein"
       },
       "geometry": {
         "type": "Point",
@@ -1790,15 +1790,15 @@
         "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30303",
-        "addr:country": "US",
-        "name": "Marietta Street",
+        "name": "Quiznos",
         "phone": "+1 404-589-8025",
         "website": "https://order.quiznos.com/menu/marietta-street-2?handoff=delivery",
         "opening_hours": "Mo-Th 07:00-19:30; Fr 07:00-19:00; Sa 11:00-18:30",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "29",
-        "addr:street": "Marietta Street Northwest"
+        "addr:street": "Marietta Street Northwest",
+        "branch": "Marietta Street"
       },
       "geometry": {
         "type": "Point",
@@ -1816,14 +1816,14 @@
         "addr:city": "Alcoa",
         "addr:state": "TN",
         "addr:postcode": "37701",
-        "addr:country": "US",
-        "name": "Mc Ghee Tyson Airport",
+        "name": "Quiznos",
         "phone": "+1 865-342-2969",
         "opening_hours": "Mo-Fr 04:30-19:30; Sa 04:30-18:30; Su 04:30-19:30",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2055",
-        "addr:street": "Alcoa Highway"
+        "addr:street": "Alcoa Highway",
+        "branch": "Mc Ghee Tyson Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-83.98703, 35.805518] }
     },
@@ -1839,14 +1839,14 @@
         "addr:city": "Las Vegas",
         "addr:state": "NV",
         "addr:postcode": "89119",
-        "addr:country": "US",
-        "name": "McCarran International Airport",
+        "name": "Quiznos",
         "phone": "+1 702-261-7330",
         "opening_hours": "04:30-01:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5757",
-        "addr:street": "Wayne Newton Boulevard"
+        "addr:street": "Wayne Newton Boulevard",
+        "branch": "McCarran International Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-115.14958, 36.08484] }
     },
@@ -1861,8 +1861,7 @@
         "addr:city": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93727",
-        "addr:country": "US",
-        "name": "McKinley and Peach",
+        "name": "Quiznos",
         "phone": "+1 559-454-8477",
         "website": "https://order.quiznos.com/menu/mckinley-peach-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -1870,7 +1869,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1595",
         "addr:street": "North Peach Avenue",
-        "addr:unit": "101"
+        "addr:unit": "101",
+        "branch": "McKinley and Peach"
       },
       "geometry": {
         "type": "Point",
@@ -1888,14 +1888,14 @@
         "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33122",
-        "addr:country": "US",
-        "name": "Miami Int'l Airport - Concourse H",
+        "name": "Quiznos",
         "phone": "+1 305-876-0815",
         "opening_hours": "09:30-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4250",
-        "addr:street": "Northwest 20th Street"
+        "addr:street": "Northwest 20th Street",
+        "branch": "Miami Int'l Airport - Concourse H"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2747, 25.7929] }
     },
@@ -1910,15 +1910,15 @@
         "addr:city": "Tulsa",
         "addr:state": "OK",
         "addr:postcode": "74133",
-        "addr:country": "US",
-        "name": "Mingo Marketplace",
+        "name": "Quiznos",
         "phone": "+1 918-459-7966",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "10031",
         "addr:street": "East 71st Street",
-        "addr:unit": "F"
+        "addr:unit": "F",
+        "branch": "Mingo Marketplace"
       },
       "geometry": {
         "type": "Point",
@@ -1936,15 +1936,15 @@
         "addr:city": "Huntsville",
         "addr:state": "AL",
         "addr:postcode": "35811",
-        "addr:country": "US",
-        "name": "Moores Mill",
+        "name": "Quiznos",
         "phone": "+1 256-852-7676",
         "website": "https://order.quiznos.com/menu/moores-mill-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5095 A",
-        "addr:street": "Moores Mill Road"
+        "addr:street": "Moores Mill Road",
+        "branch": "Moores Mill"
       },
       "geometry": { "type": "Point", "coordinates": [-86.53611, 34.79374] }
     },
@@ -1959,15 +1959,15 @@
         "addr:city": "Mundelein",
         "addr:state": "IL",
         "addr:postcode": "60060",
-        "addr:country": "US",
-        "name": "Mundelein",
+        "name": "Quiznos",
         "phone": "+1 847-837-0500",
         "website": "https://order.quiznos.com/menu/mundelein-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 10:30-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1156",
-        "addr:street": "West Maple Avenue"
+        "addr:street": "West Maple Avenue",
+        "branch": "Mundelein"
       },
       "geometry": { "type": "Point", "coordinates": [-88.02191, 42.27735] }
     },
@@ -1982,15 +1982,15 @@
         "addr:city": "Grafton",
         "addr:state": "WI",
         "addr:postcode": "53024",
-        "addr:country": "US",
-        "name": "North Port Washington Road and Washington Street",
+        "name": "Quiznos",
         "phone": "+1 262-375-4664",
         "website": "https://order.quiznos.com/menu/n-port-washington-road-washington-street-2?handoff=delivery",
         "opening_hours": "10:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1231",
-        "addr:street": "North Port Washington Road"
+        "addr:street": "North Port Washington Road",
+        "branch": "North Port Washington Road and Washington Street"
       },
       "geometry": { "type": "Point", "coordinates": [-87.92532, 43.32161] }
     },
@@ -2005,8 +2005,7 @@
         "addr:city": "North Salt Lake",
         "addr:state": "UT",
         "addr:postcode": "84054",
-        "addr:country": "US",
-        "name": "North Redwood Road and Cambridge Drive",
+        "name": "Quiznos",
         "phone": "+1 801-294-3384",
         "website": "https://order.quiznos.com/menu/n-redwood-road-cambridge-drive-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-15:00",
@@ -2014,7 +2013,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "420",
         "addr:street": "North Redwood Road",
-        "addr:unit": "A"
+        "addr:unit": "A",
+        "branch": "North Redwood Road and Cambridge Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-111.92978, 40.84927] }
     },
@@ -2029,15 +2029,15 @@
         "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77049",
-        "addr:country": "US",
-        "name": "New Forest Crossing",
+        "name": "Quiznos",
         "phone": "+1 281-458-9696",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5805",
         "addr:street": "East Sam Houston Parkway North",
-        "addr:unit": "H"
+        "addr:unit": "H",
+        "branch": "New Forest Crossing"
       },
       "geometry": { "type": "Point", "coordinates": [-95.16263, 29.81153] }
     },
@@ -2053,15 +2053,15 @@
         "addr:city": "Windsor",
         "addr:state": "CO",
         "addr:postcode": "80550",
-        "addr:country": "US",
-        "name": "New Windsor Marketplace",
+        "name": "Quiznos",
         "phone": "+1 970-674-3377",
         "website": "https://order.quiznos.com/menu/new-windsor-marketplace-2",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 10:30-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1550",
-        "addr:street": "Main Street"
+        "addr:street": "Main Street",
+        "branch": "New Windsor Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-104.928587, 40.479577] }
     },
@@ -2076,14 +2076,14 @@
         "addr:city": "Lakeland",
         "addr:state": "FL",
         "addr:postcode": "33810",
-        "addr:country": "US",
-        "name": "Nick & Moes #1",
+        "name": "Quiznos",
         "phone": "+1 863-858-0928",
         "opening_hours": "06:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4410",
-        "addr:street": "Kathleen Road"
+        "addr:street": "Kathleen Road",
+        "branch": "Nick & Moes #1"
       },
       "geometry": { "type": "Point", "coordinates": [-82.00663, 28.09863] }
     },
@@ -2098,15 +2098,15 @@
         "addr:city": "Barrington",
         "addr:state": "IL",
         "addr:postcode": "60010",
-        "addr:country": "US",
-        "name": "Northwest Highway",
+        "name": "Quiznos",
         "phone": "+1 847-842-0584",
         "website": "https://order.quiznos.com/menu/northwest-highway-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "115",
-        "addr:street": "North Northwest Highway"
+        "addr:street": "North Northwest Highway",
+        "branch": "Northwest Highway"
       },
       "geometry": {
         "type": "Point",
@@ -2125,15 +2125,15 @@
         "addr:city": "Rochester",
         "addr:state": "WA",
         "addr:postcode": "98579",
-        "addr:country": "US",
-        "name": "Old Highway 99 and 198th Avenue Southwest",
+        "name": "Quiznos",
         "phone": "+1 360-273-0102",
         "website": "https://order.quiznos.com/menu/old-highway-99-198th-ave-sw-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 10:30-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "19810",
-        "addr:street": "Old Highway 99 Southwest"
+        "addr:street": "Old Highway 99 Southwest",
+        "branch": "Old Highway 99 and 198th Avenue Southwest"
       },
       "geometry": { "type": "Point", "coordinates": [-123.01216, 46.79793] }
     },
@@ -2148,15 +2148,15 @@
         "addr:city": "Lamar",
         "addr:state": "CO",
         "addr:postcode": "81052",
-        "addr:country": "US",
-        "name": "Olive",
+        "name": "Quiznos",
         "phone": "+1 719-336-3040",
         "website": "https://order.quiznos.com/menu/olive-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "113",
-        "addr:street": "East Olive Street"
+        "addr:street": "East Olive Street",
+        "branch": "Olive"
       },
       "geometry": {
         "type": "Point",
@@ -2174,8 +2174,7 @@
         "addr:city": "Vancouver",
         "addr:state": "WA",
         "addr:postcode": "98682",
-        "addr:country": "US",
-        "name": "Orchards Green Plaza",
+        "name": "Quiznos",
         "phone": "+1 360-944-0906",
         "website": "https://order.quiznos.com/menu/orchards-green-plaza-2?handoff=delivery",
         "opening_hours": "11:00-19:00",
@@ -2183,7 +2182,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "7620",
         "addr:street": "Northeast 119th Place",
-        "addr:unit": "102"
+        "addr:unit": "102",
+        "branch": "Orchards Green Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-122.551095, 45.67794] }
     },
@@ -2198,15 +2198,15 @@
         "addr:city": "Nashville",
         "addr:state": "TN",
         "addr:postcode": "37210",
-        "addr:country": "US",
-        "name": "Peabody Corner Marketplace",
+        "name": "Quiznos",
         "phone": "+1 615-988-8848",
         "website": "https://order.quiznos.com/menu/peabody-corner-marketplace-2?handoff=delivery",
         "opening_hours": "Mo-Fr 09:00-17:00; Sa 10:00-15:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "319",
-        "addr:street": "Peabody Street"
+        "addr:street": "Peabody Street",
+        "branch": "Peabody Corner Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-86.77384, 36.156] }
     },
@@ -2221,15 +2221,15 @@
         "addr:city": "Hayward",
         "addr:state": "CA",
         "addr:postcode": "94541",
-        "addr:country": "US",
-        "name": "Plaza Center",
+        "name": "Quiznos",
         "phone": "+1 510-733-5881",
         "website": "https://order.quiznos.com/menu/plaza-center-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "22312",
-        "addr:street": "Foothill Boulevard"
+        "addr:street": "Foothill Boulevard",
+        "branch": "Plaza Center"
       },
       "geometry": {
         "type": "Point",
@@ -2247,15 +2247,15 @@
         "addr:city": "Livonia",
         "addr:state": "MI",
         "addr:postcode": "48150",
-        "addr:country": "US",
-        "name": "Plymouth Road",
+        "name": "Quiznos",
         "phone": "+1 734-338-9704",
         "website": "https://order.quiznos.com/menu/plymouth-road-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-18:00; Sa 11:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "36171",
-        "addr:street": "Plymouth Road"
+        "addr:street": "Plymouth Road",
+        "branch": "Plymouth Road"
       },
       "geometry": {
         "type": "Point",
@@ -2273,8 +2273,7 @@
         "addr:city": "Brighton",
         "addr:state": "CO",
         "addr:postcode": "80601",
-        "addr:country": "US",
-        "name": "Prairie Center",
+        "name": "Quiznos",
         "phone": "+1 303-945-4307",
         "website": "https://order.quiznos.com/menu/prairie-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-19:00",
@@ -2282,7 +2281,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2237",
         "addr:street": "Prairie Center Parkway",
-        "addr:unit": "E"
+        "addr:unit": "E",
+        "branch": "Prairie Center"
       },
       "geometry": { "type": "Point", "coordinates": [-104.7729, 39.9576] }
     },
@@ -2297,14 +2297,14 @@
         "addr:city": "Kearney",
         "addr:state": "NE",
         "addr:postcode": "68845",
-        "addr:country": "US",
-        "name": "Pump & Pantry - Highway 30 West",
+        "name": "Quiznos",
         "phone": "+1 308-234-6554",
         "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:30-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3004",
-        "addr:street": "Highway 30 West"
+        "addr:street": "Highway 30 West",
+        "branch": "Pump & Pantry - Highway 30 West"
       },
       "geometry": { "type": "Point", "coordinates": [-99.12254, 40.69938] }
     },
@@ -2319,13 +2319,13 @@
         "addr:city": "Grand Island",
         "addr:state": "NE",
         "addr:postcode": "68803",
-        "addr:country": "US",
-        "name": "Pump & Pantry #3",
+        "name": "Quiznos",
         "opening_hours": "11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2511",
-        "addr:street": "Diers Avenue"
+        "addr:street": "Diers Avenue",
+        "branch": "Pump & Pantry #3"
       },
       "geometry": { "type": "Point", "coordinates": [-98.38449, 40.94658] }
     },
@@ -2340,14 +2340,14 @@
         "addr:city": "Grand Island",
         "addr:state": "NE",
         "addr:postcode": "68801",
-        "addr:country": "US",
-        "name": "Pump & Pantry #54",
+        "name": "Quiznos",
         "phone": "+1 308-382-7411",
         "opening_hours": "11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3436",
-        "addr:street": "South Locust"
+        "addr:street": "South Locust",
+        "branch": "Pump & Pantry #54"
       },
       "geometry": { "type": "Point", "coordinates": [-98.34076, 40.8858] }
     },
@@ -2362,14 +2362,14 @@
         "addr:city": "Columbus",
         "addr:state": "NE",
         "addr:postcode": "68601",
-        "addr:country": "US",
-        "name": "Pump & Pantry #57",
+        "name": "Quiznos",
         "phone": "+1 402-564-8007",
         "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-19:00; Su 11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3208",
-        "addr:street": "42nd Street"
+        "addr:street": "42nd Street",
+        "branch": "Pump & Pantry #57"
       },
       "geometry": { "type": "Point", "coordinates": [-97.39289, 41.45627] }
     },
@@ -2384,15 +2384,15 @@
         "addr:city": "Las Vegas",
         "addr:state": "NV",
         "addr:postcode": "89106",
-        "addr:country": "US",
-        "name": "Rancho Plaza",
+        "name": "Quiznos",
         "phone": "+1 702-384-1911",
         "website": "https://order.quiznos.com/menu/rancho-plaza-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:00; Sa 11:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "901",
-        "addr:street": "South Rancho Drive"
+        "addr:street": "South Rancho Drive",
+        "branch": "Rancho Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -2410,14 +2410,14 @@
         "addr:city": "Oxon Hill",
         "addr:state": "MD",
         "addr:postcode": "20745",
-        "addr:country": "US",
-        "name": "Rivertown Commons",
+        "name": "Quiznos",
         "phone": "+1 301-839-0920",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "6215",
-        "addr:street": "Oxon Hill Road"
+        "addr:street": "Oxon Hill Road",
+        "branch": "Rivertown Commons"
       },
       "geometry": { "type": "Point", "coordinates": [-76.9799, 38.804636] }
     },
@@ -2432,8 +2432,7 @@
         "addr:city": "Rock Springs",
         "addr:state": "WY",
         "addr:postcode": "82901",
-        "addr:country": "US",
-        "name": "Rock Springs",
+        "name": "Quiznos",
         "phone": "+1 307-362-6485",
         "website": "https://order.quiznos.com/menu/rock-springs-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -2441,7 +2440,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "101",
         "addr:street": "Gateway Boulevard",
-        "addr:unit": "A"
+        "addr:unit": "A",
+        "branch": "Rock Springs"
       },
       "geometry": { "type": "Point", "coordinates": [-109.24942, 41.57736] }
     },
@@ -2456,15 +2456,15 @@
         "addr:city": "Plymouth",
         "addr:state": "MN",
         "addr:postcode": "55442",
-        "addr:country": "US",
-        "name": "Rockford Square",
+        "name": "Quiznos",
         "phone": "+1 763-559-8100",
         "website": "https://order.quiznos.com/menu/rockford-square-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4406",
-        "addr:street": "Nathan Lane North"
+        "addr:street": "Nathan Lane North",
+        "branch": "Rockford Square"
       },
       "geometry": { "type": "Point", "coordinates": [-93.40806, 45.0351] }
     },
@@ -2479,15 +2479,15 @@
         "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85024",
-        "addr:country": "US",
-        "name": "Rose Garden Plaza",
+        "name": "Quiznos",
         "phone": "+1 602-765-0535",
         "opening_hours": "10:30-15:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "21043",
         "addr:street": "North Cave Creek Road",
-        "addr:unit": "A2"
+        "addr:unit": "A2",
+        "branch": "Rose Garden Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -2505,15 +2505,15 @@
         "addr:city": "Emporia",
         "addr:state": "VA",
         "addr:postcode": "23847",
-        "addr:country": "US",
-        "name": "Sadler Texaco - Atlantic Street",
+        "name": "Quiznos",
         "phone": "+1 434-348-7827",
         "website": "https://order.quiznos.com/menu/sadler-texaco-atlantic-street-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "932",
-        "addr:street": "West Atlantic Street"
+        "addr:street": "West Atlantic Street",
+        "branch": "Sadler Texaco - Atlantic Street"
       },
       "geometry": { "type": "Point", "coordinates": [-77.55212, 36.70353] }
     },
@@ -2528,15 +2528,15 @@
         "addr:city": "Dunn",
         "addr:state": "NC",
         "addr:postcode": "28334",
-        "addr:country": "US",
-        "name": "Sadler's Travel Plaza",
+        "name": "Quiznos",
         "phone": "+1 910-891-2782",
         "website": "https://order.quiznos.com/menu/sadlers-travel-plaza-2?handoff=delivery",
         "opening_hours": "24/7",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "65",
-        "addr:street": "Sadler Road"
+        "addr:street": "Sadler Road",
+        "branch": "Sadler's Travel Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-78.57059, 35.32164] }
     },
@@ -2551,8 +2551,7 @@
         "addr:city": "Bremerton",
         "addr:state": "WA",
         "addr:postcode": "98311",
-        "addr:country": "US",
-        "name": "Saint Charles Place",
+        "name": "Quiznos",
         "phone": "+1 360-698-7210",
         "website": "https://order.quiznos.com/menu/saint-charles-place-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -2560,7 +2559,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "7058",
         "addr:street": "State Highway 303 Northeast",
-        "addr:unit": "B"
+        "addr:unit": "B",
+        "branch": "Saint Charles Place"
       },
       "geometry": { "type": "Point", "coordinates": [-122.628695, 47.62784] }
     },
@@ -2575,8 +2575,7 @@
         "addr:city": "Conway",
         "addr:state": "AR",
         "addr:postcode": "72034",
-        "addr:country": "US",
-        "name": "Salem Place Center",
+        "name": "Quiznos",
         "phone": "+1 501-329-7827",
         "website": "https://order.quiznos.com/menu/salem-place-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-21:00",
@@ -2584,7 +2583,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2850",
         "addr:street": "Prince Street",
-        "addr:unit": "9"
+        "addr:unit": "9",
+        "branch": "Salem Place Center"
       },
       "geometry": {
         "type": "Point",
@@ -2602,15 +2602,15 @@
         "addr:city": "Wheatfield",
         "addr:state": "IN",
         "addr:postcode": "46392",
-        "addr:country": "US",
-        "name": "School Crossing Market Place",
+        "name": "Quiznos",
         "phone": "+1 219-956-4181",
         "website": "https://order.quiznos.com/menu/school-crossing-market-place-2?handoff=delivery",
         "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3840",
-        "addr:street": "West State Road 10"
+        "addr:street": "West State Road 10",
+        "branch": "School Crossing Market Place"
       },
       "geometry": { "type": "Point", "coordinates": [-87.118764, 41.187637] }
     },
@@ -2625,15 +2625,15 @@
         "addr:city": "Bracey",
         "addr:state": "VA",
         "addr:postcode": "23919",
-        "addr:country": "US",
-        "name": "Shell Station - Highway 9",
+        "name": "Quiznos",
         "phone": "+1 434-689-5000",
         "website": "https://order.quiznos.com/menu/shell-station-highway-9-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2883",
-        "addr:street": "Highway 903"
+        "addr:street": "Highway 903",
+        "branch": "Shell Station - Highway 9"
       },
       "geometry": { "type": "Point", "coordinates": [-78.153999, 36.60169] }
     },
@@ -2648,8 +2648,7 @@
         "addr:city": "Shoreview",
         "addr:state": "MN",
         "addr:postcode": "55126",
-        "addr:country": "US",
-        "name": "Shoreview",
+        "name": "Quiznos",
         "phone": "+1 651-784-7931",
         "website": "https://order.quiznos.com/menu/shoreview-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-17:00",
@@ -2657,7 +2656,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5999",
         "addr:street": "Rice Creek Parkway",
-        "addr:unit": "106"
+        "addr:unit": "106",
+        "branch": "Shoreview"
       },
       "geometry": { "type": "Point", "coordinates": [-93.18505, 45.1239] }
     },
@@ -2673,15 +2673,15 @@
         "addr:city": "Gillette",
         "addr:state": "WY",
         "addr:postcode": "82718",
-        "addr:country": "US",
-        "name": "Silverado Center",
+        "name": "Quiznos",
         "phone": "+1 307-682-9548",
         "website": "https://order.quiznos.com/menu/silverado-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1103",
-        "addr:street": "East Boxelder Road"
+        "addr:street": "East Boxelder Road",
+        "branch": "Silverado Center"
       },
       "geometry": { "type": "Point", "coordinates": [-105.48939, 44.27659] }
     },
@@ -2696,8 +2696,7 @@
         "addr:city": "West Des Moines",
         "addr:state": "IA",
         "addr:postcode": "50265",
-        "addr:country": "US",
-        "name": "Somerfield Village Center",
+        "name": "Quiznos",
         "phone": "+1 515-222-1213",
         "website": "https://order.quiznos.com/menu/somerfield-village-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-19:00",
@@ -2705,7 +2704,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4800",
         "addr:street": "Mills Civic Parkway",
-        "addr:unit": "103"
+        "addr:unit": "103",
+        "branch": "Somerfield Village Center"
       },
       "geometry": { "type": "Point", "coordinates": [-93.76703, 41.55915] }
     },
@@ -2720,15 +2720,15 @@
         "addr:city": "Littleton",
         "addr:state": "CO",
         "addr:postcode": "80122",
-        "addr:country": "US",
-        "name": "South Broadway Car Care Center",
+        "name": "Quiznos",
         "phone": "+1 303-993-4354",
         "website": "https://order.quiznos.com/menu/south-broadway-car-care-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "8053",
-        "addr:street": "South Broadway"
+        "addr:street": "South Broadway",
+        "branch": "South Broadway Car Care Center"
       },
       "geometry": { "type": "Point", "coordinates": [-104.98871, 39.56966] }
     },
@@ -2743,8 +2743,7 @@
         "addr:city": "Mesa",
         "addr:state": "AZ",
         "addr:postcode": "85206",
-        "addr:country": "US",
-        "name": "Southern Promenade",
+        "name": "Quiznos",
         "phone": "+1 480-832-1604",
         "website": "https://order.quiznos.com/menu/southern-promenade-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
@@ -2752,7 +2751,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5110",
         "addr:street": "East Southern Avenue",
-        "addr:unit": "112"
+        "addr:unit": "112",
+        "branch": "Southern Promenade"
       },
       "geometry": {
         "type": "Point",
@@ -2770,15 +2770,15 @@
         "addr:city": "Spokane",
         "addr:state": "WA",
         "addr:postcode": "99224",
-        "addr:country": "US",
-        "name": "Spokane Int'l Airport- Rotunda Food Court",
+        "name": "Quiznos",
         "phone": "+1 509-624-3400",
         "opening_hours": "04:30-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "9000",
         "addr:street": "West Airport Drive",
-        "addr:unit": "401"
+        "addr:unit": "401",
+        "branch": "Spokane Int'l Airport- Rotunda Food Court"
       },
       "geometry": { "type": "Point", "coordinates": [-117.507072, 47.641063] }
     },
@@ -2793,8 +2793,7 @@
         "addr:city": "Everett",
         "addr:state": "WA",
         "addr:postcode": "98201",
-        "addr:country": "US",
-        "name": "Stadium Center",
+        "name": "Quiznos",
         "phone": "+1 425-258-9496",
         "website": "https://order.quiznos.com/menu/stadium-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -2802,7 +2801,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3625",
         "addr:street": "Broadway",
-        "addr:unit": "B"
+        "addr:unit": "B",
+        "branch": "Stadium Center"
       },
       "geometry": {
         "type": "Point",
@@ -2820,14 +2820,14 @@
         "addr:city": "Lakewood Ranch",
         "addr:state": "FL",
         "addr:postcode": "34202",
-        "addr:country": "US",
-        "name": "State Road 70 & Lorraine Road",
+        "name": "Quiznos",
         "phone": "+1 941-755-1455",
         "opening_hours": "06:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "14315",
-        "addr:street": "East State Road 70"
+        "addr:street": "East State Road 70",
+        "branch": "State Road 70 & Lorraine Road"
       },
       "geometry": { "type": "Point", "coordinates": [-82.39689, 27.43255] }
     },
@@ -2842,15 +2842,15 @@
         "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34207",
-        "addr:country": "US",
-        "name": "Sunshine #484",
+        "name": "Quiznos",
         "phone": "+1 941-202-0808",
         "website": "https://order.quiznos.com/menu/nick-moes-4",
         "opening_hours": "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "5410",
-        "addr:street": "14th Street West"
+        "addr:street": "14th Street West",
+        "branch": "Sunshine #484"
       },
       "geometry": { "type": "Point", "coordinates": [-82.57708, 27.4457] }
     },
@@ -2865,14 +2865,14 @@
         "addr:city": "Miami Gardens",
         "addr:state": "FL",
         "addr:postcode": "33169",
-        "addr:country": "US",
-        "name": "Sunshine 274",
+        "name": "Quiznos",
         "phone": "+1 305-655-1932",
         "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "17080",
-        "addr:street": "Northwest 7th Avenue"
+        "addr:street": "Northwest 7th Avenue",
+        "branch": "Sunshine 274"
       },
       "geometry": { "type": "Point", "coordinates": [-80.20944, 25.93019] }
     },
@@ -2887,14 +2887,14 @@
         "addr:city": "Cape Coral",
         "addr:state": "FL",
         "addr:postcode": "33990",
-        "addr:country": "US",
-        "name": "Sunshine 481",
+        "name": "Quiznos",
         "phone": "+1 239-242-0818",
         "opening_hours": "Mo-Sa 07:00-20:00; Su 10:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "314",
-        "addr:street": "Del Prado Boulevard North"
+        "addr:street": "Del Prado Boulevard North",
+        "branch": "Sunshine 481"
       },
       "geometry": { "type": "Point", "coordinates": [-81.94111, 26.64556] }
     },
@@ -2909,14 +2909,14 @@
         "addr:city": "Venice",
         "addr:state": "FL",
         "addr:postcode": "34293",
-        "addr:country": "US",
-        "name": "Sunshine 485",
+        "name": "Quiznos",
         "phone": "+1 941-218-6143",
         "opening_hours": "Mo-Fr 06:00-19:00; Sa 10:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "110",
-        "addr:street": "Pointe Loop Drive"
+        "addr:street": "Pointe Loop Drive",
+        "branch": "Sunshine 485"
       },
       "geometry": { "type": "Point", "coordinates": [-82.40076, 27.05039] }
     },
@@ -2931,14 +2931,14 @@
         "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32839",
-        "addr:country": "US",
-        "name": "Sunshine 487",
+        "name": "Quiznos",
         "phone": "+1 407-203-5828",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:30-20:00; Su 10:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3600",
-        "addr:street": "South John Young Parkway"
+        "addr:street": "South John Young Parkway",
+        "branch": "Sunshine 487"
       },
       "geometry": { "type": "Point", "coordinates": [-81.41811, 28.50568] }
     },
@@ -2954,15 +2954,15 @@
         "addr:city": "Hammond",
         "addr:state": "LA",
         "addr:postcode": "70403",
-        "addr:country": "US",
-        "name": "T Truck Plaza",
+        "name": "Quiznos",
         "phone": "+1 985-542-2220",
         "website": "https://order.quiznos.com/menu/t-truck-plaza-2?handoff=delivery",
         "opening_hours": "10:30-19:30",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "43106",
-        "addr:street": "South Airport Road"
+        "addr:street": "South Airport Road",
+        "branch": "T Truck Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-90.41462, 30.48344] }
     },
@@ -2977,15 +2977,15 @@
         "addr:city": "Ottumwa",
         "addr:state": "IA",
         "addr:postcode": "52501",
-        "addr:country": "US",
-        "name": "Terrace Hill Plaza Shopping Center",
+        "name": "Quiznos",
         "phone": "+1 641-684-5661",
         "website": "https://order.quiznos.com/menu/terrace-hill-plaza-shopping-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:30-21:00; Su 11:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "627",
-        "addr:street": "East Pennsylvania Avenue"
+        "addr:street": "East Pennsylvania Avenue",
+        "branch": "Terrace Hill Plaza Shopping Center"
       },
       "geometry": { "type": "Point", "coordinates": [-92.40027, 41.02786] }
     },
@@ -3001,15 +3001,15 @@
         "addr:city": "Visalia",
         "addr:state": "CA",
         "addr:postcode": "93291",
-        "addr:country": "US",
-        "name": "The Barn at Plaza Drive",
+        "name": "Quiznos",
         "phone": "+1 559-651-1665",
         "website": "https://order.quiznos.com/menu/barn-at-plaza-drive-2?handoff=delivery",
         "opening_hours": "Mo-Fr 09:00-21:00; Sa 10:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "202",
-        "addr:street": "North Plaza Drive"
+        "addr:street": "North Plaza Drive",
+        "branch": "The Barn at Plaza Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-119.391, 36.33044] }
     },
@@ -3024,15 +3024,15 @@
         "addr:city": "Thornton",
         "addr:state": "CO",
         "addr:postcode": "80229",
-        "addr:country": "US",
-        "name": "Thornton Gateway Plaza",
+        "name": "Quiznos",
         "phone": "+1 303-288-3211",
         "website": "https://order.quiznos.com/menu/thornton-gateway-plaza-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-19:30; Sa-Su 11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "8426",
-        "addr:street": "Pearl Street"
+        "addr:street": "Pearl Street",
+        "branch": "Thornton Gateway Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -3050,8 +3050,7 @@
         "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77024",
-        "addr:country": "US",
-        "name": "Town and Country Village",
+        "name": "Quiznos",
         "phone": "+1 713-647-9966",
         "website": "https://order.quiznos.com/menu/town-country-village-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -3059,7 +3058,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "650",
         "addr:street": "West Bough Lane",
-        "addr:unit": "130"
+        "addr:unit": "130",
+        "branch": "Town and Country Village"
       },
       "geometry": {
         "type": "Point",
@@ -3077,15 +3077,15 @@
         "addr:city": "Kansas City",
         "addr:state": "MO",
         "addr:postcode": "64116",
-        "addr:country": "US",
-        "name": "Two Ten Center",
+        "name": "Quiznos",
         "phone": "+1 816-421-3444",
         "website": "https://order.quiznos.com/menu/two-ten-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2384",
-        "addr:street": "Armour Road"
+        "addr:street": "Armour Road",
+        "branch": "Two Ten Center"
       },
       "geometry": { "type": "Point", "coordinates": [-94.5566, 39.14563] }
     },
@@ -3100,14 +3100,14 @@
         "addr:city": "Conway",
         "addr:state": "AR",
         "addr:postcode": "72032",
-        "addr:country": "US",
-        "name": "University of Central Arkansas",
+        "name": "Quiznos",
         "phone": "+1 501-450-3226",
         "opening_hours": "Mo-Fr 10:00-16:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "201",
-        "addr:street": "South Donaghey"
+        "addr:street": "South Donaghey",
+        "branch": "University of Central Arkansas"
       },
       "geometry": { "type": "Point", "coordinates": [-92.45415, 35.07933] }
     },
@@ -3123,14 +3123,14 @@
         "addr:city": "Norman",
         "addr:state": "OK",
         "addr:postcode": "73019",
-        "addr:country": "US",
-        "name": "University of Oklahoma",
+        "name": "Quiznos",
         "phone": "+1 405-325-3763",
         "opening_hours": "Mo-Fr 10:00-17:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "900",
-        "addr:street": "Asp Avenue"
+        "addr:street": "Asp Avenue",
+        "branch": "University of Oklahoma"
       },
       "geometry": {
         "type": "Point",
@@ -3148,15 +3148,15 @@
         "addr:city": "Edwardsville",
         "addr:state": "IL",
         "addr:postcode": "62025",
-        "addr:country": "US",
-        "name": "University Pointe",
+        "name": "Quiznos",
         "phone": "+1 618-692-9256",
         "website": "https://order.quiznos.com/menu/university-pointe-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:30-20:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1053",
-        "addr:street": "Century Drive"
+        "addr:street": "Century Drive",
+        "branch": "University Pointe"
       },
       "geometry": { "type": "Point", "coordinates": [-89.98101, 38.78826] }
     },
@@ -3171,15 +3171,15 @@
         "addr:city": "Urbandale",
         "addr:state": "IA",
         "addr:postcode": "50322",
-        "addr:country": "US",
-        "name": "Urbandale Marketplace",
+        "name": "Quiznos",
         "phone": "+1 515-309-0591",
         "website": "https://order.quiznos.com/menu/urbandale-marketplace-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "11123",
-        "addr:street": "Plum Drive"
+        "addr:street": "Plum Drive",
+        "branch": "Urbandale Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-93.77089, 41.64791] }
     },
@@ -3194,8 +3194,7 @@
         "addr:city": "Valparaiso",
         "addr:state": "IN",
         "addr:postcode": "46383",
-        "addr:country": "US",
-        "name": "Valparaiso Marketplace",
+        "name": "Quiznos",
         "phone": "+1 219-548-2900",
         "website": "https://order.quiznos.com/menu/valparaiso-marketplace-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -3203,7 +3202,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2620",
         "addr:street": "Laporte Avenue",
-        "addr:unit": "130"
+        "addr:unit": "130",
+        "branch": "Valparaiso Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-87.02813, 41.46887] }
     },
@@ -3218,8 +3218,7 @@
         "addr:city": "Hollywood",
         "addr:state": "CA",
         "addr:postcode": "90027",
-        "addr:country": "US",
-        "name": "Vermont Avenue",
+        "name": "Quiznos",
         "phone": "+1 323-805-2200",
         "website": "https://order.quiznos.com/menu/vermont-avenue-2?handoff=delivery",
         "opening_hours": "Mo-Fr 09:00-20:00; Sa 11:00-17:00; Su 11:00-16:00",
@@ -3227,7 +3226,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1528",
         "addr:street": "North Vermont Avenue",
-        "addr:unit": "A"
+        "addr:unit": "A",
+        "branch": "Vermont Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -3245,8 +3245,7 @@
         "addr:city": "Roseville",
         "addr:state": "CA",
         "addr:postcode": "95747",
-        "addr:country": "US",
-        "name": "Vineyard Pointe Center",
+        "name": "Quiznos",
         "phone": "+1 916-788-3031",
         "website": "https://order.quiznos.com/menu/vineyard-pointe-center-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-21:00; Sa 11:00-20:00; Su 11:00-19:00",
@@ -3254,7 +3253,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "3031",
         "addr:street": "Foothills Boulevard",
-        "addr:unit": "100"
+        "addr:unit": "100",
+        "branch": "Vineyard Pointe Center"
       },
       "geometry": {
         "type": "Point",
@@ -3272,8 +3272,7 @@
         "addr:city": "West Des Moines",
         "addr:state": "IA",
         "addr:postcode": "50266",
-        "addr:country": "US",
-        "name": "Vista Centre",
+        "name": "Quiznos",
         "phone": "+1 515-267-0328",
         "website": "https://order.quiznos.com/menu/vista-centre-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-19:00",
@@ -3281,7 +3280,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "7205",
         "addr:street": "Vista Drive",
-        "addr:unit": "120"
+        "addr:unit": "120",
+        "branch": "Vista Centre"
       },
       "geometry": { "type": "Point", "coordinates": [-93.80825, 41.58893] }
     },
@@ -3296,14 +3296,14 @@
         "addr:city": "Georgetown",
         "addr:state": "TX",
         "addr:postcode": "78626",
-        "addr:country": "US",
-        "name": "Walburg Travel Center",
+        "name": "Quiznos",
         "phone": "+1 512-688-5152",
         "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "4610",
-        "addr:street": "North Interstate 35"
+        "addr:street": "North Interstate 35",
+        "branch": "Walburg Travel Center"
       },
       "geometry": { "type": "Point", "coordinates": [-97.6481, 30.71093] }
     },
@@ -3318,8 +3318,7 @@
         "addr:city": "Lynnwood",
         "addr:state": "WA",
         "addr:postcode": "98087",
-        "addr:country": "US",
-        "name": "Walmart Center",
+        "name": "Quiznos",
         "phone": "+1 425-745-7718",
         "website": "https://order.quiznos.com/menu/walmart-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-18:00",
@@ -3327,7 +3326,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1330",
         "addr:street": "164th Street Southwest",
-        "addr:unit": "110"
+        "addr:unit": "110",
+        "branch": "Walmart Center"
       },
       "geometry": {
         "type": "Point",
@@ -3345,15 +3345,15 @@
         "addr:city": "Wayne",
         "addr:state": "MI",
         "addr:postcode": "48184",
-        "addr:country": "US",
-        "name": "Wayne",
+        "name": "Quiznos",
         "phone": "+1 734-721-5555",
         "website": "https://order.quiznos.com/menu/wayne-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "39345",
-        "addr:street": "Michigan Avenue"
+        "addr:street": "Michigan Avenue",
+        "branch": "Wayne"
       },
       "geometry": {
         "type": "Point",
@@ -3371,15 +3371,15 @@
         "addr:city": "Lakeland",
         "addr:state": "FL",
         "addr:postcode": "33805",
-        "addr:country": "US",
-        "name": "Wayne's Amaco",
+        "name": "Quiznos",
         "phone": "+1 863-816-4775",
         "website": "https://order.quiznos.com/menu/nick-moes-3-lakeland",
         "opening_hours": "Mo-Sa 06:00-20:00; Su 11:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2750",
-        "addr:street": "Highway 98 North"
+        "addr:street": "Highway 98 North",
+        "branch": "Wayne's Amaco"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9628, 28.07728] }
     },
@@ -3394,15 +3394,15 @@
         "addr:city": "Springfield",
         "addr:state": "IL",
         "addr:postcode": "62704",
-        "addr:country": "US",
-        "name": "West Lawrence",
+        "name": "Quiznos",
         "phone": "+1 217-787-7304",
         "website": "https://order.quiznos.com/menu/west-lawrence-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-19:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2701",
-        "addr:street": "West Lawrence Avenue"
+        "addr:street": "West Lawrence Avenue",
+        "branch": "West Lawrence"
       },
       "geometry": { "type": "Point", "coordinates": [-89.70489, 39.79521] }
     },
@@ -3417,8 +3417,7 @@
         "addr:city": "Reno",
         "addr:state": "NV",
         "addr:postcode": "89512",
-        "addr:country": "US",
-        "name": "Wildcreek",
+        "name": "Quiznos",
         "phone": "+1 775-674-3222",
         "website": "https://order.quiznos.com/menu/wildcreek-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
@@ -3426,7 +3425,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2905",
         "addr:street": "Northtowne Lane",
-        "addr:unit": "120"
+        "addr:unit": "120",
+        "branch": "Wildcreek"
       },
       "geometry": { "type": "Point", "coordinates": [-119.782277, 39.5569] }
     },
@@ -3441,15 +3441,15 @@
         "addr:city": "Wixom",
         "addr:state": "MI",
         "addr:postcode": "48393",
-        "addr:country": "US",
-        "name": "Wixom, MI",
+        "name": "Quiznos",
         "phone": "+1 248-960-4808",
         "website": "https://order.quiznos.com/menu/wixom-mi-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "29814",
-        "addr:street": "South Wixom Road"
+        "addr:street": "South Wixom Road",
+        "branch": "Wixom, MI"
       },
       "geometry": { "type": "Point", "coordinates": [-83.536729, 42.511685] }
     },
@@ -3464,15 +3464,15 @@
         "addr:city": "Jackson",
         "addr:state": "MS",
         "addr:postcode": "39216",
-        "addr:country": "US",
-        "name": "Woodland Hills",
+        "name": "Quiznos",
         "phone": "+1 601-713-0357",
         "website": "https://order.quiznos.com/menu/woodland-hills-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-15:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "2945",
-        "addr:street": "Old Canton Road"
+        "addr:street": "Old Canton Road",
+        "branch": "Woodland Hills"
       },
       "geometry": { "type": "Point", "coordinates": [-90.17458, 32.33401] }
     },
@@ -3487,15 +3487,15 @@
         "addr:city": "The Woodlands",
         "addr:state": "TX",
         "addr:postcode": "77380",
-        "addr:country": "US",
-        "name": "Woodlands Town Centre",
+        "name": "Quiznos",
         "phone": "+1 281-419-5968",
         "website": "https://order.quiznos.com/menu/woodlands-town-centre-2?handoff=delivery",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1440A",
-        "addr:street": "Lake Woodlands Drive"
+        "addr:street": "Lake Woodlands Drive",
+        "branch": "Woodlands Town Centre"
       },
       "geometry": { "type": "Point", "coordinates": [-95.45669, 30.16732] }
     },
@@ -3510,15 +3510,15 @@
         "addr:city": "North Hills",
         "addr:state": "CA",
         "addr:postcode": "91343",
-        "addr:country": "US",
-        "name": "Woodley and Parthenia",
+        "name": "Quiznos",
         "phone": "+1 818-895-0095",
         "website": "https://order.quiznos.com/menu/woodley-parthenia-2?handoff=delivery",
         "opening_hours": "Mo-Fr 10:00-20:30; Sa 10:00-20:00; Su 11:00-20:00",
         "brand": "Quizno's",
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "8625",
-        "addr:street": "Woodley Avenue"
+        "addr:street": "Woodley Avenue",
+        "branch": "Woodley and Parthenia"
       },
       "geometry": {
         "type": "Point",
@@ -3536,8 +3536,7 @@
         "addr:city": "Yelm",
         "addr:state": "WA",
         "addr:postcode": "98597",
-        "addr:country": "US",
-        "name": "Yelm Plaza Shopping Center",
+        "name": "Quiznos",
         "phone": "+1 360-400-7827",
         "website": "https://order.quiznos.com/menu/yelm-plaza-shopping-center-2?handoff=delivery",
         "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-19:00",
@@ -3545,7 +3544,8 @@
         "brand:wikidata": "Q1936229",
         "addr:housenumber": "1202",
         "addr:street": "East Yelm Avenue",
-        "addr:unit": "E"
+        "addr:unit": "E",
+        "branch": "Yelm Plaza Shopping Center"
       },
       "geometry": {
         "type": "Point",

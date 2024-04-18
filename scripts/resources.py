@@ -11,6 +11,7 @@ useless_tags = [
     "display_name",
     "number",
     "image",
+    "ref:google",
 ]
 
 necessary_tags = {
