@@ -28371,7 +28371,7 @@
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "302",
-        "addr:street": "South Route 4 O'brien Drive",
+        "addr:street": "South Route 4 O'Brien Drive",
         "branch": "Agana Shopping Center"
       },
       "geometry": { "type": "Point", "coordinates": [144.75596, 13.4708744] }
