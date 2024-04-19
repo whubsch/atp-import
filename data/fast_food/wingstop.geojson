@@ -13,7 +13,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "Edwards AFB",
+        "addr:city": "Edwards Air Force Base",
         "addr:state": "CA",
         "addr:postcode": "93523",
         "name": "Wingstop",
@@ -62,7 +62,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1521",
         "addr:street": "East 87th Street",
-        "branch": "87Th & Stoney Island"
+        "branch": "87th & Stoney Island"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5872311, 41.7365401] }
     },
@@ -267,7 +267,7 @@
         "addr:housenumber": "251",
         "addr:street": "98th Street Northwest",
         "addr:unit": "D",
-        "branch": "Albuquerque 98Th St. Northwest"
+        "branch": "Albuquerque 98th St. Northwest"
       },
       "geometry": { "type": "Point", "coordinates": [-106.7451645, 35.0767415] }
     },
@@ -801,7 +801,7 @@
         "addr:housenumber": "5807",
         "addr:street": "West 45th Avenue",
         "addr:unit": "260",
-        "branch": "Amarillo 45Th St."
+        "branch": "Amarillo 45th St."
       },
       "geometry": { "type": "Point", "coordinates": [-101.9006131, 35.1605489] }
     },
@@ -2624,7 +2624,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "BARTLETT",
+        "addr:city": "Bartlett",
         "addr:state": "IL",
         "addr:postcode": "60103",
         "name": "Wingstop",
@@ -2900,7 +2900,7 @@
         "addr:housenumber": "1668",
         "addr:street": "East 2nd Street",
         "addr:unit": "K",
-        "branch": "Beaumont California East 2Nd St"
+        "branch": "Beaumont California East 2nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-116.9474112, 33.9241986] }
     },
@@ -3697,7 +3697,7 @@
         "addr:housenumber": "3175",
         "addr:street": "28th Street",
         "addr:unit": "1",
-        "branch": "Boulder 28Th St"
+        "branch": "Boulder 28th St"
       },
       "geometry": { "type": "Point", "coordinates": [-105.2590321, 40.0320899] }
     },
@@ -3981,7 +3981,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "356",
         "addr:street": "East 149th Street",
-        "branch": "Bronx East 149Th St."
+        "branch": "Bronx East 149th St."
       },
       "geometry": { "type": "Point", "coordinates": [-73.9192483, 40.8163375] }
     },
@@ -4323,7 +4323,7 @@
         "addr:housenumber": "1255",
         "addr:street": "East 1st Avenue",
         "addr:unit": "B",
-        "branch": "Broomfield 1St Avenue"
+        "branch": "Broomfield 1st Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-105.0569243, 39.9155141] }
     },
@@ -5164,7 +5164,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2780",
         "addr:street": "East 146th Street",
-        "branch": "Carmel East 146Th St"
+        "branch": "Carmel East 146th St"
       },
       "geometry": { "type": "Point", "coordinates": [-86.0480259, 40.0003318] }
     },
@@ -6048,7 +6048,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "756",
         "addr:street": "East 111th Street",
-        "branch": "Chicago 111Th St."
+        "branch": "Chicago 111th St."
       },
       "geometry": { "type": "Point", "coordinates": [-87.6023214, 41.6931364] }
     },
@@ -6108,7 +6108,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "120",
         "addr:street": "West 87th Street",
-        "branch": "Chicago 87Th & Dan Ryan Expressway"
+        "branch": "Chicago 87th & Dan Ryan Expressway"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6275487, 41.7365295] }
     },
@@ -6188,7 +6188,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "456",
         "addr:street": "East 35th Street",
-        "branch": "Chicago East 35Th Street"
+        "branch": "Chicago East 35th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6147363, 41.8315494] }
     },
@@ -6509,7 +6509,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1712",
         "addr:street": "West 119th Street",
-        "branch": "Chicago West 119Th St"
+        "branch": "Chicago West 119th St"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6647595, 41.6777459] }
     },
@@ -6570,7 +6570,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2042",
         "addr:street": "West 47th Street",
-        "branch": "Chicago West 47Th St ~ Back Of The Yards"
+        "branch": "Chicago West 47th St ~ Back Of The Yards"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6762778, 41.8088445] }
     },
@@ -6590,7 +6590,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "850",
         "addr:street": "West 63rd Street",
-        "branch": "Chicago West 63Rd St"
+        "branch": "Chicago West 63rd St"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6470912, 41.7802361] }
     },
@@ -7913,7 +7913,7 @@
         "addr:housenumber": "10430",
         "addr:street": "Chambers Road",
         "addr:unit": "1200",
-        "branch": "Commerce City 104Th & Chambers Road"
+        "branch": "Commerce City 104th & Chambers Road"
       },
       "geometry": { "type": "Point", "coordinates": [-104.8084912, 39.8858264] }
     },
@@ -7933,7 +7933,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4952",
         "addr:street": "East 62nd Avenue",
-        "branch": "Commerce City East 62Nd Avenue"
+        "branch": "Commerce City East 62nd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9292576, 39.8092005] }
     },
@@ -8266,7 +8266,7 @@
         "addr:housenumber": "2451",
         "addr:street": "2nd Street",
         "addr:unit": "2",
-        "branch": "Coralville 2Nd St"
+        "branch": "Coralville 2nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-91.6023748, 41.6858411] }
     },
@@ -8349,7 +8349,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "57-10",
         "addr:street": "99th Street",
-        "branch": "Corona 57 10 99Th St"
+        "branch": "Corona 57 10 99th St"
       },
       "geometry": { "type": "Point", "coordinates": [-73.8601925, 40.7382586] }
     },
@@ -8554,7 +8554,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4005",
         "addr:street": "West 167th Street",
-        "branch": "Country Club Hills West 167Th St"
+        "branch": "Country Club Hills West 167th St"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7152412, 41.5855569] }
     },
@@ -8585,7 +8585,6 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:full": "5151 US-278",
         "addr:city": "Covington",
         "addr:state": "GA",
         "addr:postcode": "30014",
@@ -8745,7 +8744,6 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:full": "28404 US-290 G17",
         "addr:city": "Cypress",
         "addr:state": "TX",
         "addr:postcode": "77433",
@@ -8787,7 +8785,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "CYPRESS",
+        "addr:city": "Cypress",
         "addr:state": "TX",
         "addr:postcode": "77433",
         "name": "Wingstop",
@@ -9886,7 +9884,7 @@
         "addr:housenumber": "757",
         "addr:street": "East 20th Avenue",
         "addr:unit": "400",
-        "branch": "Denver East 20Th"
+        "branch": "Denver East 20th"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9774046, 39.7479867] }
     },
@@ -9988,7 +9986,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5801",
         "addr:street": "West 44th Avenue",
-        "branch": "Denver West 44Th Avenue ( Lakeside )"
+        "branch": "Denver West 44th Avenue ( Lakeside )"
       },
       "geometry": { "type": "Point", "coordinates": [-105.0594402, 39.7770239] }
     },
@@ -10048,7 +10046,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "521",
         "addr:street": "East 14th Street",
-        "branch": "Des Moines East 14Th St"
+        "branch": "Des Moines East 14th St"
       },
       "geometry": { "type": "Point", "coordinates": [-93.5979491, 41.5942453] }
     },
@@ -10686,7 +10684,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1838",
         "addr:street": "E Avenue J",
-        "branch": "East Lancaster   East Avenue J & 20Th St East"
+        "branch": "East Lancaster   East Avenue J & 20th St East"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0966482, 34.6882939] }
     },
@@ -10707,7 +10705,7 @@
         "addr:housenumber": "2551",
         "addr:street": "E Avenue South",
         "addr:unit": "L",
-        "branch": "East Palmdale   20Th St East & Avenue South"
+        "branch": "East Palmdale   20th St East & Avenue South"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0829027, 34.5588986] }
     },
@@ -10728,7 +10726,7 @@
         "addr:housenumber": "37134",
         "addr:street": "47th East",
         "addr:unit": "C",
-        "branch": "East Palmdale   47Th St East & Avenue South"
+        "branch": "East Palmdale   47th St East & Avenue South"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0448409, 34.556623] }
     },
@@ -11854,7 +11852,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2831",
         "addr:street": "West 95th Street",
-        "branch": "Evergreen Park West 95Th St"
+        "branch": "Evergreen Park West 95th St"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6932968, 41.7204135] }
     },
@@ -12098,7 +12096,7 @@
         "addr:housenumber": "13588",
         "addr:street": "Bent Grass Lane",
         "addr:unit": "104",
-        "branch": "Fishers Route 37 & 135Th St"
+        "branch": "Fishers Route 37 & 135th St"
       },
       "geometry": { "type": "Point", "coordinates": [-86.002865, 39.985684] }
     },
@@ -12573,7 +12571,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "501",
         "addr:street": "Carroll Street",
-        "branch": "Fort Worth 7Th & Carroll"
+        "branch": "Fort Worth 7th & Carroll"
       },
       "geometry": { "type": "Point", "coordinates": [-97.3543988, 32.7536158] }
     },
@@ -12593,7 +12591,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2723",
         "addr:street": "8th Avenue",
-        "branch": "Fort Worth 8Th Avenue"
+        "branch": "Fort Worth 8th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-97.3433641, 32.7125231] }
     },
@@ -12716,7 +12714,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "237",
         "addr:street": "Northeast 28th Street",
-        "branch": "Fort Worth Northeast 28Th"
+        "branch": "Fort Worth Northeast 28th"
       },
       "geometry": { "type": "Point", "coordinates": [-97.346884, 32.7965287] }
     },
@@ -13530,7 +13528,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1625",
         "addr:street": "South 1st Street",
-        "branch": "Garland 1St St"
+        "branch": "Garland 1st St"
       },
       "geometry": { "type": "Point", "coordinates": [-96.6314539, 32.8969707] }
     },
@@ -13918,7 +13916,7 @@
         "addr:housenumber": "5838",
         "addr:street": "West Olive Avenue",
         "addr:unit": "C101",
-        "branch": "Glendale   West Olive Avenue & North 59Th Avenue"
+        "branch": "Glendale   West Olive Avenue & North 59th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1848667, 33.5690329] }
     },
@@ -14040,7 +14038,7 @@
         "addr:housenumber": "6702",
         "addr:street": "West Camelback Road",
         "addr:unit": "103",
-        "branch": "Glendale West Camelback & North 67Th"
+        "branch": "Glendale West Camelback & North 67th"
       },
       "geometry": { "type": "Point", "coordinates": [-112.203769, 33.509736] }
     },
@@ -14408,7 +14406,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2718",
         "addr:street": "11th Avenue",
-        "branch": "Greeley 11Th Avenue"
+        "branch": "Greeley 11th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-104.6963871, 40.3923535] }
     },
@@ -14774,7 +14772,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5726",
         "addr:street": "South 108th Street",
-        "branch": "Hales Corners South 108Th St."
+        "branch": "Hales Corners South 108th St."
       },
       "geometry": { "type": "Point", "coordinates": [-88.0476843, 42.940186] }
     },
@@ -14955,7 +14953,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "150",
         "addr:street": "North 12th Avenue",
-        "branch": "Hanford North 12Th Avenue"
+        "branch": "Hanford North 12th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-119.6738551, 36.324059] }
     },
@@ -15564,7 +15562,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "8200",
         "addr:street": "West 33rd Avenue",
-        "branch": "Hialeah Gardens West 33Rd Avenue"
+        "branch": "Hialeah Gardens West 33rd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3520498, 25.8970872] }
     },
@@ -15928,7 +15926,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1619",
         "addr:street": "East 37th Avenue",
-        "branch": "Hobart East 37Th Avenue"
+        "branch": "Hobart East 37th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-87.2393443, 41.550157] }
     },
@@ -17192,7 +17190,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "128",
         "addr:street": "1st Street West",
-        "branch": "Humble 1St St West"
+        "branch": "Humble 1st St West"
       },
       "geometry": { "type": "Point", "coordinates": [-95.268005, 30.0020655] }
     },
@@ -17394,7 +17392,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5300",
         "addr:street": "South Dorchester Street",
-        "branch": "Hyde Park 53Rd & Dorchester"
+        "branch": "Hyde Park 53rd & Dorchester"
       },
       "geometry": { "type": "Point", "coordinates": [-87.5919035, 41.7992506] }
     },
@@ -17414,7 +17412,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "3198",
         "addr:street": "South 25th East",
-        "branch": "Idaho Falls South 25Th East"
+        "branch": "Idaho Falls South 25th East"
       },
       "geometry": { "type": "Point", "coordinates": [-111.9849744, 43.4686579] }
     },
@@ -17476,7 +17474,7 @@
         "addr:housenumber": "4401",
         "addr:street": "East 10th Street",
         "addr:unit": "8",
-        "branch": "Indianapolis East 10Th St"
+        "branch": "Indianapolis East 10th St"
       },
       "geometry": { "type": "Point", "coordinates": [-86.0952834, 39.7793607] }
     },
@@ -17496,7 +17494,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5965",
         "addr:street": "East 82nd Street",
-        "branch": "Indianapolis East 82Nd St."
+        "branch": "Indianapolis East 82nd St."
       },
       "geometry": { "type": "Point", "coordinates": [-86.0654441, 39.9046184] }
     },
@@ -17596,7 +17594,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "3540",
         "addr:street": "West 86th Street",
-        "branch": "Indianapolis West 86Th St"
+        "branch": "Indianapolis West 86th St"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2215073, 39.912263] }
     },
@@ -17616,7 +17614,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5309",
         "addr:street": "West 10th Street",
-        "branch": "Indianapolis West 10Th St."
+        "branch": "Indianapolis West 10th St."
       },
       "geometry": { "type": "Point", "coordinates": [-86.2511349, 39.7793438] }
     },
@@ -18551,7 +18549,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4203",
         "addr:street": "East 50th Terrace",
-        "branch": "Kansas City East 50Th Terrace"
+        "branch": "Kansas City East 50th Terrace"
       },
       "geometry": { "type": "Point", "coordinates": [-94.5356871, 39.0334505] }
     },
@@ -18592,7 +18590,7 @@
         "addr:housenumber": "151",
         "addr:street": "South 18th Street",
         "addr:unit": "H",
-        "branch": "Kansas City South 18Th St"
+        "branch": "Kansas City South 18th St"
       },
       "geometry": { "type": "Point", "coordinates": [-94.6476065, 39.0982807] }
     },
@@ -18633,7 +18631,7 @@
         "addr:housenumber": "1120",
         "addr:street": "West 103rd Street",
         "addr:unit": "300",
-        "branch": "Kansas City West 103Rd St."
+        "branch": "Kansas City West 103rd St."
       },
       "geometry": { "type": "Point", "coordinates": [-94.606284, 38.9421829] }
     },
@@ -19740,7 +19738,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "43530",
         "addr:street": "10th Street West",
-        "branch": "Lancaster 10Th St West & Avenue K"
+        "branch": "Lancaster 10th St West & Avenue K"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1471486, 34.6738013] }
     },
@@ -21077,7 +21075,7 @@
         "addr:housenumber": "16543",
         "addr:street": "West 159th Street",
         "addr:unit": "5A",
-        "branch": "Lockport West 159Th St"
+        "branch": "Lockport West 159th St"
       },
       "geometry": {
         "type": "Point",
@@ -21153,7 +21151,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "LOMPOC",
+        "addr:city": "Lompoc",
         "addr:state": "CA",
         "addr:postcode": "93436",
         "name": "Wingstop",
@@ -21183,7 +21181,7 @@
         "addr:housenumber": "80",
         "addr:street": "East 4th Street",
         "addr:unit": "E120",
-        "branch": "Long Beach 4Th"
+        "branch": "Long Beach 4th"
       },
       "geometry": {
         "type": "Point",
@@ -21347,7 +21345,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "40-09",
         "addr:street": "21st Street",
-        "branch": "Long Island City 21St St."
+        "branch": "Long Island City 21st St."
       },
       "geometry": { "type": "Point", "coordinates": [-73.9413829, 40.7548598] }
     },
@@ -21900,7 +21898,7 @@
         "addr:housenumber": "2030",
         "addr:street": "West 8th Street",
         "addr:unit": "B",
-        "branch": "Los Angeles West 8Th St."
+        "branch": "Los Angeles West 8th St."
       },
       "geometry": { "type": "Point", "coordinates": [-118.2778389, 34.0545828] }
     },
@@ -22205,7 +22203,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5357",
         "addr:street": "North 2nd Street",
-        "branch": "Loves Park North 2Nd St."
+        "branch": "Loves Park North 2nd St."
       },
       "geometry": { "type": "Point", "coordinates": [-89.057255, 42.3081926] }
     },
@@ -22226,7 +22224,7 @@
         "addr:housenumber": "4409",
         "addr:street": "114th Street",
         "addr:unit": "Suite100",
-        "branch": "Lubbock 114Th St"
+        "branch": "Lubbock 114th St"
       },
       "geometry": { "type": "Point", "coordinates": [-101.907229, 33.489521] }
     },
@@ -22247,7 +22245,7 @@
         "addr:housenumber": "1803",
         "addr:street": "7th Street",
         "addr:unit": "501",
-        "branch": "Lubbock 7Th St"
+        "branch": "Lubbock 7th St"
       },
       "geometry": { "type": "Point", "coordinates": [-101.8570538, 33.5886887] }
     },
@@ -22654,7 +22652,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "581",
         "addr:street": "2nd Street",
-        "branch": "Manchester 2Nd St"
+        "branch": "Manchester 2nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-71.47644, 42.974492] }
     },
@@ -22889,7 +22887,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "MARSHALL",
+        "addr:city": "Marshall",
         "addr:state": "TX",
         "addr:postcode": "75670",
         "name": "Wingstop",
@@ -23102,7 +23100,7 @@
         "addr:housenumber": "2901",
         "addr:street": "North 10th Street",
         "addr:unit": "D",
-        "branch": "McAllen North 10Th St"
+        "branch": "McAllen North 10th St"
       },
       "geometry": { "type": "Point", "coordinates": [-98.2265101, 26.2298921] }
     },
@@ -23511,7 +23509,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "407",
         "addr:street": "West 81st Avenue",
-        "branch": "Merrillville West 81St Avenue"
+        "branch": "Merrillville West 81st Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-87.3409816, 41.4701908] }
     },
@@ -23760,7 +23758,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "21317",
         "addr:street": "Northwest 2nd Avenue",
-        "branch": "Miami 2Nd Avenue"
+        "branch": "Miami 2nd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2048799, 25.9708137] }
     },
@@ -23820,7 +23818,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "651",
         "addr:street": "Northwest 62nd Street",
-        "branch": "Miami Northwest 62Nd St"
+        "branch": "Miami Northwest 62nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2079697, 25.8327037] }
     },
@@ -23840,7 +23838,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "3440",
         "addr:street": "Northwest 79th Street",
-        "branch": "Miami Northwest 79Th St"
+        "branch": "Miami Northwest 79th St"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2535058, 25.8451549] }
     },
@@ -23881,7 +23879,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "9069",
         "addr:street": "Southwest 107th Avenue",
-        "branch": "Miami Southwest 107Th Avenue"
+        "branch": "Miami Southwest 107th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3664848, 25.6841128] }
     },
@@ -23901,7 +23899,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "12528",
         "addr:street": "Southwest 120th Street",
-        "branch": "Miami Southwest 120Th"
+        "branch": "Miami Southwest 120th"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3965879, 25.6555891] }
     },
@@ -23921,7 +23919,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "3836",
         "addr:street": "Southwest 137th Avenue",
-        "branch": "Miami Southwest 137Th Avenue"
+        "branch": "Miami Southwest 137th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-80.4163612, 25.731759] }
     },
@@ -23941,7 +23939,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "13787",
         "addr:street": "Southwest 152nd Street",
-        "branch": "Miami Southwest 152Nd St"
+        "branch": "Miami Southwest 152nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-80.4167387, 25.6265435] }
     },
@@ -25214,7 +25212,7 @@
         "addr:housenumber": "2025",
         "addr:street": "12th Avenue Road",
         "addr:unit": "140",
-        "branch": "Nampa 12Th Avenue Road"
+        "branch": "Nampa 12th Avenue Road"
       },
       "geometry": { "type": "Point", "coordinates": [-116.5733299, 43.548661] }
     },
@@ -25496,7 +25494,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "116",
         "addr:street": "3rd Avenue",
-        "branch": "Neptune City 3Rd Avenue"
+        "branch": "Neptune City 3rd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-74.0289106, 40.2022569] }
     },
@@ -25719,7 +25717,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "63",
         "addr:street": "West 125th Street",
-        "branch": "New York 125Th St"
+        "branch": "New York 125th St"
       },
       "geometry": { "type": "Point", "coordinates": [-73.944455, 40.8076516] }
     },
@@ -25759,7 +25757,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "935",
         "addr:street": "8th Avenue",
-        "branch": "New York 8Th Avenue & West 55Th St"
+        "branch": "New York 8th Avenue & West 55th St"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9838982, 40.7657404] }
     },
@@ -25839,7 +25837,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "426",
         "addr:street": "East 14th Street",
-        "branch": "New York East 14Th St"
+        "branch": "New York East 14th St"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9813458, 40.7305539] }
     },
@@ -26144,7 +26142,7 @@
         "addr:housenumber": "520",
         "addr:street": "West 21st Street",
         "addr:unit": "D1",
-        "branch": "Norfolk West 21St. St"
+        "branch": "Norfolk West 21st. St"
       },
       "geometry": { "type": "Point", "coordinates": [-76.2931177, 36.8701092] }
     },
@@ -26448,7 +26446,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1452",
         "addr:street": "Northeast 163 Street",
-        "branch": "North Miami Beach 163Rd St"
+        "branch": "North Miami Beach 163rd St"
       },
       "geometry": { "type": "Point", "coordinates": [-80.1708316, 25.9253926] }
     },
@@ -26468,7 +26466,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "927",
         "addr:street": "Northeast 125th Street",
-        "branch": "North Miami Northeast 125Th St."
+        "branch": "North Miami Northeast 125th St."
       },
       "geometry": { "type": "Point", "coordinates": [-80.1797886, 25.8908063] }
     },
@@ -26650,7 +26648,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "25",
         "addr:street": "Northwest 16th Avenue",
-        "branch": "Northwest 16Th & Main Gainesville"
+        "branch": "Northwest 16th & Main Gainesville"
       },
       "geometry": { "type": "Point", "coordinates": [-82.3254754, 29.6661211] }
     },
@@ -26915,7 +26913,7 @@
         "addr:housenumber": "4901",
         "addr:street": "East 42nd Street",
         "addr:unit": "C",
-        "branch": "Odessa East 42Nd St"
+        "branch": "Odessa East 42nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-102.3355812, 31.8937532] }
     },
@@ -26936,7 +26934,7 @@
         "addr:housenumber": "1000",
         "addr:street": "East 87th Street",
         "addr:unit": "B",
-        "branch": "Odessa East 87Th St."
+        "branch": "Odessa East 87th St."
       },
       "geometry": { "type": "Point", "coordinates": [-102.384413, 31.937706] }
     },
@@ -26997,7 +26995,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "460",
         "addr:street": "12th Street",
-        "branch": "Ogden 12Th Street"
+        "branch": "Ogden 12th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-111.9680879, 41.2446575] }
     },
@@ -27037,7 +27035,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "912",
         "addr:street": "Southwest 104th Street",
-        "branch": "Oklahoma City 104Th"
+        "branch": "Oklahoma City 104th"
       },
       "geometry": { "type": "Point", "coordinates": [-97.5313733, 35.3628404] }
     },
@@ -27057,7 +27055,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4100",
         "addr:street": "North Portland Avenue",
-        "branch": "Oklahoma City 39Th"
+        "branch": "Oklahoma City 39th"
       },
       "geometry": { "type": "Point", "coordinates": [-97.5820075, 35.5128324] }
     },
@@ -27077,7 +27075,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2220",
         "addr:street": "Northwest 23rd Street",
-        "branch": "Oklahoma City Northwest 23Rd St"
+        "branch": "Oklahoma City Northwest 23rd St"
       },
       "geometry": { "type": "Point", "coordinates": [-97.550443, 35.4929506] }
     },
@@ -27200,7 +27198,7 @@
         "addr:housenumber": "1110",
         "addr:street": "South 71st Street",
         "addr:unit": "A",
-        "branch": "Omaha 71St Street"
+        "branch": "Omaha 71st Street"
       },
       "geometry": { "type": "Point", "coordinates": [-96.0230109, 41.2480665] }
     },
@@ -27260,7 +27258,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4909",
         "addr:street": "South 135th",
-        "branch": "Omaha South 135Th St"
+        "branch": "Omaha South 135th St"
       },
       "geometry": { "type": "Point", "coordinates": [-96.123809, 41.209682] }
     },
@@ -27301,7 +27299,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1305",
         "addr:street": "East 4th Street",
-        "branch": "Ontario East 4Th St."
+        "branch": "Ontario East 4th St."
       },
       "geometry": { "type": "Point", "coordinates": [-117.628128, 34.0780222] }
     },
@@ -27363,7 +27361,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "16650",
         "addr:street": "Northwest 27th Avenue",
-        "branch": "Opa Locka Northwest 27Th"
+        "branch": "Opa Locka Northwest 27th"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2451135, 25.9255181] }
     },
@@ -27750,7 +27748,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "7115",
         "addr:street": "West 135th Street",
-        "branch": "Overland Park West 135Th St"
+        "branch": "Overland Park West 135th St"
       },
       "geometry": { "type": "Point", "coordinates": [-94.6696012, 38.883153] }
     },
@@ -27770,7 +27768,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "12916",
         "addr:street": "East 86th Street North",
-        "branch": "Owasso East 86Th St. North"
+        "branch": "Owasso East 86th St. North"
       },
       "geometry": { "type": "Point", "coordinates": [-95.8282905, 36.2767995] }
     },
@@ -28054,7 +28052,7 @@
         "addr:housenumber": "573",
         "addr:street": "10th Street East",
         "addr:unit": "583",
-        "branch": "Palmetto 10Th St East"
+        "branch": "Palmetto 10th St East"
       },
       "geometry": { "type": "Point", "coordinates": [-82.5594243, 27.5200533] }
     },
@@ -28074,7 +28072,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "9493",
         "addr:street": "Southwest 160th Street",
-        "branch": "Palmetto Bay Southwest 160Th St."
+        "branch": "Palmetto Bay Southwest 160th St."
       },
       "geometry": { "type": "Point", "coordinates": [-80.346321, 25.6198689] }
     },
@@ -29115,7 +29113,7 @@
         "addr:housenumber": "1610",
         "addr:street": "North 75th Avenue",
         "addr:unit": "110",
-        "branch": "Phoenix   North 75Th Avenue"
+        "branch": "Phoenix   North 75th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.2213306, 33.4661904] }
     },
@@ -29157,7 +29155,7 @@
         "addr:housenumber": "4239",
         "addr:street": "West McDowell Road",
         "addr:unit": "5",
-        "branch": "Phoenix   West McDowell Road & North 43Rd Avenue"
+        "branch": "Phoenix   West McDowell Road & North 43rd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1501938, 33.4649529] }
     },
@@ -29261,7 +29259,7 @@
         "addr:housenumber": "3155",
         "addr:street": "West Indian School Road",
         "addr:unit": "B",
-        "branch": "Phoenix North 33Rd & West Indian School Road"
+        "branch": "Phoenix North 33rd & West Indian School Road"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1272796, 33.494541] }
     },
@@ -29282,7 +29280,7 @@
         "addr:housenumber": "1515",
         "addr:street": "North 7th Avenue",
         "addr:unit": "152",
-        "branch": "Phoenix North 7Th Avenue & West McDowell"
+        "branch": "Phoenix North 7th Avenue & West McDowell"
       },
       "geometry": { "type": "Point", "coordinates": [-112.0819978, 33.4654758] }
     },
@@ -29365,7 +29363,7 @@
         "addr:housenumber": "3430",
         "addr:street": "West Bethany Home Road",
         "addr:unit": "101",
-        "branch": "Phoenix West Bethany Home Road & North 35Th Avenue"
+        "branch": "Phoenix West Bethany Home Road & North 35th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1326124, 33.5247973] }
     },
@@ -29446,7 +29444,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "7095",
         "addr:street": "66th North",
-        "branch": "Pinellas Park 66Th North"
+        "branch": "Pinellas Park 66th North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.7298393, 27.8365973] }
     },
@@ -29609,7 +29607,7 @@
         "addr:housenumber": "2100",
         "addr:street": "14th Street",
         "addr:unit": "119",
-        "branch": "Plano 14Th"
+        "branch": "Plano 14th"
       },
       "geometry": { "type": "Point", "coordinates": [-96.6843117, 33.0168666] }
     },
@@ -29977,7 +29975,7 @@
         "addr:housenumber": "4124",
         "addr:street": "Southeast 82nd Avenue",
         "addr:unit": "800",
-        "branch": "Portland 82Nd Avenue"
+        "branch": "Portland 82nd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-122.5781, 45.492662] }
     },
@@ -29997,7 +29995,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1307",
         "addr:street": "Northeast 102nd Avenue",
-        "branch": "Portland Northeast 102Nd Avenue"
+        "branch": "Portland Northeast 102nd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-122.5588675, 45.5326242] }
     },
@@ -30301,7 +30299,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5022",
         "addr:street": "West Avenue North",
-        "branch": "Quartz Hill   Avenue North & 50Th St West"
+        "branch": "Quartz Hill   Avenue North & 50th St West"
       },
       "geometry": { "type": "Point", "coordinates": [-118.2195391, 34.6292421] }
     },
@@ -30795,7 +30793,7 @@
         "addr:housenumber": "3240",
         "addr:street": "North Fifth Street Highway",
         "addr:unit": "3258",
-        "branch": "Reading North 5Th St. Highway"
+        "branch": "Reading North 5th St. Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-75.9291994, 40.3833703] }
     },
@@ -31341,7 +31339,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "RIDGELAND",
+        "addr:city": "Ridgeland",
         "addr:state": "MS",
         "addr:postcode": "39157",
         "name": "Wingstop",
@@ -31893,7 +31891,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "ROSEVILLE",
+        "addr:city": "Roseville",
         "addr:state": "MI",
         "addr:postcode": "48066",
         "name": "Wingstop",
@@ -32170,7 +32168,7 @@
         "addr:housenumber": "2992",
         "addr:street": "65th Street",
         "addr:unit": "400",
-        "branch": "Sacramento 65Th St"
+        "branch": "Sacramento 65th St"
       },
       "geometry": { "type": "Point", "coordinates": [-121.4282018, 38.5472115] }
     },
@@ -32476,7 +32474,7 @@
         "addr:housenumber": "614",
         "addr:street": "West 29th Street",
         "addr:unit": "110",
-        "branch": "San Angelo West 29Th St."
+        "branch": "San Angelo West 29th St."
       },
       "geometry": { "type": "Point", "coordinates": [-100.4604679, 31.4864535] }
     },
@@ -34059,7 +34057,7 @@
         "addr:housenumber": "1302",
         "addr:street": "East 17th Street",
         "addr:unit": "D",
-        "branch": "Santa Ana East 17Th St"
+        "branch": "Santa Ana East 17th St"
       },
       "geometry": { "type": "Point", "coordinates": [-117.8511674, 33.7595767] }
     },
@@ -34795,7 +34793,7 @@
         "addr:housenumber": "1001",
         "addr:street": "Northeast 67th Street",
         "addr:unit": "3",
-        "branch": "Seattle Northeast 67Th St."
+        "branch": "Seattle Northeast 67th St."
       },
       "geometry": { "type": "Point", "coordinates": [-122.3171336, 47.6771476] }
     },
@@ -34949,7 +34947,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "SHAWNEE",
+        "addr:city": "Shawnee",
         "addr:state": "KS",
         "addr:postcode": "66216",
         "name": "Wingstop",
@@ -35547,7 +35545,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2980",
         "addr:street": "South 6th Avenue",
-        "branch": "South Tucson South 6Th Avenue & 39Th St"
+        "branch": "South Tucson South 6th Avenue & 39th St"
       },
       "geometry": { "type": "Point", "coordinates": [-110.968807, 32.189071] }
     },
@@ -35995,7 +35993,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2088",
         "addr:street": "1st Capitol Drive",
-        "branch": "Saint Charles 1St Capitol Drive"
+        "branch": "Saint Charles 1st Capitol Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-90.5038123, 38.7827547] }
     },
@@ -36055,7 +36053,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1411",
         "addr:street": "34th Street North",
-        "branch": "Saint Petersburg 34Th St North"
+        "branch": "Saint Petersburg 34th St North"
       },
       "geometry": { "type": "Point", "coordinates": [-82.67879, 27.785994] }
     },
@@ -36667,7 +36665,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2024",
         "addr:street": "Southwest 34th Street",
-        "branch": "Southwest 34Th St Gainesville"
+        "branch": "Southwest 34th St Gainesville"
       },
       "geometry": { "type": "Point", "coordinates": [-82.3739417, 29.6329931] }
     },
@@ -36688,7 +36686,7 @@
         "addr:housenumber": "2505",
         "addr:street": "South 38th Street",
         "addr:unit": "A104",
-        "branch": "Tacoma 38Th St"
+        "branch": "Tacoma 38th St"
       },
       "geometry": { "type": "Point", "coordinates": [-122.4702069, 47.2233853] }
     },
@@ -37156,7 +37154,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "9305",
         "addr:street": "North 56th Street",
-        "branch": "Temple Terrace North 56Th St"
+        "branch": "Temple Terrace North 56th St"
       },
       "geometry": { "type": "Point", "coordinates": [-82.3928035, 28.0345639] }
     },
@@ -37259,7 +37257,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4444",
         "addr:street": "West 7th Street",
-        "branch": "Texarkana West 7Th St."
+        "branch": "Texarkana West 7th St."
       },
       "geometry": { "type": "Point", "coordinates": [-94.09797, 33.4194021] }
     },
@@ -37361,7 +37359,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "3732",
         "addr:street": "East 120th Avenue",
-        "branch": "Thornton 120Th"
+        "branch": "Thornton 120th"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9430414, 39.9128174] }
     },
@@ -37646,7 +37644,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1988",
         "addr:street": "West 11th Street",
-        "branch": "Tracy 11Th St"
+        "branch": "Tracy 11th St"
       },
       "geometry": { "type": "Point", "coordinates": [-121.4526259, 37.737506] }
     },
@@ -37911,7 +37909,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2036",
         "addr:street": "East 81st Street",
-        "branch": "Tulsa 81St And Lewis"
+        "branch": "Tulsa 81st And Lewis"
       },
       "geometry": { "type": "Point", "coordinates": [-95.9600978, 36.0459595] }
     },
@@ -37971,7 +37969,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1531",
         "addr:street": "West 81st Street",
-        "branch": "Tulsa West 81St St Tulsa Hills"
+        "branch": "Tulsa West 81st St Tulsa Hills"
       },
       "geometry": { "type": "Point", "coordinates": [-96.009795, 36.046997] }
     },
@@ -38073,7 +38071,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5185",
         "addr:street": "West 34th Street",
-        "branch": "Tx Houston West 34Th St"
+        "branch": "Tx Houston West 34th St"
       },
       "geometry": { "type": "Point", "coordinates": [-95.4652896, 29.8190603] }
     },
@@ -38296,7 +38294,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "240",
         "addr:street": "South 69th Street",
-        "branch": "Upper Darby South 69Th St."
+        "branch": "Upper Darby South 69th St."
       },
       "geometry": { "type": "Point", "coordinates": [-75.2586503, 39.9553112] }
     },
@@ -38480,7 +38478,7 @@
         "addr:housenumber": "310",
         "addr:street": "Northeast 78th Street",
         "addr:unit": "107",
-        "branch": "Vancouver Northeast 78Th St"
+        "branch": "Vancouver Northeast 78th St"
       },
       "geometry": { "type": "Point", "coordinates": [-122.6677155, 45.6789876] }
     },
@@ -38974,7 +38972,7 @@
         "addr:housenumber": "220",
         "addr:street": "South 2nd Street",
         "addr:unit": "2",
-        "branch": "Waco South 2Nd St"
+        "branch": "Waco South 2nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-97.1271357, 31.557986] }
     },
@@ -39583,7 +39581,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "44433",
         "addr:street": "Valley Central Way",
-        "branch": "West Lancaster   Valley Central Way & 25Th West"
+        "branch": "West Lancaster   Valley Central Way & 25th West"
       },
       "geometry": { "type": "Point", "coordinates": [-118.172363, 34.690377] }
     },
@@ -39645,7 +39643,7 @@
         "addr:housenumber": "5335",
         "addr:street": "North Military Trail",
         "addr:unit": "49",
-        "branch": "West Palm Beach 45Th St"
+        "branch": "West Palm Beach 45th St"
       },
       "geometry": { "type": "Point", "coordinates": [-80.109853, 26.758511] }
     },
@@ -39686,7 +39684,7 @@
         "addr:housenumber": "40008",
         "addr:street": "10th Street West",
         "addr:unit": "104",
-        "branch": "West Palmdale 10Th St West & Avenue O"
+        "branch": "West Palmdale 10th St West & Avenue O"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1463943, 34.6095383] }
     },
@@ -40015,7 +40013,7 @@
         "addr:housenumber": "2095",
         "addr:street": "West 21st Street",
         "addr:unit": "C",
-        "branch": "Wichita 21St Street"
+        "branch": "Wichita 21st Street"
       },
       "geometry": { "type": "Point", "coordinates": [-97.3652928, 37.7222923] }
     },
@@ -40373,7 +40371,6 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:full": "7780 US-64",
         "addr:city": "Bartlett",
         "addr:state": "TN",
         "addr:postcode": "38133",
@@ -40597,7 +40594,7 @@
         "amenity": "fast_food",
         "cuisine": "wings",
         "takeaway": "yes",
-        "addr:city": "WYOMING",
+        "addr:city": "Wyoming",
         "addr:state": "MI",
         "addr:postcode": "49519",
         "name": "Wingstop",
@@ -40770,7 +40767,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "290",
         "addr:street": "West 32nd Street",
-        "branch": "Yuma West 32Nd St"
+        "branch": "Yuma West 32nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-114.6219111, 32.6714236] }
     },

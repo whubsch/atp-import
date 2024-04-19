@@ -23,7 +23,7 @@
         "addr:housenumber": "3601",
         "addr:street": "South Broad Street",
         "addr:postcode": "19148",
-        "branch": "Wells Fargo Center, PA"
+        "branch": "Wells Fargo Center"
       },
       "geometry": {
         "type": "Point",
@@ -595,7 +595,6 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "Milepost 127 South, NY State Thruway; New Baltimore, 12124",
         "addr:city": "Albany County",
         "addr:state": "NY",
         "name": "Shake Shack",
@@ -3838,7 +3837,6 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "180 New Jersey 35 S; Eatontown, 07724",
         "addr:city": "Monmouth County",
         "addr:state": "NJ",
         "name": "Shake Shack",
@@ -6070,7 +6068,6 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "1 Garden State Plaza; Inside Garden State Plaza Mall; Paramus, 07652",
         "addr:city": "Bergen County",
         "addr:state": "NJ",
         "name": "Shake Shack",
@@ -6563,7 +6560,7 @@
         "addr:street": "Pea Boulevard",
         "addr:unit": "Denver",
         "addr:postcode": "80249",
-        "branch": "Denver International Airport, CO"
+        "branch": "Denver International Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6611,7 +6608,7 @@
         "addr:housenumber": "100",
         "addr:street": "Terminal Drive",
         "addr:postcode": "33315",
-        "branch": "FLL, Airport, FL"
+        "branch": "FLL, Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6626,14 +6623,13 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "5501 Josh Birmingham Pkwy; DE Concourse across from Gate D1; Charlotte, 28208",
         "addr:city": "Mecklenburg County",
         "addr:state": "NC",
         "name": "Shake Shack",
         "website": "https://shakeshack.com/location/clt-airport-nc",
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
-        "branch": "CLT Airport, NC"
+        "branch": "CLT Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6658,7 +6654,7 @@
         "addr:street": "Glumack Drive",
         "addr:unit": "1",
         "addr:postcode": "55111",
-        "branch": "MSP Airport, MN"
+        "branch": "MSP Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6682,7 +6678,7 @@
         "addr:housenumber": "900",
         "addr:street": "Airline Drive",
         "addr:postcode": "70062",
-        "branch": "MSY Airport, LA"
+        "branch": "MSY Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6697,14 +6693,13 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "McCarran International Airport; Terminal 1 / A & B Rotunda; Las Vegas, 89119",
         "addr:city": "Clark County",
         "addr:state": "NV",
         "name": "Shake Shack",
         "website": "https://shakeshack.com/location/las-airport-nv",
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
-        "branch": "LAS Airport, NV"
+        "branch": "LAS Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6719,14 +6714,13 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "Monmouth Travel Plaza Garden; State Parkway Mile Marker 100; Wall Township, 07719",
         "addr:city": "Monmouth County",
         "addr:state": "NJ",
         "name": "Shake Shack",
         "website": "https://shakeshack.com/location/monmouth-travel-plaza-nj",
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
-        "branch": "Monmouth Travel Plaza, NJ"
+        "branch": "Monmouth Travel Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -6741,14 +6735,13 @@
         "amenity": "fast_food",
         "cuisine": "burger",
         "takeaway": "yes",
-        "addr:full": "Citizens Bank Park; 1 Citizens Bank Way; Philadelphia, 19148",
         "addr:city": "Gloucester County",
         "addr:state": "NJ",
         "name": "Shake Shack",
         "website": "https://shakeshack.com/location/citizens-bank-park-pa",
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
-        "branch": "Citizens Bank Park, PA"
+        "branch": "Citizens Bank Park"
       },
       "geometry": {
         "type": "Point",
@@ -6843,7 +6836,7 @@
         "addr:housenumber": "42",
         "addr:street": "Queens",
         "addr:postcode": "11371",
-        "branch": "LaGuardia Airport, NYC"
+        "branch": "LaGuardia Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6916,7 +6909,7 @@
         "addr:housenumber": "501",
         "addr:street": "Crawford Street",
         "addr:postcode": "77002",
-        "branch": "Minute Maid Park, TX"
+        "branch": "Minute Maid Park"
       },
       "geometry": {
         "type": "Point",
@@ -6938,7 +6931,7 @@
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
         "addr:postcode": "11430",
-        "branch": "JFK Airport, NYC #2 Gate B23"
+        "branch": "JFK Airport"
       },
       "geometry": {
         "type": "Point",
@@ -6960,7 +6953,7 @@
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
         "addr:postcode": "11430",
-        "branch": "JFK Airport, NYC #1 Gate B37"
+        "branch": "JFK Airport"
       },
       "geometry": {
         "type": "Point",
@@ -7007,7 +7000,7 @@
         "addr:housenumber": "267",
         "addr:street": "Union Avenue",
         "addr:postcode": "12866",
-        "branch": "Saratoga Race Course, NY"
+        "branch": "Saratoga Race Course"
       },
       "geometry": {
         "type": "Point",
@@ -7031,7 +7024,7 @@
         "addr:housenumber": "12301",
         "addr:street": "Roosevelt Avenue",
         "addr:postcode": "11368",
-        "branch": "Citi Field, NYC"
+        "branch": "Citi Field"
       },
       "geometry": {
         "type": "Point",

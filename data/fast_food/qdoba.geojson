@@ -130,7 +130,6 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:street_address": "Building 20845 Suite 110",
         "addr:city": "Camp Pendleton",
         "addr:state": "CA",
         "addr:postcode": "92055",
@@ -275,7 +274,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Davis Monthan AFB",
+        "addr:city": "Davis Monthan Air Force Base",
         "addr:state": "AZ",
         "addr:postcode": "85707",
         "name": "Qdoba",
@@ -962,7 +961,6 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:street_address": "5347 US-10",
         "addr:city": "Stevens Point",
         "addr:state": "WI",
         "addr:postcode": "54481",
@@ -1772,7 +1770,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "6245",
         "addr:street": "South 27th Street",
-        "branch": "27Th And College"
+        "branch": "27th And College"
       },
       "geometry": {
         "type": "Point",
@@ -2405,7 +2403,7 @@
         "addr:housenumber": "15116",
         "addr:street": "Northeast 24th Street",
         "addr:unit": "65",
-        "branch": "24Th St"
+        "branch": "24th St"
       },
       "geometry": { "type": "Point", "coordinates": [-122.1382919, 47.6319944] }
     },
@@ -2453,7 +2451,7 @@
         "addr:housenumber": "10306",
         "addr:street": "156th Street East",
         "addr:unit": "108",
-        "branch": "156Th Street"
+        "branch": "156th Street"
       },
       "geometry": {
         "type": "Point",
@@ -2507,7 +2505,7 @@
         "addr:housenumber": "7650",
         "addr:street": "Southeast 27th Street",
         "addr:unit": "106",
-        "branch": "27Th Street"
+        "branch": "27th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-122.2357393, 47.5868855] }
     },
@@ -2657,7 +2655,7 @@
         "addr:housenumber": "155",
         "addr:street": "Northeast 192nd Avenue",
         "addr:unit": "101",
-        "branch": "192Nd Avenue"
+        "branch": "192nd Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -2943,7 +2941,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Langley AFB",
+        "addr:city": "Langley Air Force Base",
         "addr:state": "VA",
         "addr:postcode": "23665",
         "name": "Qdoba",
@@ -2955,7 +2953,7 @@
         "addr:housenumber": "61",
         "addr:street": "Spaatz Drive",
         "addr:unit": "290",
-        "branch": "Langley Afb"
+        "branch": "Langley Air Force Base"
       },
       "geometry": {
         "type": "Point",
@@ -3379,7 +3377,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "1385",
         "addr:street": "Reese",
-        "branch": "Lackland Afb"
+        "branch": "Lackland Air Force Base"
       },
       "geometry": { "type": "Point", "coordinates": [-98.613287, 29.383298] }
     },
@@ -3943,7 +3941,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "4901",
         "addr:street": "South Louise Avenue",
-        "branch": "57Th & Louise"
+        "branch": "57th & Louise"
       },
       "geometry": {
         "type": "Point",
@@ -3969,7 +3967,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "2400",
         "addr:street": "East 10th Street",
-        "branch": "12Th & Lowell"
+        "branch": "12th & Lowell"
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +3994,7 @@
         "addr:housenumber": "1900",
         "addr:street": "West 41st Street",
         "addr:unit": "F",
-        "branch": "41St 7 Hawthorne"
+        "branch": "41st 7 Hawthorne"
       },
       "geometry": {
         "type": "Point",
@@ -4125,7 +4123,7 @@
         "addr:housenumber": "3828",
         "addr:street": "6th Avenue Southeast",
         "addr:unit": "H",
-        "branch": "6Th Avenue"
+        "branch": "6th Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -4426,7 +4424,7 @@
         "addr:housenumber": "230",
         "addr:street": "South 40th Street",
         "addr:unit": "140",
-        "branch": "40Th"
+        "branch": "40th"
       },
       "geometry": {
         "type": "Point",
@@ -4491,7 +4489,6 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:street_address": "2B Summit Square Shopping Ctr",
         "addr:city": "Langhorne",
         "addr:state": "PA",
         "addr:postcode": "19047",
@@ -4924,7 +4921,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "840",
         "addr:street": "East 13th Avenue",
-        "branch": "13Th Avenue"
+        "branch": "13th Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -5074,7 +5071,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "8115",
         "addr:street": "South Olympia Avenue",
-        "branch": "West 81St Tulsa"
+        "branch": "West 81st Tulsa"
       },
       "geometry": { "type": "Point", "coordinates": [-96.0036857, 36.0461665] }
     },
@@ -5221,7 +5218,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "2145",
         "addr:street": "Southwest 104th Street",
-        "branch": "Southwest 104Th Street"
+        "branch": "Southwest 104th Street"
       },
       "geometry": {
         "type": "Point",
@@ -5325,7 +5322,7 @@
         "addr:housenumber": "660",
         "addr:street": "Southwest 19th Street",
         "addr:unit": "A",
-        "branch": "Southwest 19Th Street"
+        "branch": "Southwest 19th Street"
       },
       "geometry": {
         "type": "Point",
@@ -5351,7 +5348,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "7191",
         "addr:street": "Southeast 29th Street",
-        "branch": "Southeast 29Th Street"
+        "branch": "Southeast 29th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-97.4005058, 35.4356494] }
     },
@@ -5426,7 +5423,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "3033",
         "addr:street": "Northwest 178th Street",
-        "branch": "178Th Street Okc"
+        "branch": "178th Street Okc"
       },
       "geometry": {
         "type": "Point",
@@ -5725,7 +5722,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "1689",
         "addr:street": "West 5th Avenue",
-        "branch": "West 5Th Avenue"
+        "branch": "West 5th Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -6407,7 +6404,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Nellis AFB",
+        "addr:city": "Nellis Air Force Base",
         "addr:state": "NV",
         "addr:postcode": "89191",
         "name": "Qdoba",
@@ -6418,7 +6415,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "5691",
         "addr:street": "Rickenbacker Road",
-        "branch": "Nellis Afb"
+        "branch": "Nellis Air Force Base"
       },
       "geometry": { "type": "Point", "coordinates": [-115.050593, 36.23387] }
     },
@@ -7094,7 +7091,7 @@
         "addr:housenumber": "8540",
         "addr:street": "South 71st Plaza",
         "addr:unit": "A",
-        "branch": "72Nd & Giles, Market Pointe"
+        "branch": "72nd & Giles, Market Pointe"
       },
       "geometry": {
         "type": "Point",
@@ -7196,7 +7193,7 @@
         "addr:housenumber": "2101",
         "addr:street": "North 120th Street",
         "addr:unit": "C1",
-        "branch": "120Th & Blondo"
+        "branch": "120th & Blondo"
       },
       "geometry": { "type": "Point", "coordinates": [-96.0998585, 41.2793167] }
     },
@@ -7219,7 +7216,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "14410",
         "addr:street": "West Center Road",
-        "branch": "144Th & Center"
+        "branch": "144th & Center"
       },
       "geometry": { "type": "Point", "coordinates": [-96.1396649, 41.2357586] }
     },
@@ -7267,7 +7264,7 @@
         "addr:housenumber": "1110",
         "addr:street": "South 71st Street",
         "addr:unit": "D",
-        "branch": "72Nd & Pacific, Aksarben"
+        "branch": "72nd & Pacific, Aksarben"
       },
       "geometry": {
         "type": "Point",
@@ -7396,7 +7393,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "211",
         "addr:street": "North 12th Street",
-        "branch": "12Th St. & P, Downtown"
+        "branch": "12th St. & P, Downtown"
       },
       "geometry": {
         "type": "Point",
@@ -7422,7 +7419,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "2414",
         "addr:street": "2nd Avenue",
-        "branch": "2Nd Avenue"
+        "branch": "2nd Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -7594,7 +7591,7 @@
         "addr:housenumber": "1801",
         "addr:street": "45th Street Southwest",
         "addr:unit": "M",
-        "branch": "45Th Street"
+        "branch": "45th Street"
       },
       "geometry": {
         "type": "Point",
@@ -7647,7 +7644,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "312",
         "addr:street": "South 3rd Street",
-        "branch": "3Rd Street"
+        "branch": "3rd Street"
       },
       "geometry": {
         "type": "Point",
@@ -7870,7 +7867,6 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:street_address": "Reilly St",
         "addr:city": "Fort Bragg",
         "addr:state": "NC",
         "addr:postcode": "28310",
@@ -10383,7 +10379,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "20561",
         "addr:street": "Haggerty Road",
-        "branch": "8Th & Haggerty"
+        "branch": "8th & Haggerty"
       },
       "geometry": { "type": "Point", "coordinates": [-83.4370642, 42.4374339] }
     },
@@ -10811,7 +10807,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "5595",
         "addr:street": "28th Street Southeast",
-        "branch": "28Th & Kraft"
+        "branch": "28th & Kraft"
       },
       "geometry": {
         "type": "Point",
@@ -10864,7 +10860,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "3214",
         "addr:street": "28th Street Southeast",
-        "branch": "28Th And Shaffer"
+        "branch": "28th And Shaffer"
       },
       "geometry": {
         "type": "Point",
@@ -10990,7 +10986,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "4214",
         "addr:street": "24th Avenue",
-        "branch": "On 24Th Avenue Across From Birchwood Mall"
+        "branch": "On 24th Avenue Across From Birchwood Mall"
       },
       "geometry": {
         "type": "Point",
@@ -11080,7 +11076,6 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:street_address": "2565 World Gateway Pl Airport-Dtw Mcnamara Terminal",
         "addr:city": "Detroit",
         "addr:state": "MI",
         "addr:postcode": "48242",
@@ -12488,7 +12483,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Barksdale AFB",
+        "addr:city": "Barksdale Air Force Base",
         "addr:state": "LA",
         "addr:postcode": "71110",
         "name": "Qdoba",
@@ -12499,7 +12494,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "455",
         "addr:street": "Curtiss Road",
-        "branch": "Barksdale Afb"
+        "branch": "Barksdale Air Force Base"
       },
       "geometry": {
         "type": "Point",
@@ -12755,7 +12750,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "312",
         "addr:street": "South 4th Street",
-        "branch": "South 4Th St."
+        "branch": "South 4th St."
       },
       "geometry": {
         "type": "Point",
@@ -14481,7 +14476,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "1665",
         "addr:street": "North National Road",
-        "branch": "Columbus/ 17Th St."
+        "branch": "Columbus/ 17th St."
       },
       "geometry": { "type": "Point", "coordinates": [-85.8834524, 39.2170049] }
     },
@@ -14719,7 +14714,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Scott AFB",
+        "addr:city": "Scott Air Force Base",
         "addr:state": "IL",
         "addr:postcode": "62225",
         "name": "Qdoba",
@@ -14730,7 +14725,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "207",
         "addr:street": "West Winters Street",
-        "branch": "Scott Afb"
+        "branch": "Scott Air Force Base"
       },
       "geometry": {
         "type": "Point",
@@ -14779,7 +14774,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "415",
         "addr:street": "North 32nd Street",
-        "branch": "32Nd St."
+        "branch": "32nd St."
       },
       "geometry": {
         "type": "Point",
@@ -15321,7 +15316,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "2303",
         "addr:street": "Hamilton Boulevard",
-        "branch": "23Rd & Hamilton"
+        "branch": "23rd & Hamilton"
       },
       "geometry": { "type": "Point", "coordinates": [-96.4173006, 42.5147279] }
     },
@@ -15435,7 +15430,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Robins AFB",
+        "addr:city": "Robins Air Force Base",
         "addr:state": "GA",
         "addr:postcode": "31098",
         "name": "Qdoba",
@@ -15445,7 +15440,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "982",
         "addr:street": "Macon Street",
-        "branch": "Robins Afb"
+        "branch": "Robins Air Force Base"
       },
       "geometry": { "type": "Point", "coordinates": [-83.582195, 32.598138] }
     },
@@ -16226,7 +16221,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "555",
         "addr:street": "11th Street Northwest",
-        "branch": "11Th St."
+        "branch": "11th St."
       },
       "geometry": {
         "type": "Point",
@@ -16303,7 +16298,7 @@
         "addr:housenumber": "5095",
         "addr:street": "Kipling Street",
         "addr:unit": "100",
-        "branch": "50Th And Kipling"
+        "branch": "50th And Kipling"
       },
       "geometry": {
         "type": "Point",
@@ -16330,7 +16325,7 @@
         "addr:housenumber": "9379",
         "addr:street": "Sheridan Boulevard",
         "addr:unit": "100",
-        "branch": "92Nd & Sheridan"
+        "branch": "92nd & Sheridan"
       },
       "geometry": {
         "type": "Point",
@@ -16384,7 +16379,7 @@
         "addr:housenumber": "1005",
         "addr:street": "West 120th Avenue",
         "addr:unit": "100",
-        "branch": "120Th & Huron"
+        "branch": "120th & Huron"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9985233, 39.9154116] }
     },
@@ -16434,7 +16429,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "3804",
         "addr:street": "East 120th Avenue",
-        "branch": "120Th & Colorado"
+        "branch": "120th & Colorado"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9425768, 39.9133887] }
     },
@@ -16457,7 +16452,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "10018",
         "addr:street": "Grant Street",
-        "branch": "100Th & Grant"
+        "branch": "100th & Grant"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9832335, 39.8780499] }
     },
@@ -16634,7 +16629,7 @@
         "addr:housenumber": "1420",
         "addr:street": "Southwest 10th Street",
         "addr:unit": "1440",
-        "branch": "10Th St."
+        "branch": "10th St."
       },
       "geometry": {
         "type": "Point",
@@ -17050,7 +17045,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "2527",
         "addr:street": "11th Avenue",
-        "branch": "11Th Avenue"
+        "branch": "11th Avenue"
       },
       "geometry": {
         "type": "Point",
@@ -17104,7 +17099,7 @@
         "addr:housenumber": "2510",
         "addr:street": "North 12th Street",
         "addr:unit": "A",
-        "branch": "12Th & Patterson"
+        "branch": "12th & Patterson"
       },
       "geometry": {
         "type": "Point",
@@ -17652,7 +17647,7 @@
         "addr:housenumber": "550",
         "addr:street": "Grant Street",
         "addr:unit": "B",
-        "branch": "5Th & Grant"
+        "branch": "5th & Grant"
       },
       "geometry": {
         "type": "Point",
@@ -17703,7 +17698,7 @@
         "addr:housenumber": "4000",
         "addr:street": "North Colorado Boulevard",
         "addr:unit": "101",
-        "branch": "40Th & Colorado"
+        "branch": "40th & Colorado"
       },
       "geometry": { "type": "Point", "coordinates": [-104.9400652, 39.7730983] }
     },
@@ -17754,7 +17749,7 @@
         "addr:housenumber": "1533",
         "addr:street": "Market Street",
         "addr:unit": "100",
-        "branch": "15Th & Market"
+        "branch": "15th & Market"
       },
       "geometry": {
         "type": "Point",
@@ -17781,7 +17776,7 @@
         "addr:housenumber": "1400",
         "addr:street": "East 17th Avenue",
         "addr:unit": "D",
-        "branch": "17Th & Humboldt"
+        "branch": "17th & Humboldt"
       },
       "geometry": {
         "type": "Point",
@@ -18150,7 +18145,7 @@
         "addr:housenumber": "4550",
         "addr:street": "West 121st Avenue",
         "addr:unit": "C",
-        "branch": "120Th & Vrain"
+        "branch": "120th & Vrain"
       },
       "geometry": {
         "type": "Point",
@@ -18204,7 +18199,7 @@
         "addr:housenumber": "1625",
         "addr:street": "28th Street",
         "addr:unit": "401",
-        "branch": "28Th St. & Arapahoe"
+        "branch": "28th St. & Arapahoe"
       },
       "geometry": {
         "type": "Point",
@@ -18355,7 +18350,7 @@
         "addr:housenumber": "8031",
         "addr:street": "Wadsworth Boulevard",
         "addr:unit": "B2",
-        "branch": "80Th & Wadsworth"
+        "branch": "80th & Wadsworth"
       },
       "geometry": { "type": "Point", "coordinates": [-105.0833791, 39.8425041] }
     },
@@ -18379,7 +18374,7 @@
         "addr:housenumber": "14575",
         "addr:street": "West 64th Avenue",
         "addr:unit": "C",
-        "branch": "64Th & Indiana"
+        "branch": "64th & Indiana"
       },
       "geometry": {
         "type": "Point",
@@ -18417,7 +18412,6 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:street_address": "Building 1024",
         "addr:city": "Twentynine Palms",
         "addr:state": "CA",
         "addr:postcode": "92278",
@@ -18439,7 +18433,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Travis AFB",
+        "addr:city": "Travis Air Force Base",
         "addr:state": "CA",
         "addr:postcode": "94535",
         "name": "Qdoba",
@@ -18450,7 +18444,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "461",
         "addr:street": "SkyMaster Circle",
-        "branch": "Travis Afb"
+        "branch": "Travis Air Force Base"
       },
       "geometry": {
         "type": "Point",
@@ -18540,7 +18534,7 @@
         "cuisine": "mexican",
         "official_name": "Qdoba Mexican Grill",
         "takeaway": "yes",
-        "addr:city": "Maxwell AFB",
+        "addr:city": "Maxwell Air Force Base",
         "addr:state": "AL",
         "addr:postcode": "36112",
         "name": "Qdoba",
@@ -18550,7 +18544,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "355",
         "addr:street": "South Kelly St Main PX Food Court",
-        "branch": "Maxwell Afb"
+        "branch": "Maxwell Air Force Base"
       },
       "geometry": {
         "type": "Point",

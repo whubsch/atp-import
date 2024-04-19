@@ -2251,7 +2251,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Dallas Love Field Airport",
         "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75235",
@@ -4328,7 +4327,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "US Highway 1 & Green St",
         "addr:city": "Iselin",
         "addr:state": "NJ",
         "addr:postcode": "08830",
@@ -4507,7 +4505,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Shirley Memorial Hwy",
         "addr:city": "Washington",
         "addr:state": "DC",
         "addr:postcode": "20301",
@@ -4526,7 +4523,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Shirley Memorial Hwy",
         "addr:city": "Washington",
         "addr:state": "DC",
         "addr:postcode": "20301",
@@ -4904,7 +4900,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Dfw Int. Airport",
         "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75261",
@@ -7004,7 +6999,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "St. Louis Airport",
         "addr:city": "Saint Louis",
         "addr:state": "MO",
         "addr:postcode": "63145",
@@ -10696,7 +10690,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Hwy 7 South",
         "addr:city": "Oxford",
         "addr:state": "MS",
         "addr:postcode": "38655",
@@ -14729,7 +14722,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "St. Louis Intl Airport (Stl)",
         "addr:city": "Saint Louis",
         "addr:state": "MO",
         "addr:postcode": "63145",
@@ -14809,7 +14801,7 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:city": "FE Warren AFB",
+        "addr:city": "FE Warren Air Force Base",
         "addr:state": "WY",
         "addr:postcode": "82005",
         "name": "Baskin-Robbins",
@@ -19325,7 +19317,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "4804 US 90",
         "addr:city": "Pace",
         "addr:state": "FL",
         "addr:postcode": "32571",
@@ -22596,7 +22587,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "682 Boulevard NE",
         "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30308",
@@ -24058,7 +24048,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Jfk Intl Airport",
         "addr:city": "Jamaica",
         "addr:state": "NY",
         "addr:postcode": "11430",
@@ -28189,7 +28178,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "210 US-46",
         "addr:city": "Elmwood Park",
         "addr:state": "NJ",
         "addr:postcode": "07407",
@@ -28587,7 +28575,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Dfw Int. Airport",
         "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75261",
@@ -28606,7 +28593,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Bwi Airport",
         "addr:city": "Glen Burnie",
         "addr:state": "MD",
         "addr:postcode": "21061",
@@ -31977,7 +31963,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "1480 US 331",
         "addr:city": "DeFuniak Springs",
         "addr:state": "FL",
         "addr:postcode": "32435",
@@ -39265,7 +39250,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "Dallas Love Field Airport",
         "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75235",
@@ -43327,7 +43311,6 @@
       "properties": {
         "amenity": "ice_cream",
         "cuisine": "ice_cream",
-        "addr:street_address": "5 Goldens Bridge Shopping Ctr",
         "addr:city": "Goldens Bridge",
         "addr:state": "NY",
         "addr:postcode": "10526",
