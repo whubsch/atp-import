@@ -1129,7 +1129,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "7042",
         "addr:street": "Little River Turnpike",
-        "addr:unit": "Space G",
+        "addr:unit": "G",
         "branch": "Annandale Little River Turnpike"
       },
       "geometry": { "type": "Point", "coordinates": [-77.1893811, 38.8300309] }
@@ -1251,7 +1251,7 @@
         "addr:housenumber": "20434",
         "addr:street": "Highway 18",
         "addr:unit": "130",
-        "branch": "Apple Valley Us Highway 18"
+        "branch": "Apple Valley US Highway 18"
       },
       "geometry": { "type": "Point", "coordinates": [-117.2148343, 34.5219718] }
     },
@@ -3186,7 +3186,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "8723",
         "addr:street": "Highway 377",
-        "branch": "Benbrook Us Highway 377"
+        "branch": "Benbrook US Highway 377"
       },
       "geometry": { "type": "Point", "coordinates": [-97.46361, 32.6788] }
     },
@@ -12489,7 +12489,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2575",
         "addr:street": "South Highway 1",
-        "branch": "Fort Pierce South Us Highway 1"
+        "branch": "Fort Pierce South US Highway 1"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3259801, 27.4219463] }
     },
@@ -15420,7 +15420,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2315",
         "addr:street": "Highway 79",
-        "branch": "Henderson Us Highway 79"
+        "branch": "Henderson US Highway 79"
       },
       "geometry": { "type": "Point", "coordinates": [-94.8067955, 32.1306516] }
     },
@@ -19576,7 +19576,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "3119",
         "addr:street": "Highway 98 North",
-        "branch": "Lakeland Us Highway 98 North"
+        "branch": "Lakeland US Highway 98 North"
       },
       "geometry": { "type": "Point", "coordinates": [-81.9648175, 28.0811035] }
     },
@@ -22795,7 +22795,7 @@
         "addr:housenumber": "2508",
         "addr:street": "North Highway 281",
         "addr:unit": "125",
-        "branch": "Marble Falls North Us Highway 281"
+        "branch": "Marble Falls North US Highway 281"
       },
       "geometry": { "type": "Point", "coordinates": [-98.2709008, 30.5961384] }
     },
@@ -25555,7 +25555,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "20172",
         "addr:street": "Highway 59",
-        "branch": "New Caney Us Highway 59"
+        "branch": "New Caney US Highway 59"
       },
       "geometry": { "type": "Point", "coordinates": [-95.2178657, 30.1528779] }
     },
@@ -28011,7 +28011,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "33148",
         "addr:street": "Highway 19 North",
-        "branch": "Palm Harbor Us Highway 19"
+        "branch": "Palm Harbor US Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.7396965, 28.0732563] }
     },
@@ -31370,7 +31370,7 @@
         "addr:housenumber": "4570",
         "addr:street": "East Highway 83",
         "addr:unit": "8",
-        "branch": "Rio Grande City Us Highway 83"
+        "branch": "Rio Grande City US Highway 83"
       },
       "geometry": { "type": "Point", "coordinates": [-98.792998, 26.364627] }
     },
@@ -33775,7 +33775,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "826",
         "addr:street": "West Highway 83",
-        "branch": "San Juan West Us Highway 83"
+        "branch": "San Juan West US Highway 83"
       },
       "geometry": { "type": "Point", "coordinates": [-98.1423416, 26.1868867] }
     },
@@ -35017,7 +35017,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4001",
         "addr:street": "North Highway 75",
-        "branch": "Sherman North Us Highway 75"
+        "branch": "Sherman North US Highway 75"
       },
       "geometry": { "type": "Point", "coordinates": [-96.606652, 33.679279] }
     },
@@ -38211,7 +38211,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2290",
         "addr:street": "Route 22 East",
-        "branch": "Union Us Highway 22 East"
+        "branch": "Union US Highway 22 East"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2904163, 40.6902313] }
     },
@@ -39155,7 +39155,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1680",
         "addr:street": "Route 22 East",
-        "branch": "Watchung Us Highway 22"
+        "branch": "Watchung US Highway 22"
       },
       "geometry": { "type": "Point", "coordinates": [-74.407614, 40.647237] }
     },
@@ -40439,7 +40439,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "306",
         "addr:street": "US Highway 9 North",
-        "branch": "Woodbridge Us Highway 9 North"
+        "branch": "Woodbridge US Highway 9 North"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2942437, 40.5352307] }
     },

@@ -13916,8 +13916,7 @@
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
         "addr:housenumber": "3400",
-        "addr:street": "Civic Center Boulevard",
-        "addr:unit": "Retail # 4"
+        "addr:street": "Civic Center Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-75.192598, 39.9476279] }
     },

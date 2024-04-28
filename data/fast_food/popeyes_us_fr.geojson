@@ -27157,7 +27157,7 @@
         "opening_hours": "10:00-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "# 4",
+        "addr:housenumber": "4",
         "addr:street": "McGowan Street"
       },
       "geometry": { "type": "Point", "coordinates": [-91.759812, 32.45405] }

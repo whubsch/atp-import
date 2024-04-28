@@ -1281,7 +1281,7 @@
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "3567",
         "addr:street": "Constitution Boulevard",
-        "addr:unit": "Space 250",
+        "addr:unit": "250",
         "branch": "Valley Fair Mall - UT"
       },
       "geometry": {
@@ -4786,7 +4786,7 @@
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "3200",
         "addr:street": "Las Vegas Boulevard",
-        "addr:unit": "Space 1340",
+        "addr:unit": "1340",
         "branch": "Fashion Show Mall"
       },
       "geometry": {
@@ -11648,7 +11648,7 @@
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "1151",
         "addr:street": "Galleria Boulevard",
-        "addr:unit": "Space 258-A",
+        "addr:unit": "258-A",
         "branch": "Roseville Galleria"
       },
       "geometry": {
@@ -12839,7 +12839,6 @@
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "20",
         "addr:street": "City Boulevard West",
-        "addr:unit": "K # F5",
         "branch": "The Outlets at Orange"
       },
       "geometry": {

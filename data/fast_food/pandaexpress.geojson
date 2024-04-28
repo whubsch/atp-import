@@ -1749,7 +1749,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "625",
         "addr:street": "Black Lake Boulevard",
-        "addr:unit": "Space Fc3",
+        "addr:unit": "Fc3",
         "branch": "Capital Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-122.9340593, 47.0423367] }
@@ -3606,7 +3606,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "6910",
         "addr:street": "South Redwood Road",
-        "addr:unit": "Space A",
+        "addr:unit": "A",
         "branch": "Redwood & 7000"
       },
       "geometry": { "type": "Point", "coordinates": [-111.9392172, 40.6256105] }
@@ -4031,7 +4031,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "4115",
         "addr:street": "Riverdale Road",
-        "addr:unit": "Space A",
+        "addr:unit": "A",
         "branch": "Riverdale & 300 West"
       },
       "geometry": { "type": "Point", "coordinates": [-111.9841236, 41.1885379] }
@@ -35213,7 +35213,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "616",
         "addr:street": "West Hammer Lane",
-        "addr:unit": "Space A",
+        "addr:unit": "A",
         "branch": "Pacific & Hammer"
       },
       "geometry": { "type": "Point", "coordinates": [-121.3196256, 38.02046] }
@@ -37777,7 +37777,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "2210",
         "addr:street": "Sunset Boulevard",
-        "addr:unit": "Space # 100",
+        "addr:unit": "100",
         "branch": "Sunset & Park"
       },
       "geometry": { "type": "Point", "coordinates": [-121.2733255, 38.8041322] }
@@ -41827,7 +41827,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "1690",
         "addr:street": "West Lacey Boulevard",
-        "addr:unit": "Space A",
+        "addr:unit": "A",
         "branch": "12th Avenue & West Lacey"
       },
       "geometry": { "type": "Point", "coordinates": [-119.6725733, 36.3284619] }
@@ -45015,7 +45015,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "5120",
         "addr:street": "Stockdale Highway",
-        "addr:unit": "Space A",
+        "addr:unit": "A",
         "branch": "California & Stockdale"
       },
       "geometry": { "type": "Point", "coordinates": [-119.0584848, 35.3554949] }

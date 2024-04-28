@@ -26670,7 +26670,7 @@
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
         "addr:housenumber": "751",
-        "addr:street": "South Route # 59"
+        "addr:street": "South Route 59"
       },
       "geometry": { "type": "Point", "coordinates": [-88.206553, 41.9785003] }
     },

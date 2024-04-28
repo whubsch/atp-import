@@ -8292,7 +8292,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "4237",
-        "addr:street": "North Expressway # 77",
+        "addr:street": "North Expressway 77",
         "addr:unit": "5"
       },
       "geometry": {
@@ -10307,8 +10307,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "26281",
-        "addr:street": "Northwest Freeway",
-        "addr:unit": "250 # 250"
+        "addr:street": "Northwest Freeway"
       },
       "geometry": {
         "type": "Point",
@@ -13034,8 +13033,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "130",
-        "addr:street": "West Princeton Drive",
-        "addr:unit": "D # D"
+        "addr:street": "West Princeton Drive"
       },
       "geometry": {
         "type": "Point",
@@ -15148,7 +15146,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "3152",
-        "addr:street": "Parkway # 14",
+        "addr:street": "Parkway 14",
         "addr:unit": "14"
       },
       "geometry": {
@@ -25845,8 +25843,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "840",
-        "addr:street": "West Boundary Street",
-        "addr:unit": "2 # 2"
+        "addr:street": "West Boundary Street"
       },
       "geometry": { "type": "Point", "coordinates": [-83.636568, 41.547151] }
     },
@@ -58954,8 +58951,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "1683",
-        "addr:street": "North Hancock Road",
-        "addr:unit": "105 # 105"
+        "addr:street": "North Hancock Road"
       },
       "geometry": {
         "type": "Point",
@@ -60948,7 +60944,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "13190",
-        "addr:street": "US Highway 301 # Summerfield Crossing",
+        "addr:street": "US Highway 301",
         "addr:unit": "B7A"
       },
       "geometry": {
@@ -68125,7 +68121,7 @@
         "opening_hours": "Mo-Th 10:30-23:30; Fr-Sa 10:30-24:00; Su 10:30-23:30",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "# 69",
+        "addr:housenumber": "69",
         "addr:street": "Cambon Drive"
       },
       "geometry": {

@@ -2354,7 +2354,6 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "17801",
         "addr:street": "International Boulevard",
-        "addr:unit": "Space CT-12",
         "branch": "Seatac Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-122.3024681, 47.4430389] }

@@ -25148,7 +25148,7 @@
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
         "addr:housenumber": "20002",
-        "addr:street": "Route # 19"
+        "addr:street": "Route 19"
       },
       "geometry": { "type": "Point", "coordinates": [-80.098016, 40.6745639] }
     },

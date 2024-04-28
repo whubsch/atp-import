@@ -4909,7 +4909,7 @@
         "opening_hours": "10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "# 4",
+        "addr:housenumber": "4",
         "addr:street": "Ridgeview Center"
       },
       "geometry": { "type": "Point", "coordinates": [-82.597625, 36.967473] }
@@ -46123,7 +46123,7 @@
         "website": "https://locations.kfc.com/mt/whitehall/1-commercial-way-s985042/",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "# 1",
+        "addr:housenumber": "1",
         "addr:street": "Commercial Way"
       },
       "geometry": {
@@ -66586,7 +66586,7 @@
         "opening_hours": "10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "# 1",
+        "addr:housenumber": "1",
         "addr:street": "Times Square Mall"
       },
       "geometry": {
@@ -67038,7 +67038,7 @@
         "opening_hours": "10:30-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "# 9",
+        "addr:housenumber": "9",
         "addr:street": "Corvette Drive"
       },
       "geometry": {
@@ -82140,7 +82140,7 @@
         "brand": "KFC",
         "brand:wikidata": "Q524757",
         "addr:housenumber": "230",
-        "addr:street": "Route # 12"
+        "addr:street": "Route 12"
       },
       "geometry": {
         "type": "Point",
