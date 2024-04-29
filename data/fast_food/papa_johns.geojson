@@ -13399,8 +13399,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "208",
-        "addr:street": "Hall Road",
-        "addr:unit": "208"
+        "addr:street": "Hall Road"
       },
       "geometry": {
         "type": "Point",
@@ -13701,8 +13700,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "2105",
-        "addr:street": "Buckingham Road",
-        "addr:unit": "2105"
+        "addr:street": "Buckingham Road"
       },
       "geometry": {
         "type": "Point",
@@ -32179,8 +32177,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "424",
-        "addr:street": "Harlem Drive",
-        "addr:unit": "424"
+        "addr:street": "Harlem Drive"
       },
       "geometry": {
         "type": "Point",
@@ -54653,8 +54650,7 @@
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
         "addr:housenumber": "1350",
-        "addr:street": "Gray Highway",
-        "addr:unit": "1350"
+        "addr:street": "Gray Highway"
       },
       "geometry": {
         "type": "Point",

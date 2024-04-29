@@ -50745,8 +50745,7 @@
         "brand": "Arby's",
         "brand:wikidata": "Q630866",
         "addr:housenumber": "9550",
-        "addr:street": "179th Street West",
-        "addr:unit": "9550"
+        "addr:street": "179th Street West"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8507167, 41.5653717] }
     },

@@ -55746,7 +55746,6 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1",
         "addr:street": "World Way",
-        "addr:unit": "1",
         "branch": "Los Angeles International Airport"
       },
       "geometry": { "type": "Point", "coordinates": [-118.4013651, 33.9460125] }
@@ -73398,7 +73397,6 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "14",
         "addr:street": "Ho'okele Street",
-        "addr:unit": "14",
         "branch": "Kahului"
       },
       "geometry": { "type": "Point", "coordinates": [-156.4587369, 20.8736831] }

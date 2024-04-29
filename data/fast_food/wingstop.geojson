@@ -21032,7 +21032,6 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4436",
         "addr:street": "Las Positas Road",
-        "addr:unit": "4436",
         "branch": "Livermore Las Positas Road"
       },
       "geometry": { "type": "Point", "coordinates": [-121.7450369, 37.7001129] }
@@ -23858,7 +23857,6 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "20565",
         "addr:street": "Old Cutler Road",
-        "addr:unit": "20565",
         "branch": "Miami Old Cutler Road"
       },
       "geometry": { "type": "Point", "coordinates": [-80.338848, 25.5762726] }
@@ -37194,7 +37192,6 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "101",
         "addr:street": "Sam Walton Way",
-        "addr:unit": "101",
         "branch": "Terrell Sam Walton Way"
       },
       "geometry": { "type": "Point", "coordinates": [-96.3074476, 32.7380743] }

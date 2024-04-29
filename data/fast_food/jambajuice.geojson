@@ -8210,7 +8210,6 @@
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "2052",
         "addr:street": "Westminster Mall",
-        "addr:unit": "2052",
         "branch": "Westminster Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0116083, 33.7471746] }
@@ -12705,7 +12704,7 @@
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "72840",
-        "addr:street": "Highway 111 Space",
+        "addr:street": "Highway 111",
         "addr:unit": "377",
         "branch": "Palm Desert Mall"
       },
@@ -13677,7 +13676,7 @@
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
         "addr:housenumber": "555",
-        "addr:street": "The Shops Space",
+        "addr:street": "The Shops",
         "addr:unit": "794A",
         "branch": "The Shops at Mission Viejo"
       },
