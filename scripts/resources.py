@@ -12,6 +12,8 @@ useless_tags = [
     "number",
     "image",
     "ref:google",
+    "contact:facebook",
+    "contact:twitter",
 ]
 
 necessary_tags = {
@@ -27,8 +29,6 @@ repeat_tags = [
     "image",
     "phone",
     "contact:phone",
-    "contact:facebook",
-    "contact:twitter",
     "contact:email",
 ]
 

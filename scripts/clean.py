@@ -274,6 +274,10 @@ def run(file_list: list[str]) -> None:
                     )
                 objt["opening_hours"] = objt["opening_hours"].removeprefix("Mo-Su ")
 
+            if objt.get("addr:unit") and objt.get("addr:housenumber"):
+                if objt["addr:unit"] == objt["addr:housenumber"]:
+                    objt.pop("addr:unit", None)
+
             obj["properties"] = objt
 
         with open(file, "w", encoding="utf-8") as f:
