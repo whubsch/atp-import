@@ -4841,27 +4841,6 @@
     },
     {
       "type": "Feature",
-      "id": "rDq_8SIkuu7TgTXxXVNh3PSunVI=",
-      "properties": {
-        "alt_name": "Habit Burger Grill",
-        "amenity": "fast_food",
-        "cuisine": "burger",
-        "short_name": "Habit Burger",
-        "takeaway": "yes",
-        "addr:street_address": "Jiangbei Airport, Terminal 3",
-        "addr:city": "Chongquin",
-        "name": "The Habit Burger Grill",
-        "website": "https://www.habitburger.com/locations/chongquin-airport/",
-        "brand": "The Habit Burger Grill",
-        "brand:wikidata": "Q18158741"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [106.65522909424274, 29.712005851027378]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "bHnaSDvdAis_147SSOdpAvkixaw=",
       "properties": {
         "alt_name": "Habit Burger Grill",
@@ -7604,44 +7583,6 @@
     },
     {
       "type": "Feature",
-      "id": "ws6PkOclCYi-lC3QBWeOLdSeROo=",
-      "properties": {
-        "alt_name": "Habit Burger Grill",
-        "amenity": "fast_food",
-        "cuisine": "burger",
-        "short_name": "Habit Burger",
-        "takeaway": "yes",
-        "addr:street_address": "Asian 11 Street",
-        "addr:city": "Phnom Penh",
-        "name": "The Habit Burger Grill",
-        "website": "https://www.habitburger.com/locations/phnom-penh-techno/",
-        "opening_hours": "06:00-21:00",
-        "brand": "The Habit Burger Grill",
-        "brand:wikidata": "Q18158741"
-      },
-      "geometry": { "type": "Point", "coordinates": [104.9282099, 11.5563738] }
-    },
-    {
-      "type": "Feature",
-      "id": "reGrqpamoHM9x_G8Hs83Z7-ksrI=",
-      "properties": {
-        "alt_name": "Habit Burger Grill",
-        "amenity": "fast_food",
-        "cuisine": "burger",
-        "short_name": "Habit Burger",
-        "takeaway": "yes",
-        "addr:street_address": "National Road 4",
-        "addr:city": "Ang Snuol District, Kandal Province",
-        "name": "The Habit Burger Grill",
-        "website": "https://www.habitburger.com/locations/phnom-penh-central-park/",
-        "opening_hours": "06:00-21:00",
-        "brand": "The Habit Burger Grill",
-        "brand:wikidata": "Q18158741"
-      },
-      "geometry": { "type": "Point", "coordinates": [104.7157163, 11.5071656] }
-    },
-    {
-      "type": "Feature",
       "id": "SCcinrYXbNfhUZw34oOle3x4EfM=",
       "properties": {
         "alt_name": "Habit Burger Grill",
@@ -7695,7 +7636,6 @@
         "cuisine": "burger",
         "short_name": "Habit Burger",
         "takeaway": "yes",
-        "addr:street_address": "Kbal Thnol, Preah Norodom Blvd (41)",
         "addr:city": "Krong Siem Reap",
         "addr:postcode": "17252",
         "name": "The Habit Burger Grill",
@@ -7708,26 +7648,6 @@
     },
     {
       "type": "Feature",
-      "id": "HweIVLk-A4NML8rNimW3WSwKHLU=",
-      "properties": {
-        "alt_name": "Habit Burger Grill",
-        "amenity": "fast_food",
-        "cuisine": "burger",
-        "short_name": "Habit Burger",
-        "takeaway": "yes",
-        "addr:city": "Branch>Minhang",
-        "name": "The Habit Burger Grill",
-        "website": "https://www.habitburger.com/locations/aegean-sea/",
-        "opening_hours": "11:00-21:00",
-        "brand": "The Habit Burger Grill",
-        "brand:wikidata": "Q18158741",
-        "addr:housenumber": "1588",
-        "addr:street": "Wuzhong Road Branch>Aegean Mall"
-      },
-      "geometry": { "type": "Point", "coordinates": [121.367898, 31.176119] }
-    },
-    {
-      "type": "Feature",
       "id": "9vt6mQc421QwnAk2NpAp3KQOIb8=",
       "properties": {
         "alt_name": "Habit Burger Grill",
@@ -7735,7 +7655,6 @@
         "cuisine": "burger",
         "short_name": "Habit Burger",
         "takeaway": "yes",
-        "addr:street_address": "No 388 Madang Road <br>SOHO Fuxing Plaza <br>Store D109-110 <br>Huangpu District",
         "addr:city": "Shanghai",
         "name": "The Habit Burger Grill",
         "website": "https://www.habitburger.com/locations/soho-fuxing-plaza/",
@@ -7773,7 +7692,6 @@
         "cuisine": "burger",
         "short_name": "Habit Burger",
         "takeaway": "yes",
-        "addr:street_address": "Kbai Thnol, Preah Norodom Blvd (41)",
         "addr:city": "Phnom Penh",
         "name": "The Habit Burger Grill",
         "website": "https://www.habitburger.com/locations/phnom-penh-chamkarmon/",

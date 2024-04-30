@@ -7801,7 +7801,6 @@
         "amenity": "cafe",
         "cuisine": "coffee_shop",
         "takeaway": "only",
-        "addr:street_address": "340 US 550",
         "addr:city": "Bernalillo",
         "addr:state": "NM",
         "addr:postcode": "87004",
