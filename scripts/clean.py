@@ -16,6 +16,7 @@ from resources import (
     saints,
 )
 from atlus import atlus_request
+from nsi import AmbiguousValueError, get_nsi_tags, compare_dicts
 
 VERSION = "0.2.0"
 
@@ -143,6 +144,14 @@ def print_value(action: str, file: str, brand: str, items: int) -> None:
     print(f"{action.title() + '...':<16}{file.split('/')[-1]:<34}{brand:<30}{items:<6}")
 
 
+def get_primary_kv(tags: dict[str, str]) -> tuple[str, str]:
+    """Get the object's primary tag and its value."""
+    for i in ["amenity", "shop", "tourism", "leisure", "craft", "office", "healthcare"]:
+        if i in tags:
+            return i, tags[i]
+    raise ValueError(f"No primary tags found: {tags}")
+
+
 def run(file_list: list[str]) -> None:
     """Run the cleaning program on selected files."""
     for file in file_list:
@@ -187,7 +196,17 @@ def run(file_list: list[str]) -> None:
             ):
                 wipe_repeat_tags.append(repeat_tag)
 
-        contents["features"] = atlus_request(contents["features"])
+        contents["features"] = atlus_request(features)
+
+        first = contents["features"][0]["properties"]
+        k, v = get_primary_kv(first)
+        try:
+            canon = get_nsi_tags(first.get("brand:wikidata"), k, v)
+            if not compare_dicts(canon, first):
+                raise ValueError(f"ATP tags don't match NSI canonical: {first.get("brand")}")
+        except AmbiguousValueError as e:
+            print(e, "|", first.get("brand"))
+
 
         for obj in contents["features"]:
             objt: dict[str, str] = obj["properties"]

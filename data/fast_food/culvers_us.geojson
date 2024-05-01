@@ -15,7 +15,7 @@
       "properties": {
         "ref": "797",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -40,7 +40,7 @@
       "properties": {
         "ref": "791",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -195,7 +195,7 @@
       "properties": {
         "ref": "792",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -381,7 +381,7 @@
       "properties": {
         "ref": "793",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -536,7 +536,7 @@
       "properties": {
         "ref": "794",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -691,7 +691,7 @@
       "properties": {
         "ref": "859",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -722,7 +722,7 @@
       "properties": {
         "ref": "795",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1001,7 +1001,7 @@
       "properties": {
         "ref": "796",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1032,7 +1032,7 @@
       "properties": {
         "ref": "820",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1156,7 +1156,7 @@
       "properties": {
         "ref": "826",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1187,7 +1187,7 @@
       "properties": {
         "ref": "798",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1342,7 +1342,7 @@
       "properties": {
         "ref": "819",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1373,7 +1373,7 @@
       "properties": {
         "ref": "799",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1776,7 +1776,7 @@
       "properties": {
         "ref": "801",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1901,7 +1901,7 @@
       "properties": {
         "ref": "805",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -1932,7 +1932,7 @@
       "properties": {
         "ref": "802",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -2149,7 +2149,7 @@
       "properties": {
         "ref": "804",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -2800,7 +2800,7 @@
       "properties": {
         "ref": "807",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -2862,7 +2862,7 @@
       "properties": {
         "ref": "829",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3079,7 +3079,7 @@
       "properties": {
         "ref": "817",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3203,7 +3203,7 @@
       "properties": {
         "ref": "823",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3234,7 +3234,7 @@
       "properties": {
         "ref": "838",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3668,7 +3668,7 @@
       "properties": {
         "ref": "814",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3699,7 +3699,7 @@
       "properties": {
         "ref": "894",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3730,7 +3730,7 @@
       "properties": {
         "ref": "912",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3823,7 +3823,7 @@
       "properties": {
         "ref": "934",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -3947,7 +3947,7 @@
       "properties": {
         "ref": "828",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -3978,7 +3978,7 @@
       "properties": {
         "ref": "835",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -4164,7 +4164,7 @@
       "properties": {
         "ref": "844",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -4257,7 +4257,7 @@
       "properties": {
         "ref": "843",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -4382,7 +4382,7 @@
       "properties": {
         "ref": "827",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -4630,7 +4630,7 @@
       "properties": {
         "ref": "888",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -4661,7 +4661,7 @@
       "properties": {
         "ref": "831",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5064,7 +5064,7 @@
       "properties": {
         "ref": "861",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5095,7 +5095,7 @@
       "properties": {
         "ref": "870",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5126,7 +5126,7 @@
       "properties": {
         "ref": "880",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5157,7 +5157,7 @@
       "properties": {
         "ref": "914",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5219,7 +5219,7 @@
       "properties": {
         "ref": "834",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5250,7 +5250,7 @@
       "properties": {
         "ref": "842",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5405,7 +5405,7 @@
       "properties": {
         "ref": "840",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5560,7 +5560,7 @@
       "properties": {
         "ref": "837",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5715,7 +5715,7 @@
       "properties": {
         "ref": "855",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5777,7 +5777,7 @@
       "properties": {
         "ref": "839",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5870,7 +5870,7 @@
       "properties": {
         "ref": "841",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -5932,7 +5932,7 @@
       "properties": {
         "ref": "846",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6087,7 +6087,7 @@
       "properties": {
         "ref": "849",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6149,7 +6149,7 @@
       "properties": {
         "ref": "857",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6304,7 +6304,7 @@
       "properties": {
         "ref": "851",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6335,7 +6335,7 @@
       "properties": {
         "ref": "866",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6366,7 +6366,7 @@
       "properties": {
         "ref": "278",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6428,7 +6428,7 @@
       "properties": {
         "ref": "874",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6490,7 +6490,7 @@
       "properties": {
         "ref": "852",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6583,7 +6583,7 @@
       "properties": {
         "ref": "877",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6614,7 +6614,7 @@
       "properties": {
         "ref": "949",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -6769,7 +6769,7 @@
       "properties": {
         "ref": "919",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6800,7 +6800,7 @@
       "properties": {
         "ref": "856",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6955,7 +6955,7 @@
       "properties": {
         "ref": "860",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -6986,7 +6986,7 @@
       "properties": {
         "ref": "858",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7017,7 +7017,7 @@
       "properties": {
         "ref": "862",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7110,7 +7110,7 @@
       "properties": {
         "ref": "885",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7141,7 +7141,7 @@
       "properties": {
         "ref": "905",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7172,7 +7172,7 @@
       "properties": {
         "ref": "863",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7203,7 +7203,7 @@
       "properties": {
         "ref": "937",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -7296,7 +7296,7 @@
       "properties": {
         "ref": "864",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7389,7 +7389,7 @@
       "properties": {
         "ref": "883",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7420,7 +7420,7 @@
       "properties": {
         "ref": "897",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7451,7 +7451,7 @@
       "properties": {
         "ref": "899",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7637,7 +7637,7 @@
       "properties": {
         "ref": "868",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7699,7 +7699,7 @@
       "properties": {
         "ref": "867",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7761,7 +7761,7 @@
       "properties": {
         "ref": "901",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7792,7 +7792,7 @@
       "properties": {
         "ref": "915",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -7823,7 +7823,7 @@
       "properties": {
         "ref": "932",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -7854,7 +7854,7 @@
       "properties": {
         "ref": "869",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -8009,7 +8009,7 @@
       "properties": {
         "ref": "875",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -8040,7 +8040,7 @@
       "properties": {
         "ref": "871",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -8133,7 +8133,7 @@
       "properties": {
         "ref": "896",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -8164,7 +8164,7 @@
       "properties": {
         "ref": "908",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -9497,7 +9497,7 @@
       "properties": {
         "ref": "873",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -9528,7 +9528,7 @@
       "properties": {
         "ref": "881",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -9559,7 +9559,7 @@
       "properties": {
         "ref": "889",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -9683,7 +9683,7 @@
       "properties": {
         "ref": "876",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -9714,7 +9714,7 @@
       "properties": {
         "ref": "886",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -9745,7 +9745,7 @@
       "properties": {
         "ref": "935",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -10148,7 +10148,7 @@
       "properties": {
         "ref": "879",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10272,7 +10272,7 @@
       "properties": {
         "ref": "882",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10303,7 +10303,7 @@
       "properties": {
         "ref": "925",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10334,7 +10334,7 @@
       "properties": {
         "ref": "957",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -10582,7 +10582,7 @@
       "properties": {
         "ref": "884",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10613,7 +10613,7 @@
       "properties": {
         "ref": "895",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10644,7 +10644,7 @@
       "properties": {
         "ref": "910",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10675,7 +10675,7 @@
       "properties": {
         "ref": "917",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10706,7 +10706,7 @@
       "properties": {
         "ref": "931",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "no",
         "toilets": "no",
@@ -10830,7 +10830,7 @@
       "properties": {
         "ref": "887",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10861,7 +10861,7 @@
       "properties": {
         "ref": "893",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -10892,7 +10892,7 @@
       "properties": {
         "ref": "916",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -12845,7 +12845,7 @@
       "properties": {
         "ref": "890",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -12969,7 +12969,7 @@
       "properties": {
         "ref": "891",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13000,7 +13000,7 @@
       "properties": {
         "ref": "923",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13031,7 +13031,7 @@
       "properties": {
         "ref": "972",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -13341,7 +13341,7 @@
       "properties": {
         "ref": "892",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13496,7 +13496,7 @@
       "properties": {
         "ref": "898",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13527,7 +13527,7 @@
       "properties": {
         "ref": "921",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13558,7 +13558,7 @@
       "properties": {
         "ref": "960",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -13713,7 +13713,7 @@
       "properties": {
         "ref": "900",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13744,7 +13744,7 @@
       "properties": {
         "ref": "907",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13775,7 +13775,7 @@
       "properties": {
         "ref": "909",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13806,7 +13806,7 @@
       "properties": {
         "ref": "911",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13868,7 +13868,7 @@
       "properties": {
         "ref": "902",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13899,7 +13899,7 @@
       "properties": {
         "ref": "961",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -13930,7 +13930,7 @@
       "properties": {
         "ref": "903",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -13992,7 +13992,7 @@
       "properties": {
         "ref": "906",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14023,7 +14023,7 @@
       "properties": {
         "ref": "913",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14085,7 +14085,7 @@
       "properties": {
         "ref": "922",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14116,7 +14116,7 @@
       "properties": {
         "ref": "904",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14147,7 +14147,7 @@
       "properties": {
         "ref": "930",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "no",
         "toilets": "no",
@@ -14178,7 +14178,7 @@
       "properties": {
         "ref": "941",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14209,7 +14209,7 @@
       "properties": {
         "ref": "951",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14240,7 +14240,7 @@
       "properties": {
         "ref": "956",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14271,7 +14271,7 @@
       "properties": {
         "ref": "971",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14302,7 +14302,7 @@
       "properties": {
         "ref": "918",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14395,7 +14395,7 @@
       "properties": {
         "ref": "920",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14426,7 +14426,7 @@
       "properties": {
         "ref": "959",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14457,7 +14457,7 @@
       "properties": {
         "ref": "924",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14488,7 +14488,7 @@
       "properties": {
         "ref": "926",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -14519,7 +14519,7 @@
       "properties": {
         "ref": "954",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14550,7 +14550,7 @@
       "properties": {
         "ref": "927",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "no",
         "toilets": "no",
@@ -14581,7 +14581,7 @@
       "properties": {
         "ref": "928",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "no",
         "toilets": "no",
@@ -14612,7 +14612,7 @@
       "properties": {
         "ref": "963",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14705,7 +14705,7 @@
       "properties": {
         "ref": "929",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "no",
         "toilets": "no",
@@ -14767,7 +14767,7 @@
       "properties": {
         "ref": "944",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14829,7 +14829,7 @@
       "properties": {
         "ref": "945",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14860,7 +14860,7 @@
       "properties": {
         "ref": "933",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14891,7 +14891,7 @@
       "properties": {
         "ref": "955",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14953,7 +14953,7 @@
       "properties": {
         "ref": "936",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -14984,7 +14984,7 @@
       "properties": {
         "ref": "962",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15046,7 +15046,7 @@
       "properties": {
         "ref": "968",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15077,7 +15077,7 @@
       "properties": {
         "ref": "938",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15232,7 +15232,7 @@
       "properties": {
         "ref": "964",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15263,7 +15263,7 @@
       "properties": {
         "ref": "939",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15294,7 +15294,7 @@
       "properties": {
         "ref": "940",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15356,7 +15356,7 @@
       "properties": {
         "ref": "943",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15387,7 +15387,7 @@
       "properties": {
         "ref": "947",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15480,7 +15480,7 @@
       "properties": {
         "ref": "973",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15511,7 +15511,7 @@
       "properties": {
         "ref": "950",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15573,7 +15573,7 @@
       "properties": {
         "ref": "953",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15604,7 +15604,7 @@
       "properties": {
         "ref": "965",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15697,7 +15697,7 @@
       "properties": {
         "ref": "966",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15728,7 +15728,7 @@
       "properties": {
         "ref": "967",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15790,7 +15790,7 @@
       "properties": {
         "ref": "970",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -15821,7 +15821,7 @@
       "properties": {
         "ref": "975",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -16162,7 +16162,7 @@
       "properties": {
         "ref": "872",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -16720,7 +16720,7 @@
       "properties": {
         "ref": "946",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "no",
         "drive_through": "no",
         "toilets": "no",
@@ -29152,7 +29152,7 @@
       "properties": {
         "ref": "787",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -29493,7 +29493,7 @@
       "properties": {
         "ref": "790",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -29803,7 +29803,7 @@
       "properties": {
         "ref": "786",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -29834,7 +29834,7 @@
       "properties": {
         "ref": "788",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",
@@ -29865,7 +29865,7 @@
       "properties": {
         "ref": "789",
         "indoor_seating": "yes",
-        "takeaway": "no",
+        "takeaway": "yes",
         "delivery": "yes",
         "drive_through": "yes",
         "toilets": "yes",

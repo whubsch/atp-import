@@ -7,7 +7,7 @@ https://github.com/whubsch/atlus
 
 from itertools import batched
 import time
-from typing import Any
+from typing import Any, Literal
 
 import requests
 
@@ -15,7 +15,7 @@ API_URL = "https://atlus.dev/api/"  # live at https://atlus.dev/
 
 
 def atlus_request(
-    content: list[dict[str, Any]], field: str = "address"
+    content: list[dict[str, Any]], field: Literal["address", "phone"] = "address"
 ) -> list[dict[str, Any]]:
     """Process address fields using Atlus application."""
     fields = ["addr:street_address", "addr:full"] if field == "address" else ["phone"]

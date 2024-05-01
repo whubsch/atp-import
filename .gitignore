@@ -22,4 +22,5 @@ yarn-error.log*
 *.pyc
 *pycache*
 /scripts/*scratch*
+/scripts/*.json
 /build/missing_new.json
