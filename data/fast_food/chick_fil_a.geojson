@@ -56,7 +56,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "201",
         "addr:street": "East Central Texas Expressway",
-        "branch": "Harker Heights (TX)"
+        "branch": "Harker Heights"
       },
       "geometry": {
         "type": "Point",
@@ -1144,7 +1144,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4502",
         "addr:street": "University Avenue",
-        "branch": "University Avenue (IA)"
+        "branch": "University Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-93.76574, 41.59973] }
     },
@@ -2101,7 +2101,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "626",
         "addr:street": "Boll Weevil Circle",
-        "branch": "Enterprise (AL)"
+        "branch": "Enterprise"
       },
       "geometry": { "type": "Point", "coordinates": [-85.82924, 31.31965] }
     },
@@ -2644,7 +2644,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "800",
         "addr:street": "North Green River Road",
-        "branch": "Eastland Mall (IN)"
+        "branch": "Eastland Mall"
       },
       "geometry": {
         "type": "Point",
@@ -3732,7 +3732,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5886",
         "addr:street": "Trussville Crossings Parkway",
-        "branch": "Trussville (AL)"
+        "branch": "Trussville"
       },
       "geometry": { "type": "Point", "coordinates": [-86.6261255, 33.6417587] }
     },
@@ -3868,7 +3868,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2500",
         "addr:street": "West 79th Street",
-        "branch": "Bloomington (MN)"
+        "branch": "Bloomington"
       },
       "geometry": { "type": "Point", "coordinates": [-93.310729, 44.861007] }
     },
@@ -4115,7 +4115,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1021",
         "addr:street": "Dixieland Road",
-        "branch": "Dixieland Road (TX)"
+        "branch": "Dixieland Road"
       },
       "geometry": { "type": "Point", "coordinates": [-97.720495, 26.182083] }
     },
@@ -5322,7 +5322,7 @@
         "addr:housenumber": "4154",
         "addr:street": "Main at North Hills Street",
         "addr:unit": "114",
-        "branch": "North Hills In-Line (NC)"
+        "branch": "North Hills In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-78.642176, 35.836807] }
     },
@@ -6483,7 +6483,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3220",
         "addr:street": "Solomons Island Road",
-        "branch": "Edgewater (MD)"
+        "branch": "Edgewater"
       },
       "geometry": { "type": "Point", "coordinates": [-76.56817, 38.93237] }
     },
@@ -7385,7 +7385,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "7101",
         "addr:street": "Democracy Boulevard",
-        "branch": "Westfield Montgomery Mall (MD)"
+        "branch": "Westfield Montgomery Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-77.1465178, 39.0247962] }
     },
@@ -8035,7 +8035,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "7267",
         "addr:street": "Highway 73",
-        "branch": "Denver (NC)"
+        "branch": "Denver"
       },
       "geometry": { "type": "Point", "coordinates": [-81.00042, 35.44867] }
     },
@@ -8359,7 +8359,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4516",
         "addr:street": "Fair Knoll Drive",
-        "branch": "Fair Lakes (VA)"
+        "branch": "Fair Lakes"
       },
       "geometry": { "type": "Point", "coordinates": [-77.3875856, 38.8623567] }
     },
@@ -10175,7 +10175,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "470",
         "addr:street": "West Sam Ridley Parkway",
-        "branch": "Smyrna (TN)"
+        "branch": "Smyrna"
       },
       "geometry": { "type": "Point", "coordinates": [-86.553677, 35.984481] }
     },
@@ -11448,7 +11448,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2400",
         "addr:street": "Richmond Road",
-        "branch": "Central Mall (TX)"
+        "branch": "Central Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-94.0807274, 33.4554963] }
     },
@@ -11586,7 +11586,7 @@
         "addr:housenumber": "10300",
         "addr:street": "Little Patuxent Parkway",
         "addr:unit": "1335",
-        "branch": "Columbia Mall (MD)"
+        "branch": "Columbia Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-76.8606794, 39.2146506] }
     },
@@ -11640,7 +11640,7 @@
         "addr:housenumber": "5100",
         "addr:street": "North 9th Avenue",
         "addr:unit": "J-928",
-        "branch": "Cordova Mall (Inside)"
+        "branch": "Cordova Mall"
       },
       "geometry": {
         "type": "Point",
@@ -11779,7 +11779,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "419",
         "addr:street": "Cross Creek Mall",
-        "branch": "Cross Creek Mall (NC)"
+        "branch": "Cross Creek Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-78.9603419, 35.0722809] }
     },
@@ -11941,7 +11941,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "101",
         "addr:street": "North Range Line Road",
-        "branch": "Northpark Mall (MO)"
+        "branch": "Northpark Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-94.4734689, 37.090439] }
     },
@@ -12217,7 +12217,7 @@
         "addr:housenumber": "1500",
         "addr:street": "Apalachee Parkway",
         "addr:unit": "1040",
-        "branch": "Governors Square (FL)"
+        "branch": "Governors Square"
       },
       "geometry": { "type": "Point", "coordinates": [-84.25146, 30.43398] }
     },
@@ -12815,7 +12815,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "209",
         "addr:street": "Northgate Mall",
-        "branch": "Northgate Mall (TN)"
+        "branch": "Northgate Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-85.2399144, 35.1304351] }
     },
@@ -13384,7 +13384,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2119",
         "addr:street": "West Highway 30",
-        "branch": "Gonzales (LA)"
+        "branch": "Gonzales"
       },
       "geometry": { "type": "Point", "coordinates": [-90.94374, 30.21026] }
     },
@@ -13926,7 +13926,7 @@
         "addr:housenumber": "7701",
         "addr:street": "West Interstate 40",
         "addr:unit": "132",
-        "branch": "Westgate Mall (TX)"
+        "branch": "Westgate Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-101.9296125, 35.184757] }
     },
@@ -14068,7 +14068,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1873",
         "addr:street": "Main Street",
-        "branch": "Madison (MS)"
+        "branch": "Madison"
       },
       "geometry": { "type": "Point", "coordinates": [-90.1306565, 32.46790983] }
     },
@@ -14257,7 +14257,7 @@
         "addr:housenumber": "384",
         "addr:street": "Southpark Circle",
         "addr:unit": "B-10",
-        "branch": "Southpark (VA)"
+        "branch": "Southpark"
       },
       "geometry": { "type": "Point", "coordinates": [-77.393463, 37.25427] }
     },
@@ -14693,7 +14693,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "101",
         "addr:street": "Tiger Way",
-        "branch": "Georgetown (Key)"
+        "branch": "Georgetown"
       },
       "geometry": { "type": "Point", "coordinates": [-84.53956, 38.22151] }
     },
@@ -14974,7 +14974,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "36",
         "addr:street": "Apex Drive",
-        "branch": "Marlborough (MA)"
+        "branch": "Marlborough"
       },
       "geometry": { "type": "Point", "coordinates": [-71.585696, 42.338318] }
     },
@@ -15082,7 +15082,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6390",
         "addr:street": "Mayfield Road",
-        "branch": "Mayfield Heights (OH)"
+        "branch": "Mayfield Heights"
       },
       "geometry": { "type": "Point", "coordinates": [-81.4501665, 41.5197741] }
     },
@@ -15871,7 +15871,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5120",
         "addr:street": "South Cobb Drive Southeast",
-        "branch": "Smyrna (GA)"
+        "branch": "Smyrna"
       },
       "geometry": { "type": "Point", "coordinates": [-84.49264, 33.82824] }
     },
@@ -16920,7 +16920,7 @@
         "addr:housenumber": "1251",
         "addr:street": "Highway 31 North",
         "addr:unit": "C19",
-        "branch": "Greenwood Park Mall (IN)"
+        "branch": "Greenwood Park Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-86.120452, 39.632566] }
     },
@@ -17169,7 +17169,7 @@
         "addr:housenumber": "6301",
         "addr:street": "Northwest Loop 410",
         "addr:unit": "VC9",
-        "branch": "Ingram Park Mall (Inside)"
+        "branch": "Ingram Park Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-98.6214666, 29.4695446] }
     },
@@ -17250,7 +17250,7 @@
         "addr:housenumber": "2701",
         "addr:street": "David H McLeod Boulevard",
         "addr:unit": "1320",
-        "branch": "Magnolia Mall (Inside)"
+        "branch": "Magnolia Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-79.8354353, 34.1905941] }
     },
@@ -17303,7 +17303,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "320",
         "addr:street": "West Kimberly Road",
-        "branch": "Northpark Mall (IA)"
+        "branch": "Northpark Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-90.5763454, 41.5626064] }
     },
@@ -17384,7 +17384,7 @@
         "addr:housenumber": "1200",
         "addr:street": "East County Line Road",
         "addr:unit": "232",
-        "branch": "Northpark Mall (MS)"
+        "branch": "Northpark Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-90.1295643, 32.4037315] }
     },
@@ -17439,7 +17439,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2592",
         "addr:street": "West Roosevelt Boulevard",
-        "branch": "Monroe (NC)"
+        "branch": "Monroe"
       },
       "geometry": { "type": "Point", "coordinates": [-80.5713211, 35.0161895] }
     },
@@ -17870,7 +17870,7 @@
         "addr:housenumber": "2370",
         "addr:street": "North Expressway",
         "addr:unit": "1348",
-        "branch": "Sunrise Mall (BV)"
+        "branch": "Sunrise Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-97.5025908, 25.9546083] }
     },
@@ -17898,7 +17898,7 @@
         "addr:housenumber": "4400",
         "addr:street": "Sharon Road",
         "addr:unit": "VC06",
-        "branch": "Southpark (NC)"
+        "branch": "Southpark"
       },
       "geometry": { "type": "Point", "coordinates": [-80.8329139, 35.1529289] }
     },
@@ -18278,7 +18278,7 @@
         "addr:housenumber": "2310",
         "addr:street": "Southwest Military Drive",
         "addr:unit": "108",
-        "branch": "South Park Mall (TX)"
+        "branch": "South Park Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-98.5295448, 29.3551072] }
     },
@@ -18466,7 +18466,7 @@
         "addr:housenumber": "575",
         "addr:street": "East University Parkway",
         "addr:unit": "M208",
-        "branch": "University Mall (UT)"
+        "branch": "University Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-111.6813901, 40.2750825] }
     },
@@ -18714,7 +18714,7 @@
         "addr:housenumber": "1800",
         "addr:street": "Galleria Boulevard",
         "addr:unit": "3060",
-        "branch": "CoolSprings Galleria (Mall)"
+        "branch": "CoolSprings Galleria"
       },
       "geometry": { "type": "Point", "coordinates": [-86.814692, 35.9562557] }
     },
@@ -19756,7 +19756,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2736",
         "addr:street": "North Salisbury Boulevard",
-        "branch": "North Pointe Plaza (MD)"
+        "branch": "North Pointe Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-75.56576, 38.4198] }
     },
@@ -19809,7 +19809,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2601",
         "addr:street": "Richmond Road",
-        "branch": "Texarkana (TX)"
+        "branch": "Texarkana"
       },
       "geometry": { "type": "Point", "coordinates": [-94.0894062, 33.4584837] }
     },
@@ -23731,7 +23731,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "70",
         "addr:street": "Golden Isles Plaza",
-        "branch": "Brunswick (GA)"
+        "branch": "Brunswick"
       },
       "geometry": { "type": "Point", "coordinates": [-81.49077, 31.21145] }
     },
@@ -24080,7 +24080,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3500",
         "addr:street": "North Highway 75",
-        "branch": "Sherman (TX)"
+        "branch": "Sherman"
       },
       "geometry": { "type": "Point", "coordinates": [-96.6101555, 33.6764492] }
     },
@@ -24107,7 +24107,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1312",
         "addr:street": "North Main Street",
-        "branch": "Summerville (SC)"
+        "branch": "Summerville"
       },
       "geometry": { "type": "Point", "coordinates": [-80.1563278, 33.037098] }
     },
@@ -25715,7 +25715,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6556",
         "addr:street": "Lake Worth Boulevard",
-        "branch": "Lake Worth (TX)"
+        "branch": "Lake Worth"
       },
       "geometry": { "type": "Point", "coordinates": [-97.430514, 32.812031] }
     },
@@ -26559,7 +26559,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1291",
         "addr:street": "Highway 72 East",
-        "branch": "Athens (AL)"
+        "branch": "Athens"
       },
       "geometry": { "type": "Point", "coordinates": [-86.9454161, 34.7850971] }
     },
@@ -28136,7 +28136,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1781",
         "addr:street": "Eatonton Road",
-        "branch": "Madison (GA)"
+        "branch": "Madison"
       },
       "geometry": { "type": "Point", "coordinates": [-83.4791, 33.56377] }
     },
@@ -29458,7 +29458,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "620",
         "addr:street": "Highway 138",
-        "branch": "Monroe (GA)"
+        "branch": "Monroe"
       },
       "geometry": { "type": "Point", "coordinates": [-83.741302, 33.795835] }
     },
@@ -30106,7 +30106,7 @@
         "addr:housenumber": "6801",
         "addr:street": "Northlake Mall Drive",
         "addr:unit": "FC201",
-        "branch": "Northlake Mall (NC)"
+        "branch": "Northlake Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-80.852689, 35.350246] }
     },
@@ -30268,7 +30268,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1018",
         "addr:street": "North Main Street",
-        "branch": "Main Street (VA)"
+        "branch": "Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-76.5829603, 36.7436377] }
     },
@@ -32759,7 +32759,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "109",
         "addr:street": "South Frontage Road",
-        "branch": "Meridian (MS)"
+        "branch": "Meridian"
       },
       "geometry": { "type": "Point", "coordinates": [-88.6719745, 32.36595117] }
     },
@@ -35494,7 +35494,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "605",
         "addr:street": "South James Campbell Boulevard",
-        "branch": "Columbia (TN)"
+        "branch": "Columbia"
       },
       "geometry": { "type": "Point", "coordinates": [-87.0525, 35.59237] }
     },
@@ -35874,7 +35874,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "25",
         "addr:street": "West Underwood Street",
-        "branch": "Cleveland (GA)"
+        "branch": "Cleveland"
       },
       "geometry": { "type": "Point", "coordinates": [-83.763809, 34.594838] }
     },
@@ -36956,7 +36956,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "701",
         "addr:street": "South Ridge Avenue",
-        "branch": "Middletown (DE)"
+        "branch": "Middletown"
       },
       "geometry": { "type": "Point", "coordinates": [-75.73218, 39.44744] }
     },
@@ -37637,7 +37637,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "300",
         "addr:street": "Charlie Watts Drive",
-        "branch": "Dallas (GA)"
+        "branch": "Dallas"
       },
       "geometry": { "type": "Point", "coordinates": [-84.8226758, 33.9079448] }
     },
@@ -40841,7 +40841,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1121",
         "addr:street": "Highway 231 South",
-        "branch": "Troy (AL)"
+        "branch": "Troy"
       },
       "geometry": { "type": "Point", "coordinates": [-85.9558957, 31.7826058] }
     },
@@ -41415,7 +41415,7 @@
         "addr:housenumber": "1300",
         "addr:street": "Highway 127 South",
         "addr:unit": "F",
-        "branch": "Frankfort (Key)"
+        "branch": "Frankfort"
       },
       "geometry": { "type": "Point", "coordinates": [-84.899972, 38.166759] }
     },
@@ -41496,7 +41496,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2735",
         "addr:street": "Iowa Street",
-        "branch": "Iowa & 27th (KS)"
+        "branch": "Iowa & 27th"
       },
       "geometry": { "type": "Point", "coordinates": [-95.26146, 38.93298] }
     },
@@ -42093,7 +42093,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "375",
         "addr:street": "Washington Road",
-        "branch": "Washington (PA)"
+        "branch": "Washington"
       },
       "geometry": {
         "type": "Point",
@@ -42868,7 +42868,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2116",
         "addr:street": "Memorial Boulevard",
-        "branch": "Memorial Boulevard (TN)"
+        "branch": "Memorial Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-86.3831619, 35.8814244] }
     },
@@ -43222,7 +43222,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "636",
         "addr:street": "Tuttle Creek Boulevard",
-        "branch": "Manhattan (KS)"
+        "branch": "Manhattan"
       },
       "geometry": { "type": "Point", "coordinates": [-96.55795, 39.18545] }
     },
@@ -43492,7 +43492,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4707",
         "addr:street": "Airport Boulevard",
-        "branch": "Airport Boulevard (AL)"
+        "branch": "Airport Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1740756, 30.6755889] }
     },
@@ -44824,7 +44824,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "801",
         "addr:street": "Queen Street",
-        "branch": "Southington (Court)"
+        "branch": "Southington"
       },
       "geometry": { "type": "Point", "coordinates": [-72.87271, 41.63877] }
     },
@@ -45339,7 +45339,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4590",
         "addr:street": "West State Road 46",
-        "branch": "Sanford (FL)"
+        "branch": "Sanford"
       },
       "geometry": { "type": "Point", "coordinates": [-81.331661, 28.81228] }
     },
@@ -45477,7 +45477,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1200",
         "addr:street": "County Road 42 West",
-        "branch": "Burnsville (MN)"
+        "branch": "Burnsville"
       },
       "geometry": { "type": "Point", "coordinates": [-93.294093, 44.7470673] }
     },
@@ -45612,7 +45612,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8590",
         "addr:street": "Eager Road",
-        "branch": "Brentwood (MO)"
+        "branch": "Brentwood"
       },
       "geometry": { "type": "Point", "coordinates": [-90.34023, 38.62879] }
     },
@@ -46112,7 +46112,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "428",
         "addr:street": "Bypass 72",
-        "branch": "Greenwood (SC)"
+        "branch": "Greenwood"
       },
       "geometry": { "type": "Point", "coordinates": [-82.182009, 34.210033] }
     },
@@ -46139,7 +46139,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3159",
         "addr:street": "North Highway 67",
-        "branch": "Florissant (MO)"
+        "branch": "Florissant"
       },
       "geometry": { "type": "Point", "coordinates": [-90.2975102, 38.8106709] }
     },
@@ -46273,7 +46273,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6630",
         "addr:street": "Dixie Highway",
-        "branch": "Dixie Highway (Key)"
+        "branch": "Dixie Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-85.836215, 38.154063] }
     },
@@ -46880,7 +46880,7 @@
         "addr:housenumber": "2120",
         "addr:street": "Rosa L Parks Boulevard",
         "addr:unit": "105",
-        "branch": "MetroCenter (TN) In-Line DT"
+        "branch": "MetroCenter In-Line DT"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8003385, 36.1929726] }
     },
@@ -47265,7 +47265,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2",
         "addr:street": "Nathaniel Place",
-        "branch": "Englewood (NJ) In-Line"
+        "branch": "Englewood In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-73.976156, 40.8950537] }
     },
@@ -47539,7 +47539,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1931",
         "addr:street": "Tiffin Avenue",
-        "branch": "Findlay (OH)"
+        "branch": "Findlay"
       },
       "geometry": {
         "type": "Point",
@@ -48330,7 +48330,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1138",
         "addr:street": "Highway 15 North",
-        "branch": "Laurel (MS)"
+        "branch": "Laurel"
       },
       "geometry": { "type": "Point", "coordinates": [-89.148226, 31.704079] }
     },
@@ -48438,7 +48438,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "12450",
         "addr:street": "Saint Charles Rock Road",
-        "branch": "Bridgeton (MO)"
+        "branch": "Bridgeton"
       },
       "geometry": { "type": "Point", "coordinates": [-90.43232, 38.75572] }
     },
@@ -48847,7 +48847,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6805",
         "addr:street": "Jenkins Lane",
-        "branch": "Harris Square (NC)"
+        "branch": "Harris Square"
       },
       "geometry": { "type": "Point", "coordinates": [-80.645081, 35.32224] }
     },
@@ -51408,7 +51408,7 @@
         "addr:housenumber": "3300",
         "addr:street": "Dyer Street",
         "addr:unit": "101",
-        "branch": "Southern Methodist University (SMU)"
+        "branch": "Southern Methodist University"
       },
       "geometry": { "type": "Point", "coordinates": [-96.783242, 32.8436177] }
     },
@@ -52126,7 +52126,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1",
         "addr:street": "Utsa Circle JPL Food Court",
-        "branch": "University of Texas-San Antonio (UTSA)"
+        "branch": "University of Texas-San Antonio"
       },
       "geometry": { "type": "Point", "coordinates": [-98.6175537, 29.5843954] }
     },
@@ -56365,7 +56365,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1008",
         "addr:street": "South 4th Street",
-        "branch": "Gadsden (AL)"
+        "branch": "Gadsden"
       },
       "geometry": { "type": "Point", "coordinates": [-86.0055927, 33.9991329] }
     },
@@ -57666,7 +57666,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1454",
         "addr:street": "Capitol Drive",
-        "branch": "Pewaukee (WI)"
+        "branch": "Pewaukee"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2256669, 43.0833869] }
     },
@@ -58044,7 +58044,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "9114",
         "addr:street": "76th Street",
-        "branch": "Pleasant Prairie (WI)"
+        "branch": "Pleasant Prairie"
       },
       "geometry": {
         "type": "Point",
@@ -59190,7 +59190,7 @@
         "opening_hours": "Mo-Sa 06:00-21:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "branch": "Dallas/Fort Worth International Airport (DFW) -Terminal D"
+        "branch": "Dallas/Fort Worth International Airport -Terminal D"
       },
       "geometry": {
         "type": "Point",
@@ -59293,7 +59293,7 @@
         "opening_hours": "Mo-Sa 05:30-18:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "branch": "Dallas/Fort Worth International Airport (DFW) - Terminal East"
+        "branch": "Dallas/Fort Worth International Airport - Terminal East"
       },
       "geometry": { "type": "Point", "coordinates": [-97.0378429, 32.8924464] }
     },
@@ -59317,7 +59317,7 @@
         "opening_hours": "Mo-Sa 08:00-16:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "branch": "Dallas/Fort Worth International Airport (DFW) - Terminal C"
+        "branch": "Dallas/Fort Worth International Airport - Terminal C"
       },
       "geometry": { "type": "Point", "coordinates": [-97.0358495, 32.8967817] }
     },
@@ -60436,7 +60436,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "130",
         "addr:street": "Shannon Road East",
-        "branch": "Sulphur Springs (TX)"
+        "branch": "Sulphur Springs"
       },
       "geometry": { "type": "Point", "coordinates": [-95.59529, 33.11556] }
     },
@@ -60634,7 +60634,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4102",
         "addr:street": "Highway 278 Northwest",
-        "branch": "Covington (GA)"
+        "branch": "Covington"
       },
       "geometry": { "type": "Point", "coordinates": [-83.8660264, 33.6034627] }
     },
@@ -60985,7 +60985,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1001",
         "addr:street": "West Highway 82",
-        "branch": "Gainesville (TX)"
+        "branch": "Gainesville"
       },
       "geometry": { "type": "Point", "coordinates": [-97.154027, 33.641254] }
     },
@@ -61583,7 +61583,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6240",
         "addr:street": "East Whitestown Parkway",
-        "branch": "Anson (IN)"
+        "branch": "Anson"
       },
       "geometry": { "type": "Point", "coordinates": [-86.3497085, 39.9492927] }
     },
@@ -61637,7 +61637,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2301",
         "addr:street": "North Prospect Avenue",
-        "branch": "Champaign (IL)"
+        "branch": "Champaign"
       },
       "geometry": { "type": "Point", "coordinates": [-88.2584991, 40.1442497] }
     },
@@ -62100,7 +62100,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "17450",
         "addr:street": "Halsted Street",
-        "branch": "Homewood (IL)"
+        "branch": "Homewood"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6368686, 41.5721769] }
     },
@@ -62154,7 +62154,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6150",
         "addr:street": "Som Center Road",
-        "branch": "Solon (OH)"
+        "branch": "Solon"
       },
       "geometry": { "type": "Point", "coordinates": [-81.43896, 41.39184] }
     },
@@ -62181,7 +62181,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2090",
         "addr:street": "Snelling Avenue North",
-        "branch": "Roseville (MN)"
+        "branch": "Roseville"
       },
       "geometry": { "type": "Point", "coordinates": [-93.1658562, 45.004272] }
     },
@@ -62287,7 +62287,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5650",
         "addr:street": "West Touhy Avenue",
-        "branch": "Niles (IL)"
+        "branch": "Niles"
       },
       "geometry": { "type": "Point", "coordinates": [-87.769836, 42.012381] }
     },
@@ -62314,7 +62314,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "75",
         "addr:street": "South Waukegan Road",
-        "branch": "Deerfield (IL)"
+        "branch": "Deerfield"
       },
       "geometry": {
         "type": "Point",
@@ -62401,7 +62401,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6305",
         "addr:street": "South Gilmore Road",
-        "branch": "Fairfield (OH)"
+        "branch": "Fairfield"
       },
       "geometry": { "type": "Point", "coordinates": [-84.5244088, 39.304905] }
     },
@@ -62757,7 +62757,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "726",
         "addr:street": "State Route 17",
-        "branch": "Ramsey (NJ)"
+        "branch": "Ramsey"
       },
       "geometry": { "type": "Point", "coordinates": [-74.12336, 41.06206] }
     },
@@ -62784,7 +62784,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "13050",
         "addr:street": "South Cicero",
-        "branch": "Crestwood (IL)"
+        "branch": "Crestwood"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7388172, 41.6540405] }
     },
@@ -63002,7 +63002,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4661",
         "addr:street": "Milan Road",
-        "branch": "Sandusky (OH)"
+        "branch": "Sandusky"
       },
       "geometry": { "type": "Point", "coordinates": [-82.6683183, 41.4113893] }
     },
@@ -63059,7 +63059,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4512",
         "addr:street": "North Harlem Avenue",
-        "branch": "Norridge (IL)"
+        "branch": "Norridge"
       },
       "geometry": { "type": "Point", "coordinates": [-87.807782, 41.9626135] }
     },
@@ -63139,7 +63139,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "9751",
         "addr:street": "Xenia Avenue North",
-        "branch": "Brooklyn Park (MN)"
+        "branch": "Brooklyn Park"
       },
       "geometry": { "type": "Point", "coordinates": [-93.3564611, 45.1337334] }
     },
@@ -63708,7 +63708,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2980",
         "addr:street": "Golf Court",
-        "branch": "Delafield (WI)"
+        "branch": "Delafield"
       },
       "geometry": { "type": "Point", "coordinates": [-88.371528, 43.052449] }
     },
@@ -63735,7 +63735,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "19313",
         "addr:street": "Front Street",
-        "branch": "Lansdowne Town Center (VA)"
+        "branch": "Lansdowne Town Center"
       },
       "geometry": { "type": "Point", "coordinates": [-77.4939433, 39.0788924] }
     },
@@ -63762,7 +63762,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "835",
         "addr:street": "Sesame Drive",
-        "branch": "University Town Centre (WV)"
+        "branch": "University Town Centre"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0006967, 39.6410065] }
     },
@@ -63977,7 +63977,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2018",
         "addr:street": "East Highway 6",
-        "branch": "Alvin (TX)"
+        "branch": "Alvin"
       },
       "geometry": { "type": "Point", "coordinates": [-95.2226714, 29.4202825] }
     },
@@ -64138,7 +64138,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1757",
         "addr:street": "South Friendswood Drive",
-        "branch": "Friendswood (TX)"
+        "branch": "Friendswood"
       },
       "geometry": { "type": "Point", "coordinates": [-95.1857097, 29.5073928] }
     },
@@ -64191,7 +64191,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1835",
         "addr:street": "Washington Street",
-        "branch": "Hanover (MA)"
+        "branch": "Hanover"
       },
       "geometry": { "type": "Point", "coordinates": [-70.8449755, 42.1487422] }
     },
@@ -64628,7 +64628,7 @@
         "addr:housenumber": "500",
         "addr:street": "North Michigan Avenue",
         "addr:unit": "140",
-        "branch": "Michigan Avenue (IL) In-Line"
+        "branch": "Michigan Avenue In-Line"
       },
       "geometry": {
         "type": "Point",
@@ -64685,7 +64685,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "27750",
         "addr:street": "Novi Road",
-        "branch": "Twelve Oaks (MI)"
+        "branch": "Twelve Oaks"
       },
       "geometry": { "type": "Point", "coordinates": [-83.475244, 42.489767666] }
     },
@@ -65014,7 +65014,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "122",
         "addr:street": "South Michigan Avenue",
-        "branch": "Millennium Park (IL) In-Line"
+        "branch": "Millennium Park In-Line"
       },
       "geometry": {
         "type": "Point",
@@ -65759,7 +65759,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "285",
         "addr:street": "I-45 South",
-        "branch": "Huntsville (TX)"
+        "branch": "Huntsville"
       },
       "geometry": {
         "type": "Point",
@@ -66145,7 +66145,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "12810",
         "addr:street": "Summerfield Crossing Boulevard",
-        "branch": "Riverview (FL)"
+        "branch": "Riverview"
       },
       "geometry": { "type": "Point", "coordinates": [-82.3338541, 27.7976476] }
     },
@@ -66609,7 +66609,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4733",
         "addr:street": "West 76th Street",
-        "branch": "Ford City (IL)"
+        "branch": "Ford City"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7410359, 41.753646] }
     },
@@ -66693,7 +66693,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1047",
         "addr:street": "North Washburn Street",
-        "branch": "Oshkosh (WI)"
+        "branch": "Oshkosh"
       },
       "geometry": { "type": "Point", "coordinates": [-88.5836161, 44.0307555] }
     },
@@ -66826,7 +66826,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4748",
         "addr:street": "West Main Street",
-        "branch": "Kalamazoo Main Street (MI)"
+        "branch": "Kalamazoo Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-85.645628, 42.296415] }
     },
@@ -66853,7 +66853,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1106",
         "addr:street": "South Clinton Street",
-        "branch": "South Loop (IL)"
+        "branch": "South Loop"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6407351, 41.8688015] }
     },
@@ -66880,7 +66880,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2705",
         "addr:street": "Plainfield Road",
-        "branch": "Joliet (IL)"
+        "branch": "Joliet"
       },
       "geometry": { "type": "Point", "coordinates": [-88.155952, 41.57622967] }
     },
@@ -66907,7 +66907,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6676",
         "addr:street": "Ridge Road",
-        "branch": "Parma (OH)"
+        "branch": "Parma"
       },
       "geometry": { "type": "Point", "coordinates": [-81.7352447, 41.3826529] }
     },
@@ -67069,7 +67069,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5607",
         "addr:street": "Harvey Street",
-        "branch": "Norton Shores (MI)"
+        "branch": "Norton Shores"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2066317, 43.1495733] }
     },
@@ -67178,7 +67178,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "13816",
         "addr:street": "Highway 69 North",
-        "branch": "Lindale (TX)"
+        "branch": "Lindale"
       },
       "geometry": {
         "type": "Point",
@@ -67208,7 +67208,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "13811",
         "addr:street": "Hall Road",
-        "branch": "Shelby Township (MI)"
+        "branch": "Shelby Township"
       },
       "geometry": { "type": "Point", "coordinates": [-82.9916157, 42.6274483] }
     },
@@ -67234,7 +67234,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1910",
         "addr:street": "West Fullerton Avenue",
-        "branch": "Bucktown (IL)"
+        "branch": "Bucktown"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6764109, 41.9251943] }
     },
@@ -67318,7 +67318,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1110",
         "addr:street": "South Randall Road",
-        "branch": "Elgin (IL)"
+        "branch": "Elgin"
       },
       "geometry": { "type": "Point", "coordinates": [-88.3369607, 42.0046826] }
     },
@@ -67371,7 +67371,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3470",
         "addr:street": "Center Road",
-        "branch": "Brunswick (OH)"
+        "branch": "Brunswick"
       },
       "geometry": {
         "type": "Point",
@@ -67485,7 +67485,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "20135",
         "addr:street": "Haggerty Road",
-        "branch": "Northville (MI)"
+        "branch": "Northville"
       },
       "geometry": { "type": "Point", "coordinates": [-83.4343288, 42.434081] }
     },
@@ -67539,7 +67539,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2432",
         "addr:street": "Helena Road",
-        "branch": "Helena (AL)"
+        "branch": "Helena"
       },
       "geometry": { "type": "Point", "coordinates": [-86.852097, 33.2816405] }
     },
@@ -68028,7 +68028,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3974",
         "addr:street": "State Route 31",
-        "branch": "Clay (NY)"
+        "branch": "Clay"
       },
       "geometry": { "type": "Point", "coordinates": [-76.234488, 43.18485] }
     },
@@ -68055,7 +68055,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3814",
         "addr:street": "University Boulevard West",
-        "branch": "Lakewood (FL)"
+        "branch": "Lakewood"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6232408, 30.2626172] }
     },
@@ -68325,7 +68325,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8300",
         "addr:street": "Highway 72 West",
-        "branch": "Madison (AL)"
+        "branch": "Madison"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7489633, 34.75406] }
     },
@@ -68678,7 +68678,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5201",
         "addr:street": "North Port Washington Road",
-        "branch": "Glendale (WI)"
+        "branch": "Glendale"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9171924, 43.1121823] }
     },
@@ -68951,7 +68951,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2950",
         "addr:street": "Highway 1",
-        "branch": "Lawrenceville (NJ)"
+        "branch": "Lawrenceville"
       },
       "geometry": { "type": "Point", "coordinates": [-74.7064462, 40.2741928] }
     },
@@ -69217,7 +69217,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1125",
         "addr:street": "Highway 181",
-        "branch": "Portland (TX)"
+        "branch": "Portland"
       },
       "geometry": {
         "type": "Point",
@@ -69325,7 +69325,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2313",
         "addr:street": "Highway 1",
-        "branch": "North Brunswick (NJ)"
+        "branch": "North Brunswick"
       },
       "geometry": { "type": "Point", "coordinates": [-74.5013, 40.444625] }
     },
@@ -69377,7 +69377,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2020",
         "addr:street": "East County Line Road",
-        "branch": "North Greenwood (IN)"
+        "branch": "North Greenwood"
       },
       "geometry": { "type": "Point", "coordinates": [-86.1255908, 39.6359066] }
     },
@@ -69404,7 +69404,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8120",
         "addr:street": "Troy Pike",
-        "branch": "Huber Heights (OH)"
+        "branch": "Huber Heights"
       },
       "geometry": { "type": "Point", "coordinates": [-84.136719, 39.8719067] }
     },
@@ -69458,7 +69458,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "61",
         "addr:street": "Silhavy Road",
-        "branch": "Valparaiso (IN)"
+        "branch": "Valparaiso"
       },
       "geometry": { "type": "Point", "coordinates": [-87.0264452, 41.4681393] }
     },
@@ -69542,7 +69542,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2627",
         "addr:street": "Humes Road",
-        "branch": "Janesville (WI)"
+        "branch": "Janesville"
       },
       "geometry": { "type": "Point", "coordinates": [-88.9896578, 42.7189216] }
     },
@@ -69704,7 +69704,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "315",
         "addr:street": "Highway 41",
-        "branch": "Schererville (IN)"
+        "branch": "Schererville"
       },
       "geometry": { "type": "Point", "coordinates": [-85.6904792, 35.2424881] }
     },
@@ -69731,7 +69731,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "356",
         "addr:street": "Wilson Avenue Northwest",
-        "branch": "Walker (MI)"
+        "branch": "Walker"
       },
       "geometry": { "type": "Point", "coordinates": [-85.77575, 42.9719513] }
     },
@@ -69758,7 +69758,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6105",
         "addr:street": "Parkcenter Circle",
-        "branch": "Tuttle Crossing (OH)"
+        "branch": "Tuttle Crossing"
       },
       "geometry": { "type": "Point", "coordinates": [-83.1319903, 40.0772305] }
     },
@@ -69812,7 +69812,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1115",
         "addr:street": "East Ridge Road",
-        "branch": "Irondequoit (NY)"
+        "branch": "Irondequoit"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5854247, 43.1962657] }
     },
@@ -69839,7 +69839,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6939",
         "addr:street": "Valley Creek Road",
-        "branch": "Woodbury (MN)"
+        "branch": "Woodbury"
       },
       "geometry": { "type": "Point", "coordinates": [-92.9665077, 44.9254415] }
     },
@@ -69866,7 +69866,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2364",
         "addr:street": "Taylor Park Drive",
-        "branch": "Reynoldsburg (OH)"
+        "branch": "Reynoldsburg"
       },
       "geometry": { "type": "Point", "coordinates": [-82.790735, 39.9360863] }
     },
@@ -69893,7 +69893,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "W185 N9590",
         "addr:street": "Bancroft Drive",
-        "branch": "Menomonee Falls (WI)"
+        "branch": "Menomonee Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1393827, 43.1917182] }
     },
@@ -69999,7 +69999,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "20200",
         "addr:street": "West Road",
-        "branch": "Woodhaven (MI)"
+        "branch": "Woodhaven"
       },
       "geometry": { "type": "Point", "coordinates": [-83.2294862, 42.1406066] }
     },
@@ -70026,7 +70026,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8575",
         "addr:street": "West Golf Road",
-        "branch": "Golf Mill (IL)"
+        "branch": "Golf Mill"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8396342, 42.0541361] }
     },
@@ -70132,7 +70132,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "4005",
         "addr:street": "West 41st Street",
-        "branch": "Empire Place (SD)"
+        "branch": "Empire Place"
       },
       "geometry": { "type": "Point", "coordinates": [-96.7751161, 43.5143323] }
     },
@@ -70239,7 +70239,7 @@
         "addr:housenumber": "41",
         "addr:street": "Route West",
         "addr:unit": "4",
-        "branch": "Hackensack (NJ)"
+        "branch": "Hackensack"
       },
       "geometry": { "type": "Point", "coordinates": [-74.0463517, 40.87804] }
     },
@@ -70559,7 +70559,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "14",
         "addr:street": "South Village Drive",
-        "branch": "Tuscan Village (NH)"
+        "branch": "Tuscan Village"
       },
       "geometry": {
         "type": "Point",
@@ -70619,7 +70619,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1428",
         "addr:street": "Pleasant Valley Road",
-        "branch": "Buckland Hills (Court)"
+        "branch": "Buckland Hills"
       },
       "geometry": { "type": "Point", "coordinates": [-72.5589676, 41.8055854] }
     },
@@ -70814,7 +70814,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1505",
         "addr:street": "West Lane Road",
-        "branch": "Machesney Park (IL)"
+        "branch": "Machesney Park"
       },
       "geometry": { "type": "Point", "coordinates": [-89.0285257, 42.3649432] }
     },
@@ -70871,7 +70871,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "9591",
         "addr:street": "Metcalf Avenue",
-        "branch": "97th & Metcalf (KS)"
+        "branch": "97th & Metcalf"
       },
       "geometry": { "type": "Point", "coordinates": [-94.6669149, 38.9536673] }
     },
@@ -70951,7 +70951,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1007",
         "addr:street": "North Court Street",
-        "branch": "Medina (OH)"
+        "branch": "Medina"
       },
       "geometry": { "type": "Point", "coordinates": [-81.8633949, 41.1550438] }
     },
@@ -71056,7 +71056,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "703",
         "addr:street": "South 3rd Street",
-        "branch": "Kirkwood Mall (ND)"
+        "branch": "Kirkwood Mall"
       },
       "geometry": {
         "type": "Point",
@@ -71113,7 +71113,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "425",
         "addr:street": "South Randall Road",
-        "branch": "Algonquin (IL)"
+        "branch": "Algonquin"
       },
       "geometry": { "type": "Point", "coordinates": [-88.334152, 42.17144] }
     },
@@ -71326,7 +71326,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "461",
         "addr:street": "Park Avenue South",
-        "branch": "31st & Park (NY) In-Line"
+        "branch": "31st & Park In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-73.9823329, 40.7451787] }
     },
@@ -71353,7 +71353,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1410",
         "addr:street": "Siler Road",
-        "branch": "Franklin (NC)"
+        "branch": "Franklin"
       },
       "geometry": { "type": "Point", "coordinates": [-83.3705319, 35.1648095] }
     },
@@ -71706,7 +71706,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5400",
         "addr:street": "Leavitt Road",
-        "branch": "Lorain (OH)"
+        "branch": "Lorain"
       },
       "geometry": {
         "type": "Point",
@@ -71736,7 +71736,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6083",
         "addr:street": "B Drive North",
-        "branch": "Battle Creek (MI)"
+        "branch": "Battle Creek"
       },
       "geometry": { "type": "Point", "coordinates": [-85.1773, 42.261588] }
     },
@@ -71763,7 +71763,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3855",
         "addr:street": "Lexington Avenue North",
-        "branch": "Arden Hills (MN)"
+        "branch": "Arden Hills"
       },
       "geometry": {
         "type": "Point",
@@ -71981,7 +71981,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "30115",
         "addr:street": "Detroit Road",
-        "branch": "Crocker Park (OH)"
+        "branch": "Crocker Park"
       },
       "geometry": { "type": "Point", "coordinates": [-81.954055, 41.462776] }
     },
@@ -72008,7 +72008,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2455",
         "addr:street": "South Oneida Street",
-        "branch": "Green Bay (WI)"
+        "branch": "Green Bay"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0686752, 44.4843005] }
     },
@@ -72116,7 +72116,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2700",
         "addr:street": "North Highway 31 South",
-        "branch": "Traverse City (MI)"
+        "branch": "Traverse City"
       },
       "geometry": { "type": "Point", "coordinates": [-85.6454878, 44.727493] }
     },
@@ -72173,7 +72173,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5647",
         "addr:street": "Mahoning Avenue",
-        "branch": "Austintown (OH)"
+        "branch": "Austintown"
       },
       "geometry": { "type": "Point", "coordinates": [-80.768163, 41.098875] }
     },
@@ -72254,7 +72254,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "685",
         "addr:street": "Highland Colony Parkway",
-        "branch": "Ridgeland (MS)"
+        "branch": "Ridgeland"
       },
       "geometry": { "type": "Point", "coordinates": [-90.149511, 32.4206769] }
     },
@@ -72904,7 +72904,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "12000",
         "addr:street": "Roosevelt Boulevard",
-        "branch": "Somerton (PA)"
+        "branch": "Somerton"
       },
       "geometry": { "type": "Point", "coordinates": [-75.0022088, 40.1065357] }
     },
@@ -73015,7 +73015,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "42",
         "addr:street": "State Route 36",
-        "branch": "Eatontown (NJ)"
+        "branch": "Eatontown"
       },
       "geometry": { "type": "Point", "coordinates": [-74.0498186, 40.2902802] }
     },
@@ -73042,7 +73042,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "700",
         "addr:street": "William South Canning Boulevard",
-        "branch": "Fall River (MA)"
+        "branch": "Fall River"
       },
       "geometry": { "type": "Point", "coordinates": [-71.1575987, 41.6711487] }
     },
@@ -73289,7 +73289,7 @@
         "addr:housenumber": "10",
         "addr:street": "East Washington Street",
         "addr:unit": "100",
-        "branch": "Downtown Indy (IN) In-Line"
+        "branch": "Downtown Indy In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-86.1575896, 39.7673915] }
     },
@@ -74205,7 +74205,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8280",
         "addr:street": "Old Highway North",
-        "branch": "Hawks Ridge (MO)"
+        "branch": "Hawks Ridge"
       },
       "geometry": { "type": "Point", "coordinates": [-90.7838595, 38.7637307] }
     },
@@ -74232,7 +74232,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2400",
         "addr:street": "North Greenwich Road",
-        "branch": "K96 & Greenwich Road (KS)"
+        "branch": "K96 & Greenwich Road"
       },
       "geometry": { "type": "Point", "coordinates": [-97.2074612, 37.726854] }
     },
@@ -74259,7 +74259,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2203",
         "addr:street": "North State Street",
-        "branch": "Greenfield (IN)"
+        "branch": "Greenfield"
       },
       "geometry": { "type": "Point", "coordinates": [-85.768957, 39.816819] }
     },
@@ -74286,7 +74286,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1359",
         "addr:street": "Locke Drive",
-        "branch": "Bradley Bourbonnais (IL)"
+        "branch": "Bradley Bourbonnais"
       },
       "geometry": {
         "type": "Point",
@@ -74316,7 +74316,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3015",
         "addr:street": "South Kinney Coulee Road",
-        "branch": "Onalaska (WI)"
+        "branch": "Onalaska"
       },
       "geometry": { "type": "Point", "coordinates": [-91.188289, 43.87378] }
     },
@@ -74420,7 +74420,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "28588",
         "addr:street": "Telegraph Road",
-        "branch": "Southfield (MI)"
+        "branch": "Southfield"
       },
       "geometry": { "type": "Point", "coordinates": [-83.2830567, 42.4965338] }
     },
@@ -74580,7 +74580,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2020",
         "addr:street": "Zumbehl Road",
-        "branch": "Saint Charles (MO)"
+        "branch": "Saint Charles"
       },
       "geometry": {
         "type": "Point",
@@ -74610,7 +74610,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "11700",
         "addr:street": "Middlebelt Road",
-        "branch": "Livonia (MI)"
+        "branch": "Livonia"
       },
       "geometry": { "type": "Point", "coordinates": [-83.3323546, 42.3708502] }
     },
@@ -74745,7 +74745,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "200",
         "addr:street": "East Jericho Turnpike",
-        "branch": "Huntington (NY)"
+        "branch": "Huntington"
       },
       "geometry": { "type": "Point", "coordinates": [-73.4024531, 40.8281911] }
     },
@@ -75250,7 +75250,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "12350",
         "addr:street": "Castlemoor Drive",
-        "branch": "Eden Prairie (MN)"
+        "branch": "Eden Prairie"
       },
       "geometry": {
         "type": "Point",
@@ -75334,7 +75334,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3005",
         "addr:street": "Harbor Lane North",
-        "branch": "Plymouth (MN)"
+        "branch": "Plymouth"
       },
       "geometry": { "type": "Point", "coordinates": [-93.462337, 45.013152] }
     },
@@ -75361,7 +75361,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1033",
         "addr:street": "Washington Pike",
-        "branch": "Collier Township (PA)"
+        "branch": "Collier Township"
       },
       "geometry": { "type": "Point", "coordinates": [-80.1090397, 40.3655299] }
     },
@@ -75414,7 +75414,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3464",
         "addr:street": "McKinley Parkway",
-        "branch": "Hamburg (NY)"
+        "branch": "Hamburg"
       },
       "geometry": { "type": "Point", "coordinates": [-78.8118943, 42.7908546] }
     },
@@ -75576,7 +75576,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2319",
         "addr:street": "Troy Road",
-        "branch": "Edwardsville (IL)"
+        "branch": "Edwardsville"
       },
       "geometry": { "type": "Point", "coordinates": [-89.9520529, 38.7852129] }
     },
@@ -75684,7 +75684,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2071",
         "addr:street": "North Telegraph Road",
-        "branch": "Monroe (MI)"
+        "branch": "Monroe"
       },
       "geometry": { "type": "Point", "coordinates": [-83.4002053, 41.9504629] }
     },
@@ -75710,7 +75710,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2771",
         "addr:street": "Goldenrod Court",
-        "branch": "Pella (IA)"
+        "branch": "Pella"
       },
       "geometry": { "type": "Point", "coordinates": [-92.9558642, 41.4091422] }
     },
@@ -75768,7 +75768,7 @@
         "addr:housenumber": "1290",
         "addr:street": "Arsenal Street",
         "addr:unit": "3",
-        "branch": "Watertown (NY)"
+        "branch": "Watertown"
       },
       "geometry": { "type": "Point", "coordinates": [-75.9474717, 43.9760242] }
     },
@@ -75956,7 +75956,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3720",
         "addr:street": "Touhy Avenue",
-        "branch": "Touhy Marketplace (IL)"
+        "branch": "Touhy Marketplace"
       },
       "geometry": { "type": "Point", "coordinates": [-87.7221044, 42.0121423] }
     },
@@ -75983,7 +75983,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3500",
         "addr:street": "North Clark Street",
-        "branch": "Wrigleyville (IL) In-Line"
+        "branch": "Wrigleyville In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6555569, 41.9456542] }
     },
@@ -76010,7 +76010,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "1740",
         "addr:street": "North Bechtle Avenue",
-        "branch": "Springfield (OH)"
+        "branch": "Springfield"
       },
       "geometry": { "type": "Point", "coordinates": [-83.833008, 39.9483727] }
     },
@@ -76416,7 +76416,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "11240",
         "addr:street": "Nall Avenue",
-        "branch": "113th & Nall (KS)"
+        "branch": "113th & Nall"
       },
       "geometry": {
         "type": "Point",
@@ -76735,7 +76735,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "156",
         "addr:street": "Old Farm Road",
-        "branch": "Jefferson (GA)"
+        "branch": "Jefferson"
       },
       "geometry": {
         "type": "Point",
@@ -76765,7 +76765,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "5525",
         "addr:street": "28th Street Southeast",
-        "branch": "Cascade (MI)"
+        "branch": "Cascade"
       },
       "geometry": { "type": "Point", "coordinates": [-85.5329414, 42.9136447] }
     },
@@ -77198,7 +77198,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3246",
         "addr:street": "West Addison Street",
-        "branch": "Addison & Elston (IL) In-Line"
+        "branch": "Addison & Elston In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-87.709561, 41.946792] }
     },
@@ -77277,7 +77277,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "304",
         "addr:street": "Clifton Park Center Road",
-        "branch": "Clifton Park Center (NY)"
+        "branch": "Clifton Park Center"
       },
       "geometry": { "type": "Point", "coordinates": [-73.779619, 42.861851] }
     },
@@ -77433,7 +77433,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "713",
         "addr:street": "South Seeley Avenue",
-        "branch": "Illinois Medical District (IL) In-Line"
+        "branch": "Illinois Medical District In-Line"
       },
       "geometry": { "type": "Point", "coordinates": [-87.676811, 41.8730731] }
     },
@@ -77942,7 +77942,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "502",
         "addr:street": "North Greenbush Road",
-        "branch": "North Greenbush (NY)"
+        "branch": "North Greenbush"
       },
       "geometry": { "type": "Point", "coordinates": [-73.6939787, 42.656856] }
     },
@@ -78183,7 +78183,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "7242",
         "addr:street": "Baltimore Avenue",
-        "branch": "Little Blue Menu - College Park (MD)"
+        "branch": "Little Blue Menu - College Park"
       },
       "geometry": { "type": "Point", "coordinates": [-76.9383597, 38.9792013] }
     },
@@ -78369,7 +78369,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3461",
         "addr:street": "Alpine Avenue Northwest",
-        "branch": "Alpine Avenue (MI)"
+        "branch": "Alpine Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-85.6902944, 43.0262184] }
     },
@@ -78396,7 +78396,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "268",
         "addr:street": "McHenry Road",
-        "branch": "Buffalo Grove (IL)"
+        "branch": "Buffalo Grove"
       },
       "geometry": {
         "type": "Point",
@@ -78507,7 +78507,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "480",
         "addr:street": "Boardman-Canfield Road",
-        "branch": "Boardman (OH)"
+        "branch": "Boardman"
       },
       "geometry": { "type": "Point", "coordinates": [-80.6789728, 41.024859] }
     },
@@ -78587,7 +78587,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2280",
         "addr:street": "Lincoln Way East",
-        "branch": "Massillon (OH)"
+        "branch": "Massillon"
       },
       "geometry": { "type": "Point", "coordinates": [-81.4922078, 40.7992006] }
     },
@@ -78614,7 +78614,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "9965",
         "addr:street": "North Michigan Road",
-        "branch": "West Carmel (IN)"
+        "branch": "West Carmel"
       },
       "geometry": { "type": "Point", "coordinates": [-86.232354, 39.933269] }
     },
@@ -78641,7 +78641,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "7606",
         "addr:street": "East Highway 36",
-        "branch": "Beechwood Centre (IN)"
+        "branch": "Beechwood Centre"
       },
       "geometry": { "type": "Point", "coordinates": [-86.388416, 39.763605] }
     },
@@ -78724,7 +78724,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3140",
         "addr:street": "Miller Road",
-        "branch": "I-75 & Miller Road (MI)"
+        "branch": "I-75 & Miller Road"
       },
       "geometry": { "type": "Point", "coordinates": [-83.737379, 42.990885] }
     },
@@ -78751,7 +78751,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "6060",
         "addr:street": "North Hamilton Road",
-        "branch": "Hamilton Quarter (OH)"
+        "branch": "Hamilton Quarter"
       },
       "geometry": {
         "type": "Point",
@@ -78834,7 +78834,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "12607",
         "addr:street": "Dorsett Road",
-        "branch": "Maryland Heights (MO)"
+        "branch": "Maryland Heights"
       },
       "geometry": { "type": "Point", "coordinates": [-90.454461, 38.715075] }
     },
@@ -79183,7 +79183,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8637",
         "addr:street": "Olive Boulevard",
-        "branch": "University City (MO)"
+        "branch": "University City"
       },
       "geometry": { "type": "Point", "coordinates": [-90.358144, 38.674538] }
     },
@@ -79378,7 +79378,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "3849",
         "addr:street": "South Oakwood Mall Drive",
-        "branch": "Eau Claire (WI)"
+        "branch": "Eau Claire"
       },
       "geometry": { "type": "Point", "coordinates": [-91.437686, 44.776781] }
     },
@@ -79701,7 +79701,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "8580",
         "addr:street": "Winton Road",
-        "branch": "Finneytown (OH)"
+        "branch": "Finneytown"
       },
       "geometry": { "type": "Point", "coordinates": [-84.5165047, 39.223377] }
     },
@@ -79942,7 +79942,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2915",
         "addr:street": "West 76 Country Boulevard",
-        "branch": "Highway 76 on the Strip (MO)"
+        "branch": "Highway 76 on the Strip"
       },
       "geometry": { "type": "Point", "coordinates": [-93.2739409, 36.639166] }
     },
@@ -80187,7 +80187,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "12331",
         "addr:street": "Ulysses Street Northeast",
-        "branch": "Blaine (MN)"
+        "branch": "Blaine"
       },
       "geometry": {
         "type": "Point",
@@ -80296,7 +80296,7 @@
         "brand:wikidata": "Q491516",
         "addr:housenumber": "2355",
         "addr:street": "North Glenstone Avenue",
-        "branch": "Glenstone & Kearney (MO)"
+        "branch": "Glenstone & Kearney"
       },
       "geometry": { "type": "Point", "coordinates": [-93.261882, 37.239512] }
     },
