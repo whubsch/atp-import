@@ -30,9 +30,10 @@ files = [
 ]
 
 
-def get_title(value: str) -> str:
+def get_title(value: str, override_space: bool = False) -> str:
     """Fix ALL-CAPS string."""
-    return mc_replace(value.title()) if (value.isupper() and " " in value) else value
+    ok = value.isupper() if override_space else value.isupper() and " " in value
+    return mc_replace(value.title()) if ok else value
 
 
 def lower_match(match: regex.Match) -> str:
@@ -249,6 +250,10 @@ def run(file_list: list[str]) -> None:
 
             for web_tag in ["url", "website", "contact:website"]:
                 if web_tag in objt:
+                    # check that website uses https
+                    if not objt[web_tag].startswith("https:"):
+                        raise ValueError("Website does not use HTTPS")
+
                     # remove url tracking parameters
                     objt[web_tag] = (
                         regex.sub(
