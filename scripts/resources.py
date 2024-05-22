@@ -14,6 +14,10 @@ useless_tags = [
     "ref:google",
     "contact:facebook",
     "contact:twitter",
+    "contact:instagram",
+    "type",
+    "email",
+    "operator:type",
 ]
 
 necessary_tags = {

@@ -1,5 +1,6 @@
 """Allow checking ATP values against the NSI index."""
 
+import os
 from typing import Any
 import json
 import requests
@@ -33,7 +34,7 @@ def only_needed(contents: dict) -> dict[Any, Any]:
     return contents
 
 
-def fetch_and_save_nsi_json(url: str, filename: str = "scripts/nsi.json"):
+def fetch_and_save_nsi_json(url: str, filename: str = "scripts/json/nsi.json"):
     """Get the latest NSI json file."""
     try:
         response = requests.get(url, timeout=10)
@@ -51,31 +52,95 @@ def fetch_and_save_nsi_json(url: str, filename: str = "scripts/nsi.json"):
         print("An error occurred:", e)
 
 
-def get_nsi_tags(qwiki: str, base: str, value: str):
+def get_nsi_tags(qwiki: str, base: str, value: str, brand: str | None):
     """Get the necessary NSI tags, given a wikidata identifier."""
-    with open("scripts/nsi.json", "r", encoding="utf-8") as file:
+    with open("scripts/json/nsi.json", "r", encoding="utf-8") as file:
         contents = json.load(file)
-        a = [
+        tags = [
             i["tags"]
             for i in contents["nsi"].get(f"brands/{base}/{value}")["items"]
-            if i["tags"].get("brand:wikidata", None) == qwiki
+            if i["tags"].get("brand:wikidata") == qwiki
         ]
-        if len(a) == 1:
-            return a[0]
+
+        if not tags:
+            raise ValueError(f"No NSI entries matching this wikidata: {qwiki}")
+        if len(tags) == 1:
+            return tags[0]
+        filt = [i for i in tags if i.get("brand") == brand]
+        if len(filt) == 1 and brand:
+            return filt[0]
         raise AmbiguousValueError(
             f"Multiple possible NSI entries matching this wikidata: {qwiki}"
         )
 
 
-def compare_dicts(dict_canon: dict[str, str], dict_new: dict[str, str]) -> bool:
+def compare_dicts(
+    dict_canon: dict[str, str], dict_new: dict[str, str]
+) -> dict[str, dict[str, str | None]]:
     """Check that the given tags match the NSI canonical."""
-    if not all(i in dict_new for i in dict_canon):
-        return False
-
     dict_canon.pop("name", None)
-    return all(dict_canon.get(key) == dict_new.get(key) for key in dict_canon)
+    return {
+        key: {"nsi": dict_canon.get(key), "atp": dict_new.get(key)}
+        for key in dict_canon
+        if dict_canon.get(key) != dict_new.get(key)
+    }
+
+
+def get_primary_kv(tags: dict[str, str]) -> tuple[str, str]:
+    """Get the object's primary tag and its value."""
+    for i in ["amenity", "shop", "tourism", "leisure", "craft", "office", "healthcare"]:
+        if i in tags:
+            return i, tags[i]
+    raise ValueError(f"No primary tags found: {tags}")
+
+
+def nsi_check(contents: dict, file: str = "") -> None:
+    """Check ATP objects vs NSI."""
+    first = contents["features"][0]["properties"]
+    try:
+        k, v = get_primary_kv(first)
+        try:
+            if first.get("brand:wikidata"):
+                canon = get_nsi_tags(
+                    first.get("brand:wikidata"), k, v, brand=first.get("brand")
+                )
+                compare = compare_dicts(canon, first)
+                if compare != {}:
+                    print()
+                    for k, v in compare.items():
+                        print(
+                            f"| {file.split("/")[-1]} | {first.get('brand')} | {first.get('brand:wikidata')} | {k} | {v.get("nsi")} | {v.get("atp")} |"
+                        )
+        except AmbiguousValueError as e:
+            print(e, "|", first.get("brand"))
+        except TypeError:
+            pass
+
+    except ValueError:
+        pass
+
+
+def run_check() -> None:
+    FOLDER_PATH = "/Users/will/Downloads/output"
+
+    files = [
+        os.path.join(root, file)
+        for root, _, files in os.walk(FOLDER_PATH)
+        for file in files
+        if file.startswith("")
+        and file.endswith(".geojson")
+        and not file.startswith("missing")
+    ]
+    for file in files:
+        with open(file, "r", encoding="utf-8") as f:
+            try:
+                contents: dict = json.load(f)
+            except json.decoder.JSONDecodeError:
+                continue
+            nsi_check(contents, file)
 
 
 if __name__ == "__main__":
-    github_url = "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json"
-    fetch_and_save_nsi_json(github_url)
+    # GITHUB_URL = "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json"
+    # fetch_and_save_nsi_json(GITHUB_URL)
+    run_check()

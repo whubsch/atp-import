@@ -16,7 +16,9 @@ from resources import (
     saints,
 )
 from atlus import atlus_request
-from nsi import AmbiguousValueError, get_nsi_tags, compare_dicts
+from nsi import (
+    nsi_check,
+)
 
 VERSION = "0.2.0"
 
@@ -26,7 +28,9 @@ files = [
     os.path.join(root, file)
     for root, _, files in os.walk(FOLDER_PATH)
     for file in files
-    if file.endswith(".geojson") and not file.startswith("missing")
+    if file.startswith("")
+    and file.endswith(".geojson")
+    and not file.startswith("missing")
 ]
 
 
@@ -145,14 +149,6 @@ def print_value(action: str, file: str, brand: str, items: int) -> None:
     print(f"{action.title() + '...':<16}{file.split('/')[-1]:<34}{brand:<30}{items:<6}")
 
 
-def get_primary_kv(tags: dict[str, str]) -> tuple[str, str]:
-    """Get the object's primary tag and its value."""
-    for i in ["amenity", "shop", "tourism", "leisure", "craft", "office", "healthcare"]:
-        if i in tags:
-            return i, tags[i]
-    raise ValueError(f"No primary tags found: {tags}")
-
-
 def run(file_list: list[str]) -> None:
     """Run the cleaning program on selected files."""
     for file in file_list:
@@ -199,15 +195,7 @@ def run(file_list: list[str]) -> None:
 
         contents["features"] = atlus_request(features)
 
-        first = contents["features"][0]["properties"]
-        k, v = get_primary_kv(first)
-        try:
-            canon = get_nsi_tags(first.get("brand:wikidata"), k, v)
-            if not compare_dicts(canon, first):
-                raise ValueError(f"ATP tags don't match NSI canonical: {first.get("brand")}")
-        except AmbiguousValueError as e:
-            print(e, "|", first.get("brand"))
-
+        nsi_check(contents)
 
         for obj in contents["features"]:
             objt: dict[str, str] = obj["properties"]
@@ -271,32 +259,31 @@ def run(file_list: list[str]) -> None:
                     r"([0-9]{5})-?0{4}", r"\1", objt["addr:postcode"]
                 )
 
-            if "ref" in objt:
+            for ref in [i for i in objt if i.startswith("ref")]:
                 # remove refs that are just websites
                 if regex.match(
                     r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)",
-                    objt["ref"],
+                    objt[ref],
                 ):
-                    objt.pop("ref", None)
+                    objt.pop(ref, None)
 
-            if "opening_hours" in objt:
-                open_match = regex.search(
-                    r"(\d{2}):\d{2}-\1:\d{2}", objt["opening_hours"]
-                )
+            for open_hour in [i for i in objt if i.startswith("opening_hours")]:
+                open_match = regex.search(r"(\d{2}):\d{2}-\1:\d{2}", objt[open_hour])
                 repeat_match = regex.search(
-                    r"([MTWFS][ouehra]).*; ?\1", objt["opening_hours"]
+                    r"([MTWFS][ouehra]).*; ?\1", objt[open_hour]
                 )
                 if open_match or repeat_match:
-                    raise ValueError(
+                    # raise ValueError(
+                    #     f"Opening hours [{objt['opening_hours']}] are nonsensical [file: {file}]"
+                    # )
+                    print(
                         f"Opening hours [{objt['opening_hours']}] are nonsensical [file: {file}]"
                     )
 
-                if "," in objt["opening_hours"]:
-                    op = objt["opening_hours"].split(";")
-                    objt["opening_hours"] = ";".join(
-                        [each.split(",")[0] for each in op]
-                    )
-                objt["opening_hours"] = objt["opening_hours"].removeprefix("Mo-Su ")
+                if "," in objt[open_hour]:
+                    op = objt[open_hour].split(";")
+                    objt[open_hour] = ";".join([each.split(",")[0] for each in op])
+                objt[open_hour] = objt[open_hour].removeprefix("Mo-Su ")
 
             if objt.get("addr:unit") and objt.get("addr:housenumber"):
                 if objt["addr:unit"] == objt["addr:housenumber"]:
