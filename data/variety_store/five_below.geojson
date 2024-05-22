@@ -661,7 +661,6 @@
       "id": "y-MPf1djJZThN20enoEe0jHlhss=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "N91W16121 Falls Parkway",
         "addr:city": "Menomonee Falls",
         "addr:state": "WI",
         "addr:postcode": "53051",
@@ -2038,7 +2037,6 @@
       "id": "_cLwtNLSF97sCmHflSj7EXlkkrU=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "Prelim: 3601 South 2700 West",
         "addr:city": "West Valley City",
         "addr:state": "UT",
         "addr:postcode": "84119",
@@ -4845,9 +4843,9 @@
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "9484",
-        "addr:street": "Dyer St",
+        "addr:street": "Dyer Street",
         "addr:unit": "c",
-        "branch": "Dyer St"
+        "branch": "Dyer Street"
       },
       "geometry": {
         "type": "Point",
@@ -4970,7 +4968,6 @@
       "id": "5iYG5-Ap1RyMWh4ni_mIHxFukUI=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "1327 - B1 George Dieter Dr.",
         "addr:city": "El Paso",
         "addr:state": "TX",
         "addr:postcode": "79936",
@@ -6074,7 +6071,7 @@
         "addr:country": "US",
         "name": "Five Below",
         "website": "https://locations.fivebelow.com/tn/memphis/4284-summer-ave",
-        "opening_hours": "Mo-Su 10:00-19:00",
+        "opening_hours": "10:00-19:00",
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "4284",
@@ -6094,7 +6091,7 @@
         "addr:country": "US",
         "name": "Five Below",
         "website": "https://locations.fivebelow.com/tn/memphis/3565-riverdale-road",
-        "opening_hours": "Mo-Su 10:00-20:00",
+        "opening_hours": "10:00-20:00",
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "3565",
@@ -7692,7 +7689,7 @@
         "addr:country": "US",
         "name": "Five Below",
         "website": "https://locations.fivebelow.com/pa/upper-darby/65-s-69th-st",
-        "opening_hours": "Mo-Su 10:00-19:00",
+        "opening_hours": "10:00-19:00",
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "65",
@@ -8779,7 +8776,6 @@
       "id": "ixh001YQdRtwbquKrL2Dkufzo7g=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "Greengate Center Circle Rt 30",
         "addr:city": "Greensburg",
         "addr:state": "PA",
         "addr:postcode": "15601",
@@ -12383,7 +12379,6 @@
       "id": "L7k5FOVgt6XK7FHMUneEn0o2jDc=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "Plaza 1000, NY-36 Suite #102",
         "addr:city": "Hornell",
         "addr:state": "NY",
         "addr:postcode": "14843",
@@ -14689,7 +14684,7 @@
         "addr:country": "US",
         "name": "Five Below",
         "website": "https://locations.fivebelow.com/nj/hamilton-township/300-hamilton-marketplace-blvd",
-        "opening_hours": "Mo-Su 10:00-20:00",
+        "opening_hours": "10:00-20:00",
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "300",
@@ -15712,7 +15707,6 @@
       "id": "bQB_8Ik_wgv_Chbpx5ASscFgggU=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "6234 - 116 Glenwood Avenue",
         "addr:city": "Raleigh",
         "addr:state": "NC",
         "addr:postcode": "27612",
@@ -19845,7 +19839,6 @@
       "id": "6PeXMxcbmhK87drIb341VuqnYrU=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "6714-A2 Ritchie Highway",
         "addr:city": "Glen Burnie",
         "addr:state": "MD",
         "addr:postcode": "21061",
@@ -21060,7 +21053,7 @@
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "5514",
-        "addr:street": "Main St",
+        "addr:street": "Main Street",
         "addr:unit": "1A",
         "branch": "Zachary Plaza"
       },
@@ -21296,7 +21289,6 @@
       "id": "dpCLt07At9ioDcpuEGcrTCc2HLo=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "538a West Prien Lake Rd",
         "addr:city": "Lake Charles",
         "addr:state": "LA",
         "addr:postcode": "70601",
@@ -23048,7 +23040,6 @@
       "id": "P3NquYrvIE3yf_e9RNqes4GBf2Y=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "1950 - 4 East Greyhound Pass",
         "addr:city": "Carmel",
         "addr:state": "IN",
         "addr:postcode": "46033",
@@ -30342,7 +30333,6 @@
       "id": "-rUfrouN7jjU95YvtCZzYAlEA3A=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "Major A2 - Unit 100, 8055 W Bowles Ave",
         "addr:city": "Littleton",
         "addr:state": "CO",
         "addr:postcode": "80123",
@@ -31669,7 +31659,7 @@
         "addr:country": "US",
         "name": "Five Below",
         "website": "https://locations.fivebelow.com/ca/pismo-beach/333-five-cities-drive-suite-121",
-        "opening_hours": "Mo-Su 10:00-20:00",
+        "opening_hours": "10:00-20:00",
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "333",
@@ -32459,7 +32449,7 @@
         "brand": "Five Below",
         "brand:wikidata": "Q5455836",
         "addr:housenumber": "18040",
-        "addr:street": "Chatsworth St",
+        "addr:street": "Chatsworth Street",
         "addr:unit": "A",
         "branch": "Granada Hills Town Center"
       },
@@ -34819,7 +34809,6 @@
       "id": "CJatGMJx2XnXueanG1ymF1JsAvM=",
       "properties": {
         "shop": "variety_store",
-        "addr:street_address": "Hwy 431 & North Carlisle St.",
         "addr:city": "Albertville",
         "addr:state": "AL",
         "addr:postcode": "35951",
