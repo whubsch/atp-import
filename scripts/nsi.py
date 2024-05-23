@@ -109,7 +109,7 @@ def nsi_check(contents: dict, file: str = "") -> None:
                     print()
                     for k, v in compare.items():
                         print(
-                            f"| {file.split("/")[-1]} | {first.get('brand')} | {first.get('brand:wikidata')} | {k} | {v.get("nsi")} | {v.get("atp")} |"
+                            f"| {file.split('/')[-1]} | {first.get('brand')} | {first.get('brand:wikidata')} | {k} | {v.get('nsi')} | {v.get('atp')} |"
                         )
         except AmbiguousValueError as e:
             print(e, "|", first.get("brand"))

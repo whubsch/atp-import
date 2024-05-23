@@ -14,13 +14,14 @@ from resources import (
     repeat_tags,
     necessary_tags,
     saints,
+    us_state_codes,
 )
 from atlus import atlus_request
 from nsi import (
     nsi_check,
 )
 
-VERSION = "0.2.0"
+VERSION = "0.2.1"
 
 FOLDER_PATH = "./data"
 
@@ -252,12 +253,29 @@ def run(file_list: list[str]) -> None:
                         .lower()
                         .replace(" ", "%20")
                     )
+            if "addr:housenumber" in objt:
+                # pull out unit numbers from housenumber
+                unit = regex.match(
+                    r"([0-9-]+[0-9])[ \-\/]?(?!st|nd|th|rd|ST|ND|TH|RD)([a-zA-Z]+)",
+                    objt["addr:housenumber"],
+                )
+                if unit:
+                    objt["addr:housenumber"] = unit.group(1)
+                    if not "addr:unit" in objt:
+                        objt["addr:unit"] = unit.group(2).upper()
 
             if "addr:postcode" in objt:
                 # remove extraneous postcode digits
                 objt["addr:postcode"] = regex.sub(
                     r"([0-9]{5})-?0{4}", r"\1", objt["addr:postcode"]
                 )
+
+            if "addr:state" in objt:
+                # check that state codes are real states
+                if objt["addr:state"] not in us_state_codes:
+                    print(
+                        f"State [{objt['addr:state']}] is not in the US [file: {file}]"
+                    )
 
             for ref in [i for i in objt if i.startswith("ref")]:
                 # remove refs that are just websites
