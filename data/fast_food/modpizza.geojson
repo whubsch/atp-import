@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "modpizza",
     "spider:collection_time": "2024-04-28T05:33:40.001425",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-29" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1809,9 +1809,10 @@
         "opening_hours": "Mo-We 10:30-22:00; Th-Sa 10:30-23:00; Su 10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "23916-A",
+        "addr:housenumber": "23916",
         "addr:street": "Southeast Kent-Kangley Road",
-        "branch": "Four Corner Square"
+        "branch": "Four Corner Square",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -3250,7 +3251,7 @@
         "brand:wikidata": "Q19903469",
         "addr:housenumber": "3100",
         "addr:street": "FM 544",
-        "branch": "FM 544"
+        "branch": "Fm 544"
       },
       "geometry": {
         "type": "Point",
@@ -4288,7 +4289,7 @@
         "brand:wikidata": "Q19903469",
         "addr:housenumber": "9115",
         "addr:street": "Eagle Drive",
-        "branch": "FM 3180"
+        "branch": "Fm 3180"
       },
       "geometry": { "type": "Point", "coordinates": [-94.848311, 29.828149] }
     },
@@ -4335,7 +4336,7 @@
         "brand:wikidata": "Q19903469",
         "addr:housenumber": "2210",
         "addr:street": "FM 663",
-        "branch": "FM 663"
+        "branch": "Fm 663"
       },
       "geometry": {
         "type": "Point",
@@ -4754,7 +4755,7 @@
         "brand:wikidata": "Q19903469",
         "addr:housenumber": "9509",
         "addr:street": "FM 1960 Bypass Road",
-        "branch": "FM 1960"
+        "branch": "Fm 1960"
       },
       "geometry": {
         "type": "Point",
@@ -8406,9 +8407,10 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "8855K",
+        "addr:housenumber": "8855",
         "addr:street": "Ladue Road",
-        "branch": "Ladue Crossing Shopping Center"
+        "branch": "Ladue Crossing Shopping Center",
+        "addr:unit": "K"
       },
       "geometry": {
         "type": "Point",
@@ -9536,9 +9538,10 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "10441B",
+        "addr:housenumber": "10441",
         "addr:street": "Indianapolis Boulevard",
-        "branch": "Highland Grove Shopping Center"
+        "branch": "Highland Grove Shopping Center",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -9983,9 +9986,10 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "2300A",
+        "addr:housenumber": "2300",
         "addr:street": "Troy Road",
-        "branch": "Edwardsville Marketplace"
+        "branch": "Edwardsville Marketplace",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -12010,9 +12014,10 @@
         "opening_hours": "10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "6160 C",
+        "addr:housenumber": "6160",
         "addr:street": "Laurel Canyon Boulevard",
-        "branch": "NoHo West"
+        "branch": "NoHo West",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -12154,9 +12159,10 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "26562-A",
+        "addr:housenumber": "26562",
         "addr:street": "Moulton Parkway",
-        "branch": "Nellie Gail"
+        "branch": "Nellie Gail",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -12179,9 +12185,10 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00",
         "brand": "MOD Pizza",
         "brand:wikidata": "Q19903469",
-        "addr:housenumber": "3965-A",
+        "addr:housenumber": "3965",
         "addr:street": "Alton Pkway",
-        "branch": "Westpark Plaza"
+        "branch": "Westpark Plaza",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",

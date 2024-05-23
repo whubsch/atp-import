@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "quiznos",
     "spider:collection_time": "2024-04-14T08:28:21.082686",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1941,9 +1941,10 @@
         "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-20:00",
         "brand": "Quiznos",
         "brand:wikidata": "Q1936229",
-        "addr:housenumber": "5095 A",
+        "addr:housenumber": "5095",
         "addr:street": "Moores Mill Road",
-        "branch": "Moores Mill"
+        "branch": "Moores Mill",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.53611, 34.79374] }
     },
@@ -3492,9 +3493,10 @@
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
         "brand": "Quiznos",
         "brand:wikidata": "Q1936229",
-        "addr:housenumber": "1440A",
+        "addr:housenumber": "1440",
         "addr:street": "Lake Woodlands Drive",
-        "branch": "Woodlands Town Centre"
+        "branch": "Woodlands Town Centre",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.45669, 30.16732] }
     },

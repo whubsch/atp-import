@@ -4,7 +4,7 @@
     "@spider": "moes",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T05:44:44.607477",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -103,8 +103,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "2900-E",
-        "addr:street": "Zelda Road"
+        "addr:housenumber": "2900",
+        "addr:street": "Zelda Road",
+        "addr:unit": "E"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2649512, 32.3578708] }
     },
@@ -257,8 +258,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "975 C",
-        "addr:street": "Airport Road"
+        "addr:housenumber": "975",
+        "addr:street": "Airport Road",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -412,8 +414,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "607-D",
-        "addr:street": "Boll Weevil Circle"
+        "addr:housenumber": "607",
+        "addr:street": "Boll Weevil Circle",
+        "addr:unit": "D"
       },
       "geometry": {
         "type": "Point",
@@ -1928,8 +1931,9 @@
         "opening_hours": "10:45-20:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "401-A",
-        "addr:street": "Cool Springs Boulevard"
+        "addr:housenumber": "401",
+        "addr:street": "Cool Springs Boulevard",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -2214,8 +2218,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "6005-A",
-        "addr:street": "Wade Hampton Boulevard"
+        "addr:housenumber": "6005",
+        "addr:street": "Wade Hampton Boulevard",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -2554,8 +2559,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "914-A",
-        "addr:street": "North Lake Drive"
+        "addr:housenumber": "914",
+        "addr:street": "North Lake Drive",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -2580,8 +2586,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "945-H",
-        "addr:street": "Lake Murray Boulevard"
+        "addr:housenumber": "945",
+        "addr:street": "Lake Murray Boulevard",
+        "addr:unit": "H"
       },
       "geometry": {
         "type": "Point",
@@ -2759,8 +2766,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "1467-F",
-        "addr:street": "Woodruff Road"
+        "addr:housenumber": "1467",
+        "addr:street": "Woodruff Road",
+        "addr:unit": "F"
       },
       "geometry": {
         "type": "Point",
@@ -3647,8 +3655,9 @@
         "opening_hours": "Mo-Sa 10:30-21:00; Su 10:30-20:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "1054C",
-        "addr:street": "Lititz Pike"
+        "addr:housenumber": "1054",
+        "addr:street": "Lititz Pike",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -4971,8 +4980,9 @@
         "opening_hours": "Mo-Fr 10:30-22:00; Sa 11:00-22:00; Su 11:00-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "14-A",
-        "addr:street": "Atlantic Avenue"
+        "addr:housenumber": "14",
+        "addr:street": "Atlantic Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -7125,8 +7135,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "610-B",
-        "addr:street": "Red Banks Road"
+        "addr:housenumber": "610",
+        "addr:street": "Red Banks Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -8318,8 +8329,9 @@
         "opening_hours": "Mo-Sa 10:30-21:00; Su 10:30-20:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "109-B",
-        "addr:street": "Hampshire Road"
+        "addr:housenumber": "109",
+        "addr:street": "Hampshire Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -11953,8 +11965,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "Moe's Southwest Grill",
         "brand:wikidata": "Q6889938",
-        "addr:housenumber": "3515-B",
-        "addr:street": "Chamblee-Tucker Road"
+        "addr:housenumber": "3515",
+        "addr:street": "Chamblee-Tucker Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",

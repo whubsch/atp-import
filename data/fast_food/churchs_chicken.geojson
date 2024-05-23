@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "churchs_chicken",
     "spider:collection_time": "2024-04-13T18:09:24.497837",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -2778,8 +2778,9 @@
         "website": "https://locations.churchs.com/tx/houston/8255-a-mills-road",
         "brand": "Church's Chicken",
         "brand:wikidata": "Q1089932",
-        "addr:housenumber": "8255-A",
-        "addr:street": "Mills Road"
+        "addr:housenumber": "8255",
+        "addr:street": "Mills Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -2841,8 +2842,9 @@
         "website": "https://locations.churchs.com/tx/houston/7895-a-west-tidwell-road",
         "brand": "Church's Chicken",
         "brand:wikidata": "Q1089932",
-        "addr:housenumber": "7895 A",
-        "addr:street": "West Tidwell Road"
+        "addr:housenumber": "7895",
+        "addr:street": "West Tidwell Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -3807,8 +3809,9 @@
         "website": "https://locations.churchs.com/tx/fabens/102-c-c-camp-road",
         "brand": "Church's Chicken",
         "brand:wikidata": "Q1089932",
-        "addr:housenumber": "102 C",
-        "addr:street": "C Camp Road"
+        "addr:housenumber": "102",
+        "addr:street": "C Camp Road",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -4917,8 +4920,9 @@
         "website": "https://locations.churchs.com/tx/corpus-christi/3502a-leopard-street",
         "brand": "Church's Chicken",
         "brand:wikidata": "Q1089932",
-        "addr:housenumber": "3502A",
-        "addr:street": "Leopard Street"
+        "addr:housenumber": "3502",
+        "addr:street": "Leopard Street",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -11607,8 +11611,9 @@
         "website": "https://locations.churchs.com/ca/moreno-valley/24440-a-alessandro-boulevard",
         "brand": "Church's Chicken",
         "brand:wikidata": "Q1089932",
-        "addr:housenumber": "24440-A",
-        "addr:street": "Alessandro Boulevard"
+        "addr:housenumber": "24440",
+        "addr:street": "Alessandro Boulevard",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",

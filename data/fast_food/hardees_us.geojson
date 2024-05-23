@@ -4,7 +4,7 @@
     "@spider": "hardees_us",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T01:10:56.571736",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -13310,8 +13310,9 @@
         "website": "https://locations.hardees.com/nc/swansboro/101b-wb-mclean-blvd",
         "brand": "Hardee's",
         "brand:wikidata": "Q1585088",
-        "addr:housenumber": "101B",
-        "addr:street": "Wb McLean Boulevard"
+        "addr:housenumber": "101",
+        "addr:street": "Wb McLean Boulevard",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-77.06871, 34.69014] }
     },
@@ -29298,8 +29299,9 @@
         "website": "https://locations.hardees.com/ga/cairo/98-u-s-highway-84",
         "brand": "Hardee's",
         "brand:wikidata": "Q1585088",
-        "addr:housenumber": "98 U",
-        "addr:street": "South Highway 84"
+        "addr:housenumber": "98",
+        "addr:street": "South Highway 84",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-84.2069, 30.88599] }
     },

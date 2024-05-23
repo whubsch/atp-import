@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "bojangles",
     "spider:collection_time": "2024-04-13T16:25:53.196153",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -2590,8 +2590,9 @@
         "website": "https://locations.bojangles.com/tn/nashville/7000-a-charlotte-pike.html",
         "brand": "Bojangles'",
         "brand:wikidata": "Q891163",
-        "addr:housenumber": "7000 A",
-        "addr:street": "Charlotte Pike"
+        "addr:housenumber": "7000",
+        "addr:street": "Charlotte Pike",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -18409,8 +18410,9 @@
         "website": "https://locations.bojangles.com/al/madison/101-j--e--briscoe-way.html",
         "brand": "Bojangles'",
         "brand:wikidata": "Q891163",
-        "addr:housenumber": "101 J.",
-        "addr:street": "East Briscoe Way"
+        "addr:housenumber": "101",
+        "addr:street": "East Briscoe Way",
+        "addr:unit": "J"
       },
       "geometry": { "type": "Point", "coordinates": [-86.7374957, 34.6816452] }
     },

@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "jimmy_johns",
     "spider:collection_time": "2024-04-14T02:59:30.962228",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -5384,7 +5384,7 @@
         "website": "https://locations.jimmyjohns.com/va/radford/sandwiches-2381.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "1020A",
+        "addr:housenumber": "1020",
         "addr:street": "Clement Street",
         "addr:unit": "A"
       },
@@ -6066,8 +6066,9 @@
         "website": "https://locations.jimmyjohns.com/va/alexandria/sandwiches-2212.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "7011D",
-        "addr:street": "Manchester Boulevard"
+        "addr:housenumber": "7011",
+        "addr:street": "Manchester Boulevard",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-77.152772, 38.7654579] }
     },
@@ -6879,8 +6880,9 @@
         "website": "https://locations.jimmyjohns.com/ut/layton/sandwiches-1181.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "765B",
-        "addr:street": "West Antelope Drive"
+        "addr:housenumber": "765",
+        "addr:street": "West Antelope Drive",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-111.9809351, 41.088451] }
     },
@@ -9541,8 +9543,9 @@
         "website": "https://locations.jimmyjohns.com/tx/houston/sandwiches-1988.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "4407A",
-        "addr:street": "Cypress Creek Parkway"
+        "addr:housenumber": "4407",
+        "addr:street": "Cypress Creek Parkway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.4960537, 29.9886653] }
     },
@@ -9889,8 +9892,9 @@
         "website": "https://locations.jimmyjohns.com/tx/galveston/sandwiches-1834.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "102-B",
-        "addr:street": "Kempner Street"
+        "addr:housenumber": "102",
+        "addr:street": "Kempner Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-94.7932186, 29.308292] }
     },
@@ -13124,8 +13128,9 @@
         "website": "https://locations.jimmyjohns.com/sc/lexington/sandwiches-996.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "914-B",
-        "addr:street": "North Lake Drive"
+        "addr:housenumber": "914",
+        "addr:street": "North Lake Drive",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-81.2300457, 33.994187] }
     },
@@ -21494,8 +21499,9 @@
         "website": "https://locations.jimmyjohns.com/nc/kernersville/sandwiches-2199.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "120-A",
-        "addr:street": "Century Place Boulevard"
+        "addr:housenumber": "120",
+        "addr:street": "Century Place Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.0958742, 36.1076679] }
     },
@@ -22205,8 +22211,9 @@
         "website": "https://locations.jimmyjohns.com/nc/charlotte/sandwiches-994.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "4717-1B",
-        "addr:street": "Sharon Road"
+        "addr:housenumber": "4717-1",
+        "addr:street": "Sharon Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-80.8307722, 35.14763] }
     },
@@ -24659,8 +24666,9 @@
         "website": "https://locations.jimmyjohns.com/mo/joplin/sandwiches-931.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "407 A",
-        "addr:street": "Rangeline Road"
+        "addr:housenumber": "407",
+        "addr:street": "Rangeline Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-94.4764756, 37.0866266] }
     },
@@ -25063,8 +25071,9 @@
         "website": "https://locations.jimmyjohns.com/mo/columbia/sandwiches-230.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "912-A",
-        "addr:street": "Rainforest Parkway"
+        "addr:housenumber": "912",
+        "addr:street": "Rainforest Parkway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-92.3252822, 38.9885068] }
     },
@@ -32541,8 +32550,9 @@
         "website": "https://locations.jimmyjohns.com/md/collegepark/sandwiches-348.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "7410 A",
-        "addr:street": "Baltimore Avenue"
+        "addr:housenumber": "7410",
+        "addr:street": "Baltimore Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.9381877, 38.9812882] }
     },
@@ -32714,8 +32724,9 @@
         "website": "https://locations.jimmyjohns.com/ma/northborough/sandwiches-3361.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "10010-B",
-        "addr:street": "Shops Way"
+        "addr:housenumber": "10010",
+        "addr:street": "Shops Way",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-71.6705798, 42.2844362] }
     },
@@ -39755,8 +39766,9 @@
         "website": "https://locations.jimmyjohns.com/il/oakbrookterrace/sandwiches-422.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "18W 048",
-        "addr:street": "22nd Street"
+        "addr:housenumber": "18",
+        "addr:street": "22nd Street",
+        "addr:unit": "W"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9786849, 41.8466248] }
     },
@@ -47854,8 +47866,9 @@
         "website": "https://locations.jimmyjohns.com/ga/atlanta/sandwiches-1175.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "3324 A",
-        "addr:street": "Peachtree Road Northeast"
+        "addr:housenumber": "3324",
+        "addr:street": "Peachtree Road Northeast",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-84.3689686, 33.8455184] }
     },
@@ -49054,8 +49067,9 @@
         "website": "https://locations.jimmyjohns.com/fl/pensacola/sandwiches-1891.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "7175-A",
-        "addr:street": "North Davis Highway"
+        "addr:housenumber": "7175",
+        "addr:street": "North Davis Highway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-87.2227188, 30.4992638] }
     },
@@ -56862,8 +56876,9 @@
         "website": "https://locations.jimmyjohns.com/al/mobile/sandwiches-2639.html",
         "brand": "Jimmy John's",
         "brand:wikidata": "Q1689380",
-        "addr:housenumber": "62 B",
-        "addr:street": "South Royal Street"
+        "addr:housenumber": "62",
+        "addr:street": "South Royal Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0408147, 30.6909219] }
     },

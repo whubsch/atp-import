@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "elpolloloco",
     "spider:collection_time": "2024-04-13T21:49:05.428818",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {

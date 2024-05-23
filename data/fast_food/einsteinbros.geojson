@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "einsteinbros",
     "spider:collection_time": "2024-04-20T21:27:27.999291",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-29" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -2351,9 +2351,10 @@
         "opening_hours": "06:00-14:00",
         "brand": "Einstein Bros. Bagels",
         "brand:wikidata": "Q5349788",
-        "addr:housenumber": "4430A",
+        "addr:housenumber": "4430",
         "addr:street": "South Campbell Avenue",
-        "branch": "Campbell & Cardinal"
+        "branch": "Campbell & Cardinal",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -2620,9 +2621,10 @@
         "opening_hours": "Mo-Fr 07:00-14:00; Sa-Su 09:00-14:00",
         "brand": "Einstein Bros. Bagels",
         "brand:wikidata": "Q5349788",
-        "addr:housenumber": "700e",
+        "addr:housenumber": "700",
         "addr:street": "Haggard Drive",
-        "branch": "Elon University"
+        "branch": "Elon University",
+        "addr:unit": "E"
       },
       "geometry": {
         "type": "Point",
@@ -5486,7 +5488,6 @@
         "brand:wikidata": "Q5349788",
         "addr:housenumber": "103",
         "addr:street": "International Drive",
-        "addr:unit": "103",
         "branch": "Carother's Parkway & International Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-86.8043401, 35.956192] }
@@ -7062,7 +7063,7 @@
         "addr:housenumber": "1465",
         "addr:street": "East Whitestone Boulevard",
         "addr:unit": "H100",
-        "branch": "FM 1431 & CR 183"
+        "branch": "Fm 1431 & Cr 183"
       },
       "geometry": { "type": "Point", "coordinates": [-97.8097005, 30.527826] }
     },
@@ -8117,7 +8118,7 @@
         "opening_hours": "06:00-14:00",
         "brand": "Einstein Bros. Bagels",
         "brand:wikidata": "Q5349788",
-        "addr:housenumber": "481 E",
+        "addr:housenumber": "481",
         "addr:street": "South Temple",
         "addr:unit": "C",
         "branch": "E Street & South Temple"
@@ -8399,7 +8400,7 @@
         "opening_hours": "06:00-14:00",
         "brand": "Einstein Bros. Bagels",
         "brand:wikidata": "Q5349788",
-        "addr:housenumber": "3556D",
+        "addr:housenumber": "3556",
         "addr:street": "South Jefferson Street",
         "addr:unit": "101",
         "branch": "Baileys"
@@ -13617,7 +13618,7 @@
         "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:30-14:00",
         "brand": "Einstein Bros. Bagels",
         "brand:wikidata": "Q5349788",
-        "addr:housenumber": "401 B",
+        "addr:housenumber": "401",
         "addr:street": "Jurassic Avenue",
         "addr:unit": "1",
         "branch": "Jurassic Avenue"
@@ -13664,7 +13665,7 @@
         "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:30-14:00",
         "brand": "Einstein Bros. Bagels",
         "brand:wikidata": "Q5349788",
-        "addr:housenumber": "35B",
+        "addr:housenumber": "35",
         "addr:street": "Dillon Ridge Road",
         "addr:unit": "E",
         "branch": "Dillon CO"
@@ -17067,7 +17068,6 @@
         "brand:wikidata": "Q5349788",
         "addr:housenumber": "353",
         "addr:street": "North Federal Highway",
-        "addr:unit": "353",
         "branch": "Federal Highway & Northeast 2nd St"
       },
       "geometry": { "type": "Point", "coordinates": [-80.086861, 26.353967] }

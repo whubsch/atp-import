@@ -4,7 +4,7 @@
     "@spider": "baskin_robbins_us",
     "source": "structured_data",
     "spider:collection_time": "2024-04-13T15:22:28.430636",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -445,8 +445,9 @@
         "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-23:30; Su 11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "10324-G",
-        "addr:street": "China Spring Road"
+        "addr:housenumber": "10324",
+        "addr:street": "China Spring Road",
+        "addr:unit": "G"
       },
       "geometry": { "type": "Point", "coordinates": [-97.2430703, 31.6288205] }
     },
@@ -747,8 +748,9 @@
         "opening_hours": "11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "1772P",
-        "addr:street": "East Avenida De Los Arboles"
+        "addr:housenumber": "1772",
+        "addr:street": "East Avenida De Los Arboles",
+        "addr:unit": "P"
       },
       "geometry": { "type": "Point", "coordinates": [-118.8455932, 34.2100218] }
     },
@@ -5292,8 +5294,9 @@
         "opening_hours": "24/7",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "4025B",
-        "addr:street": "Hempstead Turnpike"
+        "addr:housenumber": "4025",
+        "addr:street": "Hempstead Turnpike",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-73.4870439, 40.7255411] }
     },
@@ -5312,8 +5315,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "45W",
-        "addr:street": "Division Avenue"
+        "addr:housenumber": "45",
+        "addr:street": "Division Avenue",
+        "addr:unit": "W"
       },
       "geometry": { "type": "Point", "coordinates": [-123.1277, 44.100612] }
     },
@@ -5415,8 +5419,9 @@
         "opening_hours": "Mo-Sa 05:00-21:00; Su 06:00-21:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "9100A",
-        "addr:street": "Carothers Parkway"
+        "addr:housenumber": "9100",
+        "addr:street": "Carothers Parkway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.801293, 35.9591992] }
     },
@@ -9681,8 +9686,9 @@
         "opening_hours": "Mo-Th 12:00-21:00; Fr-Sa 11:00-21:30; Su 12:00-21:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "21D",
-        "addr:street": "Penninsula Center"
+        "addr:housenumber": "21",
+        "addr:street": "Penninsula Center",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-118.3769249, 33.7749533] }
     },
@@ -18025,8 +18031,9 @@
         "opening_hours": "Mo-Sa 05:00-20:00; Su 05:00-19:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "3745A",
-        "addr:street": "Bruce B Downs Boulevard"
+        "addr:housenumber": "3745",
+        "addr:street": "Bruce B Downs Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-82.354352, 28.211743] }
     },
@@ -22473,8 +22480,9 @@
         "opening_hours": "Mo-Sa 05:00-22:00; Su 06:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "77 A",
-        "addr:street": "Richmond Hill Road"
+        "addr:housenumber": "77",
+        "addr:street": "Richmond Hill Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-74.1653288, 40.5878889] }
     },
@@ -23748,8 +23756,9 @@
         "opening_hours": "Mo-Sa 04:30-22:00; Su 05:30-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "18A",
-        "addr:street": "Bel Air South Parkway"
+        "addr:housenumber": "18",
+        "addr:street": "Bel Air South Parkway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.3312588, 39.4966748] }
     },
@@ -24235,8 +24244,9 @@
         "opening_hours": "Mo-Th 08:00-22:00; Fr 08:00-23:00; Sa 08:00-22:00; Su 09:00-21:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "1534D",
-        "addr:street": "Freemont Boulevard"
+        "addr:housenumber": "1534",
+        "addr:street": "Freemont Boulevard",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-121.8456119, 36.6082962] }
     },
@@ -24698,8 +24708,9 @@
         "opening_hours": "Mo-Sa 05:00-21:00; Su 06:00-21:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "521J",
-        "addr:street": "East Market Street"
+        "addr:housenumber": "521",
+        "addr:street": "East Market Street",
+        "addr:unit": "J"
       },
       "geometry": { "type": "Point", "coordinates": [-77.5528197, 39.1088032] }
     },
@@ -26103,8 +26114,9 @@
         "opening_hours": "11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "7001H",
-        "addr:street": "Manchester Boulevard"
+        "addr:housenumber": "7001",
+        "addr:street": "Manchester Boulevard",
+        "addr:unit": "H"
       },
       "geometry": { "type": "Point", "coordinates": [-77.1546301, 38.7665978] }
     },
@@ -26446,8 +26458,9 @@
         "opening_hours": "05:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "4880A",
-        "addr:street": "Northwest 183rd Street"
+        "addr:housenumber": "4880",
+        "addr:street": "Northwest 183rd Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.2797938, 25.9392138] }
     },
@@ -26466,8 +26479,9 @@
         "opening_hours": "Mo-Sa 04:30-23:00; Su 05:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "109A",
-        "addr:street": "Hampshire Road"
+        "addr:housenumber": "109",
+        "addr:street": "Hampshire Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-75.5670718, 38.4153508] }
     },
@@ -26649,8 +26663,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "603-A-East",
-        "addr:street": "University Drive"
+        "addr:housenumber": "603",
+        "addr:street": "University Drive",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-118.26572, 33.858476] }
     },
@@ -27764,8 +27779,9 @@
         "opening_hours": "Mo 00:00-24:00; Tu 04:30-24:00; We-Su 00:00-24:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "433A",
-        "addr:street": "Western Boulevard"
+        "addr:housenumber": "433",
+        "addr:street": "Western Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.3876189, 34.7713092] }
     },
@@ -28819,8 +28835,9 @@
         "opening_hours": "Mo-Sa 05:00-22:00; Su 05:30-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "241-A",
-        "addr:street": "Rockaway Parkway"
+        "addr:housenumber": "241",
+        "addr:street": "Rockaway Parkway",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -29468,8 +29485,9 @@
         "opening_hours": "Mo-Th 11:00-21:30; Fr-Sa 11:00-22:00; Su 11:00-21:30",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "405A",
-        "addr:street": "East State Street"
+        "addr:housenumber": "405",
+        "addr:street": "East State Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-117.1780544, 34.0566119] }
     },
@@ -30679,8 +30697,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "785 C",
-        "addr:street": "Oak Grove Road"
+        "addr:housenumber": "785",
+        "addr:street": "Oak Grove Road",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-122.025416, 37.937234] }
     },
@@ -31446,8 +31465,9 @@
         "opening_hours": "05:00-21:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "6868B",
-        "addr:street": "Race Track Road"
+        "addr:housenumber": "6868",
+        "addr:street": "Race Track Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-76.7297602, 38.9837456] }
     },
@@ -32520,8 +32540,9 @@
         "opening_hours": "11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "10592B",
-        "addr:street": "Metropolitan Avenue"
+        "addr:housenumber": "10592",
+        "addr:street": "Metropolitan Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-77.0749714, 39.0291366] }
     },
@@ -34147,8 +34168,9 @@
         "opening_hours": "05:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "1911-C",
-        "addr:street": "East Fowler Avenue"
+        "addr:housenumber": "1911",
+        "addr:street": "East Fowler Avenue",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-82.4375183, 28.0539299] }
     },
@@ -34630,8 +34652,9 @@
         "opening_hours": "11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "4810-A",
-        "addr:street": "Yelm Highway Southeast"
+        "addr:housenumber": "4810",
+        "addr:street": "Yelm Highway Southeast",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-122.820018, 46.997512] }
     },
@@ -35640,8 +35663,9 @@
         "opening_hours": "Mo 13:00-22:00; Tu-Su 11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "834C",
-        "addr:street": "Fort Salonga Road"
+        "addr:housenumber": "834",
+        "addr:street": "Fort Salonga Road",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -36032,8 +36056,9 @@
         "opening_hours": "11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "9197A",
-        "addr:street": "Kiefer Boulevard"
+        "addr:housenumber": "9197",
+        "addr:street": "Kiefer Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-121.358486, 38.547707] }
     },
@@ -37336,8 +37361,9 @@
         "opening_hours": "11:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "11495A",
-        "addr:street": "Carmel Mountain Road"
+        "addr:housenumber": "11495",
+        "addr:street": "Carmel Mountain Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-117.0836275, 32.9784901] }
     },
@@ -38195,8 +38221,9 @@
         "opening_hours": "Mo-Th 11:00-21:30; Fr-Sa 11:00-22:00; Su 11:00-21:30",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "1175A",
-        "addr:street": "Arnold Drive"
+        "addr:housenumber": "1175",
+        "addr:street": "Arnold Drive",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-122.100817, 37.994651] }
     },
@@ -38355,8 +38382,9 @@
         "opening_hours": "Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "4450K",
-        "addr:street": "Nelson Blogden Boulevard"
+        "addr:housenumber": "4450",
+        "addr:street": "Nelson Blogden Boulevard",
+        "addr:unit": "K"
       },
       "geometry": { "type": "Point", "coordinates": [-84.016296, 34.096032] }
     },
@@ -43237,8 +43265,9 @@
         "opening_hours": "Mo-Sa 05:00-22:00; Su 06:00-21:00",
         "brand": "Baskin-Robbins",
         "brand:wikidata": "Q584601",
-        "addr:housenumber": "440-A",
-        "addr:street": "Forest Avenue"
+        "addr:housenumber": "440",
+        "addr:street": "Forest Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",

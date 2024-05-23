@@ -4,7 +4,7 @@
     "@spider": "dairy_queen_us",
     "spider:collection_time": "2024-04-13T19:52:27.522620",
     "spider:robots_txt": "ignored",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -2985,8 +2985,9 @@
         "website": "https://www.dairyqueen.com/locations/oh/strasburg/7467b-state-route-250-nw/14544",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "7467B",
-        "addr:street": "State Route 250 Northwest"
+        "addr:housenumber": "7467",
+        "addr:street": "State Route 250 Northwest",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-81.52283, 40.586674] }
     },
@@ -3245,8 +3246,9 @@
         "website": "https://www.dairyqueen.com/locations/co/delta/240-a-n-palmer-st/8082",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "240 A",
-        "addr:street": "North Palmer Street"
+        "addr:housenumber": "240",
+        "addr:street": "North Palmer Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-108.071521, 38.746852] }
     },
@@ -3986,8 +3988,9 @@
         "website": "https://www.dairyqueen.com/locations/ga/stockbridge/101b-n-park-pl/12883",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "101b",
-        "addr:street": "North Park Place"
+        "addr:housenumber": "101",
+        "addr:street": "North Park Place",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-84.229011, 33.50825] }
     },
@@ -4987,8 +4990,9 @@
         "website": "https://www.dairyqueen.com/locations/nc/charlotte/108b-s-sharon-amity-rd/8465",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "108B",
-        "addr:street": "South Sharon Amity Road"
+        "addr:housenumber": "108",
+        "addr:street": "South Sharon Amity Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-80.79973, 35.176293] }
     },
@@ -6227,8 +6231,9 @@
         "website": "https://www.dairyqueen.com/locations/ms/hattiesburg/6370-u-s-highway-98/13045",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "6370 U",
-        "addr:street": "South Highway 98"
+        "addr:housenumber": "6370",
+        "addr:street": "South Highway 98",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-89.403298, 31.317679] }
     },
@@ -18560,8 +18565,9 @@
         "website": "https://www.dairyqueen.com/locations/va/burke/6050-e-burke-commons-rd/7178",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "6050-E",
-        "addr:street": "Burke Commons Road"
+        "addr:housenumber": "6050",
+        "addr:street": "Burke Commons Road",
+        "addr:unit": "E"
       },
       "geometry": { "type": "Point", "coordinates": [-77.301416, 38.787988] }
     },
@@ -18862,8 +18868,9 @@
         "website": "https://www.dairyqueen.com/locations/nj/allendale/47-b-w-allendale-rd/7167",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "47 B",
-        "addr:street": "West Allendale Road"
+        "addr:housenumber": "47",
+        "addr:street": "West Allendale Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-74.128192, 41.029182] }
     },
@@ -21350,8 +21357,9 @@
         "website": "https://www.dairyqueen.com/locations/tx/new-braunfels/121-i-35-south-business/4217",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "121 I-35",
-        "addr:street": "South Business"
+        "addr:housenumber": "121",
+        "addr:street": "South Business",
+        "addr:unit": "I"
       },
       "geometry": { "type": "Point", "coordinates": [-98.112625, 29.693212] }
     },
@@ -22828,8 +22836,9 @@
         "website": "https://www.dairyqueen.com/locations/va/chantilly/13905a-metrotech-dr/7246",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "13905a",
-        "addr:street": "Metrotech Drive"
+        "addr:housenumber": "13905",
+        "addr:street": "Metrotech Drive",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.426143, 38.89408] }
     },
@@ -24851,8 +24860,9 @@
         "website": "https://www.dairyqueen.com/locations/va/alexandria/1470-b-n-beauregard-st/7319",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "1470-B",
-        "addr:street": "North Beauregard Street"
+        "addr:housenumber": "1470",
+        "addr:street": "North Beauregard Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-77.12549, 38.831097] }
     },
@@ -26628,8 +26638,9 @@
         "website": "https://www.dairyqueen.com/locations/il/campton-hills/40w301-rt-64/7371",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "40w301",
-        "addr:street": "Route 64"
+        "addr:housenumber": "40",
+        "addr:street": "Route 64",
+        "addr:unit": "W"
       },
       "geometry": { "type": "Point", "coordinates": [-88.400866, 41.937963] }
     },
@@ -38007,8 +38018,9 @@
         "website": "https://www.dairyqueen.com/locations/fl/port-charlotte/909-c-kings-hwy/3861",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "909-C",
-        "addr:street": "Kings Highway"
+        "addr:housenumber": "909",
+        "addr:street": "Kings Highway",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-82.052703, 27.016616] }
     },
@@ -39477,8 +39489,9 @@
         "website": "https://www.dairyqueen.com/locations/ms/hattiesburg/6427-u-s-highway-49/4628",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "6427 U",
-        "addr:street": "South Highway 49"
+        "addr:housenumber": "6427",
+        "addr:street": "South Highway 49",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-89.3313, 31.344977] }
     },
@@ -39734,8 +39747,9 @@
         "website": "https://www.dairyqueen.com/locations/nc/salisbury/2143-d-statesville-blvd/6338",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "2143-D",
-        "addr:street": "Statesville Boulevard"
+        "addr:housenumber": "2143",
+        "addr:street": "Statesville Boulevard",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-80.519569, 35.695087] }
     },
@@ -43719,8 +43733,9 @@
         "website": "https://www.dairyqueen.com/locations/va/springfield/5230-c-port-royal-rd/7144",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "5230 C",
-        "addr:street": "Port Royal Road"
+        "addr:housenumber": "5230",
+        "addr:street": "Port Royal Road",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-77.222335, 38.809323] }
     },
@@ -44201,8 +44216,9 @@
         "website": "https://www.dairyqueen.com/locations/il/winfield/27w223-geneva-rd/6373",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "27w223",
-        "addr:street": "Geneva Road"
+        "addr:housenumber": "27",
+        "addr:street": "Geneva Road",
+        "addr:unit": "W"
       },
       "geometry": { "type": "Point", "coordinates": [-88.152512, 41.886859] }
     },
@@ -46070,8 +46086,9 @@
         "website": "https://www.dairyqueen.com/locations/wi/brookfield/17440-a-w-bluemound-rd/11644",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "17440-A",
-        "addr:street": "West Bluemound Road"
+        "addr:housenumber": "17440",
+        "addr:street": "West Bluemound Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-88.129883, 43.037307] }
     },
@@ -50420,8 +50437,9 @@
         "website": "https://www.dairyqueen.com/locations/la/prairieville/36572-c-braud-rd/14860",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "36572 C",
-        "addr:street": "Braud Road"
+        "addr:housenumber": "36572",
+        "addr:street": "Braud Road",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-90.987547, 30.268642] }
     },
@@ -51835,8 +51853,9 @@
         "website": "https://www.dairyqueen.com/locations/mo/lamar/37a-sw-1st-ln/1114",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "37a",
-        "addr:street": "Southwest 1st Lane"
+        "addr:housenumber": "37",
+        "addr:street": "Southwest 1st Lane",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-94.301617, 37.495686] }
     },
@@ -60692,8 +60711,9 @@
         "website": "https://www.dairyqueen.com/locations/ks/beloit/3053a-us-24-hwy/1490",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "3053a",
-        "addr:street": "24 Highway"
+        "addr:housenumber": "3053",
+        "addr:street": "24 Highway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-98.106216, 39.481165] }
     },
@@ -66736,8 +66756,9 @@
         "website": "https://www.dairyqueen.com/locations/nc/morehead-city/2302a-arendell-st/10214",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "2302a",
-        "addr:street": "Arendell Street"
+        "addr:housenumber": "2302",
+        "addr:street": "Arendell Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.734722, 34.723373] }
     },
@@ -69378,8 +69399,9 @@
         "website": "https://www.dairyqueen.com/locations/fl/orlando/6321a-international-dr/12836",
         "brand": "Dairy Queen",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "6321a",
-        "addr:street": "International Drive"
+        "addr:housenumber": "6321",
+        "addr:street": "International Drive",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-81.468032, 28.460988] }
     },
@@ -69436,8 +69458,9 @@
         "website": "https://www.dairyqueen.com/locations/sc/goose-creek/203a-n-goose-creek-blvd/13763",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "203a",
-        "addr:street": "North Goose Creek Boulevard"
+        "addr:housenumber": "203",
+        "addr:street": "North Goose Creek Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.038527, 33.002133] }
     },
@@ -73695,8 +73718,9 @@
         "website": "https://www.dairyqueen.com/locations/tn/gallatin/672b-nashville-pike/876",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "672b",
-        "addr:street": "Nashville Pike"
+        "addr:housenumber": "672",
+        "addr:street": "Nashville Pike",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-86.46231, 36.381836] }
     },
@@ -75774,8 +75798,9 @@
         "website": "https://www.dairyqueen.com/locations/ky/henderson/930-b-n-green-st/765",
         "brand": "DQ Grill & Chill",
         "brand:wikidata": "Q1141226",
-        "addr:housenumber": "930-B",
-        "addr:street": "North Green Street"
+        "addr:housenumber": "930",
+        "addr:street": "North Green Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.58193, 37.84907] }
     },

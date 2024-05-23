@@ -4,7 +4,7 @@
     "@spider": "papa_johns",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T07:25:08.588519",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -48,7 +48,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1498B",
+        "addr:housenumber": "1498",
         "addr:street": "Buford Highway",
         "addr:unit": "B"
       },
@@ -222,7 +222,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:30-23:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1958B",
+        "addr:housenumber": "1958",
         "addr:street": "Dell Range Boulevard",
         "addr:unit": "B"
       },
@@ -2511,7 +2511,7 @@
         "opening_hours": "Mo-Th 09:45-24:00; Fr-Sa 09:45-02:00; Su 09:45-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5401C",
+        "addr:housenumber": "5401",
         "addr:street": "25th Avenue Northeast",
         "addr:unit": "C"
       },
@@ -2974,7 +2974,7 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-22:30; Su 11:00-22:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1128E",
+        "addr:housenumber": "1128",
         "addr:street": "Lynchburg Salem Turnpike",
         "addr:unit": "800"
       },
@@ -3121,7 +3121,7 @@
         "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-23:30; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "644B",
+        "addr:housenumber": "644",
         "addr:street": "Greenville Avenue",
         "addr:unit": "B"
       },
@@ -4350,7 +4350,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1148A",
+        "addr:housenumber": "1148",
         "addr:street": "Volvo Parkway",
         "addr:unit": "A"
       },
@@ -5852,8 +5852,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "9570B",
-        "addr:street": "Burke Road"
+        "addr:housenumber": "9570",
+        "addr:street": "Burke Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -5876,7 +5877,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "6920C",
+        "addr:housenumber": "6920",
         "addr:street": "Braddock Road",
         "addr:unit": "C"
       },
@@ -5927,7 +5928,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "525I",
+        "addr:housenumber": "525",
         "addr:street": "East Market Street",
         "addr:unit": "I"
       },
@@ -7073,7 +7074,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3910C",
+        "addr:housenumber": "3910",
         "addr:street": "Dyer Street",
         "addr:unit": "C"
       },
@@ -7145,7 +7146,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "8838L",
+        "addr:housenumber": "8838",
         "addr:street": "Viscount Boulevard",
         "addr:unit": "L"
       },
@@ -7447,7 +7448,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3415A",
+        "addr:housenumber": "3415",
         "addr:street": "Bell Street",
         "addr:unit": "A"
       },
@@ -11836,8 +11837,9 @@
         "opening_hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 11:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3705B",
-        "addr:street": "Sheppard Access Road"
+        "addr:housenumber": "3705",
+        "addr:street": "Sheppard Access Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -12862,7 +12864,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1409C",
+        "addr:housenumber": "1409",
         "addr:street": "West Loop 281",
         "addr:unit": "C"
       },
@@ -14365,7 +14367,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "101A",
+        "addr:housenumber": "101",
         "addr:street": "North Greenville Avenue",
         "addr:unit": "A"
       },
@@ -14485,7 +14487,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1901C",
+        "addr:housenumber": "1901",
         "addr:street": "Shady Brook Street",
         "addr:unit": "C"
       },
@@ -14535,8 +14537,9 @@
         "opening_hours": "10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2089 B",
-        "addr:street": "North Highland Avenue"
+        "addr:housenumber": "2089",
+        "addr:street": "North Highland Avenue",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -14560,7 +14563,7 @@
         "opening_hours": "10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1056 B",
+        "addr:housenumber": "1056",
         "addr:street": "Mineral Wells Drive",
         "addr:unit": "B"
       },
@@ -14881,7 +14884,7 @@
         "opening_hours": "Mo-Sa 10:30-23:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "11680-H",
+        "addr:housenumber": "11680",
         "addr:street": "Highway 51 Skimbrough Crossing",
         "addr:unit": "11"
       },
@@ -15749,7 +15752,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5210C",
+        "addr:housenumber": "5210",
         "addr:street": "Brainerd Road",
         "addr:unit": "C"
       },
@@ -16069,7 +16072,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2255B",
+        "addr:housenumber": "2255",
         "addr:street": "Murfreesboro Pike",
         "addr:unit": "B"
       },
@@ -17045,7 +17048,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2257-G",
+        "addr:housenumber": "2257",
         "addr:street": "Wilma Rudolph Boulevard",
         "addr:unit": "G"
       },
@@ -17363,7 +17366,7 @@
         "opening_hours": "10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "217C",
+        "addr:housenumber": "217",
         "addr:street": "Edgefield Road",
         "addr:unit": "C"
       },
@@ -18266,8 +18269,9 @@
         "opening_hours": "11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "225B",
-        "addr:street": "Cherokee Road"
+        "addr:housenumber": "225",
+        "addr:street": "Cherokee Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -18923,7 +18927,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3937 A",
+        "addr:housenumber": "3937",
         "addr:street": "Platt Springs Road",
         "addr:unit": "A"
       },
@@ -19266,8 +19270,9 @@
         "opening_hours": "11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "828B",
-        "addr:street": "Route 100 North"
+        "addr:housenumber": "828",
+        "addr:street": "Route 100 North",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -19874,7 +19879,7 @@
         "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "390A",
+        "addr:housenumber": "390",
         "addr:street": "York Road",
         "addr:unit": "A"
       },
@@ -20211,8 +20216,9 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1054B",
-        "addr:street": "Lititz Pike"
+        "addr:housenumber": "1054",
+        "addr:street": "Lititz Pike",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -20261,7 +20267,7 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2148A",
+        "addr:housenumber": "2148",
         "addr:street": "White Street",
         "addr:unit": "A"
       },
@@ -21456,7 +21462,7 @@
         "opening_hours": "10:15-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "54B",
+        "addr:housenumber": "54",
         "addr:street": "Division Avenue",
         "addr:unit": "B"
       },
@@ -23756,7 +23762,7 @@
         "opening_hours": "11:00-22:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "6725-C",
+        "addr:housenumber": "6725",
         "addr:street": "Dick Flynn Boulevard",
         "addr:unit": "C"
       },
@@ -27033,7 +27039,7 @@
         "opening_hours": "Mo-Th 11:00-01:00; Fr-Sa 11:00-02:00; Su 11:00-01:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "452A",
+        "addr:housenumber": "452",
         "addr:street": "Suffolk Avenue",
         "addr:unit": "A"
       },
@@ -31538,7 +31544,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "825A",
+        "addr:housenumber": "825",
         "addr:street": "Merrimon Avenue",
         "addr:unit": "A"
       },
@@ -31858,7 +31864,7 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2725L",
+        "addr:housenumber": "2725",
         "addr:street": "Northwest Boulevard",
         "addr:unit": "L"
       },
@@ -31907,7 +31913,7 @@
         "opening_hours": "Mo-Sa 10:30-23:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "212A",
+        "addr:housenumber": "212",
         "addr:street": "Blowing Rock Boulevard",
         "addr:unit": "A"
       },
@@ -32526,7 +32532,7 @@
         "opening_hours": "Mo-We 10:00-24:00; Th-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1929-C",
+        "addr:housenumber": "1929",
         "addr:street": "Oleander",
         "addr:unit": "C"
       },
@@ -33434,7 +33440,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "8139E",
+        "addr:housenumber": "8139",
         "addr:street": "Kennsington Drive",
         "addr:unit": "E"
       },
@@ -33484,8 +33490,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "307A",
-        "addr:street": "East College Avenue"
+        "addr:housenumber": "307",
+        "addr:street": "East College Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -33680,7 +33687,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "6701-B",
+        "addr:housenumber": "6701",
         "addr:street": "Old Monroe Road",
         "addr:unit": "B1"
       },
@@ -34951,7 +34958,7 @@
         "opening_hours": "Mo-We 10:30-01:00; Th-Sa 10:00-02:00; Su 10:30-01:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "607B",
+        "addr:housenumber": "607",
         "addr:street": "West Franklin Street",
         "addr:unit": "B"
       },
@@ -35070,8 +35077,9 @@
         "opening_hours": "Mo-We 10:00-24:00; Th-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2924B",
-        "addr:street": "Battleground Avenue"
+        "addr:housenumber": "2924",
+        "addr:street": "Battleground Avenue",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -35218,7 +35226,7 @@
         "opening_hours": "11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "813D",
+        "addr:housenumber": "813",
         "addr:street": "Randolph Street",
         "addr:unit": "D"
       },
@@ -35366,8 +35374,9 @@
         "opening_hours": "Mo-We 10:00-24:00; Th-Sa 10:00-02:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1239-B",
-        "addr:street": "South 5th Street"
+        "addr:housenumber": "1239",
+        "addr:street": "South 5th Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-79.293637, 36.071328] }
     },
@@ -36177,7 +36186,7 @@
         "opening_hours": "10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2321L",
+        "addr:housenumber": "2321",
         "addr:street": "Highway 45 North",
         "addr:unit": "L"
       },
@@ -36685,8 +36694,9 @@
         "opening_hours": "10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "806-C",
-        "addr:street": "Symphony Lane"
+        "addr:housenumber": "806",
+        "addr:street": "Symphony Lane",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -36735,8 +36745,9 @@
         "opening_hours": "11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "903-A",
-        "addr:street": "Oak Street"
+        "addr:housenumber": "903",
+        "addr:street": "Oak Street",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -37995,7 +38006,7 @@
         "opening_hours": "Mo-Th 09:30-24:00; Fr 09:30-01:00; Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "9800D",
+        "addr:housenumber": "9800",
         "addr:street": "Manchester Road",
         "addr:unit": "D"
       },
@@ -38288,7 +38299,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "98B",
+        "addr:housenumber": "98",
         "addr:street": "Gravois Bluff Circle Drive",
         "addr:unit": "B"
       },
@@ -40357,8 +40368,9 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-23:30; Su 10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "911A",
-        "addr:street": "North East Street"
+        "addr:housenumber": "911",
+        "addr:street": "North East Street",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -40567,8 +40579,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-01:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "7400E",
-        "addr:street": "Belair Road"
+        "addr:housenumber": "7400",
+        "addr:street": "Belair Road",
+        "addr:unit": "E"
       },
       "geometry": {
         "type": "Point",
@@ -40641,7 +40654,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1407A",
+        "addr:housenumber": "1407",
         "addr:street": "Sulphur Spring Road",
         "addr:unit": "A"
       },
@@ -40979,7 +40992,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-01:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "11708-A",
+        "addr:housenumber": "11708",
         "addr:street": "Reisterstown Road",
         "addr:unit": "A"
       },
@@ -41198,8 +41211,9 @@
         "opening_hours": "Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 11:00-22:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2319 b",
-        "addr:street": "Hanover Pike"
+        "addr:housenumber": "2319",
+        "addr:street": "Hanover Pike",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -41247,7 +41261,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1334H",
+        "addr:housenumber": "1334",
         "addr:street": "Defense Highway",
         "addr:unit": "H"
       },
@@ -41442,8 +41456,9 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "18C",
-        "addr:street": "Bel Air South Parkway"
+        "addr:housenumber": "18",
+        "addr:street": "Bel Air South Parkway",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -41688,8 +41703,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "15430-A",
-        "addr:street": "Old Columbia Pike"
+        "addr:housenumber": "15430",
+        "addr:street": "Old Columbia Pike",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -41932,8 +41948,9 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "7801-B",
-        "addr:street": "Parston Drive"
+        "addr:housenumber": "7801",
+        "addr:street": "Parston Drive",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -42394,7 +42411,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "25741-A",
+        "addr:housenumber": "25741",
         "addr:street": "Three Notch Road",
         "addr:unit": "A"
       },
@@ -43058,7 +43075,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "257A",
+        "addr:housenumber": "257",
         "addr:street": "Lee Drive",
         "addr:unit": "A"
       },
@@ -43380,7 +43397,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2993A",
+        "addr:housenumber": "2993",
         "addr:street": "Highway 190",
         "addr:unit": "A"
       },
@@ -43846,7 +43863,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2153A",
+        "addr:housenumber": "2153",
         "addr:street": "Lapalco Boulevard",
         "addr:unit": "A"
       },
@@ -45391,8 +45408,9 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "265A",
-        "addr:street": "Avenue of Champions"
+        "addr:housenumber": "265",
+        "addr:street": "Avenue of Champions",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -46050,7 +46068,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3983B 7TH",
+        "addr:housenumber": "3983",
         "addr:street": "Street Road",
         "addr:unit": "B"
       },
@@ -48229,7 +48247,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2123B",
+        "addr:housenumber": "2123",
         "addr:street": "South Madison Street",
         "addr:unit": "B"
       },
@@ -48909,7 +48927,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1575B",
+        "addr:housenumber": "1575",
         "addr:street": "Goshen Avenue",
         "addr:unit": "B"
       },
@@ -49351,7 +49369,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1532C",
+        "addr:housenumber": "1532",
         "addr:street": "Cassopolis Street",
         "addr:unit": "C"
       },
@@ -49550,8 +49568,9 @@
         "opening_hours": "Mo-Th 09:30-24:00; Fr-Sa 09:30-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "8241 A",
-        "addr:street": "Hohman Avenue"
+        "addr:housenumber": "8241",
+        "addr:street": "Hohman Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -49920,7 +49939,7 @@
         "opening_hours": "10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5500B",
+        "addr:housenumber": "5500",
         "addr:street": "Emerson Way",
         "addr:unit": "B"
       },
@@ -50063,7 +50082,7 @@
         "opening_hours": "10:00-22:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3737B",
+        "addr:housenumber": "3737",
         "addr:street": "East Washington Street",
         "addr:unit": "B"
       },
@@ -50435,8 +50454,9 @@
         "opening_hours": "10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "17435 B",
-        "addr:street": "Carey Road"
+        "addr:housenumber": "17435",
+        "addr:street": "Carey Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -51263,7 +51283,7 @@
         "opening_hours": "Mo-Th 09:30-24:00; Fr-Sa 09:30-01:00; Su 11:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2104A",
+        "addr:housenumber": "2104",
         "addr:street": "West Springfield Avenue",
         "addr:unit": "A"
       },
@@ -52256,7 +52276,7 @@
         "opening_hours": "Mo-Th 09:30-24:00; Fr-Sa 09:30-01:00; Su 09:30-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "16D",
+        "addr:housenumber": "16",
         "addr:street": "East Golf Road",
         "addr:unit": "D"
       },
@@ -53644,7 +53664,7 @@
         "opening_hours": "Mo-Th 09:30-23:00; Fr-Sa 09:30-24:00; Su 09:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "2875A",
+        "addr:housenumber": "2875",
         "addr:street": "Paa Street",
         "addr:unit": "A"
       },
@@ -53695,7 +53715,7 @@
         "opening_hours": "Mo-Th 09:30-23:00; Fr-Sa 09:30-24:00; Su 09:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "4380A",
+        "addr:housenumber": "4380",
         "addr:street": "Lawehana Street",
         "addr:unit": "A"
       },
@@ -54035,7 +54055,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5870A",
+        "addr:housenumber": "5870",
         "addr:street": "Veterans Parkway",
         "addr:unit": "A"
       },
@@ -55998,7 +56018,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5658A",
+        "addr:housenumber": "5658",
         "addr:street": "Riverdale Road",
         "addr:unit": "A"
       },
@@ -57935,7 +57955,7 @@
         "opening_hours": "10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "6670B",
+        "addr:housenumber": "6670",
         "addr:street": "Covington Highway",
         "addr:unit": "B"
       },
@@ -65425,7 +65445,7 @@
         "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "38C",
+        "addr:housenumber": "38",
         "addr:street": "Blanding Boulevard",
         "addr:unit": "C"
       },
@@ -65550,8 +65570,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "206B",
-        "addr:street": "South Orange Avenue"
+        "addr:housenumber": "206",
+        "addr:street": "South Orange Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-81.678005, 29.991646] }
     },
@@ -65668,7 +65689,7 @@
         "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "29 C",
+        "addr:housenumber": "29",
         "addr:street": "Atlantic Avenue",
         "addr:unit": "C"
       },
@@ -66688,7 +66709,7 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-23:45; Su 10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "126 B",
+        "addr:housenumber": "126",
         "addr:street": "West Bridge Street",
         "addr:unit": "B"
       },
@@ -67398,8 +67419,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "15493E",
-        "addr:street": "East Hampden Avenue"
+        "addr:housenumber": "15493",
+        "addr:street": "East Hampden Avenue",
+        "addr:unit": "E"
       },
       "geometry": {
         "type": "Point",
@@ -67901,8 +67923,9 @@
         "opening_hours": "10:00-02:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1280 B",
-        "addr:street": "Newell Avenue"
+        "addr:housenumber": "1280",
+        "addr:street": "Newell Avenue",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -73809,8 +73832,9 @@
         "opening_hours": "Mo-We 10:00-23:00; Th-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3922B",
-        "addr:street": "Highway 80 West"
+        "addr:housenumber": "3922",
+        "addr:street": "Highway 80 West",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -73980,7 +74004,7 @@
         "opening_hours": "10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5398D",
+        "addr:housenumber": "5398",
         "addr:street": "Highway 90 West",
         "addr:unit": "D"
       },
@@ -74030,7 +74054,7 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "5546A",
+        "addr:housenumber": "5546",
         "addr:street": "Old Shell Road",
         "addr:unit": "A"
       },
@@ -74226,7 +74250,7 @@
         "opening_hours": "10:30-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "29640A",
+        "addr:housenumber": "29640",
         "addr:street": "State Road 181",
         "addr:unit": "101"
       },
@@ -74277,8 +74301,9 @@
         "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-21:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "1509-A",
-        "addr:street": "West Cumming Avenue"
+        "addr:housenumber": "1509",
+        "addr:street": "West Cumming Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.2741319, 31.2781439] }
     },
@@ -74542,8 +74567,9 @@
         "opening_hours": "10:00-24:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "3015 B",
-        "addr:street": "Carter Hill Road"
+        "addr:housenumber": "3015",
+        "addr:street": "Carter Hill Road",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -74976,7 +75002,7 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 11:00-23:00",
         "brand": "Papa John's",
         "brand:wikidata": "Q2759586",
-        "addr:housenumber": "12100 B",
+        "addr:housenumber": "12100",
         "addr:street": "County Line Road",
         "addr:unit": "B"
       },

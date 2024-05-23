@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "tim_hortons",
     "spider:collection_time": "2024-04-14T13:08:09.290075",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {

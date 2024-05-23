@@ -4,7 +4,7 @@
     "@spider": "habit_burger",
     "source": "structured_data",
     "spider:collection_time": "2024-04-28T00:53:03.059104",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-29" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1626,8 +1626,9 @@
         "opening_hours": "Mo-Sa 10:30-21:30; Su 10:30-21:00",
         "brand": "The Habit Burger Grill",
         "brand:wikidata": "Q18158741",
-        "addr:housenumber": "895-A",
-        "addr:street": "Rockville Pike"
+        "addr:housenumber": "895",
+        "addr:street": "Rockville Pike",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.136805, 39.074667] }
     },
@@ -2833,8 +2834,9 @@
         "opening_hours": "10:00-23:00",
         "brand": "The Habit Burger Grill",
         "brand:wikidata": "Q18158741",
-        "addr:housenumber": "249-F",
-        "addr:street": "North Glendale Avenue"
+        "addr:housenumber": "249",
+        "addr:street": "North Glendale Avenue",
+        "addr:unit": "F"
       },
       "geometry": { "type": "Point", "coordinates": [-118.2462814, 34.149641] }
     },
@@ -3534,8 +3536,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "The Habit Burger Grill",
         "brand:wikidata": "Q18158741",
-        "addr:housenumber": "2401V",
-        "addr:street": "Route 22 West"
+        "addr:housenumber": "2401",
+        "addr:street": "Route 22 West",
+        "addr:unit": "V"
       },
       "geometry": { "type": "Point", "coordinates": [-74.297405, 40.6916374] }
     },
@@ -8579,8 +8582,9 @@
         "opening_hours": "10:30-21:30",
         "brand": "The Habit Burger Grill",
         "brand:wikidata": "Q18158741",
-        "addr:housenumber": "11 C",
-        "addr:street": "East Hillcrest Drive"
+        "addr:housenumber": "11",
+        "addr:street": "East Hillcrest Drive",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-118.874757, 34.181624] }
     },

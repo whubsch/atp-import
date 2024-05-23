@@ -4,7 +4,7 @@
     "@spider": "Cook Out",
     "spider:collection_time": "2024-04-13T19:08:02.190119",
     "spider:robots_txt": "ignored",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {

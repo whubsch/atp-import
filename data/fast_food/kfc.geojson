@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "kfc",
     "spider:collection_time": "2024-04-14T03:29:48.099513",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -207,8 +207,9 @@
         "opening_hours": "10:00-23:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "339 U.",
-        "addr:street": "South Highway 33"
+        "addr:housenumber": "339",
+        "addr:street": "South Highway 33",
+        "addr:unit": "U"
       },
       "geometry": {
         "type": "Point",
@@ -700,8 +701,9 @@
         "opening_hours": "10:00-22:30",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "301D",
-        "addr:street": "Hurricane Creek Road"
+        "addr:housenumber": "301",
+        "addr:street": "Hurricane Creek Road",
+        "addr:unit": "D"
       },
       "geometry": {
         "type": "Point",
@@ -2642,8 +2644,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "900 U.",
-        "addr:street": "South Highway 12"
+        "addr:housenumber": "900",
+        "addr:street": "South Highway 12",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-89.769634, 43.459631] }
     },
@@ -5864,8 +5867,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "1793A",
-        "addr:street": "Southcreek One"
+        "addr:housenumber": "1793",
+        "addr:street": "Southcreek One",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -5984,8 +5988,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "3335A",
-        "addr:street": "South Crater Road"
+        "addr:housenumber": "3335",
+        "addr:street": "South Crater Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -7381,8 +7386,9 @@
         "opening_hours": "10:30-22:30",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "806-A",
-        "addr:street": "England Street"
+        "addr:housenumber": "806",
+        "addr:street": "England Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.4663991, 37.7587728] }
     },
@@ -28551,8 +28557,9 @@
         "opening_hours": "10:00-23:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "11670 U.",
-        "addr:street": "South 23 South"
+        "addr:housenumber": "11670",
+        "addr:street": "South 23 South",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-82.993649, 39.119317] }
     },
@@ -44146,7 +44153,7 @@
         "opening_hours": "Mo 10:30-22:00; Tu-Sa 10:30-22:30; Su 10:30-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "3818 B",
+        "addr:housenumber": "3818",
         "addr:street": "West Gate City Boulevard",
         "addr:unit": "B"
       },
@@ -46759,8 +46766,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "127A",
-        "addr:street": "Highway 12 West"
+        "addr:housenumber": "127",
+        "addr:street": "Highway 12 West",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -48316,8 +48324,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "336 E",
-        "addr:street": "South Service Road"
+        "addr:housenumber": "336",
+        "addr:street": "South Service Road",
+        "addr:unit": "E"
       },
       "geometry": {
         "type": "Point",
@@ -55047,8 +55056,9 @@
         "opening_hours": "Mo-Sa 10:30-23:00; Su 10:30-22:30",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "339A",
-        "addr:street": "Madison Avenue"
+        "addr:housenumber": "339",
+        "addr:street": "Madison Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -60764,8 +60774,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "344 C.",
-        "addr:street": "West Stevens Boulevard"
+        "addr:housenumber": "344",
+        "addr:street": "West Stevens Boulevard",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -60885,8 +60896,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "1229 U.",
-        "addr:street": "South Highway 127 South"
+        "addr:housenumber": "1229",
+        "addr:street": "South Highway 127 South",
+        "addr:unit": "U"
       },
       "geometry": {
         "type": "Point",
@@ -82585,8 +82597,9 @@
         "opening_hours": "10:00-24:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "457-A",
-        "addr:street": "Highway 85-87"
+        "addr:housenumber": "457",
+        "addr:street": "Highway 85-87",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -85345,8 +85358,9 @@
         "opening_hours": "10:30-21:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "12910-B",
-        "addr:street": "Foothill Boulevard"
+        "addr:housenumber": "12910",
+        "addr:street": "Foothill Boulevard",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -89666,8 +89680,9 @@
         "website": "https://locations.kfc.com/ca/newark/5724-b-thornton-avenue/",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "5724-B",
-        "addr:street": "Thornton Avenue"
+        "addr:housenumber": "5724",
+        "addr:street": "Thornton Avenue",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -98509,8 +98524,9 @@
         "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-22:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "5278 U.",
-        "addr:street": "South Highway 231"
+        "addr:housenumber": "5278",
+        "addr:street": "South Highway 231",
+        "addr:unit": "U"
       },
       "geometry": {
         "type": "Point",
@@ -98961,8 +98977,9 @@
         "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "addr:housenumber": "2024 U.",
-        "addr:street": "South Highway 78 East"
+        "addr:housenumber": "2024",
+        "addr:street": "South Highway 78 East",
+        "addr:unit": "U"
       },
       "geometry": {
         "type": "Point",

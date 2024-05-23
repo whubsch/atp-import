@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "shake_shack",
     "spider:collection_time": "2024-04-14T10:05:30.617314",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1687,10 +1687,11 @@
         "website": "https://shakeshack.com/location/menlo-park-nj",
         "brand": "Shake Shack",
         "brand:wikidata": "Q1058722",
-        "addr:housenumber": "1521A",
+        "addr:housenumber": "1521",
         "addr:street": "Route One; Edison",
         "addr:postcode": "08837",
-        "branch": "Menlo Park"
+        "branch": "Menlo Park",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-74.3324446, 40.5448449] }
     },

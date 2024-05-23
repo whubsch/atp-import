@@ -4,7 +4,7 @@
     "@spider": "jambajuice",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T02:46:43.963673",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -3484,9 +3484,10 @@
         "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 09:00-19:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "8261-B",
+        "addr:housenumber": "8261",
         "addr:street": "Southwest Wilsonville Road",
-        "branch": "Wilsonville"
+        "branch": "Wilsonville",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -4327,7 +4328,7 @@
         "opening_hours": "Mo-Fr 11:00-19:00; Sa 12:00-19:00; Su 12:00-18:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "branch": "WTC L1"
+        "branch": "Wtc L1"
       },
       "geometry": {
         "type": "Point",
@@ -5976,9 +5977,10 @@
         "opening_hours": "06:00-14:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "158-K",
+        "addr:housenumber": "158",
         "addr:street": "Great Road",
-        "branch": "& Bruegger's Bagels-Bedford"
+        "branch": "& Bruegger's Bagels-Bedford",
+        "addr:unit": "K"
       },
       "geometry": {
         "type": "Point",
@@ -6207,9 +6209,10 @@
         "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 08:30-19:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "17W426",
+        "addr:housenumber": "17",
         "addr:street": "22nd Street",
-        "branch": "Oakbrook Terrace"
+        "branch": "Oakbrook Terrace",
+        "addr:unit": "W"
       },
       "geometry": {
         "type": "Point",
@@ -6233,7 +6236,7 @@
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "4136-E",
+        "addr:housenumber": "4136",
         "addr:street": "North Harlem Avenue",
         "addr:unit": "32",
         "branch": "Harlem Irving Plaza"
@@ -8338,9 +8341,10 @@
         "opening_hours": "08:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "704 A",
+        "addr:housenumber": "704",
         "addr:street": "Bancroft Road",
-        "branch": "Walnut Creek"
+        "branch": "Walnut Creek",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -8542,9 +8546,10 @@
         "opening_hours": "08:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "2091-A",
+        "addr:housenumber": "2091",
         "addr:street": "Harbison Drive",
-        "branch": "Vacaville Commons"
+        "branch": "Vacaville Commons",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -9681,9 +9686,10 @@
         "opening_hours": "07:00-21:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "2160-C",
+        "addr:housenumber": "2160",
         "addr:street": "California Avenue",
-        "branch": "Sand City"
+        "branch": "Sand City",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -9731,9 +9737,10 @@
         "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-19:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "3141-H",
+        "addr:housenumber": "3141",
         "addr:street": "Crow Canyon Place",
-        "branch": "San Ramon"
+        "branch": "San Ramon",
+        "addr:unit": "H"
       },
       "geometry": {
         "type": "Point",
@@ -9883,9 +9890,10 @@
         "opening_hours": "08:00-18:30",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "1230-A",
+        "addr:housenumber": "1230",
         "addr:street": "West Hillsdale Boulevard",
-        "branch": "Laurelwood South/C"
+        "branch": "Laurelwood South/C",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -10066,9 +10074,10 @@
         "opening_hours": "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su 09:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "848-B",
+        "addr:housenumber": "848",
         "addr:street": "Blossom Hill Road",
-        "branch": "Main St. at Santa Teresa"
+        "branch": "Main St. at Santa Teresa",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -10800,9 +10809,10 @@
         "opening_hours": "06:00-21:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "3305-A",
+        "addr:housenumber": "3305",
         "addr:street": "Rosecrans Street",
-        "branch": "Loma Square"
+        "branch": "Loma Square",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -11095,9 +11105,10 @@
         "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "1552 A",
+        "addr:housenumber": "1552",
         "addr:street": "North Main Street",
-        "branch": "Salinas"
+        "branch": "Salinas",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -12623,9 +12634,10 @@
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-21:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "39340-D",
+        "addr:housenumber": "39340",
         "addr:street": "10th Street West",
-        "branch": "Palmdale Marketplace"
+        "branch": "Palmdale Marketplace",
+        "addr:unit": "D"
       },
       "geometry": {
         "type": "Point",
@@ -12649,7 +12661,7 @@
         "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-21:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "38107-B",
+        "addr:housenumber": "38107",
         "addr:street": "47th Street East",
         "addr:unit": "G2",
         "branch": "47th Street Pavilion"
@@ -14410,9 +14422,10 @@
         "opening_hours": "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 08:00-21:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "13520-A1",
+        "addr:housenumber": "13520",
         "addr:street": "Paxton Street",
-        "branch": "Plaza Pacoima"
+        "branch": "Plaza Pacoima",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -14702,9 +14715,10 @@
         "opening_hours": "08:30-19:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "15126-A",
+        "addr:housenumber": "15126",
         "addr:street": "Hawthorne Boulevard",
-        "branch": "Lawndale Marketplace"
+        "branch": "Lawndale Marketplace",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -14885,7 +14899,7 @@
         "opening_hours": "07:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "79070-B",
+        "addr:housenumber": "79070",
         "addr:street": "Highway 111",
         "addr:unit": "102",
         "branch": "La Quinta"
@@ -15594,9 +15608,10 @@
         "opening_hours": "Mo-Fr 07:00-20:30; Sa-Su 08:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "1252-A",
+        "addr:housenumber": "1252",
         "addr:street": "West Redondo Beach Boulevard",
-        "branch": "Gardena Valley Center"
+        "branch": "Gardena Valley Center",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -15752,9 +15767,10 @@
         "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "4950 B",
+        "addr:housenumber": "4950",
         "addr:street": "North Cedar Avenue",
-        "branch": "Cedar & Shaw"
+        "branch": "Cedar & Shaw",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -16253,9 +16269,10 @@
         "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 07:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "272-A",
+        "addr:housenumber": "272",
         "addr:street": "North El Camino Real",
-        "branch": "Camino Village Plaza"
+        "branch": "Camino Village Plaza",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -16673,9 +16690,10 @@
         "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:30",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "127-J",
+        "addr:housenumber": "127",
         "addr:street": "Serramonte Center",
-        "branch": "Serramonte Center"
+        "branch": "Serramonte Center",
+        "addr:unit": "J"
       },
       "geometry": {
         "type": "Point",
@@ -17762,9 +17780,10 @@
         "opening_hours": "07:00-20:00",
         "brand": "Jamba",
         "brand:wikidata": "Q3088784",
-        "addr:housenumber": "804-A",
+        "addr:housenumber": "804",
         "addr:street": "Southampton Road",
-        "branch": "Benicia"
+        "branch": "Benicia",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",

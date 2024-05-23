@@ -4,7 +4,7 @@
     "@spider": "qdoba",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T08:21:14.747116",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -24,7 +24,7 @@
         "opening_hours": "10:30-22:00",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "1620C",
+        "addr:housenumber": "1620",
         "addr:street": "Camino De La Reina",
         "addr:unit": "E-3",
         "branch": "Mission Valley"
@@ -1165,7 +1165,7 @@
         "addr:housenumber": "13330",
         "addr:street": "Washington Avenue",
         "addr:unit": "400",
-        "branch": "I 94 And Highway 20   Sturtevant"
+        "branch": "I 94 And Highway 20 Sturtevant"
       },
       "geometry": {
         "type": "Point",
@@ -3297,9 +3297,10 @@
         "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-20:00",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "117A",
+        "addr:housenumber": "117",
         "addr:street": "Lavery Hall",
-        "branch": "Va Tech"
+        "branch": "Va Tech",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -4272,9 +4273,10 @@
         "opening_hours": "11:00-21:30",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "2669A",
+        "addr:housenumber": "2669",
         "addr:street": "Mac Arthur Road",
-        "branch": "Whitehall"
+        "branch": "Whitehall",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -5945,9 +5947,10 @@
         "opening_hours": "11:00-22:00",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "2750A",
+        "addr:housenumber": "2750",
         "addr:street": "Hylan Boulevard",
-        "branch": "Hylan"
+        "branch": "Hylan",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -5996,7 +5999,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "1275",
         "addr:street": "Woodrow Road",
-        "branch": "Staten Island   Woodrow"
+        "branch": "Staten Island Woodrow"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2076523, 40.5419437] }
     },
@@ -6820,7 +6823,7 @@
         "addr:housenumber": "26",
         "addr:street": "University Place Boulevard",
         "addr:unit": "126",
-        "branch": "Jersey City   University Place"
+        "branch": "Jersey City University Place"
       },
       "geometry": {
         "type": "Point",
@@ -7041,9 +7044,10 @@
         "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "17C",
+        "addr:housenumber": "17",
         "addr:street": "Premium Outlets Boulevard",
-        "branch": "Industrial Drive Merrimack Outlet"
+        "branch": "Industrial Drive Merrimack Outlet",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-71.506194, 42.8243074] }
     },
@@ -9126,7 +9130,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "15829",
         "addr:street": "Fountain Plaza Drive",
-        "branch": "Chesterfield   Fountain Plaza"
+        "branch": "Chesterfield Fountain Plaza"
       },
       "geometry": {
         "type": "Point",
@@ -10025,7 +10029,7 @@
         "addr:housenumber": "22040",
         "addr:street": "Eureka Road",
         "addr:unit": "A",
-        "branch": "Taylor   Eureka Road & Rancho Road"
+        "branch": "Taylor Eureka Road & Rancho Road"
       },
       "geometry": {
         "type": "Point",
@@ -13076,7 +13080,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "20",
         "addr:street": "Kenton Drive",
-        "branch": "Nku   Highland Heights"
+        "branch": "Nku Highland Heights"
       },
       "geometry": {
         "type": "Point",
@@ -14345,7 +14349,7 @@
         "brand:wikidata": "Q1363885",
         "addr:housenumber": "8971",
         "addr:street": "East 116th Street",
-        "branch": "Exit 5  Fishers"
+        "branch": "Exit 5 Fishers"
       },
       "geometry": {
         "type": "Point",
@@ -14372,7 +14376,7 @@
         "addr:housenumber": "8260",
         "addr:street": "East 96th Street",
         "addr:unit": "106",
-        "branch": "Exit 3  Fishers Geist"
+        "branch": "Exit 3 Fishers Geist"
       },
       "geometry": {
         "type": "Point",
@@ -17564,7 +17568,7 @@
         "addr:housenumber": "8500",
         "addr:street": "Pena Boulevard",
         "addr:unit": "Concourse B",
-        "branch": "Den Airport   Concourse B Mezz"
+        "branch": "Den Airport Concourse B Mezz"
       },
       "geometry": {
         "type": "Point",
@@ -18118,9 +18122,10 @@
         "website": "https://locations.qdoba.com/us/co/broomfield/635-b-flatiron-marketplace-dr.html",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "635-B",
+        "addr:housenumber": "635",
         "addr:street": "Flatiron Marketplace Drive",
-        "branch": "Flatirons Mall"
+        "branch": "Flatirons Mall",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-105.126768, 39.930189] }
     },
@@ -18396,9 +18401,10 @@
         "opening_hours": "10:30-22:00",
         "brand": "Qdoba",
         "brand:wikidata": "Q1363885",
-        "addr:housenumber": "1815 B",
+        "addr:housenumber": "1815",
         "addr:street": "Ygnacio Valley Road",
-        "branch": "Walnut Creek"
+        "branch": "Walnut Creek",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-122.0375139, 37.9174263] }
     },

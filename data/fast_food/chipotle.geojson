@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "chipotle",
     "spider:collection_time": "2024-04-13T17:47:02.132815",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -5095,8 +5095,9 @@
         "website": "https://locations.chipotle.com/ca/south-lake-tahoe/3640-a-lake-tahoe-blvd",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "3640-A",
-        "addr:street": "Lake Tahoe Boulevard"
+        "addr:housenumber": "3640",
+        "addr:street": "Lake Tahoe Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-119.9580772, 38.9480034] }
     },
@@ -5545,8 +5546,9 @@
         "website": "https://locations.chipotle.com/ca/santa-rosa/336a-coddingtown-ctr",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "336A",
-        "addr:street": "Coddingtown Center"
+        "addr:housenumber": "336",
+        "addr:street": "Coddingtown Center",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-122.730058, 38.458189] }
     },
@@ -17729,8 +17731,9 @@
         "website": "https://locations.chipotle.com/de/new-castle/115a-s-dupont-hwy",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "115A",
-        "addr:street": "South Dupont Highway"
+        "addr:housenumber": "115",
+        "addr:street": "South Dupont Highway",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -26723,8 +26726,9 @@
         "website": "https://locations.chipotle.com/il/oakbrook-terrace/18w050-22nd-st",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "18W050",
-        "addr:street": "22nd Street"
+        "addr:housenumber": "18",
+        "addr:street": "22nd Street",
+        "addr:unit": "W"
       },
       "geometry": {
         "type": "Point",
@@ -33131,8 +33135,9 @@
         "website": "https://locations.chipotle.com/pa/souderton/715a-route-113",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "715A",
-        "addr:street": "Route 113"
+        "addr:housenumber": "715",
+        "addr:street": "Route 113",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-75.309995, 40.3154117] }
     },
@@ -37305,8 +37310,9 @@
         "website": "https://locations.chipotle.com/tn/hermitage/5000b-old-hickory-blvd",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "5000B",
-        "addr:street": "Old Hickory Boulevard"
+        "addr:housenumber": "5000",
+        "addr:street": "Old Hickory Boulevard",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -47852,8 +47858,9 @@
         "website": "https://locations.chipotle.com/va/falls-church/3556b-s-jefferson-st",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "3556B",
-        "addr:street": "South Jefferson Street"
+        "addr:housenumber": "3556",
+        "addr:street": "South Jefferson Street",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -48041,8 +48048,9 @@
         "website": "https://locations.chipotle.com/va/ashland/703a-england-st",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "703A",
-        "addr:street": "England Street"
+        "addr:housenumber": "703",
+        "addr:street": "England Street",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -55161,8 +55169,9 @@
         "website": "https://locations.chipotle.com/ny/highland-falls/521a-main-st",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "521A",
-        "addr:street": "Main Street"
+        "addr:housenumber": "521",
+        "addr:street": "Main Street",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -62855,8 +62864,9 @@
         "website": "https://locations.chipotle.com/oh/cincinnati/9430c-colerain-ave",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "9430C",
-        "addr:street": "Colerain Avenue"
+        "addr:housenumber": "9430",
+        "addr:street": "Colerain Avenue",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",
@@ -71251,8 +71261,9 @@
         "website": "https://locations.chipotle.com/nj/shrewsbury/490b-shrewsbury-plz",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "490B",
-        "addr:street": "Shrewsbury Plaza"
+        "addr:housenumber": "490",
+        "addr:street": "Shrewsbury Plaza",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -74663,8 +74674,9 @@
         "website": "https://locations.chipotle.com/md/sykesville/6400f-ridge-rd",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "6400F",
-        "addr:street": "Ridge Road"
+        "addr:housenumber": "6400",
+        "addr:street": "Ridge Road",
+        "addr:unit": "F"
       },
       "geometry": {
         "type": "Point",
@@ -75095,8 +75107,9 @@
         "website": "https://locations.chipotle.com/md/salisbury/2408b-n-salisbury-blvd",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "2408B",
-        "addr:street": "North Salisbury Boulevard"
+        "addr:housenumber": "2408",
+        "addr:street": "North Salisbury Boulevard",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -77800,8 +77813,9 @@
         "website": "https://locations.chipotle.com/ma/medway/67b-main-street",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "67B",
-        "addr:street": "Main Street"
+        "addr:housenumber": "67",
+        "addr:street": "Main Street",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -79474,8 +79488,9 @@
         "website": "https://locations.chipotle.com/mi/kalamazoo/5363b-w-main-st",
         "brand": "Chipotle",
         "brand:wikidata": "Q465751",
-        "addr:housenumber": "5363B",
-        "addr:street": "West Main Street"
+        "addr:housenumber": "5363",
+        "addr:street": "West Main Street",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",

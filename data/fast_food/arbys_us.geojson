@@ -4,7 +4,7 @@
     "@spider": "arbys_us",
     "source": "structured_data",
     "spider:collection_time": "2024-04-13T14:01:34.580741",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -56306,8 +56306,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "Arby's",
         "brand:wikidata": "Q630866",
-        "addr:housenumber": "1103B",
-        "addr:street": "North Main Street"
+        "addr:housenumber": "1103",
+        "addr:street": "North Main Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-85.2801892, 34.7246505] }
     },
@@ -57295,8 +57296,9 @@
         "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Arby's",
         "brand:wikidata": "Q630866",
-        "addr:housenumber": "6840B",
-        "addr:street": "Midland Commons Boulevard"
+        "addr:housenumber": "6840",
+        "addr:street": "Midland Commons Boulevard",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-84.8724116, 32.5449701] }
     },
@@ -58974,8 +58976,9 @@
         "opening_hours": "10:00-01:00",
         "brand": "Arby's",
         "brand:wikidata": "Q630866",
-        "addr:housenumber": "10442 U",
-        "addr:street": "South Highway 19"
+        "addr:housenumber": "10442",
+        "addr:street": "South Highway 19",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-82.6994068, 28.3093701] }
     },
@@ -64465,8 +64468,9 @@
         "opening_hours": "09:00-23:00",
         "brand": "Arby's",
         "brand:wikidata": "Q630866",
-        "addr:housenumber": "2100-F",
-        "addr:street": "Standiford Avenue"
+        "addr:housenumber": "2100",
+        "addr:street": "Standiford Avenue",
+        "addr:unit": "F"
       },
       "geometry": { "type": "Point", "coordinates": [-121.0321662, 37.6894082] }
     },

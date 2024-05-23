@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "ljsilvers",
     "spider:collection_time": "2024-04-14T04:32:25.271049",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -4626,8 +4626,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "Long John Silver's",
         "brand:wikidata": "Q1535221",
-        "addr:housenumber": "3314-A",
-        "addr:street": "North Main Street"
+        "addr:housenumber": "3314",
+        "addr:street": "North Main Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-82.6682767, 34.5431837] }
     },
@@ -9539,8 +9540,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "Long John Silver's",
         "brand:wikidata": "Q1535221",
-        "addr:housenumber": "806-A",
-        "addr:street": "England Street"
+        "addr:housenumber": "806",
+        "addr:street": "England Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.4662702, 37.7587835] }
     },

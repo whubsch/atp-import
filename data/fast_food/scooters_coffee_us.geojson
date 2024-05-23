@@ -6,7 +6,7 @@
     "source": "api",
     "spider:collection_time": "2024-04-21T09:29:48.138289",
     "spider:robots_txt": "ignored",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-29" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -5255,8 +5255,9 @@
         "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-19:00",
         "brand": "Scooter's Coffee",
         "brand:wikidata": "Q117280308",
-        "addr:housenumber": "745A",
-        "addr:street": "South Washington Avenue"
+        "addr:housenumber": "745",
+        "addr:street": "South Washington Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",

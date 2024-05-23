@@ -4,7 +4,7 @@
     "@spider": "carlsjr_us",
     "source": "structured_data",
     "spider:collection_time": "2024-04-13T17:08:52.943564",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -14425,8 +14425,9 @@
         "website": "https://locations.carlsjr.com/ca/martinez/550-d-morello-ave",
         "brand": "Carl's Jr.",
         "brand:wikidata": "Q1043486",
-        "addr:housenumber": "550-D",
-        "addr:street": "Morello Avenue"
+        "addr:housenumber": "550",
+        "addr:street": "Morello Avenue",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-122.10003, 37.99308] }
     },

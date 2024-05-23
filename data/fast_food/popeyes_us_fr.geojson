@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "popeyes_us_fr",
     "spider:collection_time": "2024-04-14T08:02:39.514719",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -12811,8 +12811,9 @@
         "opening_hours": "10:00-24:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "7415-B",
-        "addr:street": "Baltimore Avenue"
+        "addr:housenumber": "7415",
+        "addr:street": "Baltimore Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-76.93741, 38.98149] }
     },
@@ -25501,8 +25502,9 @@
         "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "5902B",
-        "addr:street": "Eastex Freeway"
+        "addr:housenumber": "5902",
+        "addr:street": "Eastex Freeway",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-94.156333, 30.128162] }
     },
@@ -26226,8 +26228,9 @@
         "opening_hours": "10:00-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "2900B",
-        "addr:street": "Colorado Boulevard"
+        "addr:housenumber": "2900",
+        "addr:street": "Colorado Boulevard",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-118.228423, 34.142561] }
     },
@@ -31030,8 +31033,9 @@
         "opening_hours": "10:00-21:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "814A",
-        "addr:street": "Highway 12 West"
+        "addr:housenumber": "814",
+        "addr:street": "Highway 12 West",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-88.842329, 33.448063] }
     },
@@ -32051,8 +32055,9 @@
         "opening_hours": "09:00-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "19N430",
-        "addr:street": "Highwy 20"
+        "addr:housenumber": "19",
+        "addr:street": "Highwy 20",
+        "addr:unit": "N"
       },
       "geometry": { "type": "Point", "coordinates": [-88.509447, 42.144921] }
     },
@@ -34197,8 +34202,9 @@
         "opening_hours": "10:30-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "6230-T",
-        "addr:street": "Rolling Road"
+        "addr:housenumber": "6230",
+        "addr:street": "Rolling Road",
+        "addr:unit": "T"
       },
       "geometry": { "type": "Point", "coordinates": [-77.235014, 38.780897] }
     },
@@ -40527,8 +40533,9 @@
         "opening_hours": "Mo-Fr 11:00-17:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "931B",
-        "addr:street": "Duncan Avenue"
+        "addr:housenumber": "931",
+        "addr:street": "Duncan Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-81.126435, 32.028227] }
     },
@@ -45435,8 +45442,9 @@
         "opening_hours": "Mo-Tu 10:30-17:30; We-Th 10:30-16:00; Fr 10:30-17:30",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "3703 B",
-        "addr:street": "Oak Street"
+        "addr:housenumber": "3703",
+        "addr:street": "Oak Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-147.648996, 64.825517] }
     },
@@ -48888,8 +48896,9 @@
         "opening_hours": "Mo-We 10:00-23:00; Th-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "1401B",
-        "addr:street": "Highway 332"
+        "addr:housenumber": "1401",
+        "addr:street": "Highway 332",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-95.419548, 29.010832] }
     },
@@ -49445,8 +49454,9 @@
         "opening_hours": "10:00-24:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "7416A",
-        "addr:street": "South Sam Houston Parkway West"
+        "addr:housenumber": "7416",
+        "addr:street": "South Sam Houston Parkway West",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.495707, 29.615559] }
     },
@@ -49470,8 +49480,9 @@
         "opening_hours": "Mo-We 10:00-23:00; Th-Sa 10:00-24:00; Su 10:00-23:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "1801 B",
-        "addr:street": "Velasco Street"
+        "addr:housenumber": "1801",
+        "addr:street": "Velasco Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-95.433735, 29.183954] }
     },
@@ -51252,8 +51263,9 @@
         "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-19:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "11938L",
-        "addr:street": "Fair Oaks Mall"
+        "addr:housenumber": "11938",
+        "addr:street": "Fair Oaks Mall",
+        "addr:unit": "L"
       },
       "geometry": { "type": "Point", "coordinates": [-77.358975, 38.862827] }
     },
@@ -57820,8 +57832,9 @@
         "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "13910-C",
-        "addr:street": "Horizon Boulevard"
+        "addr:housenumber": "13910",
+        "addr:street": "Horizon Boulevard",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-106.20082, 31.682235] }
     },
@@ -58328,8 +58341,9 @@
         "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 10:30-23:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "2176-A",
-        "addr:street": "White Plains Road"
+        "addr:housenumber": "2176",
+        "addr:street": "White Plains Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-73.867434, 40.855709] }
     },
@@ -67334,8 +67348,9 @@
         "opening_hours": "10:30-23:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "868 C",
-        "addr:street": "East Grand Street"
+        "addr:housenumber": "868",
+        "addr:street": "East Grand Street",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-74.201255, 40.663986] }
     },
@@ -72798,8 +72813,9 @@
         "opening_hours": "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00",
         "brand": "Popeyes",
         "brand:wikidata": "Q1330910",
-        "addr:housenumber": "3225B",
-        "addr:street": "Little League Drive"
+        "addr:housenumber": "3225",
+        "addr:street": "Little League Drive",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-117.3624, 34.19287] }
     },

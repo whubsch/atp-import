@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "potbelly_sandwich",
     "spider:collection_time": "2024-04-14T08:03:07.744548",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -5751,9 +5751,10 @@
         "opening_hours": "10:00-21:00",
         "brand": "Potbelly",
         "brand:wikidata": "Q7234777",
-        "addr:housenumber": "409B",
+        "addr:housenumber": "409",
         "addr:street": "University Drive",
-        "branch": "College Station"
+        "branch": "College Station",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-96.3453744, 30.6187844] }
     },

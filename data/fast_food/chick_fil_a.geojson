@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "chick_fil_a",
     "spider:collection_time": "2024-02-24T17:30:08.113185",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1061,9 +1061,10 @@
         "opening_hours": "Mo-Sa 06:30-22:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "6108C",
+        "addr:housenumber": "6108",
         "addr:street": "Arlington Boulevard",
-        "branch": "Seven Corners In-Line"
+        "branch": "Seven Corners In-Line",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-77.1441095, 38.8686907] }
     },
@@ -6156,9 +6157,10 @@
         "opening_hours": "Mo-Sa 08:00-20:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "3215C",
+        "addr:housenumber": "3215",
         "addr:street": "Bel Air Mall",
-        "branch": "Bel Air Mall"
+        "branch": "Bel Air Mall",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1213594, 30.6736948] }
     },
@@ -9356,9 +9358,10 @@
         "opening_hours": "Mo-Sa 06:00-21:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "6099 U",
+        "addr:housenumber": "6099",
         "addr:street": "South Highway 98",
-        "branch": "Hattiesburg"
+        "branch": "Hattiesburg",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-89.38071, 31.32244] }
     },
@@ -9599,9 +9602,10 @@
         "opening_hours": "Mo-Fr 06:00-22:00; Sa 06:30-22:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "5003A",
+        "addr:housenumber": "5003",
         "addr:street": "Victory Boulevard",
-        "branch": "Victory Boulevard"
+        "branch": "Victory Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.46612, 37.11566] }
     },
@@ -20160,9 +20164,10 @@
         "opening_hours": "Mo-Sa 06:00-22:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "5033-D 290",
+        "addr:housenumber": "5033",
         "addr:street": "West",
-        "branch": "South Mopac at US Highway 290 West"
+        "branch": "South Mopac at US Highway 290 West",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-97.8247877, 30.2329823] }
     },
@@ -26476,9 +26481,10 @@
         "opening_hours": "Mo-Th 06:30-21:00; Fr-Sa 06:30-22:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "3711 U",
+        "addr:housenumber": "3711",
         "addr:street": "South Highway 280",
-        "branch": "Phenix City"
+        "branch": "Phenix City",
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-85.0450519, 32.497959] }
     },
@@ -38368,9 +38374,10 @@
         "opening_hours": "Mo-Sa 06:00-22:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "6681A",
+        "addr:housenumber": "6681",
         "addr:street": "Backlick Road",
-        "branch": "Springfield In-Line DT"
+        "branch": "Springfield In-Line DT",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.183115, 38.773586] }
     },
@@ -49383,9 +49390,10 @@
         "opening_hours": "Mo-Sa 06:30-22:00; Su off",
         "brand": "Chick-fil-A",
         "brand:wikidata": "Q491516",
-        "addr:housenumber": "216B",
+        "addr:housenumber": "216",
         "addr:street": "McGlothlin Campus Center",
-        "branch": "Abilene Christian University"
+        "branch": "Abilene Christian University",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-99.708456, 32.469187] }
     },

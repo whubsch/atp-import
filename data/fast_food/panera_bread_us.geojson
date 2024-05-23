@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "panera_bread_us",
     "source": "structured_data",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-28" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -11676,8 +11676,9 @@
         "opening_hours": "Mo-Sa 06:00-21:00; Su 07:00-20:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "7547A",
-        "addr:street": "South Olympia Avenue"
+        "addr:housenumber": "7547",
+        "addr:street": "South Olympia Avenue",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -13014,8 +13015,9 @@
         "opening_hours": "06:30-21:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "3500 E",
-        "addr:street": "South Range Road"
+        "addr:housenumber": "3500",
+        "addr:street": "South Range Road",
+        "addr:unit": "E"
       },
       "geometry": { "type": "Point", "coordinates": [-80.5860465, 40.940702] }
     },
@@ -16474,8 +16476,9 @@
         "opening_hours": "07:00-21:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "24A",
-        "addr:street": "Rockland Plaza North Middletown Road"
+        "addr:housenumber": "24",
+        "addr:street": "Rockland Plaza North Middletown Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -19223,8 +19226,9 @@
         "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "871 B",
-        "addr:street": "1 South"
+        "addr:housenumber": "871",
+        "addr:street": "1 South",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-74.4598117, 40.462414] }
     },
@@ -20533,8 +20537,9 @@
         "opening_hours": "Mo-Th 06:00-21:30; Fr-Sa 06:00-22:00; Su 06:00-21:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "19B",
-        "addr:street": "Manchester Road"
+        "addr:housenumber": "19",
+        "addr:street": "Manchester Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-71.3313914, 42.8976072] }
     },
@@ -25497,8 +25502,9 @@
         "opening_hours": "07:00-21:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "8601C",
-        "addr:street": "Springbrook Drive"
+        "addr:housenumber": "8601",
+        "addr:street": "Springbrook Drive",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-93.266479, 45.126118] }
     },
@@ -36813,8 +36819,9 @@
         "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-22:00",
         "brand": "Panera Bread",
         "brand:wikidata": "Q7130852",
-        "addr:housenumber": "105-B",
-        "addr:street": "Crown Pointe Parkway"
+        "addr:housenumber": "105",
+        "addr:street": "Crown Pointe Parkway",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6514405, 30.7875039] }
     },

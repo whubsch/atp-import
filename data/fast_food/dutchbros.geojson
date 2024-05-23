@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "dutchbros",
     "spider:collection_time": "2024-04-20T21:13:09.348902",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-29" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -373,7 +373,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "6965",
         "addr:street": "North 95th Avenue",
-        "branch": "Glendale "
+        "branch": "Glendale"
       },
       "geometry": { "type": "Point", "coordinates": [-112.263337, 33.536657] }
     },
@@ -1851,9 +1851,10 @@
         "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00",
         "brand": "Dutch Bros. Coffee",
         "brand:wikidata": "Q5317253",
-        "addr:housenumber": "2815 B",
+        "addr:housenumber": "2815",
         "addr:street": "Jefferson Street",
-        "branch": "Napa"
+        "branch": "Napa",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-122.29739, 38.31377] }
     },
@@ -3083,7 +3084,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "7445",
         "addr:street": "Madison Avenue",
-        "branch": "Citrus Heights "
+        "branch": "Citrus Heights"
       },
       "geometry": { "type": "Point", "coordinates": [-121.290757, 38.6641] }
     },
@@ -4014,8 +4015,9 @@
         "opening_hours": "05:00-23:00",
         "brand": "Dutch Bros. Coffee",
         "brand:wikidata": "Q5317253",
-        "addr:housenumber": "1000A",
-        "addr:street": "Riley Street"
+        "addr:housenumber": "1000",
+        "addr:street": "Riley Street",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-121.16992, 38.67124] }
     },
@@ -4603,8 +4605,9 @@
         "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00",
         "brand": "Dutch Bros. Coffee",
         "brand:wikidata": "Q5317253",
-        "addr:housenumber": "8847 C",
-        "addr:street": "Avenue 280"
+        "addr:housenumber": "8847",
+        "addr:street": "Avenue 280",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-119.37783, 36.29723] }
     },
@@ -6570,7 +6573,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "1100",
         "addr:street": "South 16th Street",
-        "branch": "Payette "
+        "branch": "Payette"
       },
       "geometry": { "type": "Point", "coordinates": [-116.92344, 44.06361] }
     },
@@ -6986,7 +6989,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "8649",
         "addr:street": "West Overland Road",
-        "branch": "Boise "
+        "branch": "Boise"
       },
       "geometry": { "type": "Point", "coordinates": [-116.28949, 43.589975] }
     },
@@ -9290,7 +9293,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "5805",
         "addr:street": "South 6th Street",
-        "branch": "Klamath Falls "
+        "branch": "Klamath Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-121.71743, 42.2068] }
     },
@@ -9312,7 +9315,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "201",
         "addr:street": "6th Street",
-        "branch": "Klamath Falls "
+        "branch": "Klamath Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-121.781233, 42.224226] }
     },
@@ -9334,7 +9337,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "3041",
         "addr:street": "South 6th Street",
-        "branch": "Klamath Falls "
+        "branch": "Klamath Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-121.75184, 42.20883] }
     },
@@ -9356,7 +9359,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "3255",
         "addr:street": "Washburn Way",
-        "branch": "Klamath Falls "
+        "branch": "Klamath Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-121.75647, 42.19843] }
     },
@@ -9378,7 +9381,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "2568",
         "addr:street": "Campus Drive",
-        "branch": "Klamath Falls "
+        "branch": "Klamath Falls"
       },
       "geometry": { "type": "Point", "coordinates": [-121.788085, 42.249875] }
     },
@@ -9400,7 +9403,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "2091",
         "addr:street": "Southeast Tualatin Valley Highway",
-        "branch": "Hillsboro "
+        "branch": "Hillsboro"
       },
       "geometry": { "type": "Point", "coordinates": [-122.961588, 45.507209] }
     },
@@ -9772,7 +9775,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "903",
         "addr:street": "Northeast D Street",
-        "branch": "Grants Pass "
+        "branch": "Grants Pass"
       },
       "geometry": { "type": "Point", "coordinates": [-123.31247, 42.44004] }
     },
@@ -9860,7 +9863,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "3500",
         "addr:street": "Merlin Road",
-        "branch": "Grants Pass "
+        "branch": "Grants Pass"
       },
       "geometry": { "type": "Point", "coordinates": [-123.369648, 42.496609] }
     },
@@ -10709,7 +10712,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "165",
         "addr:street": "North Pacific Avenue",
-        "branch": "Monmouth "
+        "branch": "Monmouth"
       },
       "geometry": { "type": "Point", "coordinates": [-123.229025, 44.849202] }
     },
@@ -10992,7 +10995,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "107",
         "addr:street": "Molalla Avenue",
-        "branch": "Oregon City "
+        "branch": "Oregon City"
       },
       "geometry": { "type": "Point", "coordinates": [-122.596463, 45.351524] }
     },
@@ -11452,7 +11455,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "4455",
         "addr:street": "Southeast 26th Avenue",
-        "branch": "Portland "
+        "branch": "Portland"
       },
       "geometry": { "type": "Point", "coordinates": [-122.639885, 45.490518] }
     },
@@ -11951,7 +11954,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "1910",
         "addr:street": "Highway 99",
-        "branch": "Ashland "
+        "branch": "Ashland"
       },
       "geometry": { "type": "Point", "coordinates": [-122.736477, 42.21885] }
     },
@@ -12082,7 +12085,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "832",
         "addr:street": "South Front Street",
-        "branch": "Central Point "
+        "branch": "Central Point"
       },
       "geometry": { "type": "Point", "coordinates": [-122.911369, 42.366619] }
     },
@@ -12104,7 +12107,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "2832",
         "addr:street": "Crater Lake Highway",
-        "branch": "Medford "
+        "branch": "Medford"
       },
       "geometry": { "type": "Point", "coordinates": [-122.86235, 42.358326] }
     },
@@ -12411,7 +12414,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "940",
         "addr:street": "Virginia Street",
-        "branch": "North Bend "
+        "branch": "North Bend"
       },
       "geometry": { "type": "Point", "coordinates": [-124.22665, 43.40705] }
     },
@@ -12543,7 +12546,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "1990",
         "addr:street": "South Highway 97",
-        "branch": "Redmond "
+        "branch": "Redmond"
       },
       "geometry": { "type": "Point", "coordinates": [-121.18026, 44.25828] }
     },
@@ -12652,7 +12655,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "115",
         "addr:street": "North Redwood Highway",
-        "branch": "Cave Junction "
+        "branch": "Cave Junction"
       },
       "geometry": { "type": "Point", "coordinates": [-123.645995, 42.166842] }
     },
@@ -17963,7 +17966,7 @@
         "addr:housenumber": "1505",
         "addr:street": "West Main Street",
         "addr:unit": "101",
-        "branch": "Battle Ground "
+        "branch": "Battle Ground"
       },
       "geometry": { "type": "Point", "coordinates": [-122.55341, 45.78025] }
     },
@@ -18029,7 +18032,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "6609",
         "addr:street": "Burden Boulevard",
-        "branch": "Pasco "
+        "branch": "Pasco"
       },
       "geometry": { "type": "Point", "coordinates": [-119.177468, 46.27082] }
     },
@@ -18051,7 +18054,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "2601",
         "addr:street": "Court Street",
-        "branch": "Pasco "
+        "branch": "Pasco"
       },
       "geometry": { "type": "Point", "coordinates": [-119.1259, 46.242085] }
     },
@@ -18073,7 +18076,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "496",
         "addr:street": "Keene Road",
-        "branch": "Richland "
+        "branch": "Richland"
       },
       "geometry": { "type": "Point", "coordinates": [-119.283053, 46.237101] }
     },
@@ -18508,7 +18511,7 @@
         "brand:wikidata": "Q5317253",
         "addr:housenumber": "121",
         "addr:street": "North Stratford Road",
-        "branch": "Moses Lake "
+        "branch": "Moses Lake"
       },
       "geometry": { "type": "Point", "coordinates": [-119.278089, 47.13247] }
     },

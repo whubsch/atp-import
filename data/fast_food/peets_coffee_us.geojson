@@ -5,7 +5,7 @@
     "api": "stockist.co",
     "source": "api",
     "spider:collection_time": "2024-04-14T07:32:20.711095",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1498,9 +1498,10 @@
         "opening_hours": "Mo-Sa 05:00-20:00; Su 06:00-20:00",
         "brand": "Peet's Coffee",
         "brand:wikidata": "Q1094101",
-        "addr:housenumber": "153-B",
+        "addr:housenumber": "153",
         "addr:street": "Serramonte Center",
-        "branch": "Daly City - Serramonte"
+        "branch": "Daly City - Serramonte",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-122.475049, 37.669266] }
     },
@@ -2869,9 +2870,10 @@
         "opening_hours": "Mo-Fr 05:30-17:30; Sa-Su 05:30-18:00",
         "brand": "Peet's Coffee",
         "brand:wikidata": "Q1094101",
-        "addr:housenumber": "3571-A",
+        "addr:housenumber": "3571",
         "addr:street": "East Foothill Boulevard",
-        "branch": "Hastings Ranch"
+        "branch": "Hastings Ranch",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-118.075172, 34.151131] }
     },
@@ -4989,9 +4991,10 @@
         "opening_hours": "Mo-Fr 05:30-18:00; Sa-Su 06:00-18:00",
         "brand": "Peet's Coffee",
         "brand:wikidata": "Q1094101",
-        "addr:housenumber": "2139 C",
+        "addr:housenumber": "2139",
         "addr:street": "Polk Street",
-        "branch": "Polk Street"
+        "branch": "Polk Street",
+        "addr:unit": "C"
       },
       "geometry": {
         "type": "Point",

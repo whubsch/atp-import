@@ -4,7 +4,7 @@
     "@spider": "five_guys_us",
     "source": "structured_data",
     "spider:collection_time": "2024-04-13T23:09:36.665817",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -1733,8 +1733,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "915-A",
-        "addr:street": "Playa Avenue"
+        "addr:housenumber": "915",
+        "addr:street": "Playa Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-121.8451547, 36.6205314] }
     },
@@ -1954,8 +1955,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "901 B",
-        "addr:street": "West Anthony Drive"
+        "addr:housenumber": "901",
+        "addr:street": "West Anthony Drive",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -2708,8 +2710,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "85D",
-        "addr:street": "Faunce Corner Road"
+        "addr:housenumber": "85",
+        "addr:street": "Faunce Corner Road",
+        "addr:unit": "D"
       },
       "geometry": {
         "type": "Point",
@@ -8762,8 +8765,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "584-A",
-        "addr:street": "Centreville Road"
+        "addr:housenumber": "584",
+        "addr:street": "Centreville Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -10614,8 +10618,9 @@
         "opening_hours": "Mo 11:00-22:00; Tu-Su 11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "5106-A",
-        "addr:street": "Jonestown Road"
+        "addr:housenumber": "5106",
+        "addr:street": "Jonestown Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -11826,8 +11831,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "474 B",
-        "addr:street": "Memorial Drive"
+        "addr:housenumber": "474",
+        "addr:street": "Memorial Drive",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-72.5774271, 42.1714597] }
     },
@@ -12353,8 +12359,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "45250-B",
-        "addr:street": "Worth Avenue"
+        "addr:housenumber": "45250",
+        "addr:street": "Worth Avenue",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -12501,8 +12508,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "45-A",
-        "addr:street": "Merrick Road"
+        "addr:housenumber": "45",
+        "addr:street": "Merrick Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -13893,7 +13901,6 @@
         "branch": "Plymouth",
         "phone": "+1 612-426-7187",
         "website": "https://restaurants.fiveguys.com/4105-vinewood-lane-north",
-        "email": "largeordersfgmn@fiveguysmn.net",
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
@@ -15505,8 +15512,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "3640B",
-        "addr:street": "Lake Tahoe Boulevard"
+        "addr:housenumber": "3640",
+        "addr:street": "Lake Tahoe Boulevard",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -15630,8 +15638,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "36050-A",
-        "addr:street": "Detroit Road"
+        "addr:housenumber": "36050",
+        "addr:street": "Detroit Road",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -17190,8 +17199,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "3234 B",
-        "addr:street": "Kirkwood Highway"
+        "addr:housenumber": "3234",
+        "addr:street": "Kirkwood Highway",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-75.6254094, 39.735103] }
     },
@@ -20054,8 +20064,9 @@
         "opening_hours": "10:30-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "2724-C",
-        "addr:street": "Carl T. Jones Drive"
+        "addr:housenumber": "2724",
+        "addr:street": "Carl T. Jones Drive",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-86.5475434, 34.6751794] }
     },
@@ -20077,8 +20088,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "2711-A",
-        "addr:street": "North Kansas Expressway"
+        "addr:housenumber": "2711",
+        "addr:street": "North Kansas Expressway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-93.3121415, 37.24617] }
     },
@@ -20479,8 +20491,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "268-B",
-        "addr:street": "Franklin Village Drive"
+        "addr:housenumber": "268",
+        "addr:street": "Franklin Village Drive",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -22195,8 +22208,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "2408-A",
-        "addr:street": "North Salisbury Boulevard"
+        "addr:housenumber": "2408",
+        "addr:street": "North Salisbury Boulevard",
+        "addr:unit": "A"
       },
       "geometry": {
         "type": "Point",
@@ -24896,7 +24910,6 @@
         "branch": "Springfield",
         "phone": "+1 973-671-1118",
         "website": "https://restaurants.fiveguys.com/201-route-22-east",
-        "email": "largeorders@gellerthg.com",
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
@@ -27572,8 +27585,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "1701B",
-        "addr:street": "Norman Drive"
+        "addr:housenumber": "1701",
+        "addr:street": "Norman Drive",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-83.3187887, 30.8410034] }
     },
@@ -28097,8 +28111,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "16398 B.",
-        "addr:street": "Consumer Way"
+        "addr:housenumber": "16398",
+        "addr:street": "Consumer Way",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-77.055794, 38.349707] }
     },
@@ -32797,8 +32812,9 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "127 G",
-        "addr:street": "Route 130"
+        "addr:housenumber": "127",
+        "addr:street": "Route 130",
+        "addr:unit": "G"
       },
       "geometry": {
         "type": "Point",
@@ -33072,7 +33088,7 @@
         "opening_hours": "11:00-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "1251 R1",
+        "addr:housenumber": "1251",
         "addr:street": "North Bridge Street",
         "addr:unit": "R"
       },
@@ -33547,8 +33563,9 @@
         "opening_hours": "10:30-21:30",
         "brand": "Five Guys",
         "brand:wikidata": "Q1131810",
-        "addr:housenumber": "1221-A",
-        "addr:street": "North Memorial Parkway"
+        "addr:housenumber": "1221",
+        "addr:street": "North Memorial Parkway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.601661, 34.7445458] }
     },

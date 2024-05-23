@@ -4,7 +4,7 @@
     "@spider": "jackinthebox",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T02:30:56.249985",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -20482,8 +20482,9 @@
         "website": "https://locations.jackinthebox.com/us/tx/el-paso/7911-a-artcraft-rd",
         "brand": "Jack in the Box",
         "brand:wikidata": "Q1538507",
-        "addr:housenumber": "7911-A",
-        "addr:street": "Artcraft Road"
+        "addr:housenumber": "7911",
+        "addr:street": "Artcraft Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-106.584265, 31.883293] }
     },
@@ -20622,8 +20623,9 @@
         "website": "https://locations.jackinthebox.com/us/tx/el-paso/1318a-george-dieter-dr",
         "brand": "Jack in the Box",
         "brand:wikidata": "Q1538507",
-        "addr:housenumber": "1318a",
-        "addr:street": "George Dieter Drive"
+        "addr:housenumber": "1318",
+        "addr:street": "George Dieter Drive",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-106.302112, 31.724554] }
     },
@@ -26164,8 +26166,9 @@
         "website": "https://locations.jackinthebox.com/us/ca/indio/42550b-jackson-st",
         "brand": "Jack in the Box",
         "brand:wikidata": "Q1538507",
-        "addr:housenumber": "42550B",
-        "addr:street": "Jackson Street"
+        "addr:housenumber": "42550",
+        "addr:street": "Jackson Street",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-116.215495, 33.740397] }
     },

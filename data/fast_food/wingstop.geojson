@@ -3,7 +3,7 @@
   "dataset_attributes": {
     "@spider": "wingstop",
     "spider:collection_time": "2024-04-14T17:25:08.107220",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -678,7 +678,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "66",
         "addr:street": "Taylor Highway",
-        "branch": "Aloha Lab 9994   Delivery Only"
+        "branch": "Aloha Lab 9994 Delivery Only"
       },
       "geometry": { "type": "Point", "coordinates": [-141.935039, 64.0720121] }
     },
@@ -2058,7 +2058,7 @@
         "addr:housenumber": "2410",
         "addr:street": "East Riverside Drive",
         "addr:unit": "A1",
-        "branch": "Austin   East Riverside Drive"
+        "branch": "Austin East Riverside Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-97.7240716, 30.2373661] }
     },
@@ -2079,7 +2079,7 @@
         "addr:housenumber": "13450",
         "addr:street": "Research Boulevard",
         "addr:unit": "238",
-        "branch": "Austin   Research Boulevard"
+        "branch": "Austin Research Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-97.7908619, 30.4472775] }
     },
@@ -2161,7 +2161,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5400",
         "addr:street": "North IH 35",
-        "branch": "Austin North Ih 35   Capital Plaza"
+        "branch": "Austin North Ih 35 Capital Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-97.7049433, 30.3154286] }
     },
@@ -3325,9 +3325,10 @@
         "phone": "+1 510-705-1584",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "2512A",
+        "addr:housenumber": "2512",
         "addr:street": "Telegraph Avenue",
-        "branch": "Berkeley Telegraph Avenue"
+        "branch": "Berkeley Telegraph Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-122.2587224, 37.8647187] }
     },
@@ -4099,9 +4100,10 @@
         "phone": "+1 347-427-9995",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "2161A",
+        "addr:housenumber": "2161",
         "addr:street": "White Plains Road",
-        "branch": "Bronx White Plains Road"
+        "branch": "Bronx White Plains Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-73.8679735, 40.8553681] }
     },
@@ -4634,7 +4636,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "2925",
         "addr:street": "Buford Drive",
-        "branch": "Buford   Buford Drive"
+        "branch": "Buford Buford Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-83.993879, 34.0514651] }
     },
@@ -5635,9 +5637,10 @@
         "phone": "+1 703-866-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "14215-B",
+        "addr:housenumber": "14215",
         "addr:street": "Centreville Square",
-        "branch": "Centreville Centreville Square"
+        "branch": "Centreville Centreville Square",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-77.4355994, 38.8367492] }
     },
@@ -6026,9 +6029,10 @@
         "phone": "+1 307-433-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "3610-A6",
+        "addr:housenumber": "3610",
         "addr:street": "Dell Range Boulevard",
-        "branch": "Cheyenne Dell Range Boulevard"
+        "branch": "Cheyenne Dell Range Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-104.7654483, 41.1611197] }
     },
@@ -8751,7 +8755,7 @@
         "phone": "+1 832-856-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "branch": "Cypress   Fair Field"
+        "branch": "Cypress Fair Field"
       },
       "geometry": { "type": "Point", "coordinates": [-95.7425265, 29.9920177] }
     },
@@ -8771,7 +8775,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "13849",
         "addr:street": "Cypress North Houston Road",
-        "branch": "Cypress   Huffmeister Road"
+        "branch": "Cypress Huffmeister Road"
       },
       "geometry": {
         "type": "Point",
@@ -8896,7 +8900,7 @@
         "addr:housenumber": "1515",
         "addr:street": "South Buckner Boulevard",
         "addr:unit": "247B",
-        "branch": "Dallas Buckner Boulevard   El Rancho Shopping Center"
+        "branch": "Dallas Buckner Boulevard El Rancho Shopping Center"
       },
       "geometry": { "type": "Point", "coordinates": [-96.6848296, 32.7377724] }
     },
@@ -9655,7 +9659,7 @@
         "phone": "+1 678-974-8413",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "3553-A",
+        "addr:housenumber": "3553",
         "addr:street": "Memorial Drive",
         "addr:unit": "6",
         "branch": "Decatur Memorial Drive"
@@ -10249,9 +10253,10 @@
         "phone": "+1 708-517-0178",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "14513-A",
+        "addr:housenumber": "14513",
         "addr:street": "South Western Avenue",
-        "branch": "Dixmoor South Western Avenue"
+        "branch": "Dixmoor South Western Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-87.6755126, 41.625681] }
     },
@@ -10642,9 +10647,10 @@
         "phone": "+1 864-453-9969",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "4839-B",
+        "addr:housenumber": "4839",
         "addr:street": "Calhoun Memorial Highway",
-        "branch": "Easley Calhoun Memorial Highway"
+        "branch": "Easley Calhoun Memorial Highway",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-82.5444815, 34.8254327] }
     },
@@ -10684,7 +10690,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1838",
         "addr:street": "E Avenue J",
-        "branch": "East Lancaster   East Avenue J & 20th St East"
+        "branch": "East Lancaster East Avenue J & 20th St East"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0966482, 34.6882939] }
     },
@@ -10705,7 +10711,7 @@
         "addr:housenumber": "2551",
         "addr:street": "E Avenue South",
         "addr:unit": "L",
-        "branch": "East Palmdale   20th St East & Avenue South"
+        "branch": "East Palmdale 20th St East & Avenue South"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0829027, 34.5588986] }
     },
@@ -10726,7 +10732,7 @@
         "addr:housenumber": "37134",
         "addr:street": "47th East",
         "addr:unit": "C",
-        "branch": "East Palmdale   47th St East & Avenue South"
+        "branch": "East Palmdale 47th St East & Avenue South"
       },
       "geometry": { "type": "Point", "coordinates": [-118.0448409, 34.556623] }
     },
@@ -11442,9 +11448,10 @@
         "phone": "+1 908-558-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "178 B",
+        "addr:housenumber": "178",
         "addr:street": "Elmora Avenue",
-        "branch": "Elizabeth Elmora Avenue"
+        "branch": "Elizabeth Elmora Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2342794, 40.6634006] }
     },
@@ -11870,9 +11877,10 @@
         "phone": "+1 609-362-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "1566A",
+        "addr:housenumber": "1566",
         "addr:street": "North Olden Avenue",
-        "branch": "Ewing North Olden Avenue"
+        "branch": "Ewing North Olden Avenue",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-74.7552233, 40.2425944] }
     },
@@ -13631,7 +13639,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "51",
         "addr:street": "Cabela Drive",
-        "branch": "Garner   Cabela Drive"
+        "branch": "Garner Cabela Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-78.5856462, 35.6988687] }
     },
@@ -13833,9 +13841,10 @@
         "phone": "+1 410-766-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "6710A",
+        "addr:housenumber": "6710",
         "addr:street": "Ritchie Highway",
-        "branch": "Glen Burnie Ritchie Highway"
+        "branch": "Glen Burnie Ritchie Highway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.6142192, 39.1925357] }
     },
@@ -13895,7 +13904,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5833",
         "addr:street": "West Thunderbird Road",
-        "branch": "Glendale   Thunderbird Road"
+        "branch": "Glendale Thunderbird Road"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1846927, 33.6094041] }
     },
@@ -13916,7 +13925,7 @@
         "addr:housenumber": "5838",
         "addr:street": "West Olive Avenue",
         "addr:unit": "C101",
-        "branch": "Glendale   West Olive Avenue & North 59th Avenue"
+        "branch": "Glendale West Olive Avenue & North 59th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1848667, 33.5690329] }
     },
@@ -14647,9 +14656,10 @@
         "phone": "+1 971-293-4700",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "901-G",
+        "addr:housenumber": "901",
         "addr:street": "Southwest Highland Drive",
-        "branch": "Gresham Southwest Highland Drive"
+        "branch": "Gresham Southwest Highland Drive",
+        "addr:unit": "G"
       },
       "geometry": { "type": "Point", "coordinates": [-122.4768342, 45.4900953] }
     },
@@ -14971,9 +14981,10 @@
         "phone": "+1 443-274-2429",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "2637B",
+        "addr:housenumber": "2637",
         "addr:street": "Annapolis Road",
-        "branch": "Hanover Annapolis Road"
+        "branch": "Hanover Annapolis Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-76.7405509, 39.1312484] }
     },
@@ -15701,9 +15712,10 @@
         "phone": "+1 219-924-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "10435-B",
+        "addr:housenumber": "10435",
         "addr:street": "Indianapolis Boulevard",
-        "branch": "Highland Indianapolis Boulevard"
+        "branch": "Highland Indianapolis Boulevard",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.4703402, 41.5243307] }
     },
@@ -17130,7 +17142,7 @@
         "addr:housenumber": "174",
         "addr:street": "Yale Street",
         "addr:unit": "600",
-        "branch": "Houston Yale   The Heights"
+        "branch": "Houston Yale The Heights"
       },
       "geometry": { "type": "Point", "coordinates": [-95.3982499, 29.773657] }
     },
@@ -17148,9 +17160,10 @@
         "phone": "+1 346-352-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "448D",
+        "addr:housenumber": "448",
         "addr:street": "West Little York Road",
-        "branch": "Houston York Plaza"
+        "branch": "Houston York Plaza",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-95.407004, 29.8707616] }
     },
@@ -17860,7 +17873,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1430",
         "addr:street": "Ellis Avenue",
-        "branch": "Jackson   Ellis Avenue"
+        "branch": "Jackson Ellis Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-90.2274067, 32.293085] }
     },
@@ -17880,7 +17893,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "952",
         "addr:street": "North State Street",
-        "branch": "Jackson   State Street"
+        "branch": "Jackson State Street"
       },
       "geometry": { "type": "Point", "coordinates": [-90.177558, 32.3115575] }
     },
@@ -18567,9 +18580,10 @@
         "phone": "+1 816-482-9866",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "3029B",
+        "addr:housenumber": "3029",
         "addr:street": "Prospect Avenue",
-        "branch": "Kansas City Prospect Avenue"
+        "branch": "Kansas City Prospect Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-94.5525007, 39.0704515] }
     },
@@ -19312,7 +19326,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1438",
         "addr:street": "West Fairmont Parkway",
-        "branch": "La Porte   West Fairmont @ Hwy146"
+        "branch": "La Porte West Fairmont @ Hwy146"
       },
       "geometry": { "type": "Point", "coordinates": [-95.0329298, 29.6535809] }
     },
@@ -21938,7 +21952,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5049",
         "addr:street": "Whittier Boulevard",
-        "branch": "Los Angeles Whittier At Clela   East L.A."
+        "branch": "Los Angeles Whittier At Clela East L.A."
       },
       "geometry": { "type": "Point", "coordinates": [-118.1605641, 34.0213368] }
     },
@@ -22098,9 +22112,10 @@
         "phone": "+1 502-791-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "5524 C",
+        "addr:housenumber": "5524",
         "addr:street": "New Cut Road",
-        "branch": "Louisville New Cut Road"
+        "branch": "Louisville New Cut Road",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-85.7757752, 38.1432569] }
     },
@@ -22405,9 +22420,10 @@
         "phone": "+1 708-777-1382",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "3900B",
+        "addr:housenumber": "3900",
         "addr:street": "Harlem Avenue",
-        "branch": "Lyons Harlem Avenue"
+        "branch": "Lyons Harlem Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.8027656, 41.8209915] }
     },
@@ -23529,7 +23545,7 @@
         "addr:housenumber": "1457",
         "addr:street": "West Southern Avenue",
         "addr:unit": "13",
-        "branch": "Mesa   West Southern & South Longmore"
+        "branch": "Mesa West Southern & South Longmore"
       },
       "geometry": { "type": "Point", "coordinates": [-111.8627563, 33.3926086] }
     },
@@ -23955,9 +23971,10 @@
         "phone": "+1 786-391-0825",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "9457 A.",
+        "addr:housenumber": "9457",
         "addr:street": "West Flagler Street",
-        "branch": "Miami West Flagler St"
+        "branch": "Miami West Flagler St",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.350364, 25.7694787] }
     },
@@ -24205,7 +24222,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5610",
         "addr:street": "West Capitol Drive",
-        "branch": "Milwaukee   Midtown"
+        "branch": "Milwaukee Midtown"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9835403, 43.090241] }
     },
@@ -25370,9 +25387,10 @@
         "phone": "+1 615-352-0088",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "7088-C",
+        "addr:housenumber": "7088",
         "addr:street": "Charlotte Pike",
-        "branch": "Nashville Charlotte Pike"
+        "branch": "Nashville Charlotte Pike",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-86.9072752, 36.1290037] }
     },
@@ -26766,9 +26784,10 @@
         "phone": "+1 630-632-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "17W629",
+        "addr:housenumber": "17",
         "addr:street": "Roosevelt Road",
-        "branch": "Oakbrook Terrace Roosevelt Road"
+        "branch": "Oakbrook Terrace Roosevelt Road",
+        "addr:unit": "W"
       },
       "geometry": { "type": "Point", "coordinates": [-87.973662, 41.860132] }
     },
@@ -27967,9 +27986,10 @@
         "phone": "+1 903-731-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "1625-A",
+        "addr:housenumber": "1625",
         "addr:street": "South Loop 256",
-        "branch": "Palestine South Loop 256"
+        "branch": "Palestine South Loop 256",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.6069894, 31.7389311] }
     },
@@ -28270,9 +28290,10 @@
         "phone": "+1 713-472-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "114B",
+        "addr:housenumber": "114",
         "addr:street": "West Southmore Avenue",
-        "branch": "Pasadena Southmore"
+        "branch": "Pasadena Southmore",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-95.2129346, 29.6913514] }
     },
@@ -28394,7 +28415,7 @@
         "addr:housenumber": "2701",
         "addr:street": "Pearland Parkway",
         "addr:unit": "170",
-        "branch": "Pearland   Pearland Parkway Next To Lowes"
+        "branch": "Pearland Pearland Parkway Next To Lowes"
       },
       "geometry": { "type": "Point", "coordinates": [-95.2602768, 29.5578635] }
     },
@@ -29111,7 +29132,7 @@
         "addr:housenumber": "1610",
         "addr:street": "North 75th Avenue",
         "addr:unit": "110",
-        "branch": "Phoenix   North 75th Avenue"
+        "branch": "Phoenix North 75th Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.2213306, 33.4661904] }
     },
@@ -29132,7 +29153,7 @@
         "addr:housenumber": "2420",
         "addr:street": "West Bethany Home Road",
         "addr:unit": "125",
-        "branch": "Phoenix   West Bethany Home Road"
+        "branch": "Phoenix West Bethany Home Road"
       },
       "geometry": { "type": "Point", "coordinates": [-112.110746, 33.5245184] }
     },
@@ -29153,7 +29174,7 @@
         "addr:housenumber": "4239",
         "addr:street": "West McDowell Road",
         "addr:unit": "5",
-        "branch": "Phoenix   West McDowell Road & North 43rd Avenue"
+        "branch": "Phoenix West McDowell Road & North 43rd Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-112.1501938, 33.4649529] }
     },
@@ -29769,7 +29790,7 @@
         "addr:housenumber": "2044",
         "addr:street": "West Oaklawn Road",
         "addr:unit": "130",
-        "branch": "Pleasanton West Oaklawn Road   Highway 97"
+        "branch": "Pleasanton West Oaklawn Road Highway 97"
       },
       "geometry": { "type": "Point", "coordinates": [-98.5111095, 28.9418463] }
     },
@@ -29929,9 +29950,10 @@
         "phone": "+1 269-224-4346",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "5228B",
+        "addr:housenumber": "5228",
         "addr:street": "South Westnedge Avenue",
-        "branch": "Portage South Westnedge Avenue"
+        "branch": "Portage South Westnedge Avenue",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-85.590592, 42.2412949] }
     },
@@ -30297,7 +30319,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "5022",
         "addr:street": "West Avenue North",
-        "branch": "Quartz Hill   Avenue North & 50th St West"
+        "branch": "Quartz Hill Avenue North & 50th St West"
       },
       "geometry": { "type": "Point", "coordinates": [-118.2195391, 34.6292421] }
     },
@@ -31324,9 +31346,10 @@
         "phone": "+1 760-371-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "750A",
+        "addr:housenumber": "750",
         "addr:street": "North China Lake Boulevard",
-        "branch": "Ridgecrest North China Lake Boulevard"
+        "branch": "Ridgecrest North China Lake Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-117.6694349, 35.6347152] }
     },
@@ -32493,7 +32516,7 @@
         "addr:housenumber": "3031",
         "addr:street": "West Woodlawn Avenue",
         "addr:unit": "107",
-        "branch": "San Antonio   West Woodlawn & Bandera Road"
+        "branch": "San Antonio West Woodlawn & Bandera Road"
       },
       "geometry": { "type": "Point", "coordinates": [-98.5545919, 29.4582735] }
     },
@@ -32681,7 +32704,7 @@
         "addr:housenumber": "502",
         "addr:street": "Embassy Oaks",
         "addr:unit": "126",
-        "branch": "San Antonio Embassy Oaks   At 281 & Bitters"
+        "branch": "San Antonio Embassy Oaks At 281 & Bitters"
       },
       "geometry": { "type": "Point", "coordinates": [-98.487316, 29.565124] }
     },
@@ -32765,7 +32788,7 @@
         "addr:housenumber": "8603",
         "addr:street": "State Highway 151",
         "addr:unit": "105",
-        "branch": "San Antonio Highway 151   Near 410"
+        "branch": "San Antonio Highway 151 Near 410"
       },
       "geometry": { "type": "Point", "coordinates": [-98.6567233, 29.43916] }
     },
@@ -32932,7 +32955,7 @@
         "addr:housenumber": "4130",
         "addr:street": "South New Braunfels Avenue",
         "addr:unit": "107",
-        "branch": "San Antonio South New Braunfels Avenue   Near East Southcross"
+        "branch": "San Antonio South New Braunfels Avenue Near East Southcross"
       },
       "geometry": { "type": "Point", "coordinates": [-98.4606701, 29.3781534] }
     },
@@ -33055,7 +33078,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1322",
         "addr:street": "Southwest Military Drive",
-        "branch": "San Antonio Southwest Military Drive   Near Commercial Avenue"
+        "branch": "San Antonio Southwest Military Drive Near Commercial Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-98.5133951, 29.3562537] }
     },
@@ -33076,7 +33099,7 @@
         "addr:housenumber": "4622",
         "addr:street": "West Commerce Street",
         "addr:unit": "102",
-        "branch": "San Antonio West Commerce St   At North Gen McMullen"
+        "branch": "San Antonio West Commerce St At North Gen McMullen"
       },
       "geometry": { "type": "Point", "coordinates": [-98.5526815, 29.4301243] }
     },
@@ -34199,7 +34222,7 @@
         "addr:housenumber": "24180",
         "addr:street": "Lyons Avenue",
         "addr:unit": "B",
-        "branch": "Santa Clarita Lyons Avenue   Newhall"
+        "branch": "Santa Clarita Lyons Avenue Newhall"
       },
       "geometry": { "type": "Point", "coordinates": [-118.5576838, 34.3785304] }
     },
@@ -34300,7 +34323,7 @@
         "addr:housenumber": "560",
         "addr:street": "East Betteravia Road",
         "addr:unit": "D",
-        "branch": "Santa Maria   East Betteravia Road"
+        "branch": "Santa Maria East Betteravia Road"
       },
       "geometry": { "type": "Point", "coordinates": [-120.4264096, 34.9221267] }
     },
@@ -34541,9 +34564,10 @@
         "phone": "+1 781-813-3883",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "352C",
+        "addr:housenumber": "352",
         "addr:street": "Broadway",
-        "branch": "Saugus Broadway"
+        "branch": "Saugus Broadway",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-71.0176933, 42.4848098] }
     },
@@ -34912,9 +34936,10 @@
         "phone": "+1 443-508-8586",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "350a",
+        "addr:housenumber": "350",
         "addr:street": "Ritchie Highway",
-        "branch": "Severna Park Ritchie Highway"
+        "branch": "Severna Park Ritchie Highway",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.5553184, 39.0872557] }
     },
@@ -35442,7 +35467,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "4813",
         "addr:street": "Firestone Boulevard",
-        "branch": "South Gate   Azalea Plaza"
+        "branch": "South Gate Azalea Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-118.1837132, 33.952658] }
     },
@@ -35746,9 +35771,10 @@
         "phone": "+1 352-835-5700",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "11206Spring",
+        "addr:housenumber": "11206",
         "addr:street": "Hill Drive",
-        "branch": "Spring Hill Spring Hill Drive"
+        "branch": "Spring Hill Spring Hill Drive",
+        "addr:unit": "SPRING"
       },
       "geometry": { "type": "Point", "coordinates": [-82.5380826, 28.4609265] }
     },
@@ -35868,9 +35894,10 @@
         "phone": "+1 417-890-9889",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "303C",
+        "addr:housenumber": "303",
         "addr:street": "East Battlefield Road",
-        "branch": "Springfield Battlefield"
+        "branch": "Springfield Battlefield",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-93.2933419, 37.1613814] }
     },
@@ -36031,7 +36058,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "1683",
         "addr:street": "West Sunset Boulevard",
-        "branch": "St George"
+        "branch": "Saint George"
       },
       "geometry": { "type": "Point", "coordinates": [-113.6195572, 37.1224194] }
     },
@@ -36518,9 +36545,10 @@
         "phone": "+1 847-450-7377",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "698A",
+        "addr:housenumber": "698",
         "addr:street": "South Barrington Road",
-        "branch": "Streamwood South Barrington Road"
+        "branch": "Streamwood South Barrington Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-88.1453887, 42.019319] }
     },
@@ -37006,9 +37034,10 @@
         "phone": "+1 864-655-4626",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "6003A",
+        "addr:housenumber": "6003",
         "addr:street": "Wade Hampton Boulevard",
-        "branch": "Taylors Wade Hampton Boulevard"
+        "branch": "Taylors Wade Hampton Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-82.281182, 34.9350224] }
     },
@@ -38905,9 +38934,10 @@
         "phone": "+1 813-499-9464",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "1925B",
+        "addr:housenumber": "1925",
         "addr:street": "West Brandon Boulevard",
-        "branch": "West Brandon Boulevard"
+        "branch": "West Brandon Boulevard",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-82.3153857, 27.9367811] }
     },
@@ -39578,7 +39608,7 @@
         "brand:wikidata": "Q8025339",
         "addr:housenumber": "44433",
         "addr:street": "Valley Central Way",
-        "branch": "West Lancaster   Valley Central Way & 25th West"
+        "branch": "West Lancaster Valley Central Way & 25th West"
       },
       "geometry": { "type": "Point", "coordinates": [-118.172363, 34.690377] }
     },
@@ -39884,9 +39914,10 @@
         "phone": "+1 224-347-9259",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "532B",
+        "addr:housenumber": "532",
         "addr:street": "West Dundee Road",
-        "branch": "Wheeling West Dundee Road"
+        "branch": "Wheeling West Dundee Road",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9291593, 42.1397948] }
     },
@@ -40170,9 +40201,10 @@
         "phone": "+1 302-516-7270",
         "brand": "Wingstop",
         "brand:wikidata": "Q8025339",
-        "addr:housenumber": "4723C",
+        "addr:housenumber": "4723",
         "addr:street": "Kirkwood Highway",
-        "branch": "Wilmington 4723 Kirkwood Highway"
+        "branch": "Wilmington 4723 Kirkwood Highway",
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-75.6625156, 39.7224167] }
     },

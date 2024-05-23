@@ -4,7 +4,7 @@
     "@spider": "zaxbys_us",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T17:44:21.846100",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-28" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -8269,8 +8269,9 @@
         "opening_hours": "10:30-23:00",
         "brand": "Zaxby's",
         "brand:wikidata": "Q8067525",
-        "addr:housenumber": "2603 E",
-        "addr:street": "West Connector"
+        "addr:housenumber": "2603",
+        "addr:street": "West Connector",
+        "addr:unit": "E"
       },
       "geometry": { "type": "Point", "coordinates": [-84.6220129, 33.8625315] }
     },

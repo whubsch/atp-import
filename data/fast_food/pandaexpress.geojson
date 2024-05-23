@@ -4,7 +4,7 @@
     "@spider": "pandaexpress",
     "source": "structured_data",
     "spider:collection_time": "2024-04-14T07:18:52.109528",
-    "cleaning": { "version": "0.2.0", "datetime": "2024-04-17" }
+    "cleaning": { "version": "0.2.1", "datetime": "2024-05-22" }
   },
   "features": [
     {
@@ -4950,7 +4950,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "1390",
         "addr:street": "FM 148",
-        "branch": "FM 148 & I-20"
+        "branch": "Fm 148 & I-20"
       },
       "geometry": { "type": "Point", "coordinates": [-96.325245, 32.7168591] }
     },
@@ -5293,7 +5293,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "6030",
         "addr:street": "FM 3009",
-        "branch": "I-35 & FM 3009"
+        "branch": "I-35 & Fm 3009"
       },
       "geometry": { "type": "Point", "coordinates": [-98.2784598, 29.6034594] }
     },
@@ -5887,7 +5887,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "111",
         "addr:street": "University Oaks Boulevard",
-        "branch": "IH 35 & FM 1431"
+        "branch": "Ih 35 & Fm 1431"
       },
       "geometry": {
         "type": "Point",
@@ -5934,7 +5934,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "24622",
         "addr:street": "Southwest Freeway",
-        "branch": "US 59 & FM 762"
+        "branch": "Us 59 & Fm 762"
       },
       "geometry": {
         "type": "Point",
@@ -6053,7 +6053,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "26810",
         "addr:street": "FM 1093",
-        "branch": "FM 1093 & FM 1463"
+        "branch": "Fm 1093 & Fm 1463"
       },
       "geometry": { "type": "Point", "coordinates": [-95.842213, 29.695753] }
     },
@@ -7169,7 +7169,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "2930",
         "addr:street": "South Gulf Freeway",
-        "branch": "I-45 & FM 646"
+        "branch": "I-45 & Fm 646"
       },
       "geometry": { "type": "Point", "coordinates": [-95.082331, 29.4539489] }
     },
@@ -7285,7 +7285,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "5261",
         "addr:street": "Kyle Center Drive",
-        "branch": "I-35 & FM 1626"
+        "branch": "I-35 & Fm 1626"
       },
       "geometry": {
         "type": "Point",
@@ -8936,7 +8936,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "5861",
         "addr:street": "Long Prairie Road",
-        "branch": "FM 2499 & 408"
+        "branch": "Fm 2499 & 408"
       },
       "geometry": { "type": "Point", "coordinates": [-97.0810655, 33.0654913] }
     },
@@ -9121,7 +9121,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "10820",
         "addr:street": "Martin Luther King Jr Boulevard",
-        "branch": "MLK & US 54"
+        "branch": "Mlk & Us 54"
       },
       "geometry": { "type": "Point", "coordinates": [-106.4406562, 31.924275] }
     },
@@ -10195,7 +10195,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "1621",
         "addr:street": "Southwest Wilshire Boulevard",
-        "branch": "SH 174 & FM 731"
+        "branch": "Sh 174 & Fm 731"
       },
       "geometry": { "type": "Point", "coordinates": [-97.3502421, 32.5176517] }
     },
@@ -18028,9 +18028,10 @@
         "opening_hours": "Mo-Th 10:30-21:30; Fr-Sa 10:30-22:00; Su 10:30-21:30",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "850a",
+        "addr:housenumber": "850",
         "addr:street": "West Edgar Road",
-        "branch": "West Edgar Road & Pleasant St"
+        "branch": "West Edgar Road & Pleasant St",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-74.2521837, 40.6191275] }
     },
@@ -19396,7 +19397,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "6129",
         "addr:street": "US 98",
-        "branch": "US 98 & US 59"
+        "branch": "Us 98 & Us 59"
       },
       "geometry": {
         "type": "Point",
@@ -21484,7 +21485,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "10550",
         "addr:street": "Hartland Square Drive",
-        "branch": "US-23 & M-59"
+        "branch": "Us-23 & M-59"
       },
       "geometry": { "type": "Point", "coordinates": [-83.748523, 42.634205] }
     },
@@ -22140,9 +22141,10 @@
         "opening_hours": "Mo-Sa 09:00-23:00; Su 10:00-22:00",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "6019-a",
+        "addr:housenumber": "6019",
         "addr:street": "Oxon Hill Road",
-        "branch": "Oxon Hill Road & Oxon Hill Road"
+        "branch": "Oxon Hill Road & Oxon Hill Road",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.978798, 38.805336] }
     },
@@ -22320,9 +22322,10 @@
         "opening_hours": "Mo-Sa 09:30-23:00; Su 10:00-22:30",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "6620-a",
+        "addr:housenumber": "6620",
         "addr:street": "Ritchie Highway",
-        "branch": "Ritchie Highway & West Ordnance Road (Arundel Plaza)"
+        "branch": "Ritchie Highway & West Ordnance Road (Arundel Plaza)",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.6140131, 39.195559] }
     },
@@ -25083,9 +25086,10 @@
         "opening_hours": "Mo-Th 09:30-22:00; Fr 09:30-22:30; Sa 10:00-22:30; Su 10:00-22:00",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "100 B.",
+        "addr:housenumber": "100",
         "addr:street": "East Golf Road",
-        "branch": "Golf & Roselle"
+        "branch": "Golf & Roselle",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0767358, 42.0501593] }
     },
@@ -26085,7 +26089,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "134",
         "addr:street": "Saint Clair Square",
-        "branch": "St Clair Square"
+        "branch": "Saint Clair Square"
       },
       "geometry": {
         "type": "Point",
@@ -30051,7 +30055,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "5071",
         "addr:street": "Sundance Trail",
-        "branch": "CR 466A & CR 462"
+        "branch": "Cr 466A & Cr 462"
       },
       "geometry": { "type": "Point", "coordinates": [-82.0197884, 28.8660413] }
     },
@@ -31260,7 +31264,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "2468",
         "addr:street": "Sun Vista Drive",
-        "branch": "SR-54 & I-75"
+        "branch": "Sr-54 & I-75"
       },
       "geometry": { "type": "Point", "coordinates": [-82.3934282, 28.1909497] }
     },
@@ -32073,7 +32077,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "43470",
         "addr:street": "Highway 27",
-        "branch": "US-27 & I-4"
+        "branch": "Us-27 & I-4"
       },
       "geometry": { "type": "Point", "coordinates": [-81.6475365, 28.2271874] }
     },
@@ -32930,9 +32934,10 @@
         "opening_hours": "10:30-21:30",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "8331 A",
+        "addr:housenumber": "8331",
         "addr:street": "South Willow Street",
-        "branch": "County Line & Willow"
+        "branch": "County Line & Willow",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-104.8918273, 39.5687382] }
     },
@@ -34010,9 +34015,10 @@
         "opening_hours": "10:00-21:30",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "15528-b",
+        "addr:housenumber": "15528",
         "addr:street": "Whittier Boulevard",
-        "branch": "Whittier & Santa Gertrudes"
+        "branch": "Whittier & Santa Gertrudes",
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-117.9948431, 33.9444275] }
     },
@@ -35344,9 +35350,10 @@
         "opening_hours": "10:00-22:00",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "3640a",
+        "addr:housenumber": "3640",
         "addr:street": "South Lake Tahoe Boulevard",
-        "branch": "Highway 50 & Ski Run Boulevard"
+        "branch": "Highway 50 & Ski Run Boulevard",
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-119.958086, 38.94799] }
     },
@@ -39184,9 +39191,10 @@
         "opening_hours": "Mo-Fr 09:30-22:00; Sa-Su 10:00-22:00",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "18427-d",
+        "addr:housenumber": "18427",
         "addr:street": "Nordhoff Street",
-        "branch": "Nordhoff & Reseda"
+        "branch": "Nordhoff & Reseda",
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-118.5347262, 34.2357627] }
     },
@@ -39848,9 +39856,10 @@
         "opening_hours": "Mo-Sa 09:30-21:30; Su 10:00-21:00",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "27670-b",
+        "addr:housenumber": "27670",
         "addr:street": "Santa Margarita Parkway",
-        "branch": "Santa Margarita Parkway & Los Alisos"
+        "branch": "Santa Margarita Parkway & Los Alisos",
+        "addr:unit": "B"
       },
       "geometry": {
         "type": "Point",
@@ -45660,9 +45669,10 @@
         "opening_hours": "Mo-Th 08:30-22:00; Fr 08:30-22:30; Sa-Su 08:30-22:00",
         "brand": "Panda Express",
         "brand:wikidata": "Q1358690",
-        "addr:housenumber": "2495South",
+        "addr:housenumber": "2495",
         "addr:street": "Avenue B",
-        "branch": "Avenue B & 24th"
+        "branch": "Avenue B & 24th",
+        "addr:unit": "SOUTH"
       },
       "geometry": { "type": "Point", "coordinates": [-114.6498253, 32.6819804] }
     },
@@ -48284,7 +48294,7 @@
         "brand:wikidata": "Q1358690",
         "addr:housenumber": "2096",
         "addr:street": "Interstate Drive",
-        "branch": "I-85 & US 280"
+        "branch": "I-85 & Us 280"
       },
       "geometry": { "type": "Point", "coordinates": [-85.404659, 32.617592] }
     },
