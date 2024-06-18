@@ -14,7 +14,7 @@
       "properties": {
         "ref": "31",
         "shop": "wholesale",
-        "addr:city": "FRESNO",
+        "addr:city": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93722-6200",
         "name": "Costco",
@@ -35,7 +35,7 @@
       "properties": {
         "ref": "38",
         "shop": "wholesale",
-        "addr:city": "STOCKTON",
+        "addr:city": "Stockton",
         "addr:state": "CA",
         "addr:postcode": "95210-4119",
         "name": "Costco",
@@ -56,7 +56,7 @@
       "properties": {
         "ref": "67",
         "shop": "wholesale",
-        "addr:city": "MISSOULA",
+        "addr:city": "Missoula",
         "addr:state": "MT",
         "addr:postcode": "59808-1556",
         "name": "Costco",
@@ -77,7 +77,7 @@
       "properties": {
         "ref": "29",
         "shop": "wholesale",
-        "addr:city": "ROSEVILLE",
+        "addr:city": "Roseville",
         "addr:state": "CA",
         "addr:postcode": "95678-1907",
         "name": "Costco",
@@ -119,7 +119,7 @@
       "properties": {
         "ref": "1",
         "shop": "wholesale",
-        "addr:city": "SEATTLE",
+        "addr:city": "Seattle",
         "addr:state": "WA",
         "addr:postcode": "98134-2311",
         "name": "Costco",
@@ -204,7 +204,7 @@
         "ref": "1645",
         "shop": "wholesale",
         "addr:street_address": "OWNSBY PKWY",
-        "addr:city": "CELINA",
+        "addr:city": "Celina",
         "addr:state": "TX",
         "addr:postcode": "75009",
         "name": "Costco",
@@ -221,7 +221,7 @@
       "properties": {
         "ref": "8",
         "shop": "wholesale",
-        "addr:city": "KIRKLAND",
+        "addr:city": "Kirkland",
         "addr:state": "WA",
         "addr:postcode": "98033-5822",
         "name": "Costco",
@@ -242,7 +242,7 @@
       "properties": {
         "ref": "13",
         "shop": "wholesale",
-        "addr:city": "SILVERDALE",
+        "addr:city": "Silverdale",
         "addr:state": "WA",
         "addr:postcode": "98383-8302",
         "name": "Costco",
@@ -263,7 +263,7 @@
       "properties": {
         "ref": "9",
         "shop": "wholesale",
-        "addr:city": "ALOHA",
+        "addr:city": "Aloha",
         "addr:state": "OR",
         "addr:postcode": "97006-5045",
         "name": "Costco",
@@ -284,7 +284,7 @@
       "properties": {
         "ref": "10",
         "shop": "wholesale",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99515-1903",
         "name": "Costco",
@@ -305,7 +305,7 @@
       "properties": {
         "ref": "25",
         "shop": "wholesale",
-        "addr:city": "RENO",
+        "addr:city": "Reno",
         "addr:state": "NV",
         "addr:postcode": "89502-4004",
         "name": "Costco",
@@ -326,7 +326,7 @@
       "properties": {
         "ref": "17",
         "shop": "wholesale",
-        "addr:city": "EUGENE",
+        "addr:city": "Eugene",
         "addr:state": "OR",
         "addr:postcode": "97408-7336",
         "name": "Costco",
@@ -347,7 +347,7 @@
       "properties": {
         "ref": "1699",
         "shop": "wholesale",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99515",
         "name": "Costco",
@@ -368,7 +368,7 @@
       "properties": {
         "ref": "21",
         "shop": "wholesale",
-        "addr:city": "DANVILLE",
+        "addr:city": "Danville",
         "addr:state": "CA",
         "addr:postcode": "94526-5553",
         "name": "Costco",
@@ -389,7 +389,7 @@
       "properties": {
         "ref": "1674",
         "shop": "wholesale",
-        "addr:city": "SACRAMENTO",
+        "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95834",
         "name": "Costco",
@@ -410,7 +410,7 @@
       "properties": {
         "ref": "1649",
         "shop": "wholesale",
-        "addr:city": "CLERMONT",
+        "addr:city": "Clermont",
         "addr:state": "FL",
         "addr:postcode": "34711",
         "name": "Costco",
@@ -452,7 +452,7 @@
       "properties": {
         "ref": "1666",
         "shop": "wholesale",
-        "addr:city": "NOBLESVILLE",
+        "addr:city": "Noblesville",
         "addr:state": "IN",
         "addr:postcode": "46060",
         "name": "Costco",
@@ -473,7 +473,7 @@
       "properties": {
         "ref": "1659",
         "shop": "wholesale",
-        "addr:city": "HENDERSONVILLE",
+        "addr:city": "Hendersonville",
         "addr:state": "TN",
         "addr:postcode": "37075",
         "name": "Costco",
@@ -494,7 +494,7 @@
       "properties": {
         "ref": "1675",
         "shop": "wholesale",
-        "addr:city": "MCDONOUGH",
+        "addr:city": "McDonough",
         "addr:state": "GA",
         "addr:postcode": "30253",
         "name": "Costco",
@@ -536,7 +536,7 @@
       "properties": {
         "ref": "1663",
         "shop": "wholesale",
-        "addr:city": "SOUTHFIELD",
+        "addr:city": "Southfield",
         "addr:state": "MI",
         "addr:postcode": "48075",
         "name": "Costco Business Center",
@@ -557,7 +557,7 @@
       "properties": {
         "ref": "1658",
         "shop": "wholesale",
-        "addr:city": "LINDA",
+        "addr:city": "Linda",
         "addr:state": "CA",
         "addr:postcode": "95901",
         "name": "Costco",
@@ -578,7 +578,7 @@
       "properties": {
         "ref": "1661",
         "shop": "wholesale",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99504-2073",
         "name": "Costco Business Center",
@@ -599,7 +599,7 @@
       "properties": {
         "ref": "1653",
         "shop": "wholesale",
-        "addr:city": "BUCKEYE",
+        "addr:city": "Buckeye",
         "addr:state": "AZ",
         "addr:postcode": "85326",
         "name": "Costco",
@@ -641,7 +641,7 @@
       "properties": {
         "ref": "1660",
         "shop": "wholesale",
-        "addr:city": "NEWARK",
+        "addr:city": "Newark",
         "addr:state": "CA",
         "addr:postcode": "94560",
         "name": "Costco",
@@ -662,7 +662,7 @@
       "properties": {
         "ref": "1371",
         "shop": "wholesale",
-        "addr:city": "LOOMIS",
+        "addr:city": "Loomis",
         "addr:state": "CA",
         "addr:postcode": "95650",
         "name": "Costco",
@@ -682,7 +682,7 @@
       "properties": {
         "ref": "1644",
         "shop": "wholesale",
-        "addr:city": "BILLINGS",
+        "addr:city": "Billings",
         "addr:state": "MT",
         "addr:postcode": "59106-3963",
         "name": "Costco",
@@ -724,7 +724,7 @@
       "properties": {
         "ref": "1657",
         "shop": "wholesale",
-        "addr:city": "SCARBOROUGH",
+        "addr:city": "Scarborough",
         "addr:state": "ME",
         "addr:postcode": "04074",
         "name": "Costco",
@@ -766,7 +766,7 @@
       "properties": {
         "ref": "1652",
         "shop": "wholesale",
-        "addr:city": "DENVER",
+        "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80239",
         "name": "Costco",
@@ -787,7 +787,7 @@
       "properties": {
         "ref": "1633",
         "shop": "wholesale",
-        "addr:city": "LOGAN",
+        "addr:city": "Logan",
         "addr:state": "UT",
         "addr:postcode": "84321",
         "name": "Costco",
@@ -808,7 +808,7 @@
       "properties": {
         "ref": "1640",
         "shop": "wholesale",
-        "addr:city": "TULSA",
+        "addr:city": "Tulsa",
         "addr:state": "OK",
         "addr:postcode": "74116",
         "name": "Costco",
@@ -829,7 +829,7 @@
       "properties": {
         "ref": "1390",
         "shop": "wholesale",
-        "addr:city": "MURRIETA",
+        "addr:city": "Murrieta",
         "addr:state": "CA",
         "addr:postcode": "92563",
         "name": "Costco",
@@ -850,7 +850,7 @@
       "properties": {
         "ref": "1630",
         "shop": "wholesale",
-        "addr:city": "ANKENY",
+        "addr:city": "Ankeny",
         "addr:state": "IA",
         "addr:postcode": "50021",
         "name": "Costco",
@@ -892,7 +892,7 @@
       "properties": {
         "ref": "1629",
         "shop": "wholesale",
-        "addr:city": "KYLE",
+        "addr:city": "Kyle",
         "addr:state": "TX",
         "addr:postcode": "78640",
         "name": "Costco",
@@ -976,7 +976,7 @@
       "properties": {
         "ref": "1385",
         "shop": "wholesale",
-        "addr:city": "GEORGETOWN",
+        "addr:city": "Georgetown",
         "addr:state": "TX",
         "addr:postcode": "78628",
         "name": "Costco",
@@ -998,7 +998,7 @@
       "properties": {
         "ref": "1491",
         "shop": "wholesale",
-        "addr:city": "VERONA",
+        "addr:city": "Verona",
         "addr:state": "WI",
         "addr:postcode": "53593",
         "name": "Costco",
@@ -1019,7 +1019,7 @@
       "properties": {
         "ref": "1621",
         "shop": "wholesale",
-        "addr:city": "ATHENS",
+        "addr:city": "Athens",
         "addr:state": "GA",
         "addr:postcode": "30606",
         "name": "Costco",
@@ -1040,7 +1040,7 @@
       "properties": {
         "ref": "1628",
         "shop": "wholesale",
-        "addr:city": "LONGMONT",
+        "addr:city": "Longmont",
         "addr:state": "CO",
         "addr:postcode": "80501",
         "name": "Costco",
@@ -1103,7 +1103,7 @@
       "properties": {
         "ref": "1445",
         "shop": "wholesale",
-        "addr:city": "REDDING",
+        "addr:city": "Redding",
         "addr:state": "CA",
         "addr:postcode": "96002",
         "name": "Costco",
@@ -1124,7 +1124,7 @@
       "properties": {
         "ref": "1492",
         "shop": "wholesale",
-        "addr:city": "SALEM",
+        "addr:city": "Salem",
         "addr:state": "OR",
         "addr:postcode": "97306-6919",
         "name": "Costco",
@@ -1145,7 +1145,7 @@
       "properties": {
         "ref": "1441",
         "shop": "wholesale",
-        "addr:city": "RIVERTON",
+        "addr:city": "Riverton",
         "addr:state": "UT",
         "addr:postcode": "84096",
         "name": "Costco",
@@ -1166,7 +1166,7 @@
       "properties": {
         "ref": "1587",
         "shop": "wholesale",
-        "addr:city": "RALEIGH",
+        "addr:city": "Raleigh",
         "addr:state": "NC",
         "addr:postcode": "27603",
         "name": "Costco",
@@ -1208,7 +1208,7 @@
       "properties": {
         "ref": "1487",
         "shop": "wholesale",
-        "addr:city": "STAFFORD",
+        "addr:city": "Stafford",
         "addr:state": "TX",
         "addr:postcode": "77477",
         "name": "Costco Business Center",
@@ -1229,7 +1229,7 @@
       "properties": {
         "ref": "1422",
         "shop": "wholesale",
-        "addr:city": "DULUTH",
+        "addr:city": "Duluth",
         "addr:state": "MN",
         "addr:postcode": "55811",
         "name": "Costco",
@@ -1250,7 +1250,7 @@
       "properties": {
         "ref": "1485",
         "shop": "wholesale",
-        "addr:city": "POOLER",
+        "addr:city": "Pooler",
         "addr:state": "GA",
         "addr:postcode": "31322",
         "name": "Costco",
@@ -1313,7 +1313,7 @@
       "properties": {
         "ref": "1450",
         "shop": "wholesale",
-        "addr:city": "MELBOURNE",
+        "addr:city": "Melbourne",
         "addr:state": "FL",
         "addr:postcode": "32940",
         "name": "Costco",
@@ -1334,7 +1334,7 @@
       "properties": {
         "ref": "1577",
         "shop": "wholesale",
-        "addr:city": "AVON",
+        "addr:city": "Avon",
         "addr:state": "IN",
         "addr:postcode": "46123",
         "name": "Costco",
@@ -1355,7 +1355,7 @@
       "properties": {
         "ref": "1443",
         "shop": "wholesale",
-        "addr:city": "NAPERVILLE",
+        "addr:city": "Naperville",
         "addr:state": "IL",
         "addr:postcode": "60563",
         "name": "Costco",
@@ -1376,7 +1376,7 @@
       "properties": {
         "ref": "1448",
         "shop": "wholesale",
-        "addr:city": "MURFREESBORO",
+        "addr:city": "Murfreesboro",
         "addr:state": "TN",
         "addr:postcode": "37128",
         "name": "Costco",
@@ -1397,7 +1397,7 @@
       "properties": {
         "ref": "1388",
         "shop": "wholesale",
-        "addr:city": "PLAINFIELD",
+        "addr:city": "Plainfield",
         "addr:state": "IL",
         "addr:postcode": "60586",
         "name": "Costco",
@@ -1418,7 +1418,7 @@
       "properties": {
         "ref": "1389",
         "shop": "wholesale",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "GA",
         "addr:postcode": "30157",
         "name": "Costco",
@@ -1439,7 +1439,7 @@
       "properties": {
         "ref": "1420",
         "shop": "wholesale",
-        "addr:city": "MIDLAND",
+        "addr:city": "Midland",
         "addr:state": "MI",
         "addr:postcode": "48642",
         "name": "Costco",
@@ -1460,7 +1460,7 @@
       "properties": {
         "ref": "1384",
         "shop": "wholesale",
-        "addr:city": "CHAMPAIGN",
+        "addr:city": "Champaign",
         "addr:state": "IL",
         "addr:postcode": "61820",
         "name": "Costco",
@@ -1481,7 +1481,7 @@
       "properties": {
         "ref": "1444",
         "shop": "wholesale",
-        "addr:city": "MOORE",
+        "addr:city": "Moore",
         "addr:state": "OK",
         "addr:postcode": "73160-0008",
         "name": "Costco",
@@ -1502,7 +1502,7 @@
       "properties": {
         "ref": "1343",
         "shop": "wholesale",
-        "addr:city": "MERIDIAN",
+        "addr:city": "Meridian",
         "addr:state": "ID",
         "addr:postcode": "83646",
         "name": "Costco",
@@ -1544,7 +1544,7 @@
       "properties": {
         "ref": "1380",
         "shop": "wholesale",
-        "addr:city": "BISMARCK",
+        "addr:city": "Bismarck",
         "addr:state": "ND",
         "addr:postcode": "58503-6581",
         "name": "Costco",
@@ -1586,7 +1586,7 @@
       "properties": {
         "ref": "1366",
         "shop": "wholesale",
-        "addr:city": "RIDGELAND",
+        "addr:city": "Ridgeland",
         "addr:state": "MS",
         "addr:postcode": "39157",
         "name": "Costco",
@@ -1649,7 +1649,7 @@
       "properties": {
         "ref": "1334",
         "shop": "wholesale",
-        "addr:city": "BAYONNE",
+        "addr:city": "Bayonne",
         "addr:state": "NJ",
         "addr:postcode": "07002",
         "name": "Costco",
@@ -1670,7 +1670,7 @@
       "properties": {
         "ref": "1363",
         "shop": "wholesale",
-        "addr:city": "EAGAN",
+        "addr:city": "Eagan",
         "addr:state": "MN",
         "addr:postcode": "55121-1542",
         "name": "Costco",
@@ -1712,7 +1712,7 @@
       "properties": {
         "ref": "427",
         "shop": "wholesale",
-        "addr:city": "SCOTTSDALE",
+        "addr:city": "Scottsdale",
         "addr:state": "AZ",
         "addr:postcode": "85260-2551",
         "name": "Costco",
@@ -1733,7 +1733,7 @@
       "properties": {
         "ref": "1361",
         "shop": "wholesale",
-        "addr:city": "SHARPSBURG",
+        "addr:city": "Sharpsburg",
         "addr:state": "GA",
         "addr:postcode": "30277",
         "name": "Costco",
@@ -1754,7 +1754,7 @@
       "properties": {
         "ref": "1364",
         "shop": "wholesale",
-        "addr:city": "BRADENTON",
+        "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34212",
         "name": "Costco",
@@ -1796,7 +1796,7 @@
       "properties": {
         "ref": "1325",
         "shop": "wholesale",
-        "addr:city": "DAVENPORT",
+        "addr:city": "Davenport",
         "addr:state": "IA",
         "addr:postcode": "52807-3007",
         "name": "Costco",
@@ -1817,7 +1817,7 @@
       "properties": {
         "ref": "1360",
         "shop": "wholesale",
-        "addr:city": "CLOVIS",
+        "addr:city": "Clovis",
         "addr:state": "CA",
         "addr:postcode": "93612",
         "name": "Costco",
@@ -1838,7 +1838,7 @@
       "properties": {
         "ref": "1333",
         "shop": "wholesale",
-        "addr:city": "MOORESVILLE",
+        "addr:city": "Mooresville",
         "addr:state": "NC",
         "addr:postcode": "28117",
         "name": "Costco",
@@ -1880,7 +1880,7 @@
       "properties": {
         "ref": "1331",
         "shop": "wholesale",
-        "addr:city": "EVANSVILLE",
+        "addr:city": "Evansville",
         "addr:state": "IN",
         "addr:postcode": "47715-9168",
         "name": "Costco",
@@ -1922,7 +1922,7 @@
       "properties": {
         "ref": "1320",
         "shop": "wholesale",
-        "addr:city": "HENDERSON",
+        "addr:city": "Henderson",
         "addr:state": "NV",
         "addr:postcode": "89052-4570",
         "name": "Costco",
@@ -1943,7 +1943,7 @@
       "properties": {
         "ref": "1330",
         "shop": "wholesale",
-        "addr:city": "WEBSTER",
+        "addr:city": "Webster",
         "addr:state": "TX",
         "addr:postcode": "77598",
         "name": "Costco",
@@ -1964,7 +1964,7 @@
       "properties": {
         "ref": "1295",
         "shop": "wholesale",
-        "addr:city": "WOODSTOCK",
+        "addr:city": "Woodstock",
         "addr:state": "GA",
         "addr:postcode": "30188-7800",
         "name": "Costco",
@@ -2048,7 +2048,7 @@
       "properties": {
         "ref": "1285",
         "shop": "wholesale",
-        "addr:city": "LINCOLN",
+        "addr:city": "Lincoln",
         "addr:state": "NE",
         "addr:postcode": "68512-3612",
         "name": "Costco",
@@ -2090,7 +2090,7 @@
       "properties": {
         "ref": "1284",
         "shop": "wholesale",
-        "addr:city": "MCKINNEY",
+        "addr:city": "McKinney",
         "addr:state": "TX",
         "addr:postcode": "75071-2934",
         "name": "Costco",
@@ -2111,7 +2111,7 @@
       "properties": {
         "ref": "1322",
         "shop": "wholesale",
-        "addr:city": "PFLUGERVILLE",
+        "addr:city": "Pflugerville",
         "addr:state": "TX",
         "addr:postcode": "78660",
         "name": "Costco",
@@ -2259,7 +2259,7 @@
       "properties": {
         "ref": "1272",
         "shop": "wholesale",
-        "addr:city": "WOODBURY",
+        "addr:city": "Woodbury",
         "addr:state": "MN",
         "addr:postcode": "55125-1205",
         "name": "Costco",
@@ -2280,7 +2280,7 @@
       "properties": {
         "ref": "1262",
         "shop": "wholesale",
-        "addr:city": "TAMPA",
+        "addr:city": "Tampa",
         "addr:state": "FL",
         "addr:postcode": "33625-3713",
         "name": "Costco",
@@ -2301,7 +2301,7 @@
       "properties": {
         "ref": "1342",
         "shop": "wholesale",
-        "addr:city": "FAIRBANKS",
+        "addr:city": "Fairbanks",
         "addr:state": "AK",
         "addr:postcode": "99701-1706",
         "name": "Costco",
@@ -2322,7 +2322,7 @@
       "properties": {
         "ref": "1266",
         "shop": "wholesale",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75251-2149",
         "name": "Costco",
@@ -2343,7 +2343,7 @@
       "properties": {
         "ref": "1232",
         "shop": "wholesale",
-        "addr:city": "COLUMBIA",
+        "addr:city": "Columbia",
         "addr:state": "SC",
         "addr:postcode": "29210-3405",
         "name": "Costco",
@@ -2364,7 +2364,7 @@
       "properties": {
         "ref": "1244",
         "shop": "wholesale",
-        "addr:city": "HANFORD",
+        "addr:city": "Hanford",
         "addr:state": "CA",
         "addr:postcode": "93230-4740",
         "name": "Costco",
@@ -2385,7 +2385,7 @@
       "properties": {
         "ref": "1238",
         "shop": "wholesale",
-        "addr:city": "LOUISVILLE",
+        "addr:city": "Louisville",
         "addr:state": "KY",
         "addr:postcode": "40218-4608",
         "name": "Costco",
@@ -2406,7 +2406,7 @@
       "properties": {
         "ref": "1249",
         "shop": "wholesale",
-        "addr:city": "LUTZ",
+        "addr:city": "Lutz",
         "addr:state": "FL",
         "addr:postcode": "33559-6797",
         "name": "Costco",
@@ -2427,7 +2427,7 @@
       "properties": {
         "ref": "1235",
         "shop": "wholesale",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32839-2171",
         "name": "Costco",
@@ -2448,7 +2448,7 @@
       "properties": {
         "ref": "1236",
         "shop": "wholesale",
-        "addr:city": "FLEMINGTON",
+        "addr:city": "Flemington",
         "addr:state": "NJ",
         "addr:postcode": "08822",
         "name": "Costco",
@@ -2490,7 +2490,7 @@
       "properties": {
         "ref": "1227",
         "shop": "wholesale",
-        "addr:city": "INDIANAPOLIS",
+        "addr:city": "Indianapolis",
         "addr:state": "IN",
         "addr:postcode": "46237-9105",
         "name": "Costco",
@@ -2511,7 +2511,7 @@
       "properties": {
         "ref": "1225",
         "shop": "wholesale",
-        "addr:city": "REDMOND",
+        "addr:city": "Redmond",
         "addr:state": "WA",
         "addr:postcode": "98052-6088",
         "name": "Costco",
@@ -2532,7 +2532,7 @@
       "properties": {
         "ref": "1214",
         "shop": "wholesale",
-        "addr:city": "TETERBORO",
+        "addr:city": "Teterboro",
         "addr:state": "NJ",
         "addr:postcode": "07608-1120",
         "name": "Costco",
@@ -2553,7 +2553,7 @@
       "properties": {
         "ref": "1229",
         "shop": "wholesale",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33144-2359",
         "name": "Costco",
@@ -2616,7 +2616,7 @@
       "properties": {
         "ref": "1221",
         "shop": "wholesale",
-        "addr:city": "PEARLAND",
+        "addr:city": "Pearland",
         "addr:state": "TX",
         "addr:postcode": "77584-1952",
         "name": "Costco",
@@ -2679,7 +2679,7 @@
       "properties": {
         "ref": "1216",
         "shop": "wholesale",
-        "addr:city": "BELLINGHAM",
+        "addr:city": "Bellingham",
         "addr:state": "WA",
         "addr:postcode": "98226-9325",
         "name": "Costco",
@@ -2700,7 +2700,7 @@
       "properties": {
         "ref": "1211",
         "shop": "wholesale",
-        "addr:city": "ALLENTOWN",
+        "addr:city": "Allentown",
         "addr:state": "PA",
         "addr:postcode": "18106-9046",
         "name": "Costco",
@@ -2721,7 +2721,7 @@
       "properties": {
         "ref": "1228",
         "shop": "wholesale",
-        "addr:city": "HUMBLE",
+        "addr:city": "Humble",
         "addr:state": "TX",
         "addr:postcode": "77338-1594",
         "name": "Costco",
@@ -2763,7 +2763,7 @@
       "properties": {
         "ref": "1206",
         "shop": "wholesale",
-        "addr:city": "APEX",
+        "addr:city": "Apex",
         "addr:state": "NC",
         "addr:postcode": "27523-6406",
         "name": "Costco",
@@ -2784,7 +2784,7 @@
       "properties": {
         "ref": "1215",
         "shop": "wholesale",
-        "addr:city": "OCEANSIDE",
+        "addr:city": "Oceanside",
         "addr:state": "NY",
         "addr:postcode": "11572-4808",
         "name": "Costco",
@@ -2805,7 +2805,7 @@
       "properties": {
         "ref": "1208",
         "shop": "wholesale",
-        "addr:city": "CYPRESS",
+        "addr:city": "Cypress",
         "addr:state": "TX",
         "addr:postcode": "77433-4934",
         "name": "Costco",
@@ -2826,7 +2826,7 @@
       "properties": {
         "ref": "1207",
         "shop": "wholesale",
-        "addr:city": "TULSA",
+        "addr:city": "Tulsa",
         "addr:state": "OK",
         "addr:postcode": "74133-7179",
         "name": "Costco",
@@ -2868,7 +2868,7 @@
       "properties": {
         "ref": "1200",
         "shop": "wholesale",
-        "addr:city": "WICHITA",
+        "addr:city": "Wichita",
         "addr:state": "KS",
         "addr:postcode": "67207-1821",
         "name": "Costco",
@@ -2889,7 +2889,7 @@
       "properties": {
         "ref": "1202",
         "shop": "wholesale",
-        "addr:city": "TORRANCE",
+        "addr:city": "Torrance",
         "addr:state": "CA",
         "addr:postcode": "90505-5214",
         "name": "Costco",
@@ -2910,7 +2910,7 @@
       "properties": {
         "ref": "1201",
         "shop": "wholesale",
-        "addr:city": "LAFAYETTE",
+        "addr:city": "Lafayette",
         "addr:state": "LA",
         "addr:postcode": "70508-7277",
         "name": "Costco",
@@ -2973,7 +2973,7 @@
       "properties": {
         "ref": "1195",
         "shop": "wholesale",
-        "addr:city": "ROCHESTER",
+        "addr:city": "Rochester",
         "addr:state": "NY",
         "addr:postcode": "14620-4603",
         "name": "Costco",
@@ -2994,7 +2994,7 @@
       "properties": {
         "ref": "1194",
         "shop": "wholesale",
-        "addr:city": "PERRYSBURG",
+        "addr:city": "Perrysburg",
         "addr:state": "OH",
         "addr:postcode": "43551-1967",
         "name": "Costco",
@@ -3015,7 +3015,7 @@
       "properties": {
         "ref": "1197",
         "shop": "wholesale",
-        "addr:city": "FLORENCE",
+        "addr:city": "Florence",
         "addr:state": "KY",
         "addr:postcode": "41042-1415",
         "name": "Costco",
@@ -3036,7 +3036,7 @@
       "properties": {
         "ref": "1191",
         "shop": "wholesale",
-        "addr:city": "KALAMAZOO",
+        "addr:city": "Kalamazoo",
         "addr:state": "MI",
         "addr:postcode": "49006-5714",
         "name": "Costco",
@@ -3057,7 +3057,7 @@
       "properties": {
         "ref": "1192",
         "shop": "wholesale",
-        "addr:city": "MOBILE",
+        "addr:city": "Mobile",
         "addr:state": "AL",
         "addr:postcode": "36606-2632",
         "name": "Costco",
@@ -3099,7 +3099,7 @@
       "properties": {
         "ref": "1189",
         "shop": "wholesale",
-        "addr:city": "CONROE",
+        "addr:city": "Conroe",
         "addr:state": "TX",
         "addr:postcode": "77385-4365",
         "name": "Costco",
@@ -3120,7 +3120,7 @@
       "properties": {
         "ref": "1190",
         "shop": "wholesale",
-        "addr:city": "LYNNWOOD",
+        "addr:city": "Lynnwood",
         "addr:state": "WA",
         "addr:postcode": "98037-4840",
         "name": "Costco",
@@ -3141,7 +3141,7 @@
       "properties": {
         "ref": "1177",
         "shop": "wholesale",
-        "addr:city": "WAYNE",
+        "addr:city": "Wayne",
         "addr:state": "NJ",
         "addr:postcode": "07470-6933",
         "name": "Costco",
@@ -3162,7 +3162,7 @@
       "properties": {
         "ref": "1185",
         "shop": "wholesale",
-        "addr:city": "CENTERVILLE",
+        "addr:city": "Centerville",
         "addr:state": "OH",
         "addr:postcode": "45440-2268",
         "name": "Costco",
@@ -3183,7 +3183,7 @@
       "properties": {
         "ref": "1184",
         "shop": "wholesale",
-        "addr:city": "CHARLOTTESVILLE",
+        "addr:city": "Charlottesville",
         "addr:state": "VA",
         "addr:postcode": "22901-2784",
         "name": "Costco",
@@ -3204,7 +3204,7 @@
       "properties": {
         "ref": "1183",
         "shop": "wholesale",
-        "addr:city": "GRANGER",
+        "addr:city": "Granger",
         "addr:state": "IN",
         "addr:postcode": "46530-7381",
         "name": "Costco",
@@ -3225,7 +3225,7 @@
       "properties": {
         "ref": "1178",
         "shop": "wholesale",
-        "addr:city": "TIMNATH",
+        "addr:city": "Timnath",
         "addr:state": "CO",
         "addr:postcode": "80547-4703",
         "name": "Costco",
@@ -3246,7 +3246,7 @@
       "properties": {
         "ref": "1176",
         "shop": "wholesale",
-        "addr:city": "CAMILLUS",
+        "addr:city": "Camillus",
         "addr:state": "NY",
         "addr:postcode": "13031-1659",
         "name": "Costco",
@@ -3309,7 +3309,7 @@
       "properties": {
         "ref": "1167",
         "shop": "wholesale",
-        "addr:city": "KATY",
+        "addr:city": "Katy",
         "addr:state": "TX",
         "addr:postcode": "77494-7221",
         "name": "Costco",
@@ -3351,7 +3351,7 @@
       "properties": {
         "ref": "1175",
         "shop": "wholesale",
-        "addr:city": "CUMMING",
+        "addr:city": "Cumming",
         "addr:state": "GA",
         "addr:postcode": "30041-8484",
         "name": "Costco",
@@ -3372,7 +3372,7 @@
       "properties": {
         "ref": "1163",
         "shop": "wholesale",
-        "addr:city": "LUBBOCK",
+        "addr:city": "Lubbock",
         "addr:state": "TX",
         "addr:postcode": "79407-3102",
         "name": "Costco",
@@ -3435,7 +3435,7 @@
       "properties": {
         "ref": "1162",
         "shop": "wholesale",
-        "addr:city": "BELLEVUE",
+        "addr:city": "Bellevue",
         "addr:state": "WI",
         "addr:postcode": "54311-9206",
         "name": "Costco",
@@ -3498,7 +3498,7 @@
       "properties": {
         "ref": "1124",
         "shop": "wholesale",
-        "addr:city": "WHEATON",
+        "addr:city": "Wheaton",
         "addr:state": "MD",
         "addr:postcode": "20902-2538",
         "name": "Costco",
@@ -3561,7 +3561,7 @@
       "properties": {
         "ref": "1125",
         "shop": "wholesale",
-        "addr:city": "ROCHESTER",
+        "addr:city": "Rochester",
         "addr:state": "MN",
         "addr:postcode": "55901-3246",
         "name": "Costco",
@@ -3582,7 +3582,7 @@
       "properties": {
         "ref": "1160",
         "shop": "wholesale",
-        "addr:city": "COLUMBUS",
+        "addr:city": "Columbus",
         "addr:state": "OH",
         "addr:postcode": "43219-3044",
         "name": "Costco",
@@ -3603,7 +3603,7 @@
       "properties": {
         "ref": "1156",
         "shop": "wholesale",
-        "addr:city": "LEXINGTON",
+        "addr:city": "Lexington",
         "addr:state": "KY",
         "addr:postcode": "40509-8307",
         "name": "Costco",
@@ -3666,7 +3666,7 @@
       "properties": {
         "ref": "1123",
         "shop": "wholesale",
-        "addr:city": "SARASOTA",
+        "addr:city": "Sarasota",
         "addr:state": "FL",
         "addr:postcode": "34238-2966",
         "name": "Costco",
@@ -3688,7 +3688,7 @@
       "properties": {
         "ref": "1107",
         "shop": "wholesale",
-        "addr:city": "CHICAGO",
+        "addr:city": "Chicago",
         "addr:state": "IL",
         "addr:postcode": "60608-2040",
         "name": "Costco",
@@ -3730,7 +3730,7 @@
       "properties": {
         "ref": "1108",
         "shop": "wholesale",
-        "addr:city": "PHARR",
+        "addr:city": "Pharr",
         "addr:state": "TX",
         "addr:postcode": "78577-5031",
         "name": "Costco",
@@ -3772,7 +3772,7 @@
       "properties": {
         "ref": "1122",
         "shop": "wholesale",
-        "addr:city": "BAXTER",
+        "addr:city": "Baxter",
         "addr:state": "MN",
         "addr:postcode": "56425-8818",
         "name": "Costco",
@@ -3793,7 +3793,7 @@
       "properties": {
         "ref": "1120",
         "shop": "wholesale",
-        "addr:city": "WASHINGTON",
+        "addr:city": "Washington",
         "addr:state": "DC",
         "addr:postcode": "20018-3840",
         "name": "Costco",
@@ -3856,7 +3856,7 @@
       "properties": {
         "ref": "1116",
         "shop": "wholesale",
-        "addr:city": "KNOXVILLE",
+        "addr:city": "Knoxville",
         "addr:state": "TN",
         "addr:postcode": "37934-3002",
         "name": "Costco",
@@ -3877,7 +3877,7 @@
       "properties": {
         "ref": "1115",
         "shop": "wholesale",
-        "addr:city": "ALEXANDRIA",
+        "addr:city": "Alexandria",
         "addr:state": "VA",
         "addr:postcode": "22306-7826",
         "name": "Costco",
@@ -3961,7 +3961,7 @@
       "properties": {
         "ref": "1111",
         "shop": "wholesale",
-        "addr:city": "CORALVILLE",
+        "addr:city": "Coralville",
         "addr:state": "IA",
         "addr:postcode": "52241-2740",
         "name": "Costco",
@@ -3982,7 +3982,7 @@
       "properties": {
         "ref": "1084",
         "shop": "wholesale",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30319-3291",
         "name": "Costco",
@@ -4003,7 +4003,7 @@
       "properties": {
         "ref": "1097",
         "shop": "wholesale",
-        "addr:city": "FRISCO",
+        "addr:city": "Frisco",
         "addr:state": "TX",
         "addr:postcode": "75033-4102",
         "name": "Costco",
@@ -4024,7 +4024,7 @@
       "properties": {
         "ref": "1102",
         "shop": "wholesale",
-        "addr:city": "AUGUSTA",
+        "addr:city": "Augusta",
         "addr:state": "GA",
         "addr:postcode": "30909-8202",
         "name": "Costco",
@@ -4045,7 +4045,7 @@
       "properties": {
         "ref": "1101",
         "shop": "wholesale",
-        "addr:city": "PEWAUKEE",
+        "addr:city": "Pewaukee",
         "addr:state": "WI",
         "addr:postcode": "53072-5886",
         "name": "Costco",
@@ -4066,7 +4066,7 @@
       "properties": {
         "ref": "1093",
         "shop": "wholesale",
-        "addr:city": "MORGANVILLE",
+        "addr:city": "Morganville",
         "addr:state": "NJ",
         "addr:postcode": "07751-1526",
         "name": "Costco",
@@ -4087,7 +4087,7 @@
       "properties": {
         "ref": "1103",
         "shop": "wholesale",
-        "addr:city": "WARMINSTER",
+        "addr:city": "Warminster",
         "addr:state": "PA",
         "addr:postcode": "18974-3533",
         "name": "Costco",
@@ -4108,7 +4108,7 @@
       "properties": {
         "ref": "1087",
         "shop": "wholesale",
-        "addr:city": "BURNSVILLE",
+        "addr:city": "Burnsville",
         "addr:state": "MN",
         "addr:postcode": "55337-4407",
         "name": "Costco",
@@ -4150,7 +4150,7 @@
       "properties": {
         "ref": "1091",
         "shop": "wholesale",
-        "addr:city": "LODI",
+        "addr:city": "Lodi",
         "addr:state": "CA",
         "addr:postcode": "95240-6848",
         "name": "Costco",
@@ -4171,7 +4171,7 @@
       "properties": {
         "ref": "1083",
         "shop": "wholesale",
-        "addr:city": "RINGGOLD",
+        "addr:city": "Ringgold",
         "addr:state": "GA",
         "addr:postcode": "30736-8566",
         "name": "Costco",
@@ -4192,7 +4192,7 @@
       "properties": {
         "ref": "1086",
         "shop": "wholesale",
-        "addr:city": "CAMAS",
+        "addr:city": "Camas",
         "addr:state": "WA",
         "addr:postcode": "98607-7472",
         "name": "Costco",
@@ -4213,7 +4213,7 @@
       "properties": {
         "ref": "1081",
         "shop": "wholesale",
-        "addr:city": "POTTSTOWN",
+        "addr:city": "Pottstown",
         "addr:state": "PA",
         "addr:postcode": "19464-3413",
         "name": "Costco",
@@ -4255,7 +4255,7 @@
       "properties": {
         "ref": "1088",
         "shop": "wholesale",
-        "addr:city": "BOLINGBROOK",
+        "addr:city": "Bolingbrook",
         "addr:state": "IL",
         "addr:postcode": "60440-2355",
         "name": "Costco",
@@ -4276,7 +4276,7 @@
       "properties": {
         "ref": "1078",
         "shop": "wholesale",
-        "addr:city": "GLENARDEN",
+        "addr:city": "Glenarden",
         "addr:state": "MD",
         "addr:postcode": "20706-1617",
         "name": "Costco",
@@ -4318,7 +4318,7 @@
       "properties": {
         "ref": "1074",
         "shop": "wholesale",
-        "addr:city": "METTAWA",
+        "addr:city": "Mettawa",
         "addr:state": "IL",
         "addr:postcode": "60045-3403",
         "name": "Costco",
@@ -4339,7 +4339,7 @@
       "properties": {
         "ref": "1073",
         "shop": "wholesale",
-        "addr:city": "ROSEBURG",
+        "addr:city": "Roseburg",
         "addr:state": "OR",
         "addr:postcode": "97470-1161",
         "name": "Costco",
@@ -4360,7 +4360,7 @@
       "properties": {
         "ref": "1071",
         "shop": "wholesale",
-        "addr:city": "PACOIMA",
+        "addr:city": "Pacoima",
         "addr:state": "CA",
         "addr:postcode": "91331-2352",
         "name": "Costco",
@@ -4402,7 +4402,7 @@
       "properties": {
         "ref": "1060",
         "shop": "wholesale",
-        "addr:city": "MANCHESTER",
+        "addr:city": "Manchester",
         "addr:state": "MO",
         "addr:postcode": "63011-4385",
         "name": "Costco",
@@ -4423,7 +4423,7 @@
       "properties": {
         "ref": "1050",
         "shop": "wholesale",
-        "addr:city": "LAKEWOOD",
+        "addr:city": "Lakewood",
         "addr:state": "CA",
         "addr:postcode": "90712-2409",
         "name": "Costco",
@@ -4444,7 +4444,7 @@
       "properties": {
         "ref": "1079",
         "shop": "wholesale",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85713-6561",
         "name": "Costco",
@@ -4465,7 +4465,7 @@
       "properties": {
         "ref": "1059",
         "shop": "wholesale",
-        "addr:city": "WARRENTON",
+        "addr:city": "Warrenton",
         "addr:state": "OR",
         "addr:postcode": "97146-7339",
         "name": "Costco",
@@ -4507,7 +4507,7 @@
       "properties": {
         "ref": "1058",
         "shop": "wholesale",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85032-7702",
         "name": "Costco",
@@ -4528,7 +4528,7 @@
       "properties": {
         "ref": "1049",
         "shop": "wholesale",
-        "addr:city": "ROCKWALL",
+        "addr:city": "Rockwall",
         "addr:state": "TX",
         "addr:postcode": "75032-9376",
         "name": "Costco",
@@ -4549,7 +4549,7 @@
       "properties": {
         "ref": "1039",
         "shop": "wholesale",
-        "addr:city": "BRANDYWINE",
+        "addr:city": "Brandywine",
         "addr:state": "MD",
         "addr:postcode": "20613-8081",
         "name": "Costco",
@@ -4591,7 +4591,7 @@
       "properties": {
         "ref": "1038",
         "shop": "wholesale",
-        "addr:city": "KAPOLEI",
+        "addr:city": "Kapolei",
         "addr:state": "HI",
         "addr:postcode": "96707-1879",
         "name": "Costco",
@@ -4612,7 +4612,7 @@
       "properties": {
         "ref": "1037",
         "shop": "wholesale",
-        "addr:city": "BLOOMFIELD",
+        "addr:city": "Bloomfield",
         "addr:state": "MI",
         "addr:postcode": "48302-0254",
         "name": "Costco",
@@ -4633,7 +4633,7 @@
       "properties": {
         "ref": "1033",
         "shop": "wholesale",
-        "addr:city": "POCATELLO",
+        "addr:city": "Pocatello",
         "addr:state": "ID",
         "addr:postcode": "83201-4988",
         "name": "Costco",
@@ -4654,7 +4654,7 @@
       "properties": {
         "ref": "1029",
         "shop": "wholesale",
-        "addr:city": "COVINGTON",
+        "addr:city": "Covington",
         "addr:state": "WA",
         "addr:postcode": "98042-9100",
         "name": "Costco",
@@ -4696,7 +4696,7 @@
       "properties": {
         "ref": "1028",
         "shop": "wholesale",
-        "addr:city": "MESA",
+        "addr:city": "Mesa",
         "addr:state": "AZ",
         "addr:postcode": "85209-3400",
         "name": "Costco",
@@ -4717,7 +4717,7 @@
       "properties": {
         "ref": "1023",
         "shop": "wholesale",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33186-7393",
         "name": "Costco",
@@ -4738,7 +4738,7 @@
       "properties": {
         "ref": "1026",
         "shop": "wholesale",
-        "addr:city": "TALLAHASSEE",
+        "addr:city": "Tallahassee",
         "addr:state": "FL",
         "addr:postcode": "32317-1201",
         "name": "Costco",
@@ -4780,7 +4780,7 @@
       "properties": {
         "ref": "1022",
         "shop": "wholesale",
-        "addr:city": "PARKER",
+        "addr:city": "Parker",
         "addr:state": "CO",
         "addr:postcode": "80138-8876",
         "name": "Costco",
@@ -4801,7 +4801,7 @@
       "properties": {
         "ref": "1021",
         "shop": "wholesale",
-        "addr:city": "MAPLEWOOD",
+        "addr:city": "Maplewood",
         "addr:state": "MN",
         "addr:postcode": "55109-1064",
         "name": "Costco",
@@ -4822,7 +4822,7 @@
       "properties": {
         "ref": "1020",
         "shop": "wholesale",
-        "addr:city": "MIDDLETON",
+        "addr:city": "Middleton",
         "addr:state": "WI",
         "addr:postcode": "53562-5507",
         "name": "Costco",
@@ -4843,7 +4843,7 @@
       "properties": {
         "ref": "1018",
         "shop": "wholesale",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77027-5802",
         "name": "Costco",
@@ -4885,7 +4885,7 @@
       "properties": {
         "ref": "1017",
         "shop": "wholesale",
-        "addr:city": "VISALIA",
+        "addr:city": "Visalia",
         "addr:state": "CA",
         "addr:postcode": "93277-9527",
         "name": "Costco",
@@ -4927,7 +4927,7 @@
       "properties": {
         "ref": "1016",
         "shop": "wholesale",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87114-6196",
         "name": "Costco",
@@ -4948,7 +4948,7 @@
       "properties": {
         "ref": "1012",
         "shop": "wholesale",
-        "addr:city": "OMAHA",
+        "addr:city": "Omaha",
         "addr:state": "NE",
         "addr:postcode": "68154-2382",
         "name": "Costco",
@@ -4969,7 +4969,7 @@
       "properties": {
         "ref": "1061",
         "shop": "wholesale",
-        "addr:city": "HAYWARD",
+        "addr:city": "Hayward",
         "addr:state": "CA",
         "addr:postcode": "94545-5008",
         "name": "Costco",
@@ -5011,7 +5011,7 @@
       "properties": {
         "ref": "1031",
         "shop": "wholesale",
-        "addr:city": "MANTECA",
+        "addr:city": "Manteca",
         "addr:state": "CA",
         "addr:postcode": "95337-6745",
         "name": "Costco",
@@ -5053,7 +5053,7 @@
       "properties": {
         "ref": "1008",
         "shop": "wholesale",
-        "addr:city": "SPARTANBURG",
+        "addr:city": "Spartanburg",
         "addr:state": "SC",
         "addr:postcode": "29301-1382",
         "name": "Costco",
@@ -5074,7 +5074,7 @@
       "properties": {
         "ref": "1010",
         "shop": "wholesale",
-        "addr:city": "VICTORVILLE",
+        "addr:city": "Victorville",
         "addr:state": "CA",
         "addr:postcode": "92395-4216",
         "name": "Costco",
@@ -5095,7 +5095,7 @@
       "properties": {
         "ref": "1005",
         "shop": "wholesale",
-        "addr:city": "GREENVILLE",
+        "addr:city": "Greenville",
         "addr:state": "SC",
         "addr:postcode": "29607-4108",
         "name": "Costco",
@@ -5116,7 +5116,7 @@
       "properties": {
         "ref": "1009",
         "shop": "wholesale",
-        "addr:city": "MONTGOMERY",
+        "addr:city": "Montgomery",
         "addr:state": "AL",
         "addr:postcode": "36117-7033",
         "name": "Costco",
@@ -5137,7 +5137,7 @@
       "properties": {
         "ref": "1003",
         "shop": "wholesale",
-        "addr:city": "WOODLAND",
+        "addr:city": "Woodland",
         "addr:state": "CA",
         "addr:postcode": "95776-5409",
         "name": "Costco",
@@ -5158,7 +5158,7 @@
       "properties": {
         "ref": "1001",
         "shop": "wholesale",
-        "addr:city": "TUSTIN",
+        "addr:city": "Tustin",
         "addr:state": "CA",
         "addr:postcode": "92782-2708",
         "name": "Costco",
@@ -5179,7 +5179,7 @@
       "properties": {
         "ref": "1011",
         "shop": "wholesale",
-        "addr:city": "CHICO",
+        "addr:city": "Chico",
         "addr:state": "CA",
         "addr:postcode": "95928-4422",
         "name": "Costco",
@@ -5200,7 +5200,7 @@
       "properties": {
         "ref": "1000",
         "shop": "wholesale",
-        "addr:city": "ELKRIDGE",
+        "addr:city": "Elkridge",
         "addr:state": "MD",
         "addr:postcode": "21075-6457",
         "name": "Costco",
@@ -5242,7 +5242,7 @@
       "properties": {
         "ref": "1027",
         "shop": "wholesale",
-        "addr:city": "SHERIDAN",
+        "addr:city": "Sheridan",
         "addr:state": "CO",
         "addr:postcode": "80110-3316",
         "name": "Costco",
@@ -5263,7 +5263,7 @@
       "properties": {
         "ref": "1486",
         "shop": "wholesale",
-        "addr:city": "SPRINGFIELD",
+        "addr:city": "Springfield",
         "addr:state": "MO",
         "addr:postcode": "65802",
         "name": "Costco",
@@ -5284,7 +5284,7 @@
       "properties": {
         "ref": "823",
         "shop": "wholesale",
-        "addr:city": "HAYWARD",
+        "addr:city": "Hayward",
         "addr:state": "CA",
         "addr:postcode": "94541-4861",
         "name": "Costco Business Center",
@@ -5326,7 +5326,7 @@
       "properties": {
         "ref": "1002",
         "shop": "wholesale",
-        "addr:city": "ANTIOCH",
+        "addr:city": "Antioch",
         "addr:state": "CA",
         "addr:postcode": "94509-7911",
         "name": "Costco",
@@ -5347,7 +5347,7 @@
       "properties": {
         "ref": "827",
         "shop": "wholesale",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85017-4508",
         "name": "Costco Business Center",
@@ -5368,7 +5368,7 @@
       "properties": {
         "ref": "943",
         "shop": "wholesale",
-        "addr:city": "WESTMINSTER",
+        "addr:city": "Westminster",
         "addr:state": "CA",
         "addr:postcode": "92683-9210",
         "name": "Costco Business Center",
@@ -5389,7 +5389,7 @@
       "properties": {
         "ref": "1006",
         "shop": "wholesale",
-        "addr:city": "SELMA",
+        "addr:city": "Selma",
         "addr:state": "TX",
         "addr:postcode": "78154-3814",
         "name": "Costco",
@@ -5410,7 +5410,7 @@
       "properties": {
         "ref": "786",
         "shop": "wholesale",
-        "addr:city": "BRIGHTON",
+        "addr:city": "Brighton",
         "addr:state": "MI",
         "addr:postcode": "48116-2160",
         "name": "Costco",
@@ -5452,7 +5452,7 @@
       "properties": {
         "ref": "770",
         "shop": "wholesale",
-        "addr:city": "OGDEN",
+        "addr:city": "Ogden",
         "addr:state": "UT",
         "addr:postcode": "84405-7101",
         "name": "Costco",
@@ -5515,7 +5515,7 @@
       "properties": {
         "ref": "772",
         "shop": "wholesale",
-        "addr:city": "VANCOUVER",
+        "addr:city": "Vancouver",
         "addr:state": "WA",
         "addr:postcode": "98665-2016",
         "name": "Costco",
@@ -5536,7 +5536,7 @@
       "properties": {
         "ref": "785",
         "shop": "wholesale",
-        "addr:city": "RIVERHEAD",
+        "addr:city": "Riverhead",
         "addr:state": "NY",
         "addr:postcode": "11901-3146",
         "name": "Costco",
@@ -5579,7 +5579,7 @@
       "properties": {
         "ref": "769",
         "shop": "wholesale",
-        "addr:city": "INGLEWOOD",
+        "addr:city": "Inglewood",
         "addr:state": "CA",
         "addr:postcode": "90303-1201",
         "name": "Costco",
@@ -5600,7 +5600,7 @@
       "properties": {
         "ref": "766",
         "shop": "wholesale",
-        "addr:city": "WILSONVILLE",
+        "addr:city": "Wilsonville",
         "addr:state": "OR",
         "addr:postcode": "97070-5785",
         "name": "Costco",
@@ -5621,7 +5621,7 @@
       "properties": {
         "ref": "767",
         "shop": "wholesale",
-        "addr:city": "FIFE",
+        "addr:city": "Fife",
         "addr:state": "WA",
         "addr:postcode": "98424-1818",
         "name": "Costco Business Center",
@@ -5642,7 +5642,7 @@
       "properties": {
         "ref": "1317",
         "shop": "wholesale",
-        "addr:city": "EASTVALE",
+        "addr:city": "Eastvale",
         "addr:state": "CA",
         "addr:postcode": "91752-1009",
         "name": "Costco",
@@ -5663,7 +5663,7 @@
       "properties": {
         "ref": "780",
         "shop": "wholesale",
-        "addr:city": "ENFIELD",
+        "addr:city": "Enfield",
         "addr:state": "CT",
         "addr:postcode": "06082-3854",
         "name": "Costco",
@@ -5705,7 +5705,7 @@
       "properties": {
         "ref": "782",
         "shop": "wholesale",
-        "addr:city": "TURLOCK",
+        "addr:city": "Turlock",
         "addr:state": "CA",
         "addr:postcode": "95380-9401",
         "name": "Costco",
@@ -5747,7 +5747,7 @@
       "properties": {
         "ref": "1007",
         "shop": "wholesale",
-        "addr:city": "TOLEDO",
+        "addr:city": "Toledo",
         "addr:state": "OH",
         "addr:postcode": "43606-1402",
         "name": "Costco",
@@ -5789,7 +5789,7 @@
       "properties": {
         "ref": "775",
         "shop": "wholesale",
-        "addr:city": "POWAY",
+        "addr:city": "Poway",
         "addr:state": "CA",
         "addr:postcode": "92064-7156",
         "name": "Costco",
@@ -5852,7 +5852,7 @@
       "properties": {
         "ref": "748",
         "shop": "wholesale",
-        "addr:city": "CYPRESS",
+        "addr:city": "Cypress",
         "addr:state": "CA",
         "addr:postcode": "90720-2809",
         "name": "Costco",
@@ -5894,7 +5894,7 @@
       "properties": {
         "ref": "747",
         "shop": "wholesale",
-        "addr:city": "WOODINVILLE",
+        "addr:city": "Woodinville",
         "addr:state": "WA",
         "addr:postcode": "98072-9743",
         "name": "Costco",
@@ -5915,7 +5915,7 @@
       "properties": {
         "ref": "778",
         "shop": "wholesale",
-        "addr:city": "FREMONT",
+        "addr:city": "Fremont",
         "addr:state": "CA",
         "addr:postcode": "94538-3809",
         "name": "Costco",
@@ -5936,7 +5936,7 @@
       "properties": {
         "ref": "762",
         "shop": "wholesale",
-        "addr:city": "LANCASTER",
+        "addr:city": "Lancaster",
         "addr:state": "CA",
         "addr:postcode": "93534-7077",
         "name": "Costco",
@@ -5957,7 +5957,7 @@
       "properties": {
         "ref": "764",
         "shop": "wholesale",
-        "addr:city": "MURRAY",
+        "addr:city": "Murray",
         "addr:state": "UT",
         "addr:postcode": "84107-6024",
         "name": "Costco",
@@ -5999,7 +5999,7 @@
       "properties": {
         "ref": "760",
         "shop": "wholesale",
-        "addr:city": "GILROY",
+        "addr:city": "Gilroy",
         "addr:state": "CA",
         "addr:postcode": "95020-7340",
         "name": "Costco",
@@ -6020,7 +6020,7 @@
       "properties": {
         "ref": "734",
         "shop": "wholesale",
-        "addr:city": "NAMPA",
+        "addr:city": "Nampa",
         "addr:state": "ID",
         "addr:postcode": "83687-7909",
         "name": "Costco",
@@ -6062,7 +6062,7 @@
       "properties": {
         "ref": "743",
         "shop": "wholesale",
-        "addr:city": "ALPHARETTA",
+        "addr:city": "Alpharetta",
         "addr:state": "GA",
         "addr:postcode": "30004-3869",
         "name": "Costco",
@@ -6083,7 +6083,7 @@
       "properties": {
         "ref": "745",
         "shop": "wholesale",
-        "addr:city": "KALISPELL",
+        "addr:city": "Kalispell",
         "addr:state": "MT",
         "addr:postcode": "59901-2547",
         "name": "Costco",
@@ -6104,7 +6104,7 @@
       "properties": {
         "ref": "744",
         "shop": "wholesale",
-        "addr:city": "WYOMING",
+        "addr:city": "Wyoming",
         "addr:state": "MI",
         "addr:postcode": "49418-8788",
         "name": "Costco",
@@ -6125,7 +6125,7 @@
       "properties": {
         "ref": "740",
         "shop": "wholesale",
-        "addr:city": "LACEY",
+        "addr:city": "Lacey",
         "addr:state": "WA",
         "addr:postcode": "98516-3870",
         "name": "Costco",
@@ -6146,7 +6146,7 @@
       "properties": {
         "ref": "739",
         "shop": "wholesale",
-        "addr:city": "BRICK",
+        "addr:city": "Brick",
         "addr:state": "NJ",
         "addr:postcode": "08723-4049",
         "name": "Costco",
@@ -6167,7 +6167,7 @@
       "properties": {
         "ref": "733",
         "shop": "wholesale",
-        "addr:city": "LEHI",
+        "addr:city": "Lehi",
         "addr:state": "UT",
         "addr:postcode": "84043-2294",
         "name": "Costco",
@@ -6188,7 +6188,7 @@
       "properties": {
         "ref": "738",
         "shop": "wholesale",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85050-1300",
         "name": "Costco",
@@ -6209,7 +6209,7 @@
       "properties": {
         "ref": "761",
         "shop": "wholesale",
-        "addr:city": "BOISE",
+        "addr:city": "Boise",
         "addr:state": "ID",
         "addr:postcode": "83709-2815",
         "name": "Costco",
@@ -6230,7 +6230,7 @@
       "properties": {
         "ref": "736",
         "shop": "wholesale",
-        "addr:city": "CHANDLER",
+        "addr:city": "Chandler",
         "addr:state": "AZ",
         "addr:postcode": "85226-4932",
         "name": "Costco",
@@ -6272,7 +6272,7 @@
       "properties": {
         "ref": "694",
         "shop": "wholesale",
-        "addr:city": "VACAVILLE",
+        "addr:city": "Vacaville",
         "addr:state": "CA",
         "addr:postcode": "95687-5558",
         "name": "Costco",
@@ -6293,7 +6293,7 @@
       "properties": {
         "ref": "677",
         "shop": "wholesale",
-        "addr:city": "BURBANK",
+        "addr:city": "Burbank",
         "addr:state": "CA",
         "addr:postcode": "91506-1421",
         "name": "Costco",
@@ -6314,7 +6314,7 @@
       "properties": {
         "ref": "729",
         "shop": "wholesale",
-        "addr:city": "HACKENSACK",
+        "addr:city": "Hackensack",
         "addr:state": "NJ",
         "addr:postcode": "07601-6954",
         "name": "Costco Business Center",
@@ -6335,7 +6335,7 @@
       "properties": {
         "ref": "691",
         "shop": "wholesale",
-        "addr:city": "AVONDALE",
+        "addr:city": "Avondale",
         "addr:state": "AZ",
         "addr:postcode": "85392-4803",
         "name": "Costco",
@@ -6377,7 +6377,7 @@
       "properties": {
         "ref": "765",
         "shop": "wholesale",
-        "addr:city": "FOLSOM",
+        "addr:city": "Folsom",
         "addr:state": "CA",
         "addr:postcode": "95630-6235",
         "name": "Costco",
@@ -6461,7 +6461,7 @@
       "properties": {
         "ref": "688",
         "shop": "wholesale",
-        "addr:city": "BAKERSFIELD",
+        "addr:city": "Bakersfield",
         "addr:state": "CA",
         "addr:postcode": "93308-6235",
         "name": "Costco",
@@ -6482,7 +6482,7 @@
       "properties": {
         "ref": "692",
         "shop": "wholesale",
-        "addr:city": "HILLSBORO",
+        "addr:city": "Hillsboro",
         "addr:state": "OR",
         "addr:postcode": "97124-5008",
         "name": "Costco",
@@ -6545,7 +6545,7 @@
       "properties": {
         "ref": "686",
         "shop": "wholesale",
-        "addr:city": "MONTCLAIR",
+        "addr:city": "Montclair",
         "addr:state": "CA",
         "addr:postcode": "91763-2421",
         "name": "Costco",
@@ -6566,7 +6566,7 @@
       "properties": {
         "ref": "687",
         "shop": "wholesale",
-        "addr:city": "HONOLULU",
+        "addr:city": "Honolulu",
         "addr:state": "HI",
         "addr:postcode": "96817-5764",
         "name": "Costco",
@@ -6587,7 +6587,7 @@
       "properties": {
         "ref": "682",
         "shop": "wholesale",
-        "addr:city": "ALBANY",
+        "addr:city": "Albany",
         "addr:state": "OR",
         "addr:postcode": "97322-5359",
         "name": "Costco",
@@ -6608,7 +6608,7 @@
       "properties": {
         "ref": "680",
         "shop": "wholesale",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77055-6208",
         "name": "Costco",
@@ -6629,7 +6629,7 @@
       "properties": {
         "ref": "683",
         "shop": "wholesale",
-        "addr:city": "LEWISVILLE",
+        "addr:city": "Lewisville",
         "addr:state": "TX",
         "addr:postcode": "75067-4158",
         "name": "Costco",
@@ -6650,7 +6650,7 @@
       "properties": {
         "ref": "681",
         "shop": "wholesale",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78759-5712",
         "name": "Costco",
@@ -6671,7 +6671,7 @@
       "properties": {
         "ref": "658",
         "shop": "wholesale",
-        "addr:city": "TRACY",
+        "addr:city": "Tracy",
         "addr:state": "CA",
         "addr:postcode": "95304-8427",
         "name": "Costco",
@@ -6692,7 +6692,7 @@
       "properties": {
         "ref": "673",
         "shop": "wholesale",
-        "addr:city": "HENDERSON",
+        "addr:city": "Henderson",
         "addr:state": "NV",
         "addr:postcode": "89014-8601",
         "name": "Costco",
@@ -6755,7 +6755,7 @@
       "properties": {
         "ref": "676",
         "shop": "wholesale",
-        "addr:city": "ARVADA",
+        "addr:city": "Arvada",
         "addr:state": "CO",
         "addr:postcode": "80002-4617",
         "name": "Costco",
@@ -6797,7 +6797,7 @@
       "properties": {
         "ref": "671",
         "shop": "wholesale",
-        "addr:city": "HAWTHORNE",
+        "addr:city": "Hawthorne",
         "addr:state": "CA",
         "addr:postcode": "90250-6748",
         "name": "Costco",
@@ -6818,7 +6818,7 @@
       "properties": {
         "ref": "669",
         "shop": "wholesale",
-        "addr:city": "SOUTHLAKE",
+        "addr:city": "Southlake",
         "addr:state": "TX",
         "addr:postcode": "76092-6668",
         "name": "Costco",
@@ -6839,7 +6839,7 @@
       "properties": {
         "ref": "668",
         "shop": "wholesale",
-        "addr:city": "ARLINGTON",
+        "addr:city": "Arlington",
         "addr:state": "TX",
         "addr:postcode": "76014-3702",
         "name": "Costco",
@@ -6860,7 +6860,7 @@
       "properties": {
         "ref": "684",
         "shop": "wholesale",
-        "addr:city": "PLANO",
+        "addr:city": "Plano",
         "addr:state": "TX",
         "addr:postcode": "75093-4580",
         "name": "Costco",
@@ -6881,7 +6881,7 @@
       "properties": {
         "ref": "667",
         "shop": "wholesale",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87123-3338",
         "name": "Costco",
@@ -6902,7 +6902,7 @@
       "properties": {
         "ref": "664",
         "shop": "wholesale",
-        "addr:city": "PLANO",
+        "addr:city": "Plano",
         "addr:state": "TX",
         "addr:postcode": "75074-2221",
         "name": "Costco",
@@ -6944,7 +6944,7 @@
       "properties": {
         "ref": "662",
         "shop": "wholesale",
-        "addr:city": "BURLINGTON",
+        "addr:city": "Burlington",
         "addr:state": "WA",
         "addr:postcode": "98233-3223",
         "name": "Costco",
@@ -6965,7 +6965,7 @@
       "properties": {
         "ref": "663",
         "shop": "wholesale",
-        "addr:city": "CONCORD",
+        "addr:city": "Concord",
         "addr:state": "CA",
         "addr:postcode": "94520-3105",
         "name": "Costco",
@@ -6986,7 +6986,7 @@
       "properties": {
         "ref": "670",
         "shop": "wholesale",
-        "addr:city": "SPOKANE",
+        "addr:city": "Spokane",
         "addr:state": "WA",
         "addr:postcode": "99212-0826",
         "name": "Costco",
@@ -7028,7 +7028,7 @@
       "properties": {
         "ref": "675",
         "shop": "wholesale",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77064-1170",
         "name": "Costco",
@@ -7070,7 +7070,7 @@
       "properties": {
         "ref": "660",
         "shop": "wholesale",
-        "addr:city": "PUYALLUP",
+        "addr:city": "Puyallup",
         "addr:state": "WA",
         "addr:postcode": "98373-3803",
         "name": "Costco",
@@ -7091,7 +7091,7 @@
       "properties": {
         "ref": "657",
         "shop": "wholesale",
-        "addr:city": "FRESNO",
+        "addr:city": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93720-2920",
         "name": "Costco",
@@ -7112,7 +7112,7 @@
       "properties": {
         "ref": "651",
         "shop": "wholesale",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32837-9283",
         "name": "Costco Business Center",
@@ -7133,7 +7133,7 @@
       "properties": {
         "ref": "652",
         "shop": "wholesale",
-        "addr:city": "MINNEAPOLIS",
+        "addr:city": "Minneapolis",
         "addr:state": "MN",
         "addr:postcode": "55413-4553",
         "name": "Costco Business Center",
@@ -7175,7 +7175,7 @@
       "properties": {
         "ref": "650",
         "shop": "wholesale",
-        "addr:city": "DENVER",
+        "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80223-1969",
         "name": "Costco Business Center",
@@ -7217,7 +7217,7 @@
       "properties": {
         "ref": "646",
         "shop": "wholesale",
-        "addr:city": "SPARKS",
+        "addr:city": "Sparks",
         "addr:state": "NV",
         "addr:postcode": "89436-9605",
         "name": "Costco",
@@ -7259,7 +7259,7 @@
       "properties": {
         "ref": "645",
         "shop": "wholesale",
-        "addr:city": "RALEIGH",
+        "addr:city": "Raleigh",
         "addr:state": "NC",
         "addr:postcode": "27609-7840",
         "name": "Costco",
@@ -7280,7 +7280,7 @@
       "properties": {
         "ref": "644",
         "shop": "wholesale",
-        "addr:city": "GILBERT",
+        "addr:city": "Gilbert",
         "addr:state": "AZ",
         "addr:postcode": "85295-1303",
         "name": "Costco",
@@ -7301,7 +7301,7 @@
       "properties": {
         "ref": "661",
         "shop": "wholesale",
-        "addr:city": "MODESTO",
+        "addr:city": "Modesto",
         "addr:state": "CA",
         "addr:postcode": "95356-8300",
         "name": "Costco",
@@ -7322,7 +7322,7 @@
       "properties": {
         "ref": "649",
         "shop": "wholesale",
-        "addr:city": "HOMESTEAD",
+        "addr:city": "Homestead",
         "addr:state": "PA",
         "addr:postcode": "15120-5009",
         "name": "Costco",
@@ -7343,7 +7343,7 @@
       "properties": {
         "ref": "642",
         "shop": "wholesale",
-        "addr:city": "MARYSVILLE",
+        "addr:city": "Marysville",
         "addr:state": "WA",
         "addr:postcode": "98271-4701",
         "name": "Costco",
@@ -7364,7 +7364,7 @@
       "properties": {
         "ref": "637",
         "shop": "wholesale",
-        "addr:city": "GYPSUM",
+        "addr:city": "Gypsum",
         "addr:state": "CO",
         "addr:postcode": "81637-9707",
         "name": "Costco",
@@ -7385,7 +7385,7 @@
       "properties": {
         "ref": "639",
         "shop": "wholesale",
-        "addr:city": "SEQUIM",
+        "addr:city": "Sequim",
         "addr:state": "WA",
         "addr:postcode": "98382-3266",
         "name": "Costco",
@@ -7406,7 +7406,7 @@
       "properties": {
         "ref": "643",
         "shop": "wholesale",
-        "addr:city": "BAKERSFIELD",
+        "addr:city": "Bakersfield",
         "addr:state": "CA",
         "addr:postcode": "93313-3479",
         "name": "Costco",
@@ -7427,7 +7427,7 @@
       "properties": {
         "ref": "640",
         "shop": "wholesale",
-        "addr:city": "LIHUE",
+        "addr:city": "Lihue",
         "addr:state": "HI",
         "addr:postcode": "96766-8002",
         "name": "Costco",
@@ -7448,7 +7448,7 @@
       "properties": {
         "ref": "636",
         "shop": "wholesale",
-        "addr:city": "DUNCANVILLE",
+        "addr:city": "Duncanville",
         "addr:state": "TX",
         "addr:postcode": "75137-4415",
         "name": "Costco",
@@ -7469,7 +7469,7 @@
       "properties": {
         "ref": "633",
         "shop": "wholesale",
-        "addr:city": "HELENA",
+        "addr:city": "Helena",
         "addr:state": "MT",
         "addr:postcode": "59602-1217",
         "name": "Costco",
@@ -7490,7 +7490,7 @@
       "properties": {
         "ref": "635",
         "shop": "wholesale",
-        "addr:city": "WILMINGTON",
+        "addr:city": "Wilmington",
         "addr:state": "NC",
         "addr:postcode": "28405-3091",
         "name": "Costco",
@@ -7511,7 +7511,7 @@
       "properties": {
         "ref": "674",
         "shop": "wholesale",
-        "addr:city": "GLENDALE",
+        "addr:city": "Glendale",
         "addr:state": "AZ",
         "addr:postcode": "85308-8711",
         "name": "Costco",
@@ -7532,7 +7532,7 @@
       "properties": {
         "ref": "631",
         "shop": "wholesale",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30339-8107",
         "name": "Costco",
@@ -7553,7 +7553,7 @@
       "properties": {
         "ref": "634",
         "shop": "wholesale",
-        "addr:city": "LOUISVILLE",
+        "addr:city": "Louisville",
         "addr:state": "KY",
         "addr:postcode": "40241-2835",
         "name": "Costco",
@@ -7574,7 +7574,7 @@
       "properties": {
         "ref": "632",
         "shop": "wholesale",
-        "addr:city": "COLUMBUS",
+        "addr:city": "Columbus",
         "addr:state": "OH",
         "addr:postcode": "43240-7002",
         "name": "Costco",
@@ -7595,7 +7595,7 @@
       "properties": {
         "ref": "630",
         "shop": "wholesale",
-        "addr:city": "NASHVILLE",
+        "addr:city": "Nashville",
         "addr:state": "TN",
         "addr:postcode": "37209-4202",
         "name": "Costco",
@@ -7616,7 +7616,7 @@
       "properties": {
         "ref": "627",
         "shop": "wholesale",
-        "addr:city": "FONTANA",
+        "addr:city": "Fontana",
         "addr:state": "CA",
         "addr:postcode": "92336-1256",
         "name": "Costco",
@@ -7637,7 +7637,7 @@
       "properties": {
         "ref": "626",
         "shop": "wholesale",
-        "addr:city": "WOODBRIDGE",
+        "addr:city": "Woodbridge",
         "addr:state": "VA",
         "addr:postcode": "22192-4653",
         "name": "Costco",
@@ -7658,7 +7658,7 @@
       "properties": {
         "ref": "629",
         "shop": "wholesale",
-        "addr:city": "THORNTON",
+        "addr:city": "Thornton",
         "addr:state": "CO",
         "addr:postcode": "80023-8907",
         "name": "Costco",
@@ -7700,7 +7700,7 @@
       "properties": {
         "ref": "625",
         "shop": "wholesale",
-        "addr:city": "STRONGSVILLE",
+        "addr:city": "Strongsville",
         "addr:state": "OH",
         "addr:postcode": "44136-4433",
         "name": "Costco",
@@ -7784,7 +7784,7 @@
       "properties": {
         "ref": "628",
         "shop": "wholesale",
-        "addr:city": "GRAFTON",
+        "addr:city": "Grafton",
         "addr:state": "WI",
         "addr:postcode": "53024-9201",
         "name": "Costco",
@@ -7805,7 +7805,7 @@
       "properties": {
         "ref": "641",
         "shop": "wholesale",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78749-1499",
         "name": "Costco",
@@ -7847,7 +7847,7 @@
       "properties": {
         "ref": "569",
         "shop": "wholesale",
-        "addr:city": "COMMERCE",
+        "addr:city": "Commerce",
         "addr:state": "CA",
         "addr:postcode": "90040-2513",
         "name": "Costco Business Center",
@@ -7868,7 +7868,7 @@
       "properties": {
         "ref": "564",
         "shop": "wholesale",
-        "addr:city": "HAWTHORNE",
+        "addr:city": "Hawthorne",
         "addr:state": "CA",
         "addr:postcode": "90250-4638",
         "name": "Costco Business Center",
@@ -7910,7 +7910,7 @@
       "properties": {
         "ref": "1298",
         "shop": "wholesale",
-        "addr:city": "SPOKANE",
+        "addr:city": "Spokane",
         "addr:state": "WA",
         "addr:postcode": "99218-1655",
         "name": "Costco",
@@ -7931,7 +7931,7 @@
       "properties": {
         "ref": "1297",
         "shop": "wholesale",
-        "addr:city": "UKIAH",
+        "addr:city": "Ukiah",
         "addr:state": "CA",
         "addr:postcode": "95482-7400",
         "name": "Costco",
@@ -7952,7 +7952,7 @@
       "properties": {
         "ref": "580",
         "shop": "wholesale",
-        "addr:city": "CHICAGO",
+        "addr:city": "Chicago",
         "addr:state": "IL",
         "addr:postcode": "60629-5817",
         "name": "Costco Business Center",
@@ -7973,7 +7973,7 @@
       "properties": {
         "ref": "579",
         "shop": "wholesale",
-        "addr:city": "MORROW",
+        "addr:city": "Morrow",
         "addr:state": "GA",
         "addr:postcode": "30260-3014",
         "name": "Costco Business Center",
@@ -8036,7 +8036,7 @@
       "properties": {
         "ref": "490",
         "shop": "wholesale",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85027-5036",
         "name": "Costco",
@@ -8057,7 +8057,7 @@
       "properties": {
         "ref": "487",
         "shop": "wholesale",
-        "addr:city": "SANDY",
+        "addr:city": "Sandy",
         "addr:state": "UT",
         "addr:postcode": "84070-4171",
         "name": "Costco",
@@ -8078,7 +8078,7 @@
       "properties": {
         "ref": "486",
         "shop": "wholesale",
-        "addr:city": "KENNEWICK",
+        "addr:city": "Kennewick",
         "addr:state": "WA",
         "addr:postcode": "99336-8120",
         "name": "Costco",
@@ -8099,7 +8099,7 @@
       "properties": {
         "ref": "491",
         "shop": "wholesale",
-        "addr:city": "TEMECULA",
+        "addr:city": "Temecula",
         "addr:state": "CA",
         "addr:postcode": "92591-4697",
         "name": "Costco",
@@ -8120,7 +8120,7 @@
       "properties": {
         "ref": "484",
         "shop": "wholesale",
-        "addr:city": "OREM",
+        "addr:city": "Orem",
         "addr:state": "UT",
         "addr:postcode": "84097-6528",
         "name": "Costco",
@@ -8162,7 +8162,7 @@
       "properties": {
         "ref": "481",
         "shop": "wholesale",
-        "addr:city": "GILBERT",
+        "addr:city": "Gilbert",
         "addr:state": "AZ",
         "addr:postcode": "85233-1616",
         "name": "Costco",
@@ -8204,7 +8204,7 @@
       "properties": {
         "ref": "482",
         "shop": "wholesale",
-        "addr:city": "RICHMOND",
+        "addr:city": "Richmond",
         "addr:state": "CA",
         "addr:postcode": "94804-5801",
         "name": "Costco",
@@ -8246,7 +8246,7 @@
       "properties": {
         "ref": "485",
         "shop": "wholesale",
-        "addr:city": "WAIPAHU",
+        "addr:city": "Waipahu",
         "addr:state": "HI",
         "addr:postcode": "96797-4495",
         "name": "Costco",
@@ -8288,7 +8288,7 @@
       "properties": {
         "ref": "472",
         "shop": "wholesale",
-        "addr:city": "SALINAS",
+        "addr:city": "Salinas",
         "addr:state": "CA",
         "addr:postcode": "93907-1988",
         "name": "Costco",
@@ -8330,7 +8330,7 @@
       "properties": {
         "ref": "471",
         "shop": "wholesale",
-        "addr:city": "SACRAMENTO",
+        "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95815-4228",
         "name": "Costco",
@@ -8351,7 +8351,7 @@
       "properties": {
         "ref": "468",
         "shop": "wholesale",
-        "addr:city": "LITTLETON",
+        "addr:city": "Littleton",
         "addr:state": "CO",
         "addr:postcode": "80124-5129",
         "name": "Costco",
@@ -8393,7 +8393,7 @@
       "properties": {
         "ref": "466",
         "shop": "wholesale",
-        "addr:city": "PRESCOTT",
+        "addr:city": "Prescott",
         "addr:state": "AZ",
         "addr:postcode": "86301-6717",
         "name": "Costco",
@@ -8414,7 +8414,7 @@
       "properties": {
         "ref": "465",
         "shop": "wholesale",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85008-2411",
         "name": "Costco",
@@ -8456,7 +8456,7 @@
       "properties": {
         "ref": "464",
         "shop": "wholesale",
-        "addr:city": "SACRAMENTO",
+        "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95823-9606",
         "name": "Costco",
@@ -8477,7 +8477,7 @@
       "properties": {
         "ref": "462",
         "shop": "wholesale",
-        "addr:city": "CARLSBAD",
+        "addr:city": "Carlsbad",
         "addr:state": "CA",
         "addr:postcode": "92011-1110",
         "name": "Costco",
@@ -8498,7 +8498,7 @@
       "properties": {
         "ref": "480",
         "shop": "wholesale",
-        "addr:city": "SUPERIOR",
+        "addr:city": "Superior",
         "addr:state": "CO",
         "addr:postcode": "80027-9730",
         "name": "Costco",
@@ -8540,7 +8540,7 @@
       "properties": {
         "ref": "474",
         "shop": "wholesale",
-        "addr:city": "GOLETA",
+        "addr:city": "Goleta",
         "addr:state": "CA",
         "addr:postcode": "93117-5905",
         "name": "Costco",
@@ -8603,7 +8603,7 @@
       "properties": {
         "ref": "443",
         "shop": "wholesale",
-        "addr:city": "LITTLETON",
+        "addr:city": "Littleton",
         "addr:state": "CO",
         "addr:postcode": "80123-1350",
         "name": "Costco",
@@ -8645,7 +8645,7 @@
       "properties": {
         "ref": "440",
         "shop": "wholesale",
-        "addr:city": "WESTMINSTER",
+        "addr:city": "Westminster",
         "addr:state": "CO",
         "addr:postcode": "80031-2952",
         "name": "Costco",
@@ -8666,7 +8666,7 @@
       "properties": {
         "ref": "439",
         "shop": "wholesale",
-        "addr:city": "AURORA",
+        "addr:city": "Aurora",
         "addr:state": "CO",
         "addr:postcode": "80012-4013",
         "name": "Costco",
@@ -8708,7 +8708,7 @@
       "properties": {
         "ref": "436",
         "shop": "wholesale",
-        "addr:city": "TEMPE",
+        "addr:city": "Tempe",
         "addr:state": "AZ",
         "addr:postcode": "85284-1103",
         "name": "Costco",
@@ -8729,7 +8729,7 @@
       "properties": {
         "ref": "437",
         "shop": "wholesale",
-        "addr:city": "NORTHRIDGE",
+        "addr:city": "Northridge",
         "addr:state": "CA",
         "addr:postcode": "91324-3519",
         "name": "Costco",
@@ -8750,7 +8750,7 @@
       "properties": {
         "ref": "432",
         "shop": "wholesale",
-        "addr:city": "CORONA",
+        "addr:city": "Corona",
         "addr:state": "CA",
         "addr:postcode": "92879-1291",
         "name": "Costco",
@@ -8771,7 +8771,7 @@
       "properties": {
         "ref": "454",
         "shop": "wholesale",
-        "addr:city": "IRVINE",
+        "addr:city": "Irvine",
         "addr:state": "CA",
         "addr:postcode": "92618-2408",
         "name": "Costco",
@@ -8834,7 +8834,7 @@
       "properties": {
         "ref": "453",
         "shop": "wholesale",
-        "addr:city": "FAIRFIELD",
+        "addr:city": "Fairfield",
         "addr:state": "CA",
         "addr:postcode": "94534-1624",
         "name": "Costco",
@@ -8855,7 +8855,7 @@
       "properties": {
         "ref": "947",
         "shop": "wholesale",
-        "addr:city": "ONTARIO",
+        "addr:city": "Ontario",
         "addr:state": "CA",
         "addr:postcode": "91761",
         "name": "Costco Business Center",
@@ -8897,7 +8897,7 @@
       "properties": {
         "ref": "418",
         "shop": "wholesale",
-        "addr:city": "FULLERTON",
+        "addr:city": "Fullerton",
         "addr:state": "CA",
         "addr:postcode": "92832-3025",
         "name": "Costco",
@@ -8960,7 +8960,7 @@
       "properties": {
         "ref": "412",
         "shop": "wholesale",
-        "addr:city": "AZUSA",
+        "addr:city": "Azusa",
         "addr:state": "CA",
         "addr:postcode": "91702-2819",
         "name": "Costco",
@@ -8981,7 +8981,7 @@
       "properties": {
         "ref": "431",
         "shop": "wholesale",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85741-2864",
         "name": "Costco",
@@ -9002,7 +9002,7 @@
       "properties": {
         "ref": "407",
         "shop": "wholesale",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85712-5804",
         "name": "Costco",
@@ -9023,7 +9023,7 @@
       "properties": {
         "ref": "403",
         "shop": "wholesale",
-        "addr:city": "SANTEE",
+        "addr:city": "Santee",
         "addr:state": "CA",
         "addr:postcode": "92071-5802",
         "name": "Costco",
@@ -9044,7 +9044,7 @@
       "properties": {
         "ref": "428",
         "shop": "wholesale",
-        "addr:city": "ALHAMBRA",
+        "addr:city": "Alhambra",
         "addr:state": "CA",
         "addr:postcode": "91803-1302",
         "name": "Costco",
@@ -9086,7 +9086,7 @@
       "properties": {
         "ref": "410",
         "shop": "wholesale",
-        "addr:city": "NORWALK",
+        "addr:city": "Norwalk",
         "addr:state": "CA",
         "addr:postcode": "90650-2211",
         "name": "Costco",
@@ -9149,7 +9149,7 @@
       "properties": {
         "ref": "423",
         "shop": "wholesale",
-        "addr:city": "SUNNYVALE",
+        "addr:city": "Sunnyvale",
         "addr:state": "CA",
         "addr:postcode": "94086-5309",
         "name": "Costco",
@@ -9170,7 +9170,7 @@
       "properties": {
         "ref": "386",
         "shop": "wholesale",
-        "addr:city": "BRENTWOOD",
+        "addr:city": "Brentwood",
         "addr:state": "TN",
         "addr:postcode": "37027-2930",
         "name": "Costco",
@@ -9191,7 +9191,7 @@
       "properties": {
         "ref": "420",
         "shop": "wholesale",
-        "addr:city": "OXNARD",
+        "addr:city": "Oxnard",
         "addr:state": "CA",
         "addr:postcode": "93036-1813",
         "name": "Costco",
@@ -9212,7 +9212,7 @@
       "properties": {
         "ref": "384",
         "shop": "wholesale",
-        "addr:city": "CINCINNATI",
+        "addr:city": "Cincinnati",
         "addr:state": "OH",
         "addr:postcode": "45249-8220",
         "name": "Costco",
@@ -9233,7 +9233,7 @@
       "properties": {
         "ref": "380",
         "shop": "wholesale",
-        "addr:city": "CHICAGO",
+        "addr:city": "Chicago",
         "addr:state": "IL",
         "addr:postcode": "60614-1006",
         "name": "Costco",
@@ -9296,7 +9296,7 @@
       "properties": {
         "ref": "383",
         "shop": "wholesale",
-        "addr:city": "NILES",
+        "addr:city": "Niles",
         "addr:state": "IL",
         "addr:postcode": "60714-3905",
         "name": "Costco",
@@ -9317,7 +9317,7 @@
       "properties": {
         "ref": "655",
         "shop": "wholesale",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75231-6023",
         "name": "Costco Business Center",
@@ -9338,7 +9338,7 @@
       "properties": {
         "ref": "394",
         "shop": "wholesale",
-        "addr:city": "ROSEVILLE",
+        "addr:city": "Roseville",
         "addr:state": "MI",
         "addr:postcode": "48066-2915",
         "name": "Costco",
@@ -9380,7 +9380,7 @@
       "properties": {
         "ref": "391",
         "shop": "wholesale",
-        "addr:city": "LIVONIA",
+        "addr:city": "Livonia",
         "addr:state": "MI",
         "addr:postcode": "48152-1011",
         "name": "Costco",
@@ -9422,7 +9422,7 @@
       "properties": {
         "ref": "366",
         "shop": "wholesale",
-        "addr:city": "BUFORD",
+        "addr:city": "Buford",
         "addr:state": "GA",
         "addr:postcode": "30519-6551",
         "name": "Costco",
@@ -9443,7 +9443,7 @@
       "properties": {
         "ref": "387",
         "shop": "wholesale",
-        "addr:city": "SCHAUMBURG",
+        "addr:city": "Schaumburg",
         "addr:state": "IL",
         "addr:postcode": "60173-4805",
         "name": "Costco",
@@ -9464,7 +9464,7 @@
       "properties": {
         "ref": "390",
         "shop": "wholesale",
-        "addr:city": "LIVONIA",
+        "addr:city": "Livonia",
         "addr:state": "MI",
         "addr:postcode": "48150-2215",
         "name": "Costco",
@@ -9485,7 +9485,7 @@
       "properties": {
         "ref": "367",
         "shop": "wholesale",
-        "addr:city": "MATTHEWS",
+        "addr:city": "Matthews",
         "addr:state": "NC",
         "addr:postcode": "28105-5766",
         "name": "Costco",
@@ -9590,7 +9590,7 @@
       "properties": {
         "ref": "362",
         "shop": "wholesale",
-        "addr:city": "HOOVER",
+        "addr:city": "Hoover",
         "addr:state": "AL",
         "addr:postcode": "35244-2346",
         "name": "Costco",
@@ -9632,7 +9632,7 @@
       "properties": {
         "ref": "373",
         "shop": "wholesale",
-        "addr:city": "INDEPENDENCE",
+        "addr:city": "Independence",
         "addr:state": "MO",
         "addr:postcode": "64055-7004",
         "name": "Costco",
@@ -9653,7 +9653,7 @@
       "properties": {
         "ref": "372",
         "shop": "wholesale",
-        "addr:city": "MINNEAPOLIS",
+        "addr:city": "Minneapolis",
         "addr:state": "MN",
         "addr:postcode": "55448-6708",
         "name": "Costco",
@@ -9695,7 +9695,7 @@
       "properties": {
         "ref": "348",
         "shop": "wholesale",
-        "addr:city": "GLENVIEW",
+        "addr:city": "Glenview",
         "addr:state": "IL",
         "addr:postcode": "60026-8046",
         "name": "Costco",
@@ -9716,7 +9716,7 @@
       "properties": {
         "ref": "370",
         "shop": "wholesale",
-        "addr:city": "MERRILLVILLE",
+        "addr:city": "Merrillville",
         "addr:state": "IN",
         "addr:postcode": "46410-5768",
         "name": "Costco",
@@ -9737,7 +9737,7 @@
       "properties": {
         "ref": "371",
         "shop": "wholesale",
-        "addr:city": "BLOOMINGDALE",
+        "addr:city": "Bloomingdale",
         "addr:state": "IL",
         "addr:postcode": "60108-1391",
         "name": "Costco",
@@ -9800,7 +9800,7 @@
       "properties": {
         "ref": "346",
         "shop": "wholesale",
-        "addr:city": "INDIANAPOLIS",
+        "addr:city": "Indianapolis",
         "addr:state": "IN",
         "addr:postcode": "46250-3507",
         "name": "Costco",
@@ -9821,7 +9821,7 @@
       "properties": {
         "ref": "347",
         "shop": "wholesale",
-        "addr:city": "INDIANAPOLIS",
+        "addr:city": "Indianapolis",
         "addr:state": "IN",
         "addr:postcode": "46268-3184",
         "name": "Costco",
@@ -9842,7 +9842,7 @@
       "properties": {
         "ref": "344",
         "shop": "wholesale",
-        "addr:city": "CLEVELAND",
+        "addr:city": "Cleveland",
         "addr:state": "OH",
         "addr:postcode": "44124-1808",
         "name": "Costco",
@@ -9884,7 +9884,7 @@
       "properties": {
         "ref": "360",
         "shop": "wholesale",
-        "addr:city": "CHARLESTON",
+        "addr:city": "Charleston",
         "addr:state": "SC",
         "addr:postcode": "29414-5664",
         "name": "Costco",
@@ -9905,7 +9905,7 @@
       "properties": {
         "ref": "893",
         "shop": "wholesale",
-        "addr:city": "SACRAMENTO",
+        "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95821-6308",
         "name": "Costco Business Center",
@@ -9926,7 +9926,7 @@
       "properties": {
         "ref": "343",
         "shop": "wholesale",
-        "addr:city": "AVON",
+        "addr:city": "Avon",
         "addr:state": "OH",
         "addr:postcode": "44011-1681",
         "name": "Costco",
@@ -9947,7 +9947,7 @@
       "properties": {
         "ref": "358",
         "shop": "wholesale",
-        "addr:city": "BRANDON",
+        "addr:city": "Brandon",
         "addr:state": "FL",
         "addr:postcode": "33511-1997",
         "name": "Costco",
@@ -9968,7 +9968,7 @@
       "properties": {
         "ref": "354",
         "shop": "wholesale",
-        "addr:city": "NAPLES",
+        "addr:city": "Naples",
         "addr:state": "FL",
         "addr:postcode": "34109-2030",
         "name": "Costco",
@@ -9989,7 +9989,7 @@
       "properties": {
         "ref": "356",
         "shop": "wholesale",
-        "addr:city": "HUNTSVILLE",
+        "addr:city": "Huntsville",
         "addr:state": "AL",
         "addr:postcode": "35801-5930",
         "name": "Costco",
@@ -10010,7 +10010,7 @@
       "properties": {
         "ref": "357",
         "shop": "wholesale",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32246-4405",
         "name": "Costco",
@@ -10031,7 +10031,7 @@
       "properties": {
         "ref": "353",
         "shop": "wholesale",
-        "addr:city": "MEMPHIS",
+        "addr:city": "Memphis",
         "addr:state": "TN",
         "addr:postcode": "38125-2302",
         "name": "Costco",
@@ -10052,7 +10052,7 @@
       "properties": {
         "ref": "359",
         "shop": "wholesale",
-        "addr:city": "CHARLOTTE",
+        "addr:city": "Charlotte",
         "addr:state": "NC",
         "addr:postcode": "28217-3504",
         "name": "Costco",
@@ -10073,7 +10073,7 @@
       "properties": {
         "ref": "352",
         "shop": "wholesale",
-        "addr:city": "CORDOVA",
+        "addr:city": "Cordova",
         "addr:state": "TN",
         "addr:postcode": "38016-4494",
         "name": "Costco",
@@ -10136,7 +10136,7 @@
       "properties": {
         "ref": "329",
         "shop": "wholesale",
-        "addr:city": "OCEAN",
+        "addr:city": "Ocean",
         "addr:state": "NJ",
         "addr:postcode": "07712-3961",
         "name": "Costco",
@@ -10178,7 +10178,7 @@
       "properties": {
         "ref": "327",
         "shop": "wholesale",
-        "addr:city": "HARRISBURG",
+        "addr:city": "Harrisburg",
         "addr:state": "PA",
         "addr:postcode": "17112-2983",
         "name": "Costco",
@@ -10200,7 +10200,7 @@
       "properties": {
         "ref": "339",
         "shop": "wholesale",
-        "addr:city": "GREENSBORO",
+        "addr:city": "Greensboro",
         "addr:state": "NC",
         "addr:postcode": "27407-1908",
         "name": "Costco",
@@ -10221,7 +10221,7 @@
       "properties": {
         "ref": "325",
         "shop": "wholesale",
-        "addr:city": "HANOVER",
+        "addr:city": "Hanover",
         "addr:state": "MD",
         "addr:postcode": "21076-1387",
         "name": "Costco",
@@ -10242,7 +10242,7 @@
       "properties": {
         "ref": "342",
         "shop": "wholesale",
-        "addr:city": "NAPERVILLE",
+        "addr:city": "Naperville",
         "addr:state": "IL",
         "addr:postcode": "60564-5944",
         "name": "Costco",
@@ -10284,7 +10284,7 @@
       "properties": {
         "ref": "340",
         "shop": "wholesale",
-        "addr:city": "FREDERICKSBURG",
+        "addr:city": "Fredericksburg",
         "addr:state": "VA",
         "addr:postcode": "22407-4900",
         "name": "Costco",
@@ -10306,7 +10306,7 @@
       "properties": {
         "ref": "337",
         "shop": "wholesale",
-        "addr:city": "LEESBURG",
+        "addr:city": "Leesburg",
         "addr:state": "VA",
         "addr:postcode": "20176-3355",
         "name": "Costco",
@@ -10327,7 +10327,7 @@
       "properties": {
         "ref": "336",
         "shop": "wholesale",
-        "addr:city": "CLEARWATER",
+        "addr:city": "Clearwater",
         "addr:state": "FL",
         "addr:postcode": "33759-4936",
         "name": "Costco",
@@ -10369,7 +10369,7 @@
       "properties": {
         "ref": "333",
         "shop": "wholesale",
-        "addr:city": "EVERETT",
+        "addr:city": "Everett",
         "addr:state": "MA",
         "addr:postcode": "02149-2428",
         "name": "Costco",
@@ -10390,7 +10390,7 @@
       "properties": {
         "ref": "334",
         "shop": "wholesale",
-        "addr:city": "CHANTILLY",
+        "addr:city": "Chantilly",
         "addr:state": "VA",
         "addr:postcode": "20151-2117",
         "name": "Costco",
@@ -10411,7 +10411,7 @@
       "properties": {
         "ref": "332",
         "shop": "wholesale",
-        "addr:city": "PITTSBURGH",
+        "addr:city": "Pittsburgh",
         "addr:state": "PA",
         "addr:postcode": "15205-4858",
         "name": "Costco",
@@ -10432,7 +10432,7 @@
       "properties": {
         "ref": "330",
         "shop": "wholesale",
-        "addr:city": "FREDERICK",
+        "addr:city": "Frederick",
         "addr:state": "MD",
         "addr:postcode": "21704-7256",
         "name": "Costco",
@@ -10453,7 +10453,7 @@
       "properties": {
         "ref": "308",
         "shop": "wholesale",
-        "addr:city": "WALTHAM",
+        "addr:city": "Waltham",
         "addr:state": "MA",
         "addr:postcode": "02451-1107",
         "name": "Costco",
@@ -10474,7 +10474,7 @@
       "properties": {
         "ref": "307",
         "shop": "wholesale",
-        "addr:city": "NASHUA",
+        "addr:city": "Nashua",
         "addr:state": "NH",
         "addr:postcode": "03060-5702",
         "name": "Costco",
@@ -10495,7 +10495,7 @@
       "properties": {
         "ref": "310",
         "shop": "wholesale",
-        "addr:city": "LAWRENCE",
+        "addr:city": "Lawrence",
         "addr:state": "NY",
         "addr:postcode": "11559-1047",
         "name": "Costco",
@@ -10516,7 +10516,7 @@
       "properties": {
         "ref": "324",
         "shop": "wholesale",
-        "addr:city": "NORWALK",
+        "addr:city": "Norwalk",
         "addr:state": "CT",
         "addr:postcode": "06854-1615",
         "name": "Costco",
@@ -10537,7 +10537,7 @@
       "properties": {
         "ref": "306",
         "shop": "wholesale",
-        "addr:city": "CLIFTON",
+        "addr:city": "Clifton",
         "addr:state": "NJ",
         "addr:postcode": "07014-1724",
         "name": "Costco",
@@ -10558,7 +10558,7 @@
       "properties": {
         "ref": "305",
         "shop": "wholesale",
-        "addr:city": "NANUET",
+        "addr:city": "Nanuet",
         "addr:state": "NY",
         "addr:postcode": "10954-5290",
         "name": "Costco",
@@ -10579,7 +10579,7 @@
       "properties": {
         "ref": "323",
         "shop": "wholesale",
-        "addr:city": "EDISON",
+        "addr:city": "Edison",
         "addr:state": "NJ",
         "addr:postcode": "08817-4785",
         "name": "Costco",
@@ -10600,7 +10600,7 @@
       "properties": {
         "ref": "320",
         "shop": "wholesale",
-        "addr:city": "UNION",
+        "addr:city": "Union",
         "addr:state": "NJ",
         "addr:postcode": "07083-6809",
         "name": "Costco",
@@ -10621,7 +10621,7 @@
       "properties": {
         "ref": "321",
         "shop": "wholesale",
-        "addr:city": "YONKERS",
+        "addr:city": "Yonkers",
         "addr:state": "NY",
         "addr:postcode": "10710-7204",
         "name": "Costco",
@@ -10642,7 +10642,7 @@
       "properties": {
         "ref": "319",
         "shop": "wholesale",
-        "addr:city": "DEDHAM",
+        "addr:city": "Dedham",
         "addr:state": "MA",
         "addr:postcode": "02026-2653",
         "name": "Costco",
@@ -10663,7 +10663,7 @@
       "properties": {
         "ref": "322",
         "shop": "wholesale",
-        "addr:city": "BRIDGEWATER",
+        "addr:city": "Bridgewater",
         "addr:state": "NJ",
         "addr:postcode": "08807-3457",
         "name": "Costco",
@@ -10684,7 +10684,7 @@
       "properties": {
         "ref": "317",
         "shop": "wholesale",
-        "addr:city": "LANCASTER",
+        "addr:city": "Lancaster",
         "addr:state": "PA",
         "addr:postcode": "17601-5671",
         "name": "Costco",
@@ -10705,7 +10705,7 @@
       "properties": {
         "ref": "349",
         "shop": "wholesale",
-        "addr:city": "LENEXA",
+        "addr:city": "Lenexa",
         "addr:state": "KS",
         "addr:postcode": "66215-3845",
         "name": "Costco",
@@ -10726,7 +10726,7 @@
       "properties": {
         "ref": "318",
         "shop": "wholesale",
-        "addr:city": "BROOKLYN",
+        "addr:city": "Brooklyn",
         "addr:state": "NY",
         "addr:postcode": "11232-2400",
         "name": "Costco",
@@ -10768,7 +10768,7 @@
       "properties": {
         "ref": "315",
         "shop": "wholesale",
-        "addr:city": "WHARTON",
+        "addr:city": "Wharton",
         "addr:state": "NJ",
         "addr:postcode": "07885-1222",
         "name": "Costco",
@@ -10789,7 +10789,7 @@
       "properties": {
         "ref": "314",
         "shop": "wholesale",
-        "addr:city": "COLCHESTER",
+        "addr:city": "Colchester",
         "addr:state": "VT",
         "addr:postcode": "05446-5830",
         "name": "Costco",
@@ -10810,7 +10810,7 @@
       "properties": {
         "ref": "312",
         "shop": "wholesale",
-        "addr:city": "MILFORD",
+        "addr:city": "Milford",
         "addr:state": "CT",
         "addr:postcode": "06460-2718",
         "name": "Costco",
@@ -10831,7 +10831,7 @@
       "properties": {
         "ref": "313",
         "shop": "wholesale",
-        "addr:city": "WATERBURY",
+        "addr:city": "Waterbury",
         "addr:state": "CT",
         "addr:postcode": "06705-3851",
         "name": "Costco",
@@ -10852,7 +10852,7 @@
       "properties": {
         "ref": "303",
         "shop": "wholesale",
-        "addr:city": "AVON",
+        "addr:city": "Avon",
         "addr:state": "MA",
         "addr:postcode": "02322-1149",
         "name": "Costco",
@@ -10894,7 +10894,7 @@
       "properties": {
         "ref": "304",
         "shop": "wholesale",
-        "addr:city": "BROOKFIELD",
+        "addr:city": "Brookfield",
         "addr:state": "CT",
         "addr:postcode": "06804-2514",
         "name": "Costco",
@@ -10915,7 +10915,7 @@
       "properties": {
         "ref": "246",
         "shop": "wholesale",
-        "addr:city": "NEWARK",
+        "addr:city": "Newark",
         "addr:state": "DE",
         "addr:postcode": "19702-3221",
         "name": "Costco",
@@ -10936,7 +10936,7 @@
       "properties": {
         "ref": "301",
         "shop": "wholesale",
-        "addr:city": "DANVERS",
+        "addr:city": "Danvers",
         "addr:state": "MA",
         "addr:postcode": "01923-1014",
         "name": "Costco",
@@ -11041,7 +11041,7 @@
       "properties": {
         "ref": "249",
         "shop": "wholesale",
-        "addr:city": "DURHAM",
+        "addr:city": "Durham",
         "addr:state": "NC",
         "addr:postcode": "27705-3405",
         "name": "Costco",
@@ -11083,7 +11083,7 @@
       "properties": {
         "ref": "213",
         "shop": "wholesale",
-        "addr:city": "GAITHERSBURG",
+        "addr:city": "Gaithersburg",
         "addr:state": "MD",
         "addr:postcode": "20879-3506",
         "name": "Costco",
@@ -11104,7 +11104,7 @@
       "properties": {
         "ref": "218",
         "shop": "wholesale",
-        "addr:city": "STERLING",
+        "addr:city": "Sterling",
         "addr:state": "VA",
         "addr:postcode": "20164-6606",
         "name": "Costco",
@@ -11125,7 +11125,7 @@
       "properties": {
         "ref": "214",
         "shop": "wholesale",
-        "addr:city": "BELTSVILLE",
+        "addr:city": "Beltsville",
         "addr:state": "MD",
         "addr:postcode": "20705-2117",
         "name": "Costco",
@@ -11146,7 +11146,7 @@
       "properties": {
         "ref": "238",
         "shop": "wholesale",
-        "addr:city": "HARRISONBURG",
+        "addr:city": "Harrisonburg",
         "addr:state": "VA",
         "addr:postcode": "22801-8742",
         "name": "Costco",
@@ -11167,7 +11167,7 @@
       "properties": {
         "ref": "240",
         "shop": "wholesale",
-        "addr:city": "COMMACK",
+        "addr:city": "Commack",
         "addr:state": "NY",
         "addr:postcode": "11725-5421",
         "name": "Costco",
@@ -11188,7 +11188,7 @@
       "properties": {
         "ref": "239",
         "shop": "wholesale",
-        "addr:city": "WINCHESTER",
+        "addr:city": "Winchester",
         "addr:state": "VA",
         "addr:postcode": "22602-7319",
         "name": "Costco",
@@ -11209,7 +11209,7 @@
       "properties": {
         "ref": "237",
         "shop": "wholesale",
-        "addr:city": "MELVILLE",
+        "addr:city": "Melville",
         "addr:state": "NY",
         "addr:postcode": "11747-5006",
         "name": "Costco",
@@ -11230,7 +11230,7 @@
       "properties": {
         "ref": "233",
         "shop": "wholesale",
-        "addr:city": "ARLINGTON",
+        "addr:city": "Arlington",
         "addr:state": "VA",
         "addr:postcode": "22202-2862",
         "name": "Costco",
@@ -11251,7 +11251,7 @@
       "properties": {
         "ref": "230",
         "shop": "wholesale",
-        "addr:city": "HOLBROOK",
+        "addr:city": "Holbrook",
         "addr:state": "NY",
         "addr:postcode": "11741-4309",
         "name": "Costco",
@@ -11272,7 +11272,7 @@
       "properties": {
         "ref": "227",
         "shop": "wholesale",
-        "addr:city": "SPRINGFIELD",
+        "addr:city": "Springfield",
         "addr:state": "VA",
         "addr:postcode": "22153-2805",
         "name": "Costco",
@@ -11293,7 +11293,7 @@
       "properties": {
         "ref": "226",
         "shop": "wholesale",
-        "addr:city": "WESTBURY",
+        "addr:city": "Westbury",
         "addr:state": "NY",
         "addr:postcode": "11590-5624",
         "name": "Costco",
@@ -11314,7 +11314,7 @@
       "properties": {
         "ref": "225",
         "shop": "wholesale",
-        "addr:city": "MANASSAS",
+        "addr:city": "Manassas",
         "addr:state": "VA",
         "addr:postcode": "20109-2845",
         "name": "Costco",
@@ -11356,7 +11356,7 @@
       "properties": {
         "ref": "187",
         "shop": "wholesale",
-        "addr:city": "DULUTH",
+        "addr:city": "Duluth",
         "addr:state": "GA",
         "addr:postcode": "30096-5077",
         "name": "Costco",
@@ -11377,7 +11377,7 @@
       "properties": {
         "ref": "222",
         "shop": "wholesale",
-        "addr:city": "HAZLET",
+        "addr:city": "Hazlet",
         "addr:state": "NJ",
         "addr:postcode": "07730-1516",
         "name": "Costco",
@@ -11398,7 +11398,7 @@
       "properties": {
         "ref": "188",
         "shop": "wholesale",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30328-4568",
         "name": "Costco",
@@ -11419,7 +11419,7 @@
       "properties": {
         "ref": "189",
         "shop": "wholesale",
-        "addr:city": "KENNESAW",
+        "addr:city": "Kennesaw",
         "addr:state": "GA",
         "addr:postcode": "30144-4922",
         "name": "Costco",
@@ -11440,7 +11440,7 @@
       "properties": {
         "ref": "206",
         "shop": "wholesale",
-        "addr:city": "NESCONSET",
+        "addr:city": "Nesconset",
         "addr:state": "NY",
         "addr:postcode": "11767-1072",
         "name": "Costco",
@@ -11461,7 +11461,7 @@
       "properties": {
         "ref": "204",
         "shop": "wholesale",
-        "addr:city": "FAIRFAX",
+        "addr:city": "Fairfax",
         "addr:state": "VA",
         "addr:postcode": "22030-6125",
         "name": "Costco",
@@ -11503,7 +11503,7 @@
       "properties": {
         "ref": "202",
         "shop": "wholesale",
-        "addr:city": "NORFOLK",
+        "addr:city": "Norfolk",
         "addr:state": "VA",
         "addr:postcode": "23502-3702",
         "name": "Costco",
@@ -11545,7 +11545,7 @@
       "properties": {
         "ref": "180",
         "shop": "wholesale",
-        "addr:city": "LANTANA",
+        "addr:city": "Lantana",
         "addr:state": "FL",
         "addr:postcode": "33462-2601",
         "name": "Costco",
@@ -11608,7 +11608,7 @@
       "properties": {
         "ref": "142",
         "shop": "wholesale",
-        "addr:city": "MERCED",
+        "addr:city": "Merced",
         "addr:state": "CA",
         "addr:postcode": "95340-5850",
         "name": "Costco",
@@ -11650,7 +11650,7 @@
       "properties": {
         "ref": "141",
         "shop": "wholesale",
-        "addr:city": "NOVATO",
+        "addr:city": "Novato",
         "addr:state": "CA",
         "addr:postcode": "94945-5007",
         "name": "Costco",
@@ -11734,7 +11734,7 @@
       "properties": {
         "ref": "146",
         "shop": "wholesale",
-        "addr:city": "LIVERMORE",
+        "addr:city": "Livermore",
         "addr:state": "CA",
         "addr:postcode": "94551-7628",
         "name": "Costco",
@@ -11839,7 +11839,7 @@
       "properties": {
         "ref": "132",
         "shop": "wholesale",
-        "addr:city": "VALLEJO",
+        "addr:city": "Vallejo",
         "addr:state": "CA",
         "addr:postcode": "94591-3702",
         "name": "Costco",
@@ -11860,7 +11860,7 @@
       "properties": {
         "ref": "119",
         "shop": "wholesale",
-        "addr:city": "KAHULUI",
+        "addr:city": "Kahului",
         "addr:state": "HI",
         "addr:postcode": "96732-2302",
         "name": "Costco",
@@ -11881,7 +11881,7 @@
       "properties": {
         "ref": "120",
         "shop": "wholesale",
-        "addr:city": "HONOLULU",
+        "addr:city": "Honolulu",
         "addr:state": "HI",
         "addr:postcode": "96825-3406",
         "name": "Costco",
@@ -11924,7 +11924,7 @@
       "properties": {
         "ref": "208",
         "shop": "wholesale",
-        "addr:city": "BALTIMORE",
+        "addr:city": "Baltimore",
         "addr:state": "MD",
         "addr:postcode": "21220-1411",
         "name": "Costco",
@@ -12071,7 +12071,7 @@
       "properties": {
         "ref": "125",
         "shop": "wholesale",
-        "addr:city": "EUREKA",
+        "addr:city": "Eureka",
         "addr:state": "CA",
         "addr:postcode": "95501-2121",
         "name": "Costco",
@@ -12092,7 +12092,7 @@
       "properties": {
         "ref": "122",
         "shop": "wholesale",
-        "addr:city": "TUSTIN",
+        "addr:city": "Tustin",
         "addr:state": "CA",
         "addr:postcode": "92782-8918",
         "name": "Costco",
@@ -12113,7 +12113,7 @@
       "properties": {
         "ref": "124",
         "shop": "wholesale",
-        "addr:city": "VISTA",
+        "addr:city": "Vista",
         "addr:state": "CA",
         "addr:postcode": "92081-4546",
         "name": "Costco",
@@ -12134,7 +12134,7 @@
       "properties": {
         "ref": "116",
         "shop": "wholesale",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87107-7008",
         "name": "Costco",
@@ -12155,7 +12155,7 @@
       "properties": {
         "ref": "115",
         "shop": "wholesale",
-        "addr:city": "LYNNWOOD",
+        "addr:city": "Lynnwood",
         "addr:state": "WA",
         "addr:postcode": "98036-5228",
         "name": "Costco Business Center",
@@ -12218,7 +12218,7 @@
       "properties": {
         "ref": "101",
         "shop": "wholesale",
-        "addr:city": "BEND",
+        "addr:city": "Bend",
         "addr:state": "OR",
         "addr:postcode": "97701-6277",
         "name": "Costco",
@@ -12239,7 +12239,7 @@
       "properties": {
         "ref": "114",
         "shop": "wholesale",
-        "addr:city": "EVERETT",
+        "addr:city": "Everett",
         "addr:state": "WA",
         "addr:postcode": "98208-4256",
         "name": "Costco",
@@ -12302,7 +12302,7 @@
       "properties": {
         "ref": "103",
         "shop": "wholesale",
-        "addr:city": "CLARKSTON",
+        "addr:city": "Clarkston",
         "addr:state": "WA",
         "addr:postcode": "99403-1860",
         "name": "Costco",
@@ -12323,7 +12323,7 @@
       "properties": {
         "ref": "107",
         "shop": "wholesale",
-        "addr:city": "JUNEAU",
+        "addr:city": "Juneau",
         "addr:state": "AK",
         "addr:postcode": "99801-7210",
         "name": "Costco",
@@ -12344,7 +12344,7 @@
       "properties": {
         "ref": "110",
         "shop": "wholesale",
-        "addr:city": "ISSAQUAH",
+        "addr:city": "Issaquah",
         "addr:state": "WA",
         "addr:postcode": "98027-5384",
         "name": "Costco",
@@ -12365,7 +12365,7 @@
       "properties": {
         "ref": "106",
         "shop": "wholesale",
-        "addr:city": "SHORELINE",
+        "addr:city": "Shoreline",
         "addr:state": "WA",
         "addr:postcode": "98133-3206",
         "name": "Costco",
@@ -12386,7 +12386,7 @@
       "properties": {
         "ref": "111",
         "shop": "wholesale",
-        "addr:city": "TIGARD",
+        "addr:city": "Tigard",
         "addr:state": "OR",
         "addr:postcode": "97223-8401",
         "name": "Costco",
@@ -12407,7 +12407,7 @@
       "properties": {
         "ref": "63",
         "shop": "wholesale",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99508-3115",
         "name": "Costco",
@@ -12428,7 +12428,7 @@
       "properties": {
         "ref": "64",
         "shop": "wholesale",
-        "addr:city": "TUMWATER",
+        "addr:city": "Tumwater",
         "addr:state": "WA",
         "addr:postcode": "98512-7363",
         "name": "Costco",
@@ -12449,7 +12449,7 @@
       "properties": {
         "ref": "97",
         "shop": "wholesale",
-        "addr:city": "CLACKAMAS",
+        "addr:city": "Clackamas",
         "addr:state": "OR",
         "addr:postcode": "97015-9733",
         "name": "Costco",
@@ -12470,7 +12470,7 @@
       "properties": {
         "ref": "96",
         "shop": "wholesale",
-        "addr:city": "BOZEMAN",
+        "addr:city": "Bozeman",
         "addr:state": "MT",
         "addr:postcode": "59718-7993",
         "name": "Costco",
@@ -12512,7 +12512,7 @@
       "properties": {
         "ref": "91",
         "shop": "wholesale",
-        "addr:city": "DAVIE",
+        "addr:city": "Davie",
         "addr:state": "FL",
         "addr:postcode": "33324-5808",
         "name": "Costco",
@@ -12533,7 +12533,7 @@
       "properties": {
         "ref": "95",
         "shop": "wholesale",
-        "addr:city": "TACOMA",
+        "addr:city": "Tacoma",
         "addr:state": "WA",
         "addr:postcode": "98409-7473",
         "name": "Costco",
@@ -12575,7 +12575,7 @@
       "properties": {
         "ref": "2",
         "shop": "wholesale",
-        "addr:city": "PORTLAND",
+        "addr:city": "Portland",
         "addr:state": "OR",
         "addr:postcode": "97230-3401",
         "name": "Costco",
@@ -12596,7 +12596,7 @@
       "properties": {
         "ref": "1375",
         "shop": "wholesale",
-        "addr:city": "SURPRISE",
+        "addr:city": "Surprise",
         "addr:state": "AZ",
         "addr:postcode": "85388",
         "name": "Costco",
@@ -12617,7 +12617,7 @@
       "properties": {
         "ref": "1294",
         "shop": "wholesale",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32244-5704",
         "name": "Costco",
@@ -12638,7 +12638,7 @@
       "properties": {
         "ref": "6",
         "shop": "wholesale",
-        "addr:city": "TUKWILA",
+        "addr:city": "Tukwila",
         "addr:state": "WA",
         "addr:postcode": "98188-4808",
         "name": "Costco",
