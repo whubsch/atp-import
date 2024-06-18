@@ -1,0 +1,3124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "rWGiNs0nJYUYiElijAlu6RxItLQ=",
+      "properties": {
+        "ref": "556",
+        "addr:city": "Ocean City",
+        "addr:state": "MD",
+        "addr:postcode": "21842-9538",
+        "name": "Wawa",
+        "phone": "+1 410-213-1632",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "12502",
+        "addr:street": "Ocean Gateway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/556"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.119081, 38.338407] }
+    },
+    {
+      "type": "Feature",
+      "id": "GSntqXA9V-6Ablf-oeEjd2IB-rc=",
+      "properties": {
+        "ref": "566",
+        "addr:city": "Ocean City",
+        "addr:state": "MD",
+        "addr:postcode": "21842",
+        "name": "Wawa",
+        "phone": "+1 410-524-6730",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "12001",
+        "addr:street": "Coastal Highway",
+        "addr:unit": "A",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/566"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.05672, 38.426237] }
+    },
+    {
+      "type": "Feature",
+      "id": "pSeHaMSnN5Lqg7eMaeSZkzBW_Bw=",
+      "properties": {
+        "ref": "836",
+        "addr:city": "Bethany Beach",
+        "addr:state": "DE",
+        "addr:postcode": "19930",
+        "name": "Wawa",
+        "phone": "+1 302-537-2663",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "774",
+        "addr:street": "Garfield Parkway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/836"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0709, 38.539808] }
+    },
+    {
+      "type": "Feature",
+      "id": "M3-1GvOOwRyudLVJ6rdvs11JCC0=",
+      "properties": {
+        "ref": "555",
+        "addr:city": "Salisbury",
+        "addr:state": "MD",
+        "addr:postcode": "21801",
+        "name": "Wawa",
+        "phone": "+1 410-677-0384",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "668",
+        "addr:street": "South Salisbury Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/555"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.60073, 38.358175] }
+    },
+    {
+      "type": "Feature",
+      "id": "C2prY_fIvP09ar5QYDqbDT_0rh0=",
+      "properties": {
+        "ref": "561",
+        "addr:city": "Salisbury",
+        "addr:state": "MD",
+        "addr:postcode": "21801",
+        "name": "Wawa",
+        "phone": "+1 410-548-7946",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2740",
+        "addr:street": "North Salisbury Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/561"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.56596, 38.420697] }
+    },
+    {
+      "type": "Feature",
+      "id": "l9qgo_9Ec4VEVHBGZj_x3o-22wY=",
+      "properties": {
+        "ref": "837",
+        "addr:city": "Millsboro",
+        "addr:state": "DE",
+        "addr:postcode": "19966",
+        "name": "Wawa",
+        "phone": "+1 302-934-1844",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "102",
+        "addr:street": "East Dupont Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/837"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.29594, 38.584683] }
+    },
+    {
+      "type": "Feature",
+      "id": "4AgbCLUkVXmZhHPJM-CtjgX577k=",
+      "properties": {
+        "ref": "856",
+        "addr:city": "Delmar",
+        "addr:state": "DE",
+        "addr:postcode": "19940",
+        "name": "Wawa",
+        "phone": "+1 302-846-3272",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "38711",
+        "addr:street": "Sussex Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/856"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.557044, 38.456094] }
+    },
+    {
+      "type": "Feature",
+      "id": "WQl4355B_i_b-dp2u9qZlPPZ04o=",
+      "properties": {
+        "ref": "865",
+        "addr:city": "Millsboro",
+        "addr:state": "DE",
+        "addr:postcode": "19966",
+        "name": "Wawa",
+        "phone": "+1 302-945-1834",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "24930",
+        "addr:street": "John J Williams Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/865"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.195383, 38.633941] }
+    },
+    {
+      "type": "Feature",
+      "id": "KeAmYG2PUVLNx9LSkZjrLMHGr_Q=",
+      "properties": {
+        "ref": "871",
+        "addr:city": "Rehoboth Beach",
+        "addr:state": "DE",
+        "addr:postcode": "19971",
+        "name": "Wawa",
+        "phone": "+1 302-227-1893",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "30155",
+        "addr:street": "Veterans Way",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/871"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.103297, 38.712962] }
+    },
+    {
+      "type": "Feature",
+      "id": "q_YahRMd9jArrFaFpZx-KyN5KOk=",
+      "properties": {
+        "ref": "849",
+        "addr:city": "Rehoboth Beach",
+        "addr:state": "DE",
+        "addr:postcode": "19971",
+        "name": "Wawa",
+        "phone": "+1 302-644-4210",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4500",
+        "addr:street": "Highway 1, Route 1",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/849"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.132262, 38.731499] }
+    },
+    {
+      "type": "Feature",
+      "id": "pSBS_67r2Fpzf8xr8-Iy-6CdkV8=",
+      "properties": {
+        "ref": "834",
+        "addr:city": "Lewes",
+        "addr:state": "DE",
+        "addr:postcode": "19958",
+        "name": "Wawa",
+        "phone": "+1 302-645-5637",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "17663",
+        "addr:street": "Dartmouth Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/834"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.15401, 38.743921] }
+    },
+    {
+      "type": "Feature",
+      "id": "vDr3Hah2-sAxb_EDN0AQJUL9-6w=",
+      "properties": {
+        "ref": "874",
+        "addr:city": "Seaford",
+        "addr:state": "DE",
+        "addr:postcode": "19973",
+        "name": "Wawa",
+        "phone": "+1 302-888-9442",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "22929",
+        "addr:street": "Sussex Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/874"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.593416, 38.660032] }
+    },
+    {
+      "type": "Feature",
+      "id": "80DeOAGtckLWcB0zNkJdv2dQAJE=",
+      "properties": {
+        "ref": "864",
+        "addr:city": "Bridgeville",
+        "addr:state": "DE",
+        "addr:postcode": "19933",
+        "name": "Wawa",
+        "phone": "+1 302-337-7424",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "18586",
+        "addr:street": "Sussex Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/864"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.591548, 38.726056] }
+    },
+    {
+      "type": "Feature",
+      "id": "YqXGqdeXncu-0SeF5MomemnyZ0g=",
+      "properties": {
+        "ref": "452",
+        "addr:city": "Cape May",
+        "addr:state": "NJ",
+        "addr:postcode": "08204",
+        "name": "Wawa",
+        "phone": "+1 609-884-6753",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1426-28",
+        "addr:street": "Texas Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/452"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.909118, 38.946751] }
+    },
+    {
+      "type": "Feature",
+      "id": "6FTU-3ZjK7Fi5oaiU3xVkGpfoJE=",
+      "properties": {
+        "ref": "729",
+        "addr:city": "Wildwood",
+        "addr:state": "NJ",
+        "addr:postcode": "08260",
+        "name": "Wawa",
+        "phone": "+1 609-729-6339",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "418",
+        "addr:street": "West Rio Grande Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/729"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.82944, 38.987176] }
+    },
+    {
+      "type": "Feature",
+      "id": "eW3HzndhfDbWshuo5jmbEYm5x9Q=",
+      "properties": {
+        "ref": "980",
+        "addr:city": "Cape May",
+        "addr:state": "NJ",
+        "addr:postcode": "08204-3553",
+        "name": "Wawa",
+        "phone": "+1 609-886-0004",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3719",
+        "addr:street": "Bayshore Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/980"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.941231, 38.982979] }
+    },
+    {
+      "type": "Feature",
+      "id": "kab6O6Hw336tfmWYHZOsVs-9bDs=",
+      "properties": {
+        "ref": "954",
+        "addr:city": "Wildwood",
+        "addr:state": "NJ",
+        "addr:postcode": "08260",
+        "name": "Wawa",
+        "phone": "+1 609-729-8701",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3200",
+        "addr:street": "New Jersey Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/954"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.814569, 38.992195] }
+    },
+    {
+      "type": "Feature",
+      "id": "qd1cbf8yVFkvu_u3qZZbixlhNAM=",
+      "properties": {
+        "ref": "8322",
+        "addr:city": "North Wildwood",
+        "addr:state": "NJ",
+        "addr:postcode": "08260-3058",
+        "name": "Wawa",
+        "phone": "+1 609-522-0910",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "330",
+        "addr:street": "West Spruce Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8322"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.796077, 39.012033] }
+    },
+    {
+      "type": "Feature",
+      "id": "PXs6IPHlfTmN_9PfLpl4T_OTO2Y=",
+      "properties": {
+        "ref": "946",
+        "addr:city": "Rio Grande",
+        "addr:state": "NJ",
+        "addr:postcode": "08242",
+        "name": "Wawa",
+        "phone": "+1 609-889-3122",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3601",
+        "addr:street": "Route 9 South",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/946"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.87641, 39.015658] }
+    },
+    {
+      "type": "Feature",
+      "id": "1fgLD1Q-Lysi-_lE5e18bo6fCq4=",
+      "properties": {
+        "ref": "851",
+        "addr:city": "Milford",
+        "addr:state": "DE",
+        "addr:postcode": "19963",
+        "name": "Wawa",
+        "phone": "+1 302-424-2300",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "902",
+        "addr:street": "North Dupont Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/851"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.43156, 38.928291] }
+    },
+    {
+      "type": "Feature",
+      "id": "8Rsh3SI9ba4SFW_puT7I0bwmSpI=",
+      "properties": {
+        "ref": "963",
+        "addr:city": "Villas",
+        "addr:state": "NJ",
+        "addr:postcode": "08251",
+        "name": "Wawa",
+        "phone": "+1 609-889-8971",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1515",
+        "addr:street": "Bayshore Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/963"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.93451, 39.023124] }
+    },
+    {
+      "type": "Feature",
+      "id": "cmf9AQUgxq2O-r2Tn0wvzmRrWR8=",
+      "properties": {
+        "ref": "563",
+        "addr:city": "Cambridge",
+        "addr:state": "MD",
+        "addr:postcode": "21613",
+        "name": "Wawa",
+        "phone": "+1 410-901-9794",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "601",
+        "addr:street": "Sunburst Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/563"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.06626, 38.561096] }
+    },
+    {
+      "type": "Feature",
+      "id": "ldfMGo1-jvZVn8OfjAZjkSy4wrY=",
+      "properties": {
+        "ref": "342",
+        "addr:city": "Stone Harbor",
+        "addr:state": "NJ",
+        "addr:postcode": "08247",
+        "name": "Wawa",
+        "phone": "+1 609-368-3265",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "9404",
+        "addr:street": "Third Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/342"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.7596, 39.055563] }
+    },
+    {
+      "type": "Feature",
+      "id": "df6uHJaTxm7jJpamFLpeo9XVyfc=",
+      "properties": {
+        "ref": "492",
+        "addr:city": "Atlan",
+        "addr:state": "NJ",
+        "addr:postcode": "08210",
+        "name": "Wawa",
+        "phone": "+1 609-465-1461",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "224",
+        "addr:street": "South Main Street",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/492"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.825523, 39.078018] }
+    },
+    {
+      "type": "Feature",
+      "id": "fgVaXhX7_JfbwNErW2RnVMEkJT0=",
+      "properties": {
+        "ref": "432",
+        "addr:city": "Avalon",
+        "addr:state": "NJ",
+        "addr:postcode": "08202",
+        "name": "Wawa",
+        "phone": "+1 609-967-3326",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2701",
+        "addr:street": "Ocean Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/432"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.72321, 39.098628] }
+    },
+    {
+      "type": "Feature",
+      "id": "7Abar1xTTG6yX88rqhhY7ILCAoo=",
+      "properties": {
+        "ref": "8608",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23454",
+        "name": "Wawa",
+        "phone": "+1 757-422-6300",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1700",
+        "addr:street": "Virginia Beach Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8608"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.02165, 36.843244] }
+    },
+    {
+      "type": "Feature",
+      "id": "7rMTKUodkq2QRM51MBwrv1oaE8s=",
+      "properties": {
+        "ref": "678",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23452",
+        "name": "Wawa",
+        "phone": "+1 757-431-3123",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2501",
+        "addr:street": "Virginia Beach Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/678"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.05592, 36.840471] }
+    },
+    {
+      "type": "Feature",
+      "id": "T5i6S-lxlpRxKg-WpZ6gc4XWato=",
+      "properties": {
+        "ref": "675",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23455",
+        "name": "Wawa",
+        "phone": "+1 757-460-5329",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4800",
+        "addr:street": "Shore Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/675"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.13609, 36.905203] }
+    },
+    {
+      "type": "Feature",
+      "id": "GeXSO6ap9zZr7ambpoexBjwr8So=",
+      "properties": {
+        "ref": "694",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23462",
+        "name": "Wawa",
+        "phone": "+1 757-340-2615",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2954",
+        "addr:street": "Virginia Beach Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/694"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.074698, 36.844503] }
+    },
+    {
+      "type": "Feature",
+      "id": "QJ6WYxm_YHiJSbmmeT-0_vBcYoA=",
+      "properties": {
+        "ref": "671",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23452",
+        "name": "Wawa",
+        "phone": "+1 757-463-8936",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "201",
+        "addr:street": "South Rosemont Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/671"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.0961, 36.833618] }
+    },
+    {
+      "type": "Feature",
+      "id": "3k5bAqqWGA9ibowbAyszfDU6V4A=",
+      "properties": {
+        "ref": "300",
+        "addr:city": "Sea Isle City",
+        "addr:state": "NJ",
+        "addr:postcode": "08243",
+        "name": "Wawa",
+        "phone": "+1 609-263-2330",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3801",
+        "addr:street": "Landis Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/300"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.68942, 39.157393] }
+    },
+    {
+      "type": "Feature",
+      "id": "g3rMkP3yyE2N2V0HIApjkzxHxrk=",
+      "properties": {
+        "ref": "8609",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23455",
+        "name": "Wawa",
+        "phone": "+1 757-460-1114",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5701",
+        "addr:street": "Northampton Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8609"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.179228, 36.885646] }
+    },
+    {
+      "type": "Feature",
+      "id": "LASVv73_ZaBZUIN8P_56DgMWrMk=",
+      "properties": {
+        "ref": "589",
+        "addr:city": "Easton",
+        "addr:state": "MD",
+        "addr:postcode": "21601",
+        "name": "Wawa",
+        "phone": "+1 410-819-3830",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "8118",
+        "addr:street": "Ocean Gateway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/589"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.06135, 38.771816] }
+    },
+    {
+      "type": "Feature",
+      "id": "VHPttNyQPYbIGOq0KEE5w7WfDLo=",
+      "properties": {
+        "ref": "8642",
+        "addr:city": "Hampton",
+        "addr:state": "VA",
+        "addr:postcode": "23663",
+        "name": "Wawa",
+        "phone": "+1 757-589-4169",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "301",
+        "addr:street": "East Mercury Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8642"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.32487, 37.03298] }
+    },
+    {
+      "type": "Feature",
+      "id": "bVWKZiGUFcHouU4Da0UZ-bEN52I=",
+      "properties": {
+        "ref": "690",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23462",
+        "name": "Wawa",
+        "phone": "+1 757-326-6464",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4377",
+        "addr:street": "Holland Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/690"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.126289, 36.822372] }
+    },
+    {
+      "type": "Feature",
+      "id": "PVqUSJFhh9ifSnkPh9AeRpwXAWk=",
+      "properties": {
+        "ref": "465",
+        "addr:city": "Ocean View",
+        "addr:state": "NJ",
+        "addr:postcode": "08230",
+        "name": "Wawa",
+        "phone": "+1 609-624-9379",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2500",
+        "addr:street": "Sea Isle Boulevard",
+        "addr:unit": "1",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/465"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.7326, 39.176577] }
+    },
+    {
+      "type": "Feature",
+      "id": "jZWJEDUzs1laTKo0FWtCGf4eZ_8=",
+      "properties": {
+        "ref": "587",
+        "addr:city": "Lexington Park",
+        "addr:state": "MD",
+        "addr:postcode": "20653-2131",
+        "name": "Wawa",
+        "phone": "+1 240-725-0531",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "22530",
+        "addr:street": "Three Notch Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/587"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.476776, 38.286931] }
+    },
+    {
+      "type": "Feature",
+      "id": "x2Z9ZidPVQmv3k9uWNDyprBWgRM=",
+      "properties": {
+        "ref": "679",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23456",
+        "name": "Wawa",
+        "phone": "+1 757-368-9109",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1579",
+        "addr:street": "Lynnhaven Parkway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/679"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.10241, 36.795911] }
+    },
+    {
+      "type": "Feature",
+      "id": "FCaDbiRqbw-V8o6EJdVgPGnC_s0=",
+      "properties": {
+        "ref": "8604",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23518",
+        "name": "Wawa",
+        "phone": "+1 757-480-7436",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "975",
+        "addr:street": "East Little Creek Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8604"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.24232, 36.913941] }
+    },
+    {
+      "type": "Feature",
+      "id": "z82_xbAto0DUfv9KH-znOHEKgos=",
+      "properties": {
+        "ref": "652",
+        "addr:city": "Hayes",
+        "addr:state": "VA",
+        "addr:postcode": "23072-2826",
+        "name": "Wawa",
+        "phone": "+1 804-693-3010",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5120",
+        "addr:street": "George Washington Memoria",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/652"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.52352, 37.344484] }
+    },
+    {
+      "type": "Feature",
+      "id": "8sks5rFD9CmGl2OpWnEXQ5pF1HU=",
+      "properties": {
+        "ref": "8628",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23518-5436",
+        "name": "Wawa",
+        "phone": "+1 757-857-3071",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "6301",
+        "addr:street": "North Military Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8628"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.22626, 36.897126] }
+    },
+    {
+      "type": "Feature",
+      "id": "6G6ZMncRegPX0qRW37l5Ho-_3Wg=",
+      "properties": {
+        "ref": "470",
+        "addr:city": "Dennisville",
+        "addr:state": "NJ",
+        "addr:postcode": "08214",
+        "name": "Wawa",
+        "phone": "+1 609-861-7147",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1180",
+        "addr:street": "Route 47",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/470"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.82143, 39.190591] }
+    },
+    {
+      "type": "Feature",
+      "id": "C7RHr53_mNBvWkke2eMy3cebydU=",
+      "properties": {
+        "ref": "8661",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23502",
+        "name": "Wawa",
+        "phone": "+1 757-785-4462",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "701",
+        "addr:street": "North Newtown Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8661"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.1807, 36.8485] }
+    },
+    {
+      "type": "Feature",
+      "id": "5z9yuk0-LQ3hgddXNjXzn4QNlAQ=",
+      "properties": {
+        "ref": "8645",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23502",
+        "name": "Wawa",
+        "phone": "+1 757-525-9914",
+        "opening_hours": "03:00-01:00",
+        "brand": "Wawa",
+        "addr:housenumber": "1146",
+        "addr:street": "North Military Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8645"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.2096, 36.8613] }
+    },
+    {
+      "type": "Feature",
+      "id": "gO9WJYikSKYDo40Srk2svFWu7Mk=",
+      "properties": {
+        "ref": "687",
+        "addr:city": "Yorktown",
+        "addr:state": "VA",
+        "addr:postcode": "23692-2774",
+        "name": "Wawa",
+        "phone": "+1 757-833-7801",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5824",
+        "addr:street": "George Washington Memoria",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/687"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.46499, 37.165506] }
+    },
+    {
+      "type": "Feature",
+      "id": "weUFhRfELROtqScg9xMJOZCN948=",
+      "properties": {
+        "ref": "592",
+        "addr:city": "California",
+        "addr:state": "MD",
+        "addr:postcode": "20619",
+        "name": "Wawa",
+        "phone": "+1 301-866-6080",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "23141",
+        "addr:street": "Three Notch Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/592"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.51936, 38.302751] }
+    },
+    {
+      "type": "Feature",
+      "id": "ElHmTchAbREsejrntlXiwADlGJA=",
+      "properties": {
+        "ref": "8618",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23454",
+        "name": "Wawa",
+        "phone": "+1 757-495-1390",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5048",
+        "addr:street": "Ferrell Parkway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8618"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.16797, 36.794321] }
+    },
+    {
+      "type": "Feature",
+      "id": "CAamUPTAFxj-MozdsWk-J2rSA3s=",
+      "properties": {
+        "ref": "8633",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23502-1564",
+        "name": "Wawa",
+        "phone": "+1 757-855-2060",
+        "opening_hours": "05:00-00:00",
+        "brand": "Wawa",
+        "addr:housenumber": "3360",
+        "addr:street": "East Princess Anne Red",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8633"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.245142, 36.863276] }
+    },
+    {
+      "type": "Feature",
+      "id": "7wM0_gDl2vH8hsZa4pl2H5nta1w=",
+      "properties": {
+        "ref": "8657",
+        "addr:city": "Yorktown",
+        "addr:state": "VA",
+        "addr:postcode": "23693",
+        "name": "Wawa",
+        "phone": "+1 757-664-9577",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2610",
+        "addr:street": "George Washington Mem Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8657"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.456763, 37.120749] }
+    },
+    {
+      "type": "Feature",
+      "id": "aRU8HzBDuu57leznhUhQlqfEBzE=",
+      "properties": {
+        "ref": "876",
+        "addr:city": "Camden",
+        "addr:state": "DE",
+        "addr:postcode": "19934",
+        "name": "Wawa",
+        "phone": "+1 302-455-7791",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "200",
+        "addr:street": "East Street",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/876"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.540307, 39.108979] }
+    },
+    {
+      "type": "Feature",
+      "id": "PxXVwKGFyIFSD0kRNdo17d3erB4=",
+      "properties": {
+        "ref": "656",
+        "addr:city": "Newport News",
+        "addr:state": "VA",
+        "addr:postcode": "23608",
+        "name": "Wawa",
+        "phone": "+1 757-874-2704",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "14803",
+        "addr:street": "Warwick Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/656"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.54673, 37.136763] }
+    },
+    {
+      "type": "Feature",
+      "id": "njpe0aZEq7yRmCTA4T3ECseI7Sw=",
+      "properties": {
+        "ref": "8631",
+        "addr:city": "Newport News",
+        "addr:state": "VA",
+        "addr:postcode": "23606-4325",
+        "name": "Wawa",
+        "phone": "+1 757-269-4213",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "12095",
+        "addr:street": "Jefferson Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8631"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.492595, 37.100383] }
+    },
+    {
+      "type": "Feature",
+      "id": "xSqYJQFEGuKyaqi54_4FPUnuAnc=",
+      "properties": {
+        "ref": "685",
+        "addr:city": "Newport News",
+        "addr:state": "VA",
+        "addr:postcode": "23607",
+        "name": "Wawa",
+        "phone": "+1 757-873-4737",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "772",
+        "addr:street": "J. Clyde Morris Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/685"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.45954, 37.080586] }
+    },
+    {
+      "type": "Feature",
+      "id": "U47LuikVUZcKivNj1qAU44vxA5A=",
+      "properties": {
+        "ref": "8654",
+        "addr:city": "Newport News",
+        "addr:state": "VA",
+        "addr:postcode": "23601",
+        "name": "Wawa",
+        "phone": "+1 757-852-0055",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11124",
+        "addr:street": "Jefferson Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8654"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.464792, 37.05939] }
+    },
+    {
+      "type": "Feature",
+      "id": "Lg0b75wCG9YF5mNZaQd-PaSXEis=",
+      "properties": {
+        "ref": "699",
+        "addr:city": "Williamsburg",
+        "addr:state": "VA",
+        "addr:postcode": "23185-5314",
+        "name": "Wawa",
+        "phone": "+1 757-220-5046",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "842",
+        "addr:street": "Merrimac Trail",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/699"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.67656, 37.266111] }
+    },
+    {
+      "type": "Feature",
+      "id": "8sFWtV1tRkfw0-3RGm2IKxHHbM4=",
+      "properties": {
+        "ref": "8629",
+        "addr:city": "Hampton",
+        "addr:state": "VA",
+        "addr:postcode": "23666-3101",
+        "name": "Wawa",
+        "phone": "+1 757-825-0941",
+        "opening_hours": "05:00-23:00",
+        "brand": "Wawa",
+        "addr:housenumber": "2401",
+        "addr:street": "West Mercury Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8629"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.4095, 37.0365] }
+    },
+    {
+      "type": "Feature",
+      "id": "VncBPTbuF3mtg50H1zRAE0lMDC4=",
+      "properties": {
+        "ref": "8641",
+        "addr:city": "Newport News",
+        "addr:state": "VA",
+        "addr:postcode": "23605-2700",
+        "name": "Wawa",
+        "phone": "+1 757-838-0514",
+        "opening_hours": "05:00-00:00",
+        "brand": "Wawa",
+        "addr:housenumber": "5280",
+        "addr:street": "West Mercury Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8641"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.440365, 37.022279] }
+    },
+    {
+      "type": "Feature",
+      "id": "eAXjqr0ztPEHQSfZSCvs6aw6Qxw=",
+      "properties": {
+        "ref": "681",
+        "addr:city": "Williamsburg",
+        "addr:state": "VA",
+        "addr:postcode": "23185",
+        "name": "Wawa",
+        "phone": "+1 757-258-1322",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "315",
+        "addr:street": "Richmond Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/681"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.71193, 37.273297] }
+    },
+    {
+      "type": "Feature",
+      "id": "PC-qDYMDq8zapKN5nbpaiXIMgh0=",
+      "properties": {
+        "ref": "8664",
+        "addr:city": "Williamsburg",
+        "addr:state": "VA",
+        "addr:postcode": "23188",
+        "name": "Wawa",
+        "phone": "+1 757-500-2450",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "6446",
+        "addr:street": "Richmond Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8664"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.754341, 37.340324] }
+    },
+    {
+      "type": "Feature",
+      "id": "2qZw_TilIvRAd-UvAIWo5J49CgI=",
+      "properties": {
+        "ref": "8606",
+        "addr:city": "Norfolk",
+        "addr:state": "VA",
+        "addr:postcode": "23505",
+        "name": "Wawa",
+        "phone": "+1 757-451-2706",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "8105",
+        "addr:street": "Hampton Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8606"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.31815, 36.926766] }
+    },
+    {
+      "type": "Feature",
+      "id": "b-zkbUYUOvyCjWa9fLdfLaA3UEE=",
+      "properties": {
+        "ref": "695",
+        "addr:city": "Chesapeake",
+        "addr:state": "VA",
+        "addr:postcode": "23321",
+        "name": "Wawa",
+        "phone": "+1 757-638-6431",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3408",
+        "addr:street": "Western Branch Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/695"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.41615, 36.866388] }
+    },
+    {
+      "type": "Feature",
+      "id": "QqoXzJ3IzRS26_Uf6agPChjpk-g=",
+      "properties": {
+        "ref": "8672",
+        "addr:city": "Portsmouth",
+        "addr:state": "VA",
+        "addr:postcode": "23704",
+        "name": "Wawa",
+        "phone": "+1 757-932-1311",
+        "opening_hours": "03:30-00:00",
+        "brand": "Wawa",
+        "addr:housenumber": "720",
+        "addr:street": "London Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8672"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.30657, 36.83715] }
+    },
+    {
+      "type": "Feature",
+      "id": "CSonCLYRA2QyFXuXk4JoDZAuUQI=",
+      "properties": {
+        "ref": "8636",
+        "addr:city": "Portsmouth",
+        "addr:state": "VA",
+        "addr:postcode": "23707-4119",
+        "name": "Wawa",
+        "phone": "+1 757-393-0189",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1200",
+        "addr:street": "Frederick Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8636"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.3392, 36.8278] }
+    },
+    {
+      "type": "Feature",
+      "id": "B1CjYulvXOAbQXEY3pwcJ8c6mAU=",
+      "properties": {
+        "ref": "8612",
+        "addr:city": "Portsmouth",
+        "addr:state": "VA",
+        "addr:postcode": "23701",
+        "name": "Wawa",
+        "phone": "+1 757-488-1472",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4005",
+        "addr:street": "Victory Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8612"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.35991, 36.810551] }
+    },
+    {
+      "type": "Feature",
+      "id": "SIi9Ym3KD5d6lPArZh7UhVox7cI=",
+      "properties": {
+        "ref": "8638",
+        "addr:city": "Suffolk",
+        "addr:state": "VA",
+        "addr:postcode": "23434-8040",
+        "name": "Wawa",
+        "phone": "+1 757-925-2869",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2916",
+        "addr:street": "Godwin Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8638"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.5826, 36.7778] }
+    },
+    {
+      "type": "Feature",
+      "id": "vI5x80tnA2FAlZdqQ5V_0dpMf8o=",
+      "properties": {
+        "ref": "654",
+        "addr:city": "Chesapeake",
+        "addr:state": "VA",
+        "addr:postcode": "23320",
+        "name": "Wawa",
+        "phone": "+1 757-420-3053",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "720",
+        "addr:street": "Woodlake Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/654"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.23562, 36.790994] }
+    },
+    {
+      "type": "Feature",
+      "id": "IZSWZKi8oq3l-fY5z-im7n1qaRg=",
+      "properties": {
+        "ref": "8670",
+        "addr:city": "Virginia Beach",
+        "addr:state": "VA",
+        "addr:postcode": "23464",
+        "name": "Wawa",
+        "phone": "+1 757-937-7706",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1921",
+        "addr:street": "Centerville Tpk",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8670"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.19224725, 36.7799219] }
+    },
+    {
+      "type": "Feature",
+      "id": "l0wdP32ZuBdG0MN0dFdpjmc6hJ8=",
+      "properties": {
+        "ref": "8632",
+        "addr:city": "Chesapeake",
+        "addr:state": "VA",
+        "addr:postcode": "23320-3721",
+        "name": "Wawa",
+        "phone": "+1 757-549-1670",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "471",
+        "addr:street": "Kempsville Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8632"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.2262, 36.7425] }
+    },
+    {
+      "type": "Feature",
+      "id": "vK41-o5Z5fKB11I_PsisHQ0rd6k=",
+      "properties": {
+        "ref": "8613",
+        "addr:city": "Chesapeake",
+        "addr:state": "VA",
+        "addr:postcode": "23328",
+        "name": "Wawa",
+        "phone": "+1 757-432-1900",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "101",
+        "addr:street": "Hillcrest Parkway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8613"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.22484, 36.657751] }
+    },
+    {
+      "type": "Feature",
+      "id": "Bw6lqC-KkkzcrEyNAN3dbTGgejM=",
+      "properties": {
+        "ref": "698",
+        "addr:city": "Hopewell",
+        "addr:state": "VA",
+        "addr:postcode": "23860",
+        "name": "Wawa",
+        "phone": "+1 804-452-3089",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "907",
+        "addr:street": "Colonial Corner Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/698"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.31685, 37.271472] }
+    },
+    {
+      "type": "Feature",
+      "id": "PGiheM0R6O3gBwVzTe2PLM1Jw0U=",
+      "properties": {
+        "ref": "676",
+        "addr:city": "Chester",
+        "addr:state": "VA",
+        "addr:postcode": "23836-2757",
+        "name": "Wawa",
+        "phone": "+1 804-530-0822",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "600",
+        "addr:street": "East Hundred Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/676"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.34548, 37.347104] }
+    },
+    {
+      "type": "Feature",
+      "id": "_3G74hsaIGT2NtzaoYhm3xvXSuc=",
+      "properties": {
+        "ref": "683",
+        "addr:city": "Petersburg",
+        "addr:state": "VA",
+        "addr:postcode": "23805",
+        "name": "Wawa",
+        "phone": "+1 804-862-3551",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3199",
+        "addr:street": "South Crater Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/683"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.370036, 37.189407] }
+    },
+    {
+      "type": "Feature",
+      "id": "SejLd07fKdSt3qML8D4h7461TpA=",
+      "properties": {
+        "ref": "8624",
+        "addr:city": "Colonial Heights",
+        "addr:state": "VA",
+        "addr:postcode": "23834-2984",
+        "name": "Wawa",
+        "phone": "+1 804-520-6982",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1270",
+        "addr:street": "Temple Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8624"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.383566, 37.254414] }
+    },
+    {
+      "type": "Feature",
+      "id": "qVD_p-F4wqj73arjeDsbnlWO1-0=",
+      "properties": {
+        "ref": "693",
+        "addr:full": "604 BOULEVARD",
+        "addr:city": "Colonial Heights",
+        "addr:state": "VA",
+        "addr:postcode": "23834-3261",
+        "name": "Wawa",
+        "phone": "+1 804-526-9823",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/693"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.41088, 37.244293] }
+    },
+    {
+      "type": "Feature",
+      "id": "DloI0MQGrUmBErL-5312OT8i9Yo=",
+      "properties": {
+        "ref": "8605",
+        "addr:city": "Sandston",
+        "addr:state": "VA",
+        "addr:postcode": "23150",
+        "name": "Wawa",
+        "phone": "+1 804-652-1890",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "500",
+        "addr:street": "South Airport Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8605"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.32899, 37.524799] }
+    },
+    {
+      "type": "Feature",
+      "id": "BXl33ZeQveQDzbx646-IOpXx73g=",
+      "properties": {
+        "ref": "684",
+        "addr:city": "Colonial Heights",
+        "addr:state": "VA",
+        "addr:postcode": "23834-5202",
+        "name": "Wawa",
+        "phone": "+1 804-526-6022",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "15840",
+        "addr:street": "Jefferson Davis Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/684"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.409794, 37.306045] }
+    },
+    {
+      "type": "Feature",
+      "id": "5WELdAaQH3BZWJEVu9bh6Y7Oo9U=",
+      "properties": {
+        "ref": "8626",
+        "addr:city": "Henrico",
+        "addr:state": "VA",
+        "addr:postcode": "23231-4413",
+        "name": "Wawa",
+        "phone": "+1 804-226-1040",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5301",
+        "addr:street": "South Laburnum Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8626"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.348803, 37.511781] }
+    },
+    {
+      "type": "Feature",
+      "id": "hTRlxpD5svGGVaayBknh4DcMcac=",
+      "properties": {
+        "ref": "692",
+        "addr:city": "Chester",
+        "addr:state": "VA",
+        "addr:postcode": "23831",
+        "name": "Wawa",
+        "phone": "+1 804-717-9475",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11701",
+        "addr:street": "Jefferson Davis Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/692"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.416508, 37.367534] }
+    },
+    {
+      "type": "Feature",
+      "id": "DMfRrcFKIKIuj-HzfFX31U-vHx4=",
+      "properties": {
+        "ref": "8634",
+        "addr:city": "Mechanicsville",
+        "addr:state": "VA",
+        "addr:postcode": "23111-6515",
+        "name": "Wawa",
+        "phone": "+1 804-569-6149",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "7847",
+        "addr:street": "Compass Point Lane",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8634"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.328321, 37.613293] }
+    },
+    {
+      "type": "Feature",
+      "id": "YQ2C9w2lWfKCovB9Wy9w6iotkGQ=",
+      "properties": {
+        "ref": "8635",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23223-2618",
+        "name": "Wawa",
+        "phone": "+1 804-225-8104",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1300",
+        "addr:street": "North Laburnum Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8635"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.3767, 37.562] }
+    },
+    {
+      "type": "Feature",
+      "id": "ocdzpoQ-gBlYzIY2xGrQo0utE6k=",
+      "properties": {
+        "ref": "670",
+        "addr:city": "Chester",
+        "addr:state": "VA",
+        "addr:postcode": "23831-1440",
+        "name": "Wawa",
+        "phone": "+1 804-706-6623",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11021",
+        "addr:street": "Iron Bridge Road",
+        "addr:unit": "(RT. 10",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/670"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.497729, 37.364281] }
+    },
+    {
+      "type": "Feature",
+      "id": "Etrko2DryfoQYqXSHZxpjVcyGVM=",
+      "properties": {
+        "ref": "673",
+        "addr:city": "North Chesterfield",
+        "addr:state": "VA",
+        "addr:postcode": "23234-5225",
+        "name": "Wawa",
+        "phone": "+1 804-275-5484",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "6001",
+        "addr:street": "Ironbridge Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/673"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.48913, 37.435069] }
+    },
+    {
+      "type": "Feature",
+      "id": "Q_-yfc8d66TCJqKXrg_8YhWeG9s=",
+      "properties": {
+        "ref": "657",
+        "addr:city": "Midlothian",
+        "addr:state": "VA",
+        "addr:postcode": "23112-2088",
+        "name": "Wawa",
+        "phone": "+1 804-639-2015",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "12001",
+        "addr:street": "Southshore Point Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/657"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.66518, 37.405186] }
+    },
+    {
+      "type": "Feature",
+      "id": "tRhpyQ_r3aJBUkLroRPYtBUB3P0=",
+      "properties": {
+        "ref": "8651",
+        "addr:city": "Midlothian",
+        "addr:state": "VA",
+        "addr:postcode": "23114",
+        "name": "Wawa",
+        "phone": "+1 804-362-0777",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "16000",
+        "addr:street": "Otterdale Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.7086069923, 37.398384355]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EdMputzvNOysQkV9ssnInZ1TmAc=",
+      "properties": {
+        "ref": "674",
+        "addr:city": "Midlothian",
+        "addr:state": "VA",
+        "addr:postcode": "23112-2912",
+        "name": "Wawa",
+        "phone": "+1 804-277-4131",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3850",
+        "addr:street": "North Bailey Bridge Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/674"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.610548, 37.434614] }
+    },
+    {
+      "type": "Feature",
+      "id": "KnXVoEAj1ep_dEM2_faFrXsniSI=",
+      "properties": {
+        "ref": "8625",
+        "addr:city": "Midlothian",
+        "addr:state": "VA",
+        "addr:postcode": "23112-3301",
+        "name": "Wawa",
+        "phone": "+1 804-674-4381",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10135",
+        "addr:street": "Hull Street Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8625"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.583035, 37.442133] }
+    },
+    {
+      "type": "Feature",
+      "id": "nCR23QocYlnwEXpGP_cpWsUfcJE=",
+      "properties": {
+        "ref": "672",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23225-5420",
+        "name": "Wawa",
+        "phone": "+1 804-675-4880",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "7500",
+        "addr:street": "Midlothian Turnpike",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/672"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.53506, 37.500523] }
+    },
+    {
+      "type": "Feature",
+      "id": "zquNfTlVn3cCoHvtBo2ooP3k85k=",
+      "properties": {
+        "ref": "659",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23235-4709",
+        "name": "Wawa",
+        "phone": "+1 804-897-4283",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11021",
+        "addr:street": "Midlothian Tpk",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/659"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.60081, 37.505336] }
+    },
+    {
+      "type": "Feature",
+      "id": "LcZkab1zmOD1w_w_s1-V6DO5zcY=",
+      "properties": {
+        "ref": "8623",
+        "addr:city": "Midlothian",
+        "addr:state": "VA",
+        "addr:postcode": "23113",
+        "name": "Wawa",
+        "phone": "+1 804-794-4518",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "150",
+        "addr:street": "Pike View Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8623"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.698883, 37.513172] }
+    },
+    {
+      "type": "Feature",
+      "id": "Tf1HNcH_sdMYetKyMYEhg4ApU2M=",
+      "properties": {
+        "ref": "8600",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23225",
+        "name": "Wawa",
+        "phone": "+1 804-560-0365",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "7316",
+        "addr:street": "Forest Hill Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8600"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.53158, 37.537728] }
+    },
+    {
+      "type": "Feature",
+      "id": "8uo4uOGKmKJnRKoSHshYfePaUNg=",
+      "properties": {
+        "ref": "8648",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23230",
+        "name": "Wawa",
+        "phone": "+1 804-362-7442",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3100",
+        "addr:street": "North Arthur Ashe Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8648"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.464054, 37.574222] }
+    },
+    {
+      "type": "Feature",
+      "id": "IOSot_BpUnPCKi6PMwtM2T6mx70=",
+      "properties": {
+        "ref": "8630",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23230-2510",
+        "name": "Wawa",
+        "phone": "+1 804-354-6804",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2415",
+        "addr:street": "Staples Mill Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8630"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.492698, 37.591706] }
+    },
+    {
+      "type": "Feature",
+      "id": "qaY2yn8Iq5-lSJl2c8ZZn248jhc=",
+      "properties": {
+        "ref": "8647",
+        "addr:city": "Henrico",
+        "addr:state": "VA",
+        "addr:postcode": "23229",
+        "name": "Wawa",
+        "phone": "+1 804-459-8828",
+        "opening_hours": "05:00-00:00",
+        "brand": "Wawa",
+        "addr:housenumber": "9100",
+        "addr:street": "Three Chopt Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8647"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.56387, 37.61227] }
+    },
+    {
+      "type": "Feature",
+      "id": "9iyULtpn_9AqjBoFXVE4teJXxyY=",
+      "properties": {
+        "ref": "655",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23227",
+        "name": "Wawa",
+        "phone": "+1 804-266-1031",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5221",
+        "addr:street": "Brook Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/655"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.453998, 37.604618] }
+    },
+    {
+      "type": "Feature",
+      "id": "jTJdZFCxkDShVzBF9uOYc-aRUe8=",
+      "properties": {
+        "ref": "8603",
+        "addr:city": "Henrico",
+        "addr:state": "VA",
+        "addr:postcode": "23294",
+        "name": "Wawa",
+        "phone": "+1 804-290-4374",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "8017",
+        "addr:street": "West Broad Street",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8603"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.53161, 37.625114] }
+    },
+    {
+      "type": "Feature",
+      "id": "mSAMVwbAIKnoGXyBgDI4X67oqy4=",
+      "properties": {
+        "ref": "682",
+        "addr:city": "Henrico",
+        "addr:state": "VA",
+        "addr:postcode": "23228-2014",
+        "name": "Wawa",
+        "phone": "+1 804-262-7335",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "8851",
+        "addr:street": "Staples Mill Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/682"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.50858, 37.635361] }
+    },
+    {
+      "type": "Feature",
+      "id": "sfZSFk4xmrHAoTYdlaG5yp2VTvY=",
+      "properties": {
+        "ref": "8615",
+        "addr:city": "Richmond",
+        "addr:state": "VA",
+        "addr:postcode": "23220",
+        "name": "Wawa",
+        "phone": "+1 804-527-8302",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11052",
+        "addr:street": "West Broad Street",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8615"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.59022, 37.64838] }
+    },
+    {
+      "type": "Feature",
+      "id": "ATo7d7krSrkaUeub2WJxeMCBLho=",
+      "properties": {
+        "ref": "677",
+        "addr:city": "Glen Allen",
+        "addr:state": "VA",
+        "addr:postcode": "23060",
+        "name": "Wawa",
+        "phone": "+1 804-264-4698",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "8800",
+        "addr:street": "Brook Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/677"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.461139, 37.642978] }
+    },
+    {
+      "type": "Feature",
+      "id": "ZWg4xwMdFawdnhqrnf_Dal25Tiw=",
+      "properties": {
+        "ref": "696",
+        "addr:city": "Henrico",
+        "addr:state": "VA",
+        "addr:postcode": "23233-7300",
+        "name": "Wawa",
+        "phone": "+1 804-360-2119",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "12564",
+        "addr:street": "Broad Street",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/696"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.64978, 37.663798] }
+    },
+    {
+      "type": "Feature",
+      "id": "qwcfrs6UowMM008kHJf8j_wrvtM=",
+      "properties": {
+        "ref": "8602",
+        "addr:city": "Mechanicsville",
+        "addr:state": "VA",
+        "addr:postcode": "23116",
+        "name": "Wawa",
+        "phone": "+1 804-746-4052",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "9179",
+        "addr:street": "Chamberlayne Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8602"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.404251, 37.649469] }
+    },
+    {
+      "type": "Feature",
+      "id": "qeDtqU24lutjwFwTDrq3WZLbL1Y=",
+      "properties": {
+        "ref": "8607",
+        "addr:city": "Ashland",
+        "addr:state": "VA",
+        "addr:postcode": "23005",
+        "name": "Wawa",
+        "phone": "+1 804-550-2970",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10373",
+        "addr:street": "Sliding Hill Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8607"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.460297, 37.68628] }
+    },
+    {
+      "type": "Feature",
+      "id": "CyvwDlJB8qDeoWt68doNJRasD1Q=",
+      "properties": {
+        "ref": "8652",
+        "addr:city": "Ashland",
+        "addr:state": "VA",
+        "addr:postcode": "23005",
+        "name": "Wawa",
+        "phone": "+1 804-412-8088",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "100",
+        "addr:street": "North Washington Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8652"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.47165, 37.75859] }
+    },
+    {
+      "type": "Feature",
+      "id": "IMNkL3M3S48NHQUZk2cTgoHzu6s=",
+      "properties": {
+        "ref": "8617",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22407",
+        "name": "Wawa",
+        "phone": "+1 540-710-7970",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10060",
+        "addr:street": "Jefferson Davis Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8617"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.50693, 38.225972] }
+    },
+    {
+      "type": "Feature",
+      "id": "9IDtqdDr2Dml6Bbh_JwmU_uTcO4=",
+      "properties": {
+        "ref": "663",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22407-1602",
+        "name": "Wawa",
+        "phone": "+1 540-898-4278",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10626-1063",
+        "addr:street": "Courthouse Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/663"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.5151, 38.247741] }
+    },
+    {
+      "type": "Feature",
+      "id": "GXZphzcmyqy8fcYwMZkgIxuuvy0=",
+      "properties": {
+        "ref": "583",
+        "addr:city": "Mechanicsville",
+        "addr:state": "MD",
+        "addr:postcode": "20659-3374",
+        "name": "Wawa",
+        "phone": "+1 301-818-0450",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "27605",
+        "addr:street": "Three Notch Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/583"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.71574, 38.426744] }
+    },
+    {
+      "type": "Feature",
+      "id": "B_-t-Hdf3eNljvCt1ZF9BrgqnlI=",
+      "properties": {
+        "ref": "591",
+        "addr:city": "Prince Frederick",
+        "addr:state": "MD",
+        "addr:postcode": "20678",
+        "name": "Wawa",
+        "phone": "+1 410-414-7247",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "305",
+        "addr:street": "Market Square Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/591"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59899, 38.557041] }
+    },
+    {
+      "type": "Feature",
+      "id": "51EN9Pj7a-tubAO40IIeGzM2NvE=",
+      "properties": {
+        "ref": "588",
+        "addr:city": "Charlotte Hall",
+        "addr:state": "MD",
+        "addr:postcode": "20622-3189",
+        "name": "Wawa",
+        "phone": "+1 301-290-5971",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "30320",
+        "addr:street": "Three Notch Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/588"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.773898, 38.501543] }
+    },
+    {
+      "type": "Feature",
+      "id": "g9sN-01cmUpjBcO7SGoxi6SXt0A=",
+      "properties": {
+        "ref": "573",
+        "addr:city": "Dunkirk",
+        "addr:state": "MD",
+        "addr:postcode": "20754",
+        "name": "Wawa",
+        "phone": "+1 410-286-7235",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10205",
+        "addr:street": "Kirksville Lane",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/573"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.661045, 38.717591] }
+    },
+    {
+      "type": "Feature",
+      "id": "RbLAkvAu2TKIhkusfFNzNuLY2ig=",
+      "properties": {
+        "ref": "568",
+        "addr:city": "White Plains",
+        "addr:state": "MD",
+        "addr:postcode": "20695-3000",
+        "name": "Wawa",
+        "phone": "+1 301-645-0831",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4210",
+        "addr:street": "Crain Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/568"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.937156, 38.595198] }
+    },
+    {
+      "type": "Feature",
+      "id": "ikYJs0sYRnzOm9D6ZBwcy-K-qg0=",
+      "properties": {
+        "ref": "584",
+        "addr:city": "La Plata",
+        "addr:state": "MD",
+        "addr:postcode": "20646-4264",
+        "name": "Wawa",
+        "phone": "+1 301-609-7295",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5955",
+        "addr:street": "Crain Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/584"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.98655, 38.548741] }
+    },
+    {
+      "type": "Feature",
+      "id": "S3cbVaGiXQdPwB9KbW_V5c5gk-E=",
+      "properties": {
+        "ref": "565",
+        "addr:city": "Waldorf",
+        "addr:state": "MD",
+        "addr:postcode": "20603",
+        "name": "Wawa",
+        "phone": "+1 301-363-7010",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11505",
+        "addr:street": "Berry Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/565"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.91908, 38.629589] }
+    },
+    {
+      "type": "Feature",
+      "id": "dZCZUxjBry6UUC2ZfCwmV1srmKA=",
+      "properties": {
+        "ref": "580",
+        "addr:city": "Brandywine",
+        "addr:state": "MD",
+        "addr:postcode": "20613-8063",
+        "name": "Wawa",
+        "phone": "+1 301-782-7432",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "16410",
+        "addr:street": "McKendree Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/580"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.875845, 38.664594] }
+    },
+    {
+      "type": "Feature",
+      "id": "tN5k1pBbtf6H67sxQiJNhHr64HQ=",
+      "properties": {
+        "ref": "669",
+        "addr:city": "King George",
+        "addr:state": "VA",
+        "addr:postcode": "22485-5355",
+        "name": "Wawa",
+        "phone": "+1 540-644-8045",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "5362",
+        "addr:street": "James Madison Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/669"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.07762, 38.339674] }
+    },
+    {
+      "type": "Feature",
+      "id": "36lHFH6Drh6nNqRabjyjaoefW84=",
+      "properties": {
+        "ref": "8514",
+        "addr:city": "Suitland",
+        "addr:state": "MD",
+        "addr:postcode": "20746",
+        "name": "Wawa",
+        "phone": "+1 240-673-3133",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "6101",
+        "addr:street": "Allentown Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8514"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.904315, 38.8071] }
+    },
+    {
+      "type": "Feature",
+      "id": "9pfQisQYrCJm5rxWqdLvjjcYKfQ=",
+      "properties": {
+        "ref": "562",
+        "addr:city": "Upper Marlboro",
+        "addr:state": "MD",
+        "addr:postcode": "20774-8804",
+        "name": "Wawa",
+        "phone": "+1 301-218-3154",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "163",
+        "addr:street": "Southeast Crain Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/562"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.720142, 38.889121] }
+    },
+    {
+      "type": "Feature",
+      "id": "mFMDr_ZF-nhnm-BU2pzkY6hQCAw=",
+      "properties": {
+        "ref": "577",
+        "addr:city": "Edgewater",
+        "addr:state": "MD",
+        "addr:postcode": "21037",
+        "name": "Wawa",
+        "phone": "+1 410-956-7003",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3166",
+        "addr:street": "Solomons Island Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/577"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.567951, 38.935887] }
+    },
+    {
+      "type": "Feature",
+      "id": "C2qJ3Ar_DPdUvZc27JnbesLccNU=",
+      "properties": {
+        "ref": "597",
+        "addr:city": "Capitol Heights",
+        "addr:state": "MD",
+        "addr:postcode": "20743",
+        "name": "Wawa",
+        "phone": "+1 301-336-1704",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1401",
+        "addr:street": "Hampton Park Boulevard",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/597"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.851064, 38.870193] }
+    },
+    {
+      "type": "Feature",
+      "id": "JcOKkzOFSNFWxwbNCqSNZ-O72rI=",
+      "properties": {
+        "ref": "549",
+        "addr:city": "Annapolis",
+        "addr:state": "MD",
+        "addr:postcode": "21401-2151",
+        "name": "Wawa",
+        "phone": "+1 410-974-6436",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "628",
+        "addr:street": "Admiral Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/549"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.53262, 38.994748] }
+    },
+    {
+      "type": "Feature",
+      "id": "i_n3dVxe-AddDUp-V2_bBDyg0uw=",
+      "properties": {
+        "ref": "8518",
+        "addr:city": "Grasonville",
+        "addr:state": "MD",
+        "addr:postcode": "21638",
+        "name": "Wawa",
+        "phone": "+1 443-390-2460",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "101",
+        "addr:street": "Hissey Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8518"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.193185, 38.965518] }
+    },
+    {
+      "type": "Feature",
+      "id": "pcfwvcrJiAih1ht9gGB9J5Xqwq4=",
+      "properties": {
+        "ref": "8523",
+        "addr:city": "Lanham",
+        "addr:state": "MD",
+        "addr:postcode": "20706",
+        "name": "Wawa",
+        "phone": "+1 667-770-7088",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10620",
+        "addr:street": "Martin Luther King Jr Hw",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8523"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.824788, 38.956577] }
+    },
+    {
+      "type": "Feature",
+      "id": "ii0EazPamlsAinEVGa94GH1w8JM=",
+      "properties": {
+        "ref": "662",
+        "addr:city": "Woodbridge",
+        "addr:state": "VA",
+        "addr:postcode": "22191",
+        "name": "Wawa",
+        "phone": "+1 703-492-9858",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2051",
+        "addr:street": "Daniel Stuart Square",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/662"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.27556, 38.632871] }
+    },
+    {
+      "type": "Feature",
+      "id": "wFi82jMITVey8ziFenDD1i4m5dk=",
+      "properties": {
+        "ref": "680",
+        "addr:city": "Woodbridge",
+        "addr:state": "VA",
+        "addr:postcode": "22191-4222",
+        "name": "Wawa",
+        "phone": "+1 703-583-3558",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "15809",
+        "addr:street": "Jefferson Davis Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/680"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.29007, 38.60908] }
+    },
+    {
+      "type": "Feature",
+      "id": "evpkmv8Z8NwViHCq1Pj5Z-a3Ff4=",
+      "properties": {
+        "ref": "569",
+        "addr:city": "Annapolis",
+        "addr:state": "MD",
+        "addr:postcode": "21401",
+        "name": "Wawa",
+        "phone": "+1 410-757-2328",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "321",
+        "addr:street": "Buschs Frontage Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/569"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.45624, 39.026841] }
+    },
+    {
+      "type": "Feature",
+      "id": "NB5acVsCjnRWNrBCoJ_tv4rZRso=",
+      "properties": {
+        "ref": "6008",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20005",
+        "name": "Wawa",
+        "phone": "+1 202-552-5524",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1250",
+        "addr:street": "H Street Northwest",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/6008"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.029591, 38.8997896] }
+    },
+    {
+      "type": "Feature",
+      "id": "2h-2V7qmO1LipWtYsEFwBHKoIb8=",
+      "properties": {
+        "ref": "6007",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20005",
+        "name": "Wawa",
+        "phone": "+1 202-916-8884",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1",
+        "addr:street": "Thomas Circle Northwest",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/6007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.03234581, 38.90533451]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "utMwI2RpqhMYMDR0EFNGVOMdaX0=",
+      "properties": {
+        "ref": "661",
+        "addr:city": "Woodbridge",
+        "addr:state": "VA",
+        "addr:postcode": "22192",
+        "name": "Wawa",
+        "phone": "+1 703-492-9984",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "13355",
+        "addr:street": "Minneville Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/661"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.29983, 38.658928] }
+    },
+    {
+      "type": "Feature",
+      "id": "e2z5DbjMoM2YrK8-KSyMTe4x2aM=",
+      "properties": {
+        "ref": "6001",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20036",
+        "name": "Wawa",
+        "phone": "+1 202-470-1816",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1111",
+        "addr:street": "19th Street Northwest",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/6001"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.0432319, 38.9044036] }
+    },
+    {
+      "type": "Feature",
+      "id": "a6ys2hj6TA1nVyjob3YoCXhJwn8=",
+      "properties": {
+        "ref": "665",
+        "addr:city": "Stafford",
+        "addr:state": "VA",
+        "addr:postcode": "22554-8461",
+        "name": "Wawa",
+        "phone": "+1 540-288-0655",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "72",
+        "addr:street": "Austin Park Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/665"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.40386, 38.449699] }
+    },
+    {
+      "type": "Feature",
+      "id": "HcpqyzHIVLkHmGAe7Wm2lGOfjCQ=",
+      "properties": {
+        "ref": "6003",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20007",
+        "name": "Wawa",
+        "phone": "+1 202-559-2717",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1222",
+        "addr:street": "Wisconsin Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/6003"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.063023, 38.905979] }
+    },
+    {
+      "type": "Feature",
+      "id": "uhAcL_ShbNxg4-A6smiGp7yc02E=",
+      "properties": {
+        "ref": "6005",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20010",
+        "name": "Wawa",
+        "phone": "+1 202-470-0238",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1400",
+        "addr:street": "Irving Street Northwest",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/6005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.03269453, 38.92876968]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "q5XHag0bzTJiuy5BzZRJo2xMnjI=",
+      "properties": {
+        "ref": "595",
+        "addr:city": "Gambrills",
+        "addr:state": "MD",
+        "addr:postcode": "21054-1309",
+        "name": "Wawa",
+        "phone": "+1 410-923-5240",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "701",
+        "addr:street": "Annapolis Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/595"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.656624, 39.056566] }
+    },
+    {
+      "type": "Feature",
+      "id": "EoteaDjrFHxBFa9IxGwYL2gZkRA=",
+      "properties": {
+        "ref": "697",
+        "addr:city": "Stafford",
+        "addr:state": "VA",
+        "addr:postcode": "22554-1523",
+        "name": "Wawa",
+        "phone": "+1 540-659-8672",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "105",
+        "addr:street": "Garrisonville Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/697"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.41198, 38.467169] }
+    },
+    {
+      "type": "Feature",
+      "id": "1ZfnbQ-t15-avYHKDyhU63B1xmk=",
+      "properties": {
+        "ref": "688",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22405-2438",
+        "name": "Wawa",
+        "phone": "+1 540-899-2796",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "275",
+        "addr:street": "Butler Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/688"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.45028, 38.31648] }
+    },
+    {
+      "type": "Feature",
+      "id": "Ja7mrCGzDNTl8e5A_hMGYtN_DHg=",
+      "properties": {
+        "ref": "658",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22408-2373",
+        "name": "Wawa",
+        "phone": "+1 540-368-3924",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3402",
+        "addr:street": "Shannon Park Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/658"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.44803, 38.271146] }
+    },
+    {
+      "type": "Feature",
+      "id": "aojOVNUnq9P70IdU0uZAwypLl_E=",
+      "properties": {
+        "ref": "689",
+        "addr:city": "Stafford",
+        "addr:state": "VA",
+        "addr:postcode": "22554-3717",
+        "name": "Wawa",
+        "phone": "+1 540-288-2057",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "15",
+        "addr:street": "Eustace Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/689"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.43589, 38.473164] }
+    },
+    {
+      "type": "Feature",
+      "id": "bw1zGIuLVSPcd9VWsw7h8slt_x4=",
+      "properties": {
+        "ref": "6004",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:postcode": "20016",
+        "name": "Wawa",
+        "phone": "+1 202-558-0404",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4530",
+        "addr:street": "40th Street Northwest",
+        "addr:unit": "A",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/6004"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.07896, 38.948237] }
+    },
+    {
+      "type": "Feature",
+      "id": "ve3xUIlriuEzjKmELS3wemmzFOw=",
+      "properties": {
+        "ref": "593",
+        "addr:city": "Beltsville",
+        "addr:state": "MD",
+        "addr:postcode": "20705",
+        "name": "Wawa",
+        "phone": "+1 301-595-2013",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10515",
+        "addr:street": "Baltimore Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/593"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.917086, 39.02737] }
+    },
+    {
+      "type": "Feature",
+      "id": "FdNa5WLTMjwjN_pd28R2CBBDXbM=",
+      "properties": {
+        "ref": "572",
+        "addr:city": "Millersville",
+        "addr:state": "MD",
+        "addr:postcode": "21108-1409",
+        "name": "Wawa",
+        "phone": "+1 410-729-9991",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "8300",
+        "addr:street": "Veterans Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/572"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.63172, 39.110618] }
+    },
+    {
+      "type": "Feature",
+      "id": "7-1Qzheho8GrRMYxy6dmNYqMT2w=",
+      "properties": {
+        "ref": "8627",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22406",
+        "name": "Wawa",
+        "phone": "+1 540-300-6047",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "9",
+        "addr:street": "South Gateway Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8627"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.496258, 38.343527] }
+    },
+    {
+      "type": "Feature",
+      "id": "aIWqofAyRr_cQuK9u3tTWgxBWKM=",
+      "properties": {
+        "ref": "653",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22408-1838",
+        "name": "Wawa",
+        "phone": "+1 540-898-3701",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4625",
+        "addr:street": "Harrison Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/653"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.4941, 38.264408] }
+    },
+    {
+      "type": "Feature",
+      "id": "RKwgSA-AUsJbqyh02eNW5GS8Jc0=",
+      "properties": {
+        "ref": "691",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22408-1930",
+        "name": "Wawa",
+        "phone": "+1 540-834-2025",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "199",
+        "addr:street": "Falcon Drive",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/691"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.493122, 38.249665] }
+    },
+    {
+      "type": "Feature",
+      "id": "rGGVuyTqBIdwiQbGUEqXYtqiXRI=",
+      "properties": {
+        "ref": "667",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22401",
+        "name": "Wawa",
+        "phone": "+1 540-899-2043",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "2390",
+        "addr:street": "Plank Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/667"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.50027, 38.295644] }
+    },
+    {
+      "type": "Feature",
+      "id": "0-JHeURDPLKz7LncH4p-QXyCHmY=",
+      "properties": {
+        "ref": "668",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22406-1072",
+        "name": "Wawa",
+        "phone": "+1 540-373-0571",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "830",
+        "addr:street": "Warrenton Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/668"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.51019, 38.355726] }
+    },
+    {
+      "type": "Feature",
+      "id": "_49tWriDNklYMclVZYbAHyB6n08=",
+      "properties": {
+        "ref": "660",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22401",
+        "name": "Wawa",
+        "phone": "+1 540-785-3438",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "1140",
+        "addr:street": "Carl D. Silver Parkway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/660"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.51373, 38.297254] }
+    },
+    {
+      "type": "Feature",
+      "id": "tAF_-j4t6PvaL4YybYVJzpWtmCE=",
+      "properties": {
+        "ref": "664",
+        "addr:city": "Fredericksburg",
+        "addr:state": "VA",
+        "addr:postcode": "22407-4811",
+        "name": "Wawa",
+        "phone": "+1 540-785-5535",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "4527",
+        "addr:street": "Plank Road Route",
+        "addr:unit": "3",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/664"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.53807, 38.289956] }
+    },
+    {
+      "type": "Feature",
+      "id": "RD-a2sf4IyI2P5ffecw8Klf8lq4=",
+      "properties": {
+        "ref": "8637",
+        "addr:city": "Manassas",
+        "addr:state": "VA",
+        "addr:postcode": "20112",
+        "name": "Wawa",
+        "phone": "+1 703-257-1630",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "11111",
+        "addr:street": "Nokesville Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8637"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.532174, 38.737121] }
+    },
+    {
+      "type": "Feature",
+      "id": "AQw_40ajCS4kjH0G6cRwi2xLblY=",
+      "properties": {
+        "ref": "8622",
+        "addr:city": "Warrenton",
+        "addr:state": "VA",
+        "addr:postcode": "20186",
+        "name": "Wawa",
+        "phone": "+1 540-349-8999",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "510",
+        "addr:street": "Frost Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8622"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.808854, 38.716614] }
+    },
+    {
+      "type": "Feature",
+      "id": "geYR2zfgiKUp1ImY_6rKtEeVcX4=",
+      "properties": {
+        "ref": "8644",
+        "addr:city": "Manassas",
+        "addr:state": "VA",
+        "addr:postcode": "20110",
+        "name": "Wawa",
+        "phone": "+1 571-363-3039",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "9471",
+        "addr:street": "Liberia Avenue",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8644"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.44889, 38.75053] }
+    },
+    {
+      "type": "Feature",
+      "id": "WNqaIy-xE-8PawRLsgIfnH99zoA=",
+      "properties": {
+        "ref": "651",
+        "addr:city": "Gainesville",
+        "addr:state": "VA",
+        "addr:postcode": "20155",
+        "name": "Wawa",
+        "phone": "+1 571-261-4089",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "14461",
+        "addr:street": "Lee Highway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/651"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.62237, 38.792423] }
+    },
+    {
+      "type": "Feature",
+      "id": "xLp4rSZbG6cY2OcqobjFQs3R2yQ=",
+      "properties": {
+        "ref": "8658",
+        "addr:city": "Manassas",
+        "addr:state": "VA",
+        "addr:postcode": "20109",
+        "name": "Wawa",
+        "phone": "+1 571-292-3396",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "10691",
+        "addr:street": "Davidson Place",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8658"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.515527, 38.79332] }
+    },
+    {
+      "type": "Feature",
+      "id": "T0YMoA18GCvysn8tu1l0sIFS004=",
+      "properties": {
+        "ref": "8639",
+        "addr:city": "Chantilly",
+        "addr:state": "VA",
+        "addr:postcode": "20151-3037",
+        "name": "Wawa",
+        "phone": "+1 703-689-8917",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3450",
+        "addr:street": "Historic Sully Way",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8639"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.4266, 38.91455] }
+    },
+    {
+      "type": "Feature",
+      "id": "6ljXuWw9wjNNT0iSfOTlIzb7Jws=",
+      "properties": {
+        "ref": "8669",
+        "addr:city": "Vienna",
+        "addr:state": "VA",
+        "addr:postcode": "22180",
+        "name": "Wawa",
+        "phone": "+1 703-559-7944",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "465",
+        "addr:street": "Maple Avenue West",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8669"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.273923, 38.894901] }
+    },
+    {
+      "type": "Feature",
+      "id": "cMFwPig-ktX7jSX-GryFt7dP9KA=",
+      "properties": {
+        "ref": "8640",
+        "addr:city": "Sterling",
+        "addr:state": "VA",
+        "addr:postcode": "20166",
+        "name": "Wawa",
+        "phone": "+1 571-441-2622",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "23055",
+        "addr:street": "Oakgrove Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8640"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.411535, 38.977994] }
+    },
+    {
+      "type": "Feature",
+      "id": "uf0chILKSAxOccLrrvbW11ecJ6E=",
+      "properties": {
+        "ref": "8659",
+        "addr:city": "Charlottesville",
+        "addr:state": "VA",
+        "addr:postcode": "22911",
+        "name": "Wawa",
+        "phone": "+1 434-260-0074",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "3267",
+        "addr:street": "Proffit Road",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8659"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.434994, 38.1323303] }
+    },
+    {
+      "type": "Feature",
+      "id": "Qa2yRsm3o7kA7EtM_Q-BjxOPlNc=",
+      "properties": {
+        "ref": "8662",
+        "addr:city": "Sterling",
+        "addr:state": "VA",
+        "addr:postcode": "20166",
+        "name": "Wawa",
+        "phone": "+1 571-520-1622",
+        "opening_hours": "24/7",
+        "brand": "Wawa",
+        "addr:housenumber": "45950",
+        "addr:street": "Russel Branch Parkway",
+        "brand:wikidata": "Q5936320",
+        "shop": "convenience",
+        "website": "https://www.wawa.com/locations/8662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4363206303, 39.0279633094]
+      }
+    }
+  ],
+  "dataset_attributes": {
+    "cleaning": { "version": "0.2.1", "datetime": "2024-06-07" }
+  }
+}
