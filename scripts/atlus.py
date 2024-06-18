@@ -26,9 +26,9 @@ def atlus_request(
         for tag in fields:
             if tag in objt:
                 add.append({"@id": obj["id"], "address": objt[tag]})
-                continue
+                break
 
-    add_chunks = list(batched(add, 10000))
+    add_chunks: list[tuple[dict[str, str]]] = list(batched(add, 10000))
     fin_add = []
     for chunk in add_chunks:
         response = requests.post(
@@ -37,7 +37,11 @@ def atlus_request(
             timeout=10,
             verify=bool(API_URL.startswith("https")),
         )
-        fin_add.extend(response.json()["data"])
+        resp = response.json()
+        try:
+            fin_add.extend(resp["data"])
+        except KeyError as e:
+            raise KeyError("Request failed") from e
         if len(fin_add) > 1:
             time.sleep(0.25)
 
