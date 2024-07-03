@@ -699,7 +699,6 @@
       "properties": {
         "ref": "1497",
         "shop": "hardware",
-        "addr:street_address": "Hwy 50 Byp",
         "addr:city": "Lafayette",
         "addr:state": "AL",
         "addr:postcode": "36862",
@@ -1744,7 +1743,6 @@
       "properties": {
         "ref": "3488",
         "shop": "hardware",
-        "addr:street_address": "Mill Creek Shopping Center",
         "addr:city": "South Portland",
         "addr:state": "ME",
         "addr:postcode": "04106-3697",
@@ -2447,7 +2445,6 @@
       "properties": {
         "ref": "4920",
         "shop": "hardware",
-        "addr:street_address": "Rte 67 & 460",
         "addr:city": "Raven",
         "addr:state": "VA",
         "addr:postcode": "24639",
@@ -3721,7 +3718,6 @@
       "properties": {
         "ref": "7053",
         "shop": "hardware",
-        "addr:street_address": "Third & Vernon",
         "addr:city": "Rockville",
         "addr:state": "MO",
         "addr:postcode": "64780-0039",
@@ -3910,7 +3906,6 @@
       "properties": {
         "ref": "7300",
         "shop": "hardware",
-        "addr:street_address": "1 Union Village Shopping Center",
         "addr:city": "Union",
         "addr:state": "MO",
         "addr:postcode": "63084-2247",
@@ -4099,7 +4094,6 @@
       "properties": {
         "ref": "7514",
         "shop": "hardware",
-        "addr:street_address": "Rt 3 Box 3022 Hwy 160 W",
         "addr:city": "Alton",
         "addr:state": "MO",
         "addr:postcode": "65606",
@@ -5582,7 +5576,6 @@
       "properties": {
         "ref": "10204",
         "shop": "hardware",
-        "addr:street_address": "Pioneer Plaza",
         "addr:city": "Crandon",
         "addr:state": "WI",
         "addr:postcode": "54520-1662",
@@ -7692,7 +7685,6 @@
       "properties": {
         "ref": "14771",
         "shop": "hardware",
-        "addr:street_address": "Rt 72 North",
         "addr:city": "Parsons",
         "addr:state": "WV",
         "addr:postcode": "26287",
@@ -7998,7 +7990,6 @@
       "properties": {
         "ref": "15436",
         "shop": "hardware",
-        "addr:street_address": "Rte 49 & Cottage Ave",
         "addr:city": "Quinton",
         "addr:state": "NJ",
         "addr:postcode": "08072-0127",
@@ -8264,7 +8255,6 @@
       "properties": {
         "ref": "18160",
         "shop": "hardware",
-        "addr:street_address": "4th And Leadville - Giacobbi Square",
         "addr:city": "Ketchum",
         "addr:state": "ID",
         "addr:postcode": "83340-2197",
@@ -10919,7 +10909,7 @@
         "brand": "True Value",
         "brand:wikidata": "Q7847545",
         "addr:housenumber": "108",
-        "addr:street": "South 4th ST"
+        "addr:street": "South 4th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-101.3586635, 38.4810456] }
     },
@@ -12166,7 +12156,6 @@
       "properties": {
         "ref": "10652",
         "shop": "hardware",
-        "addr:street_address": "HWY 13 NORTH",
         "addr:city": "GLIDDEN",
         "addr:state": "WI",
         "addr:postcode": "54527-9800",
@@ -13919,7 +13908,7 @@
         "brand": "True Value",
         "brand:wikidata": "Q7847545",
         "addr:housenumber": "502",
-        "addr:street": "East 1st ST"
+        "addr:street": "East 1st Street"
       },
       "geometry": { "type": "Point", "coordinates": [-93.5998987, 41.8918731] }
     },
@@ -14911,7 +14900,6 @@
       "properties": {
         "ref": "6553",
         "shop": "hardware",
-        "addr:street_address": "Elmer & Center St",
         "addr:city": "Elmer",
         "addr:state": "NJ",
         "addr:postcode": "08318-2262",
@@ -15787,7 +15775,6 @@
       "properties": {
         "ref": "19118",
         "shop": "hardware",
-        "addr:street_address": "HWY 70 AND MOON BASE ROAD",
         "addr:city": "PERIDOT",
         "addr:state": "AZ",
         "addr:postcode": "85542-0780",
@@ -16740,7 +16727,6 @@
       "properties": {
         "ref": "3156",
         "shop": "hardware",
-        "addr:street_address": "907 A Norwich New London Tpk",
         "addr:city": "Uncasville",
         "addr:state": "CT",
         "addr:postcode": "06382-1917",
@@ -17044,7 +17030,6 @@
       "properties": {
         "ref": "4672",
         "shop": "hardware",
-        "addr:street_address": "100 Manchester Shopping Center",
         "addr:city": "Manchester",
         "addr:state": "KY",
         "addr:postcode": "40962-1401",
@@ -19083,7 +19068,6 @@
       "properties": {
         "ref": "15090",
         "shop": "hardware",
-        "addr:street_address": "US Rt 20 South",
         "addr:city": "Nutter Fort",
         "addr:state": "WV",
         "addr:postcode": "26301",

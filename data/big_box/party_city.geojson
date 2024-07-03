@@ -6385,7 +6385,6 @@
       "properties": {
         "ref": "828",
         "shop": "party",
-        "addr:street_address": "4004 US 130",
         "addr:city": "Delran",
         "addr:state": "NJ",
         "addr:postcode": "08075",
@@ -6445,7 +6444,6 @@
       "properties": {
         "ref": "747",
         "shop": "party",
-        "addr:street_address": "730 US-202",
         "addr:city": "Bridgewater",
         "addr:state": "NJ",
         "addr:postcode": "08807",
@@ -6626,7 +6624,6 @@
       "properties": {
         "ref": "1020",
         "shop": "party",
-        "addr:street_address": "50 NJ-36",
         "addr:city": "Eatontown",
         "addr:state": "NJ",
         "addr:postcode": "07724",
@@ -8931,7 +8928,6 @@
       "properties": {
         "ref": "6052",
         "shop": "party",
-        "addr:street_address": "22 Water Tower Plaza",
         "addr:city": "Leominster",
         "addr:state": "MA",
         "addr:postcode": "01453",
@@ -9832,7 +9828,6 @@
       "properties": {
         "ref": "477",
         "shop": "party",
-        "addr:street_address": "2406 US-34",
         "addr:city": "Oswego",
         "addr:state": "IL",
         "addr:postcode": "60543",
@@ -11775,7 +11770,6 @@
       "properties": {
         "ref": "6064",
         "shop": "party",
-        "addr:street_address": "5145 US-19",
         "addr:city": "New Port Richey",
         "addr:state": "FL",
         "addr:postcode": "34652",

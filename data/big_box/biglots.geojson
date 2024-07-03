@@ -16224,7 +16224,6 @@
       "id": "6jsVXVe1-QQNaQApt_138TsoXjM=",
       "properties": {
         "shop": "department_store",
-        "addr:street_address": "1060 Washington Square Shopping Ctr",
         "addr:city": "Washington",
         "addr:state": "MO",
         "addr:postcode": "63090",
@@ -17903,7 +17902,6 @@
       "id": "IRGlmr4lz6mJXWgohDhTblo_U6U=",
       "properties": {
         "shop": "department_store",
-        "addr:street_address": "40 Rising Sun Town Center",
         "addr:city": "Rising Sun",
         "addr:state": "MD",
         "addr:postcode": "21911",

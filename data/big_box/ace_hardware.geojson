@@ -10224,7 +10224,7 @@
         "brand": "Ace Hardware",
         "brand:wikidata": "Q4672981",
         "addr:housenumber": "815",
-        "addr:street": "Northeast Main ST"
+        "addr:street": "Northeast Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-109.409, 47.0702] }
     },
@@ -34210,7 +34210,6 @@
       "properties": {
         "ref": "08331",
         "shop": "doityourself",
-        "addr:street_address": "Highway 299 West",
         "addr:city": "Weaverville",
         "addr:state": "CA",
         "addr:postcode": "96093",
@@ -41962,7 +41961,6 @@
       "properties": {
         "ref": "15343",
         "shop": "doityourself",
-        "addr:street_address": "Hwy 160 at Hwy 163",
         "addr:city": "Kayenta",
         "addr:state": "AZ",
         "addr:postcode": "86033",
@@ -43064,7 +43062,6 @@
       "properties": {
         "ref": "15399",
         "shop": "doityourself",
-        "addr:street_address": "Highway 225",
         "addr:city": "Owyhee",
         "addr:state": "NV",
         "addr:postcode": "89832",
@@ -43732,7 +43729,6 @@
       "properties": {
         "ref": "15439",
         "shop": "doityourself",
-        "addr:street_address": "Hwy 191 Tseyi Shopping Center",
         "addr:city": "Chinle",
         "addr:state": "AZ",
         "addr:postcode": "86503",
@@ -49990,7 +49986,6 @@
       "properties": {
         "ref": "15798",
         "shop": "doityourself",
-        "addr:street_address": "18 Washington Square Shopping Center",
         "addr:city": "Chestertown",
         "addr:state": "MD",
         "addr:postcode": "21620",
@@ -72210,7 +72205,6 @@
       "properties": {
         "ref": "16749",
         "shop": "doityourself",
-        "addr:street_address": "1403 Boulevard",
         "addr:city": "Rayne",
         "addr:state": "LA",
         "addr:postcode": "70578",
@@ -76991,7 +76985,6 @@
       "properties": {
         "ref": "18298",
         "shop": "doityourself",
-        "addr:street_address": "9215 US-19",
         "addr:city": "Zebulon",
         "addr:state": "GA",
         "addr:postcode": "30295",
@@ -80647,7 +80640,6 @@
       "properties": {
         "ref": "18508",
         "shop": "doityourself",
-        "addr:street_address": "224 US-12",
         "addr:city": "Litchfield",
         "addr:state": "MN",
         "addr:postcode": "55355",

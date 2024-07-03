@@ -8502,7 +8502,6 @@
         "ref": "1567",
         "official_name": "Ross Dress for Less",
         "shop": "department_store",
-        "addr:street_address": "1050 Mount Prospect Plaza",
         "addr:city": "Mount Prospect",
         "addr:state": "IL",
         "addr:postcode": "60056",
@@ -14476,7 +14475,6 @@
         "ref": "3",
         "official_name": "Ross Dress for Less",
         "shop": "department_store",
-        "addr:street_address": "1410 Linda Mar Shopping Center",
         "addr:city": "Pacifica",
         "addr:state": "CA",
         "addr:postcode": "94044",
@@ -19141,7 +19139,6 @@
         "ref": "792",
         "official_name": "Ross Dress for Less",
         "shop": "department_store",
-        "addr:street_address": "620 Triangle Shopping Center",
         "addr:city": "Longview",
         "addr:state": "WA",
         "addr:postcode": "98632-4685",
@@ -26223,7 +26220,7 @@
         "brand": "Ross",
         "brand:wikidata": "Q3442791",
         "addr:housenumber": "1296",
-        "addr:street": "Broad ST"
+        "addr:street": "Broad Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.3887856, 33.9552821] }
     },
@@ -28565,7 +28562,6 @@
         "ref": "8",
         "official_name": "Ross Dress for Less",
         "shop": "department_store",
-        "addr:street_address": "400 Raleys Towne Center",
         "addr:city": "Rohnert Park",
         "addr:state": "CA",
         "addr:postcode": "94928",

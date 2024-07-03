@@ -22850,7 +22850,6 @@
       "properties": {
         "ref": "1589",
         "shop": "department_store",
-        "addr:street_address": "2248 US-93",
         "addr:city": "Kalispell",
         "addr:state": "MT",
         "addr:postcode": "59901",

@@ -1063,7 +1063,6 @@
       "properties": {
         "ref": "Dulles 28 Centre",
         "shop": "shoes",
-        "addr:street_address": "22000 Dulles Retail Plaza",
         "addr:city": "Dulles",
         "addr:state": "VA",
         "addr:postcode": "20166",
@@ -4191,7 +4190,6 @@
       "properties": {
         "ref": "Walden Galleria",
         "shop": "shoes",
-        "addr:street_address": "One Walden Galleria",
         "addr:city": "Buffalo",
         "addr:state": "NY",
         "addr:postcode": "14225",
@@ -4459,7 +4457,6 @@
       "properties": {
         "ref": "Union Plaza",
         "shop": "shoes",
-        "addr:street_address": "2401 US-22",
         "addr:city": "Union",
         "addr:state": "NJ",
         "addr:postcode": "07083",

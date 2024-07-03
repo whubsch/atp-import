@@ -2680,7 +2680,6 @@
       "properties": {
         "ref": "5035",
         "shop": "craft",
-        "addr:street_address": "11260 Olympic Blvd, One West Side",
         "addr:city": "Los Angeles",
         "addr:state": "CA",
         "addr:postcode": "90064",
@@ -3368,7 +3367,6 @@
       "properties": {
         "ref": "8334",
         "shop": "craft",
-        "addr:street_address": "100 Park Center Dr, Park Shopping Center",
         "addr:city": "Parkersburg",
         "addr:state": "WV",
         "addr:postcode": "26101-1929",
@@ -5472,7 +5470,6 @@
       "properties": {
         "ref": "5813",
         "shop": "craft",
-        "addr:street_address": "19653 US Hwy 59, Humblewood Shopping Center - 1960 and 59",
         "addr:city": "Humble",
         "addr:state": "TX",
         "addr:postcode": "77338-3565",
@@ -5654,7 +5651,6 @@
       "properties": {
         "ref": "2712",
         "shop": "craft",
-        "addr:street_address": "5500 Greenville Ave, Ste 700, Old Town Village",
         "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75206-2931",
@@ -6405,7 +6401,6 @@
       "properties": {
         "ref": "8364",
         "shop": "craft",
-        "addr:street_address": "411-A Mary Esther Cut-Off NW, Emerald Place Shopping Center",
         "addr:city": "Fort Walton Beach",
         "addr:state": "FL",
         "addr:postcode": "32548-9001",
@@ -8591,7 +8586,6 @@
       "properties": {
         "ref": "2739",
         "shop": "craft",
-        "addr:street_address": "5730 Lakewood Towne Ctr Bvd SW, Lakewood Towne Center",
         "addr:city": "Lakewood",
         "addr:state": "WA",
         "addr:postcode": "98499-3895",
@@ -9100,7 +9094,6 @@
       "properties": {
         "ref": "1689",
         "shop": "craft",
-        "addr:street_address": "268A Daniel Webster Hwy, Webster Square Shopping Center",
         "addr:city": "Nashua",
         "addr:state": "NH",
         "addr:postcode": "03060",
@@ -9900,7 +9893,6 @@
       "properties": {
         "ref": "2032",
         "shop": "craft",
-        "addr:street_address": "90 Southgate Square, Southgate Square Shopping Center",
         "addr:city": "Colonial Heights",
         "addr:state": "VA",
         "addr:postcode": "23834-3611",
@@ -10755,7 +10747,6 @@
       "properties": {
         "ref": "1374",
         "shop": "craft",
-        "addr:street_address": "2100 Village Market Place, Park West Village",
         "addr:city": "Morrisville",
         "addr:state": "NC",
         "addr:postcode": "27560",
@@ -11542,7 +11533,6 @@
       "properties": {
         "ref": "2066",
         "shop": "craft",
-        "addr:street_address": "18  Water Tower Plaza, Water Tower Plaza",
         "addr:city": "Leominster",
         "addr:state": "MA",
         "addr:postcode": "01453-2247",
@@ -12206,7 +12196,6 @@
       "properties": {
         "ref": "2116",
         "shop": "craft",
-        "addr:street_address": "869 Route 1, North Village Shopping Center",
         "addr:city": "North Brunswick",
         "addr:state": "NJ",
         "addr:postcode": "08902-3345",
@@ -13313,7 +13302,6 @@
       "properties": {
         "ref": "3008",
         "shop": "craft",
-        "addr:street_address": "4240 Pacific Coast Hwy, Vista Plaza",
         "addr:city": "Torrance",
         "addr:state": "CA",
         "addr:postcode": "90505-5526",
@@ -14469,7 +14457,6 @@
       "properties": {
         "ref": "4826",
         "shop": "craft",
-        "addr:street_address": "1520 Pleasant Valley Rd, Plaza at Buckland Hills",
         "addr:city": "Manchester",
         "addr:state": "CT",
         "addr:postcode": "06042-1637",
@@ -15649,7 +15636,6 @@
       "properties": {
         "ref": "5170",
         "shop": "craft",
-        "addr:street_address": "25462 El Paseo, Mission Viejo Freeway Center",
         "addr:city": "Mission Viejo",
         "addr:state": "CA",
         "addr:postcode": "92691-6905",
@@ -15767,7 +15753,6 @@
       "properties": {
         "ref": "5180",
         "shop": "craft",
-        "addr:street_address": "3500 Green Mount Crossing Dr, Green Mountain Crossing",
         "addr:city": "Shiloh",
         "addr:state": "IL",
         "addr:postcode": "62269-7281",
@@ -17778,7 +17763,6 @@
       "properties": {
         "ref": "7773",
         "shop": "craft",
-        "addr:street_address": "75 Interstate Shopping Center, Interstate Shopping Center",
         "addr:city": "Ramsey",
         "addr:state": "NJ",
         "addr:postcode": "07446-1605",
@@ -18678,7 +18662,6 @@
       "properties": {
         "ref": "8696",
         "shop": "craft",
-        "addr:street_address": "100 Woodside Plaza, Woodside Plaza",
         "addr:city": "Redwood City",
         "addr:state": "CA",
         "addr:postcode": "94061-2553",
@@ -19876,7 +19859,6 @@
       "properties": {
         "ref": "6803",
         "shop": "craft",
-        "addr:street_address": "1441 W I-240 Service Rd, 240 Penn Park",
         "addr:city": "Oklahoma City",
         "addr:state": "OK",
         "addr:postcode": "73159-4145",
@@ -20568,7 +20550,6 @@
       "properties": {
         "ref": "8353",
         "shop": "craft",
-        "addr:street_address": "165 Rockland Center, Rockland Center",
         "addr:city": "Nanuet",
         "addr:state": "NY",
         "addr:postcode": "10954-2956",
@@ -21033,7 +21014,6 @@
       "properties": {
         "ref": "9803",
         "shop": "craft",
-        "addr:street_address": "6330 Seven Corners CTR, Seven Corners Shopping Center",
         "addr:city": "Falls Church",
         "addr:state": "VA",
         "addr:postcode": "22044-2409",
@@ -21193,7 +21173,6 @@
       "properties": {
         "ref": "8623",
         "shop": "craft",
-        "addr:street_address": "50 Veterans Memorial Hwy, Macy's Plaza",
         "addr:city": "Commack",
         "addr:state": "NY",
         "addr:postcode": "11725-3409",
@@ -21681,7 +21660,6 @@
       "properties": {
         "ref": "9811",
         "shop": "craft",
-        "addr:street_address": "200 W DeKalb Pike, Valley Forge Center",
         "addr:city": "King Of Prussia",
         "addr:state": "PA",
         "addr:postcode": "19406-2327",
@@ -22086,7 +22064,6 @@
       "properties": {
         "ref": "9541",
         "shop": "craft",
-        "addr:street_address": "30 Barrett Ave, Forest Avenue Shoppers Plaza",
         "addr:city": "Staten Island",
         "addr:state": "NY",
         "addr:postcode": "10302-2046",
@@ -22125,7 +22102,6 @@
       "properties": {
         "ref": "9607",
         "shop": "craft",
-        "addr:street_address": "719 Thompson Ln, The Mills at 100 Oaks",
         "addr:city": "Nashville",
         "addr:state": "TN",
         "addr:postcode": "37204-3624",
@@ -22365,7 +22341,6 @@
       "properties": {
         "ref": "9832",
         "shop": "craft",
-        "addr:street_address": "240 Consumer Square, Wrangleboro Consumer Square",
         "addr:city": "Mays Landing",
         "addr:state": "NJ",
         "addr:postcode": "08330-3325",

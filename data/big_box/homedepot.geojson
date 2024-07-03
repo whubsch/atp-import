@@ -5309,7 +5309,6 @@
       "properties": {
         "alt_name": "Home Depot",
         "shop": "doityourself",
-        "addr:street_address": "414b Mary Esther Cut Off Nw",
         "addr:city": "Fort Walton Beach",
         "addr:state": "FL",
         "addr:postcode": "32548",
@@ -6611,7 +6610,6 @@
       "properties": {
         "alt_name": "Home Depot",
         "shop": "doityourself",
-        "addr:street_address": "1200 East West Connector Sw",
         "addr:city": "Austell",
         "addr:state": "GA",
         "addr:postcode": "30106",

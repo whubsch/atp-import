@@ -6846,7 +6846,6 @@
       "properties": {
         "alt_name": "Ashley Furniture",
         "shop": "furniture",
-        "addr:street_address": "5029 US-130, Suite 250",
         "addr:city": "Delran",
         "addr:state": "NJ",
         "addr:postcode": "08075",
@@ -7112,7 +7111,6 @@
       "properties": {
         "alt_name": "Ashley Furniture",
         "shop": "furniture",
-        "addr:street_address": "561 US-46",
         "addr:city": "Fairfield",
         "addr:state": "NJ",
         "addr:postcode": "07004",

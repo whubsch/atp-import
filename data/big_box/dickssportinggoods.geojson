@@ -3114,7 +3114,6 @@
       "properties": {
         "ref": "1184",
         "shop": "sports",
-        "addr:street_address": "Berkeley Mall Ring Road",
         "addr:city": "Goldsboro",
         "addr:state": "NC",
         "addr:postcode": "27534",
@@ -4797,7 +4796,6 @@
       "properties": {
         "ref": "229",
         "shop": "sports",
-        "addr:street_address": "Route 724 And Route 100",
         "addr:city": "Pottstown",
         "addr:state": "PA",
         "addr:postcode": "19465",
@@ -5343,7 +5341,6 @@
       "properties": {
         "ref": "110",
         "shop": "sports",
-        "addr:street_address": "Rr 17, Box 18",
         "addr:city": "Greensburg",
         "addr:state": "PA",
         "addr:postcode": "15601",
@@ -9249,7 +9246,6 @@
       "properties": {
         "ref": "288",
         "shop": "sports",
-        "addr:street_address": "8100 Citrus Park Town Center",
         "addr:city": "Tampa",
         "addr:state": "FL",
         "addr:postcode": "33625",
@@ -10804,7 +10800,6 @@
       "properties": {
         "ref": "454",
         "shop": "sports",
-        "addr:street_address": "One Orland Park Place, Suite 1",
         "addr:city": "Orland Park",
         "addr:state": "IL",
         "addr:postcode": "60462",
@@ -12307,7 +12302,6 @@
       "properties": {
         "ref": "756",
         "shop": "sports",
-        "addr:street_address": "Route 5 And 5A",
         "addr:city": "New Hartford",
         "addr:state": "NY",
         "addr:postcode": "13413",
@@ -12679,7 +12673,6 @@
       "properties": {
         "ref": "1318",
         "shop": "sports",
-        "addr:street_address": "Bay Shore Mall - Suite B",
         "addr:city": "Bay Shore",
         "addr:state": "NY",
         "addr:postcode": "11706",
@@ -15226,7 +15219,6 @@
       "properties": {
         "ref": "1502",
         "shop": "sports",
-        "addr:street_address": "1000 The Shops At Mission Viejo",
         "addr:city": "Mission Viejo",
         "addr:state": "CA",
         "addr:postcode": "92691",

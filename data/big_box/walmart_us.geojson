@@ -37785,7 +37785,6 @@
       "properties": {
         "ref": "2474",
         "shop": "supermarket",
-        "addr:street_address": "Rr 4 Box 82",
         "addr:city": "Keyser",
         "addr:state": "WV",
         "addr:postcode": "26726",
@@ -80574,7 +80573,6 @@
       "properties": {
         "ref": "4519",
         "shop": "supermarket",
-        "addr:street_address": "801a E General Stewart Way",
         "addr:city": "Hinesville",
         "addr:state": "GA",
         "addr:postcode": "31313",

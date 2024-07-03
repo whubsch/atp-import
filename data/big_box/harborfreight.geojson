@@ -22,7 +22,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1261",
-        "addr:street": "Highway 231 South TEST"
+        "addr:street": "Highway 231 South"
       },
       "geometry": { "type": "Point", "coordinates": [-85.949279, 31.779692] }
     },
@@ -81,7 +81,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "57980",
         "addr:street": "29 Palms Highway",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-116.399616, 34.129357] }
     },
@@ -139,7 +139,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "904",
-        "addr:street": "Norman Eskridge Highway TEST"
+        "addr:street": "Norman Eskridge Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-75.603241, 38.651479] }
     },
@@ -217,7 +217,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "555",
         "addr:street": "East Townline Road",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-87.9531, 42.23855] }
     },
@@ -294,7 +294,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "345",
         "addr:street": "North Highway 27",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-84.623336, 37.097952] }
     },
@@ -314,7 +314,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5460",
         "addr:street": "Main Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-91.147714, 30.646186] }
     },
@@ -449,7 +449,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1555",
         "addr:street": "Gause Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-89.755655, 30.282117] }
     },
@@ -468,7 +468,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "341",
-        "addr:street": "Bert Kouns Industrial TEST"
+        "addr:street": "Bert Kouns Industrial"
       },
       "geometry": { "type": "Point", "coordinates": [-93.761261, 32.398193] }
     },
@@ -507,7 +507,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "711",
         "addr:street": "Creswell Lane",
-        "addr:unit": "5 TEST"
+        "addr:unit": "5"
       },
       "geometry": { "type": "Point", "coordinates": [-92.077337, 30.520692] }
     },
@@ -526,7 +526,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4600",
-        "addr:street": "Chef Menteur Highway TEST"
+        "addr:street": "Chef Menteur Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-90.03514, 30.004887] }
     },
@@ -546,7 +546,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "820",
         "addr:street": "East Admiral Doyle Drive",
-        "addr:unit": "H TEST"
+        "addr:unit": "H"
       },
       "geometry": { "type": "Point", "coordinates": [-91.825638, 29.986263] }
     },
@@ -565,7 +565,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "305",
-        "addr:street": "South Drive TEST"
+        "addr:street": "South Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-93.08134, 31.744246] }
     },
@@ -737,7 +737,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1312",
-        "addr:street": "West Airline Highway TEST"
+        "addr:street": "West Airline Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-90.491719, 30.073278] }
     },
@@ -814,7 +814,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "12537",
-        "addr:street": "Airline Highway TEST"
+        "addr:street": "Airline Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-90.926314, 30.251] }
     },
@@ -892,7 +892,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "8400",
         "addr:street": "West Judge Perez Drive",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-89.977345, 29.95158] }
     },
@@ -1029,7 +1029,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "831",
         "addr:street": "Eastern Bypass",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-84.281993, 37.733709] }
     },
@@ -1048,7 +1048,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "251",
-        "addr:street": "Weddington Branch TEST"
+        "addr:street": "Weddington Branch"
       },
       "geometry": { "type": "Point", "coordinates": [-82.568353, 37.525548] }
     },
@@ -1067,7 +1067,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "237",
-        "addr:street": "North Mayo Trail TEST"
+        "addr:street": "North Mayo Trail"
       },
       "geometry": { "type": "Point", "coordinates": [-82.814663, 37.81882] }
     },
@@ -1182,7 +1182,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1136",
-        "addr:street": "Highway 68 TEST"
+        "addr:street": "Highway 68"
       },
       "geometry": { "type": "Point", "coordinates": [-83.784472, 38.638125] }
     },
@@ -1280,7 +1280,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2606",
         "addr:street": "Zion Road",
-        "addr:unit": "U TEST"
+        "addr:unit": "U"
       },
       "geometry": { "type": "Point", "coordinates": [-87.555498, 37.826314] }
     },
@@ -1434,7 +1434,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "660",
         "addr:street": "31w Bypass",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-86.429295, 36.988437] }
     },
@@ -1453,7 +1453,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6805",
-        "addr:street": "Alexandria Pike TEST"
+        "addr:street": "Alexandria Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-84.398916, 38.984584] }
     },
@@ -1472,7 +1472,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "11219",
-        "addr:street": "Shawnee Mission Pkw TEST"
+        "addr:street": "Shawnee Mission Pkw"
       },
       "geometry": { "type": "Point", "coordinates": [-94.716885, 39.013387] }
     },
@@ -1530,7 +1530,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "626",
         "addr:street": "Tuttle Creek Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-96.556285, 39.184671] }
     },
@@ -1609,7 +1609,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1500",
         "addr:street": "East 11th Avenue",
-        "addr:unit": "Xeh TEST"
+        "addr:unit": "Xeh"
       },
       "geometry": { "type": "Point", "coordinates": [-97.897748, 38.068794] }
     },
@@ -1686,7 +1686,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1007",
-        "addr:street": "North Highway 69 TEST"
+        "addr:street": "North Highway 69"
       },
       "geometry": { "type": "Point", "coordinates": [-94.70603, 37.45672] }
     },
@@ -1724,7 +1724,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2354",
-        "addr:street": "West Central Avenue TEST"
+        "addr:street": "West Central Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-96.881994, 37.818501] }
     },
@@ -1762,7 +1762,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "12060",
-        "addr:street": "Standiford Plaza Drive TEST"
+        "addr:street": "Standiford Plaza Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-85.666711, 38.085696] }
     },
@@ -1838,7 +1838,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10948",
-        "addr:street": "Dixie Highway TEST"
+        "addr:street": "Dixie Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-85.874128, 38.097279] }
     },
@@ -1917,7 +1917,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "103",
         "addr:street": "Ford Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-91.028712, 41.449489] }
     },
@@ -1955,7 +1955,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "260",
-        "addr:street": "Highway 1 West TEST"
+        "addr:street": "Highway 1 West"
       },
       "geometry": { "type": "Point", "coordinates": [-91.543251, 41.64804] }
     },
@@ -2014,7 +2014,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1010",
         "addr:street": "East Kimberly Road",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-90.560894, 41.557907] }
     },
@@ -2186,7 +2186,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2551",
-        "addr:street": "East State Road 44 TEST"
+        "addr:street": "East State Road 44"
       },
       "geometry": { "type": "Point", "coordinates": [-85.741051, 39.523197] }
     },
@@ -2225,7 +2225,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1650",
         "addr:street": "Indianapolis Boulevard",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.470975, 41.493192] }
     },
@@ -2263,7 +2263,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5970",
-        "addr:street": "Highway 6 TEST"
+        "addr:street": "Highway 6"
       },
       "geometry": { "type": "Point", "coordinates": [-87.184142, 41.551029] }
     },
@@ -2321,7 +2321,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1413",
         "addr:street": "West McGalliard Road",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-85.401485, 40.218902] }
     },
@@ -2494,7 +2494,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4100",
         "addr:street": "Merle Hay Road",
-        "addr:unit": "6 TEST"
+        "addr:unit": "6"
       },
       "geometry": { "type": "Point", "coordinates": [-93.699901, 41.636152] }
     },
@@ -2552,7 +2552,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2943",
         "addr:street": "South Washington Street",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-86.128562, 40.453271] }
     },
@@ -2610,7 +2610,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "707",
         "addr:street": "South Madison Avenue",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-86.105812, 39.605844] }
     },
@@ -2667,7 +2667,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3927",
-        "addr:street": "East State Boulevard TEST"
+        "addr:street": "East State Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-85.089455, 41.097733] }
     },
@@ -2706,7 +2706,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2614",
-        "addr:street": "Eastbrook Plaza TEST"
+        "addr:street": "Eastbrook Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-85.893635, 39.223916] }
     },
@@ -2859,7 +2859,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4311",
         "addr:street": "East Lincolnway",
-        "addr:unit": "J TEST"
+        "addr:unit": "J"
       },
       "geometry": { "type": "Point", "coordinates": [-89.642922, 41.8174] }
     },
@@ -2937,7 +2937,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4817",
         "addr:street": "Broadway Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-91.337914, 39.935745] }
     },
@@ -2975,7 +2975,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3455",
-        "addr:street": "Court St TEST"
+        "addr:street": "Court St"
       },
       "geometry": { "type": "Point", "coordinates": [-89.59721, 40.54592] }
     },
@@ -3128,7 +3128,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "20909",
         "addr:street": "South Cicero Avenue",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-87.73089, 41.50868] }
     },
@@ -3148,7 +3148,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10101",
         "addr:street": "East Washington Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-85.987579, 39.774923] }
     },
@@ -3415,7 +3415,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10709",
-        "addr:street": "Lincoln Trail TEST"
+        "addr:street": "Lincoln Trail"
       },
       "geometry": { "type": "Point", "coordinates": [-89.993889, 38.592956] }
     },
@@ -3435,7 +3435,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "202",
         "addr:street": "South Randall Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-88.34124, 42.02841] }
     },
@@ -3550,7 +3550,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6324",
-        "addr:street": "Northwest Highway TEST"
+        "addr:street": "Northwest Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-88.320701, 42.226254] }
     },
@@ -3666,7 +3666,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "450",
-        "addr:street": "Broadview Village Square TEST"
+        "addr:street": "Broadview Village Square"
       },
       "geometry": { "type": "Point", "coordinates": [-87.84888, 41.85189] }
     },
@@ -3686,7 +3686,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "108",
         "addr:street": "Village Square",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-87.853133, 41.148973] }
     },
@@ -3782,7 +3782,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "530",
         "addr:street": "North 2nd East",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-111.775837, 43.837508] }
     },
@@ -3822,7 +3822,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4150",
         "addr:street": "Yellowstone Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-112.466243, 42.90781] }
     },
@@ -3899,7 +3899,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "410",
         "addr:street": "West Neider Avenue",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-116.793793, 47.705912] }
     },
@@ -3938,7 +3938,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2191",
         "addr:street": "Watson Boulevard",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-83.658426, 32.617668] }
     },
@@ -3977,7 +3977,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3111",
         "addr:street": "North Oak Street Extension",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-83.290599, 30.877799] }
     },
@@ -4015,7 +4015,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2483",
-        "addr:street": "Highway 17 Alt TEST"
+        "addr:street": "Highway 17 Alt"
       },
       "geometry": { "type": "Point", "coordinates": [-83.296439, 34.565559] }
     },
@@ -4091,7 +4091,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "443",
-        "addr:street": "Illinois 59 TEST"
+        "addr:street": "Illinois 59"
       },
       "geometry": { "type": "Point", "coordinates": [-88.20879, 41.74986] }
     },
@@ -4208,7 +4208,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "410",
         "addr:street": "South Columbia Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-81.228673, 32.277049] }
     },
@@ -4478,7 +4478,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "299",
         "addr:street": "Commerce Avenue",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-85.019852, 33.050407] }
     },
@@ -4558,7 +4558,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1503",
         "addr:street": "Highway 16 West",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-84.291345, 33.248091] }
     },
@@ -4578,7 +4578,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1500",
         "addr:street": "Browns Bridge Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-83.843221, 34.286683] }
     },
@@ -4618,7 +4618,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4776",
         "addr:street": "Ashford Dunwoody Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-84.337915, 33.935072] }
     },
@@ -4714,7 +4714,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "406",
         "addr:street": "East Main Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-83.97819, 34.53427] }
     },
@@ -4733,7 +4733,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "601",
-        "addr:street": "Tri County Plaza TEST"
+        "addr:street": "Tri County Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-84.138537, 34.188723] }
     },
@@ -4946,7 +4946,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1518",
-        "addr:street": "Tallahassee Highway TEST"
+        "addr:street": "Tallahassee Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-84.565593, 30.882703] }
     },
@@ -5178,7 +5178,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3424",
-        "addr:street": "Southeast Federal Highway TEST"
+        "addr:street": "Southeast Federal Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-80.22585, 27.163778] }
     },
@@ -5216,7 +5216,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "312",
-        "addr:street": "State Road 312 TEST"
+        "addr:street": "State Road 312"
       },
       "geometry": { "type": "Point", "coordinates": [-81.320247, 29.867738] }
     },
@@ -5273,7 +5273,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "13550",
-        "addr:street": "Highway 1 TEST"
+        "addr:street": "Highway 1"
       },
       "geometry": { "type": "Point", "coordinates": [-80.486215, 27.84077] }
     },
@@ -5369,7 +5369,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2315",
-        "addr:street": "Tamiami Trail TEST"
+        "addr:street": "Tamiami Trail"
       },
       "geometry": { "type": "Point", "coordinates": [-82.1212, 26.9977] }
     },
@@ -5427,7 +5427,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3335",
         "addr:street": "South Congress Avenue",
-        "addr:unit": "7 TEST"
+        "addr:unit": "7"
       },
       "geometry": { "type": "Point", "coordinates": [-80.088864, 26.626993] }
     },
@@ -5504,7 +5504,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "333",
-        "addr:street": "North State Road 19 TEST"
+        "addr:street": "North State Road 19"
       },
       "geometry": { "type": "Point", "coordinates": [-81.671075, 29.651866] }
     },
@@ -5601,7 +5601,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3935",
-        "addr:street": "North Federal Highway TEST"
+        "addr:street": "North Federal Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-80.120591, 26.176606] }
     },
@@ -5639,7 +5639,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6435",
-        "addr:street": "Highway 19 TEST"
+        "addr:street": "Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.727906, 28.251807] }
     },
@@ -5678,7 +5678,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "13860",
         "addr:street": "North Cleveland Avenue",
-        "addr:unit": "F TEST"
+        "addr:unit": "F"
       },
       "geometry": { "type": "Point", "coordinates": [-81.884438, 26.663239] }
     },
@@ -5697,7 +5697,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "18990",
-        "addr:street": "Highway 441 TEST"
+        "addr:street": "Highway 441"
       },
       "geometry": { "type": "Point", "coordinates": [-81.642422, 28.822615] }
     },
@@ -5773,7 +5773,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4739",
-        "addr:street": "Highway 90 TEST"
+        "addr:street": "Highway 90"
       },
       "geometry": { "type": "Point", "coordinates": [-85.201613, 30.761475] }
     },
@@ -5830,7 +5830,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3260",
-        "addr:street": "North Federal Highway TEST"
+        "addr:street": "North Federal Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-80.097448, 26.271324] }
     },
@@ -5888,7 +5888,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5115",
-        "addr:street": "Highway 98 North TEST"
+        "addr:street": "Highway 98 North"
       },
       "geometry": { "type": "Point", "coordinates": [-81.973134, 28.110303] }
     },
@@ -5945,7 +5945,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1824",
-        "addr:street": "West Highway 90 TEST"
+        "addr:street": "West Highway 90"
       },
       "geometry": { "type": "Point", "coordinates": [-82.662457, 30.179829] }
     },
@@ -6002,7 +6002,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4500",
-        "addr:street": "Northwest Federal Highway TEST"
+        "addr:street": "Northwest Federal Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-80.282899, 27.260199] }
     },
@@ -6021,7 +6021,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "12042",
-        "addr:street": "Highway 19 TEST"
+        "addr:street": "Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.697933, 28.332068] }
     },
@@ -6079,7 +6079,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "35967",
-        "addr:street": "Highway 27 TEST"
+        "addr:street": "Highway 27"
       },
       "geometry": { "type": "Point", "coordinates": [-81.63898, 28.121517] }
     },
@@ -6118,7 +6118,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "527",
         "addr:street": "Mary Esther Cut Off Northwest",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.650438, 30.423682] }
     },
@@ -6196,7 +6196,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1030",
         "addr:street": "Freeport Highway South",
-        "addr:unit": "K TEST"
+        "addr:unit": "K"
       },
       "geometry": { "type": "Point", "coordinates": [-86.124568, 30.707143] }
     },
@@ -6234,7 +6234,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "18517",
-        "addr:street": "South Dixie Highway TEST"
+        "addr:street": "South Dixie Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-80.354507, 25.597669] }
     },
@@ -6253,7 +6253,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "708",
-        "addr:street": "Southeast Highway 19 TEST"
+        "addr:street": "Southeast Highway 19"
       },
       "geometry": { "type": "Point", "coordinates": [-82.583455, 28.88943] }
     },
@@ -6332,7 +6332,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5627",
         "addr:street": "14th Street West",
-        "addr:unit": "K TEST"
+        "addr:unit": "K"
       },
       "geometry": { "type": "Point", "coordinates": [-82.57539, 27.44123] }
     },
@@ -6409,7 +6409,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2515",
-        "addr:street": "Southeast Highway 70 TEST"
+        "addr:street": "Southeast Highway 70"
       },
       "geometry": { "type": "Point", "coordinates": [-81.83474, 27.206969] }
     },
@@ -6428,7 +6428,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1045",
-        "addr:street": "West Orange Blossom Trail TEST"
+        "addr:street": "West Orange Blossom Trail"
       },
       "geometry": { "type": "Point", "coordinates": [-81.532224, 28.68495] }
     },
@@ -6466,7 +6466,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "61",
-        "addr:street": "University Plaza TEST"
+        "addr:street": "University Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-75.668628, 39.667841] }
     },
@@ -6582,7 +6582,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "650",
         "addr:street": "Wolcott Street",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-73.011941, 41.559931] }
     },
@@ -6602,7 +6602,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1240",
         "addr:street": "South Broad Street",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-72.80842, 41.50442] }
     },
@@ -6661,7 +6661,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "150",
         "addr:street": "Boston Post Road",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-72.99315, 41.273349] }
     },
@@ -6700,7 +6700,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "400",
         "addr:street": "North Navy Boulevard",
-        "addr:unit": "5 TEST"
+        "addr:unit": "5"
       },
       "geometry": { "type": "Point", "coordinates": [-87.276121, 30.395918] }
     },
@@ -6892,7 +6892,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7089",
-        "addr:street": "South Orange Blossom Trail TEST"
+        "addr:street": "South Orange Blossom Trail"
       },
       "geometry": { "type": "Point", "coordinates": [-81.397072, 28.463462] }
     },
@@ -6912,7 +6912,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2",
         "addr:street": "East Nine Mile Road",
-        "addr:unit": "6 TEST"
+        "addr:unit": "6"
       },
       "geometry": { "type": "Point", "coordinates": [-87.273585, 30.533536] }
     },
@@ -6988,7 +6988,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "720",
-        "addr:street": "Hartford Pike TEST"
+        "addr:street": "Hartford Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-71.874542, 41.841253] }
     },
@@ -7123,7 +7123,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2201",
         "addr:street": "South Townsend Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-107.864522, 38.462124] }
     },
@@ -7162,7 +7162,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10251",
         "addr:street": "West Bowles Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-105.113079, 39.610313] }
     },
@@ -7240,7 +7240,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4414",
         "addr:street": "South College Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-105.076221, 40.525502] }
     },
@@ -7335,7 +7335,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3210",
-        "addr:street": "I-70 Business Loop TEST"
+        "addr:street": "I-70 Business Loop"
       },
       "geometry": { "type": "Point", "coordinates": [-108.458347, 39.089239] }
     },
@@ -7355,7 +7355,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1811",
         "addr:street": "Fremont Drive",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-105.222428, 38.448449] }
     },
@@ -7433,7 +7433,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "729",
         "addr:street": "Colusa Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-121.626223, 39.142173] }
     },
@@ -7510,7 +7510,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "15214",
         "addr:street": "Whittier Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-118.002831, 33.946876] }
     },
@@ -7606,7 +7606,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "14676",
         "addr:street": "Seventh Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-117.312352, 34.517931] }
     },
@@ -7626,7 +7626,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1425",
         "addr:street": "South Victoria Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-119.21202, 34.262117] }
     },
@@ -7989,7 +7989,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1460",
-        "addr:street": "South Broadway TEST"
+        "addr:street": "South Broadway"
       },
       "geometry": { "type": "Point", "coordinates": [-120.435898, 34.935438] }
     },
@@ -8103,7 +8103,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1007",
-        "addr:street": "West Arrow Highway TEST"
+        "addr:street": "West Arrow Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-117.82739, 34.107997] }
     },
@@ -8199,7 +8199,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "260",
-        "addr:street": "East Baseline Road TEST"
+        "addr:street": "East Baseline Road"
       },
       "geometry": { "type": "Point", "coordinates": [-117.366758, 34.122154] }
     },
@@ -8219,7 +8219,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1175",
         "addr:street": "Hartnell",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-122.349525, 40.563667] }
     },
@@ -8353,7 +8353,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1460",
-        "addr:street": "Broadway TEST"
+        "addr:street": "Broadway"
       },
       "geometry": { "type": "Point", "coordinates": [-120.776053, 38.732586] }
     },
@@ -8526,7 +8526,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "355",
-        "addr:street": "Oro Dam Boulevard East TEST"
+        "addr:street": "Oro Dam Boulevard East"
       },
       "geometry": { "type": "Point", "coordinates": [-121.573804, 39.496816] }
     },
@@ -8679,7 +8679,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "9137",
         "addr:street": "Central Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-117.688373, 34.088109] }
     },
@@ -8832,7 +8832,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "609",
-        "addr:street": "North H St TEST"
+        "addr:street": "North H St"
       },
       "geometry": { "type": "Point", "coordinates": [-120.45905, 34.64769] }
     },
@@ -8852,7 +8852,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2040",
         "addr:street": "Pacific Coast Highway",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-118.316335, 33.788983] }
     },
@@ -8871,7 +8871,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7702",
-        "addr:street": "Broadway TEST"
+        "addr:street": "Broadway"
       },
       "geometry": { "type": "Point", "coordinates": [-117.03181, 32.74303] }
     },
@@ -8919,7 +8919,6 @@
       "id": "gqPDCQEtUJMf-JQOmPo3H3gX7as=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "23815 El Toro Rd E116, 117 TEST",
         "addr:city": "Lake Forest",
         "addr:state": "CA",
         "addr:postcode": "92630",
@@ -9043,7 +9042,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "82123",
-        "addr:street": "Highway 111 TEST"
+        "addr:street": "Highway 111"
       },
       "geometry": { "type": "Point", "coordinates": [-116.231729, 33.714692] }
     },
@@ -9236,7 +9235,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1615",
         "addr:street": "Holiday Lane",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-122.060183, 38.262056] }
     },
@@ -9409,7 +9408,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4545",
         "addr:street": "Sepulveda Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-118.40498, 34.001459] }
     },
@@ -9447,7 +9446,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "440",
-        "addr:street": "West Arrow Highway TEST"
+        "addr:street": "West Arrow Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-117.896154, 34.106729] }
     },
@@ -9505,7 +9504,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "180",
         "addr:street": "West Shaw Avenue",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-119.70912, 36.80858] }
     },
@@ -9601,7 +9600,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "130",
         "addr:street": "West East Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-121.863471, 39.757042] }
     },
@@ -9620,7 +9619,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1342",
-        "addr:street": "East Hatch Road TEST"
+        "addr:street": "East Hatch Road"
       },
       "geometry": { "type": "Point", "coordinates": [-120.972365, 37.608125] }
     },
@@ -9640,7 +9639,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "31833",
         "addr:street": "Date Palm Drive",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-116.45961, 33.817262] }
     },
@@ -9755,7 +9754,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3403",
         "addr:street": "West Ramsey Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-116.913965, 33.926935] }
     },
@@ -9946,7 +9945,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2411",
-        "addr:street": "West Kingshighway TEST"
+        "addr:street": "West Kingshighway"
       },
       "geometry": { "type": "Point", "coordinates": [-90.517379, 36.061676] }
     },
@@ -9985,7 +9984,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3901",
         "addr:street": "South University Avenue",
-        "addr:unit": "6 TEST"
+        "addr:unit": "6"
       },
       "geometry": { "type": "Point", "coordinates": [-92.341798, 34.718084] }
     },
@@ -10024,7 +10023,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1120",
         "addr:street": "East Waterloo Road",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-121.270495, 37.968934] }
     },
@@ -10082,7 +10081,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "580",
         "addr:street": "Inland Center Drive",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-117.295902, 34.090315] }
     },
@@ -10197,7 +10196,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3745",
-        "addr:street": "Rosedale Highway TEST"
+        "addr:street": "Rosedale Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-119.050284, 35.381937] }
     },
@@ -10391,7 +10390,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3233",
         "addr:street": "West Hammer Lane",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-121.357485, 38.022887] }
     },
@@ -10411,7 +10410,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1309",
         "addr:street": "T.P. White Drive",
-        "addr:unit": "F TEST"
+        "addr:unit": "F"
       },
       "geometry": { "type": "Point", "coordinates": [-92.11189, 34.88025] }
     },
@@ -10430,7 +10429,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3818",
-        "addr:street": "Central Avenue TEST"
+        "addr:street": "Central Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-93.062127, 34.462018] }
     },
@@ -10528,7 +10527,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1504",
         "addr:street": "Military Road",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-92.576206, 34.579287] }
     },
@@ -10548,7 +10547,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "425",
         "addr:street": "South Saint Louis Street",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-91.639781, 35.774751] }
     },
@@ -10588,7 +10587,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "12875",
         "addr:street": "West Bell Road",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-112.33745, 33.63821] }
     },
@@ -10607,7 +10606,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3758",
-        "addr:street": "East Ferry Boulevard TEST"
+        "addr:street": "East Ferry Boulevard"
       },
       "geometry": { "type": "Point", "coordinates": [-110.258998, 31.55309] }
     },
@@ -10627,7 +10626,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4421",
         "addr:street": "South White Mountain Road",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-110.024352, 34.211974] }
     },
@@ -10724,7 +10723,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "400",
         "addr:street": "East State Highway 260",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-111.318587, 34.242273] }
     },
@@ -10744,7 +10743,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "570",
         "addr:street": "West Mariposa Road",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-110.94195, 31.36665] }
     },
@@ -10784,7 +10783,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3340",
         "addr:street": "East Andy Devine Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-114.005325, 35.220585] }
     },
@@ -10823,7 +10822,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3498",
-        "addr:street": "East Route 66 TEST"
+        "addr:street": "East Route 66"
       },
       "geometry": { "type": "Point", "coordinates": [-111.59896, 35.21583] }
     },
@@ -10843,7 +10842,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "204",
         "addr:street": "West 5th Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-109.566134, 31.341219] }
     },
@@ -10863,7 +10862,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1329",
         "addr:street": "East State Route 89a",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-112.012108, 34.728205] }
     },
@@ -10901,7 +10900,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4868",
-        "addr:street": "East Carefree Highway TEST"
+        "addr:street": "East Carefree Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-111.97681, 33.799756] }
     },
@@ -10939,7 +10938,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1985",
-        "addr:street": "Highway 95 TEST"
+        "addr:street": "Highway 95"
       },
       "geometry": { "type": "Point", "coordinates": [-114.59872, 35.11567] }
     },
@@ -10998,7 +10997,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "15485",
-        "addr:street": "Highway 43 TEST"
+        "addr:street": "Highway 43"
       },
       "geometry": { "type": "Point", "coordinates": [-87.71832, 34.51593] }
     },
@@ -11036,7 +11035,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1415",
-        "addr:street": "Highway 280 Bypass TEST"
+        "addr:street": "Highway 280 Bypass"
       },
       "geometry": { "type": "Point", "coordinates": [-85.031896, 32.474867] }
     },
@@ -11113,7 +11112,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2268",
         "addr:street": "Eastern Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.22029, 32.35159] }
     },
@@ -11191,7 +11190,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "241",
         "addr:street": "Highway 31 Southwest",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-86.943345, 34.440754] }
     },
@@ -11425,7 +11424,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3329",
         "addr:street": "East Bell Road",
-        "addr:unit": "9 TEST"
+        "addr:unit": "9"
       },
       "geometry": { "type": "Point", "coordinates": [-112.010011, 33.639969] }
     },
@@ -11560,7 +11559,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1604",
         "addr:street": "Florence Boulevard",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.650943, 34.820499] }
     },
@@ -11637,7 +11636,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1150",
-        "addr:street": "Highway 98 TEST"
+        "addr:street": "Highway 98"
       },
       "geometry": { "type": "Point", "coordinates": [-87.897236, 30.595242] }
     },
@@ -11675,7 +11674,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "750",
-        "addr:street": "Highway 9 TEST"
+        "addr:street": "Highway 9"
       },
       "geometry": { "type": "Point", "coordinates": [-85.66599, 34.16105] }
     },
@@ -11694,7 +11693,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2083",
-        "addr:street": "Highway 431 TEST"
+        "addr:street": "Highway 431"
       },
       "geometry": { "type": "Point", "coordinates": [-86.159381, 34.215432] }
     },
@@ -11770,7 +11769,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "122",
-        "addr:street": "Covington Mall TEST"
+        "addr:street": "Covington Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-86.4957, 31.31601] }
     },
@@ -11789,7 +11788,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "903",
-        "addr:street": "Market Place TEST"
+        "addr:street": "Market Place"
       },
       "geometry": { "type": "Point", "coordinates": [-85.960448, 32.921111] }
     },
@@ -11809,7 +11808,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "9120",
         "addr:street": "Parkway East",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-86.701478, 33.586474] }
     },
@@ -11829,7 +11828,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1100",
         "addr:street": "East Riverview Expressway",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-89.8132, 44.37811] }
     },
@@ -11868,7 +11867,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "906",
         "addr:street": "Yelm Avenue East",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-122.5954, 46.93698] }
     },
@@ -11916,7 +11915,6 @@
       "id": "xoR5-gM1bgKlVxrv5Ja19I1oHPE=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "4660 South 4000 West TEST",
         "addr:city": "Westvalley City",
         "addr:state": "UT",
         "addr:postcode": "84120",
@@ -12081,7 +12079,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1105",
         "addr:street": "Garth Brooks Boulevard",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-97.757098, 35.492567] }
     },
@@ -12159,7 +12157,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3207",
         "addr:street": "Main Avenue",
-        "addr:unit": "C And B TEST"
+        "addr:unit": "C And B"
       },
       "geometry": { "type": "Point", "coordinates": [-96.831075, 46.876381] }
     },
@@ -12236,7 +12234,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1780",
-        "addr:street": "West Park Square TEST"
+        "addr:street": "West Park Square"
       },
       "geometry": { "type": "Point", "coordinates": [-83.958658, 39.690586] }
     },
@@ -12408,7 +12406,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "9364",
-        "addr:street": "State Route 14 TEST"
+        "addr:street": "State Route 14"
       },
       "geometry": { "type": "Point", "coordinates": [-81.349803, 41.240483] }
     },
@@ -12714,7 +12712,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2741",
         "addr:street": "Lyons Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-84.223158, 39.628147] }
     },
@@ -12733,7 +12731,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "990",
-        "addr:street": "North Court St TEST"
+        "addr:street": "North Court St"
       },
       "geometry": { "type": "Point", "coordinates": [-81.861388, 41.153265] }
     },
@@ -12800,7 +12798,7 @@
       "id": "nYZ6vCxGI2BBmK9B4Pp5B_tFt2E=",
       "properties": {
         "shop": "hardware",
-        "addr:city": "Gilead Road TEST",
+        "addr:city": "Gilead Road",
         "addr:state": "OH",
         "addr:postcode": "43302",
         "name": "Harbor Freight Tools",
@@ -12829,7 +12827,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "526",
-        "addr:street": "North Lexington Springmill TEST"
+        "addr:street": "North Lexington Springmill"
       },
       "geometry": { "type": "Point", "coordinates": [-82.590382, 40.766554] }
     },
@@ -12926,7 +12924,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10560",
         "addr:street": "Harrison Avenue",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-84.795053, 39.254099] }
     },
@@ -13079,7 +13077,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1764",
-        "addr:street": "Columbus Pike TEST"
+        "addr:street": "Columbus Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-83.073106, 40.265131] }
     },
@@ -13098,7 +13096,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "8922",
-        "addr:street": "North State Route 66 TEST"
+        "addr:street": "North State Route 66"
       },
       "geometry": { "type": "Point", "coordinates": [-84.361751, 41.31329] }
     },
@@ -13193,7 +13191,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5675",
-        "addr:street": "Wilmington Pike TEST"
+        "addr:street": "Wilmington Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-84.11115, 39.6585] }
     },
@@ -13427,7 +13425,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "905",
         "addr:street": "South Muskogee Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-94.97324, 35.90284] }
     },
@@ -13524,7 +13522,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2010",
         "addr:street": "South Wood Drive",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-95.963413, 35.60449] }
     },
@@ -13758,7 +13756,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4608",
         "addr:street": "West Broad Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-83.125132, 39.952512] }
     },
@@ -13835,7 +13833,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3830",
-        "addr:street": "South Broadway TEST"
+        "addr:street": "South Broadway"
       },
       "geometry": { "type": "Point", "coordinates": [-97.489894, 35.617734] }
     },
@@ -13873,7 +13871,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2267",
-        "addr:street": "North 81 Highway TEST"
+        "addr:street": "North 81 Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-97.96866, 34.51821] }
     },
@@ -13968,7 +13966,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3601",
-        "addr:street": "South Elm Place TEST"
+        "addr:street": "South Elm Place"
       },
       "geometry": { "type": "Point", "coordinates": [-95.797407, 36.016661] }
     },
@@ -14044,7 +14042,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "14385",
-        "addr:street": "Southwest Pacific Highway TEST"
+        "addr:street": "Southwest Pacific Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-122.79066, 45.415942] }
     },
@@ -14103,7 +14101,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1648",
         "addr:street": "East Idaho Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-116.94146, 44.02298] }
     },
@@ -14142,7 +14140,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "615",
-        "addr:street": "North Coast Highway TEST"
+        "addr:street": "North Coast Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-124.053771, 44.640526] }
     },
@@ -14181,7 +14179,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1341",
         "addr:street": "Center Drive",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-122.853085, 42.312574] }
     },
@@ -14220,7 +14218,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2780",
-        "addr:street": "South Santiam Highway TEST"
+        "addr:street": "South Santiam Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-122.90376, 44.52067] }
     },
@@ -14279,7 +14277,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1400",
         "addr:street": "Southwest Oak Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-123.005515, 45.519722] }
     },
@@ -14412,7 +14410,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "8027",
-        "addr:street": "Northwest Expressway TEST"
+        "addr:street": "Northwest Expressway"
       },
       "geometry": { "type": "Point", "coordinates": [-97.658492, 35.567648] }
     },
@@ -14604,7 +14602,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2062",
         "addr:street": "Lycoming Creek Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.044011, 41.261023] }
     },
@@ -14757,7 +14755,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "313",
-        "addr:street": "Benner Pike TEST"
+        "addr:street": "Benner Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-77.807898, 40.830566] }
     },
@@ -14815,7 +14813,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1112",
-        "addr:street": "Chester Pike TEST"
+        "addr:street": "Chester Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-75.273787, 39.908661] }
     },
@@ -14834,7 +14832,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2236",
-        "addr:street": "North Susquehanna Trail TEST"
+        "addr:street": "North Susquehanna Trail"
       },
       "geometry": { "type": "Point", "coordinates": [-76.831414, 40.837733] }
     },
@@ -15026,7 +15024,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7102",
-        "addr:street": "Fairlane Village Mall TEST"
+        "addr:street": "Fairlane Village Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-76.192311, 40.704787] }
     },
@@ -15065,7 +15063,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "639",
         "addr:street": "Clairton Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-79.945237, 40.33008] }
     },
@@ -15084,7 +15082,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2856",
-        "addr:street": "Dekalb Pike TEST"
+        "addr:street": "Dekalb Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-75.311744, 40.139854] }
     },
@@ -15104,7 +15102,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2567",
         "addr:street": "West State Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.396707, 41.010103] }
     },
@@ -15144,7 +15142,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "978",
         "addr:street": "Bethlehem Pike",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-75.23675, 40.2265] }
     },
@@ -15201,7 +15199,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1",
-        "addr:street": "Millbrook Plaza TEST"
+        "addr:street": "Millbrook Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-77.477511, 41.118053] }
     },
@@ -15221,7 +15219,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "102",
         "addr:street": "Milford Landing Drive",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-74.729654, 41.352679] }
     },
@@ -15241,7 +15239,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "675",
         "addr:street": "Silver Spring Road",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-77.006252, 40.24627] }
     },
@@ -15260,7 +15258,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "18910",
-        "addr:street": "Park Avenue Plaza TEST"
+        "addr:street": "Park Avenue Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-80.16037, 41.62212] }
     },
@@ -15338,7 +15336,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2090",
-        "addr:street": "Lincoln Highway East TEST"
+        "addr:street": "Lincoln Highway East"
       },
       "geometry": { "type": "Point", "coordinates": [-76.236833, 40.02938] }
     },
@@ -15377,7 +15375,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2334",
         "addr:street": "Oakland Avenue",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-79.183421, 40.607115] }
     },
@@ -15397,7 +15395,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "650",
         "addr:street": "Old Willow Avenue",
-        "addr:unit": "F TEST"
+        "addr:unit": "F"
       },
       "geometry": { "type": "Point", "coordinates": [-75.2285, 41.55128] }
     },
@@ -15494,7 +15492,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3508",
-        "addr:street": "Liberty Plaza TEST"
+        "addr:street": "Liberty Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-80.085676, 42.098118] }
     },
@@ -15668,7 +15666,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "22677",
-        "addr:street": "Route 68 TEST"
+        "addr:street": "Route 68"
       },
       "geometry": { "type": "Point", "coordinates": [-79.393285, 41.194449] }
     },
@@ -15784,7 +15782,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "245",
-        "addr:street": "Park Hills Plaza TEST"
+        "addr:street": "Park Hills Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-78.406081, 40.469841] }
     },
@@ -15803,7 +15801,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4628",
-        "addr:street": "West Broadway TEST"
+        "addr:street": "West Broadway"
       },
       "geometry": { "type": "Point", "coordinates": [-75.559613, 40.58672] }
     },
@@ -15862,7 +15860,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "719",
         "addr:street": "North Duncan Bypass",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-81.640233, 34.730877] }
     },
@@ -15882,7 +15880,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1756",
         "addr:street": "Highway 17 North",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-78.969163, 33.626239] }
     },
@@ -15910,7 +15908,7 @@
       "id": "sVuNeHkNXyq9Beoy3u0E_hd7kYw=",
       "properties": {
         "shop": "hardware",
-        "addr:city": "Saint TEST",
+        "addr:city": "Saint",
         "addr:state": "SC",
         "addr:postcode": "29483",
         "name": "Harbor Freight Tools",
@@ -15960,7 +15958,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "915",
         "addr:street": "South Street",
-        "addr:unit": "L TEST"
+        "addr:unit": "L"
       },
       "geometry": { "type": "Point", "coordinates": [-82.254991, 34.723083] }
     },
@@ -15979,7 +15977,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "991",
-        "addr:street": "Bypass 123 TEST"
+        "addr:street": "Bypass 123"
       },
       "geometry": { "type": "Point", "coordinates": [-82.97278, 34.69351] }
     },
@@ -16191,7 +16189,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3800",
-        "addr:street": "Shillington Plaza TEST"
+        "addr:street": "Shillington Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-75.983796, 40.30797] }
     },
@@ -16211,7 +16209,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1013",
         "addr:street": "Old 52",
-        "addr:unit": "G TEST"
+        "addr:unit": "G"
       },
       "geometry": { "type": "Point", "coordinates": [-80.00259, 33.185168] }
     },
@@ -16289,7 +16287,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1301",
         "addr:street": "West Wade Hampton Boulevard",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-82.258798, 34.941999] }
     },
@@ -16482,7 +16480,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3720",
         "addr:street": "Boiling Springs Road",
-        "addr:unit": "P TEST"
+        "addr:unit": "P"
       },
       "geometry": { "type": "Point", "coordinates": [-81.982382, 35.048036] }
     },
@@ -16559,7 +16557,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1300",
         "addr:street": "9th Avenue Southeast",
-        "addr:unit": "6 TEST"
+        "addr:unit": "6"
       },
       "geometry": { "type": "Point", "coordinates": [-97.097977, 44.888027] }
     },
@@ -16695,7 +16693,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "205",
-        "addr:street": "Forks Of The River TEST"
+        "addr:street": "Forks Of The River"
       },
       "geometry": { "type": "Point", "coordinates": [-83.569474, 35.86698] }
     },
@@ -16753,7 +16751,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2300",
-        "addr:street": "Lebanon Pike TEST"
+        "addr:street": "Lebanon Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-86.684644, 36.168854] }
     },
@@ -16791,7 +16789,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3305",
-        "addr:street": "West Andrew Johnson Highway TEST"
+        "addr:street": "West Andrew Johnson Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-83.339583, 36.199517] }
     },
@@ -16925,7 +16923,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "501",
-        "addr:street": "Foothills Plaza TEST"
+        "addr:street": "Foothills Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-83.996073, 35.74157] }
     },
@@ -16983,7 +16981,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1604",
         "addr:street": "North Locust Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.322948, 35.259927] }
     },
@@ -17003,7 +17001,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1409",
         "addr:street": "East Stone Drive",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-82.525, 36.54826] }
     },
@@ -17023,7 +17021,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "9050",
         "addr:street": "Highway 64",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-89.761306, 35.205429] }
     },
@@ -17063,7 +17061,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3302",
         "addr:street": "West Market Street",
-        "addr:unit": "5 TEST"
+        "addr:unit": "5"
       },
       "geometry": { "type": "Point", "coordinates": [-82.413003, 36.312957] }
     },
@@ -17083,7 +17081,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "581",
         "addr:street": "Old Hickory Boulevard",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-88.850154, 35.657827] }
     },
@@ -17142,7 +17140,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1465",
-        "addr:street": "East Andrew Johnson Highway TEST"
+        "addr:street": "East Andrew Johnson Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-82.797872, 36.177932] }
     },
@@ -17181,7 +17179,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "791",
         "addr:street": "West Elk Avenue",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-82.239462, 36.351289] }
     },
@@ -17316,7 +17314,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "119",
         "addr:street": "Nashville Highway",
-        "addr:unit": "8 TEST"
+        "addr:unit": "8"
       },
       "geometry": { "type": "Point", "coordinates": [-87.032088, 35.627177] }
     },
@@ -17392,7 +17390,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "902",
-        "addr:street": "Decatur Pike TEST"
+        "addr:street": "Decatur Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-84.610068, 35.449403] }
     },
@@ -17411,7 +17409,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "270",
-        "addr:street": "Hutton Place TEST"
+        "addr:street": "Hutton Place"
       },
       "geometry": { "type": "Point", "coordinates": [-87.035727, 36.24919] }
     },
@@ -17451,7 +17449,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3109",
         "addr:street": "Edgar Brown Drive",
-        "addr:unit": "R TEST"
+        "addr:unit": "R"
       },
       "geometry": { "type": "Point", "coordinates": [-93.764221, 30.092872] }
     },
@@ -17470,7 +17468,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1421",
-        "addr:street": "West Expressway 83 TEST"
+        "addr:street": "West Expressway 83"
       },
       "geometry": { "type": "Point", "coordinates": [-98.004698, 26.171787] }
     },
@@ -17549,7 +17547,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3902",
         "addr:street": "Bosque Boulevard",
-        "addr:unit": "7 TEST"
+        "addr:unit": "7"
       },
       "geometry": { "type": "Point", "coordinates": [-97.178013, 31.540668] }
     },
@@ -17607,7 +17605,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3403",
-        "addr:street": "Palmer Highway TEST"
+        "addr:street": "Palmer Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-94.947447, 29.394828] }
     },
@@ -17647,7 +17645,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1404",
         "addr:street": "West Moore Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-96.297201, 32.738166] }
     },
@@ -17744,7 +17742,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4325",
-        "addr:street": "Highway 6 TEST"
+        "addr:street": "Highway 6"
       },
       "geometry": { "type": "Point", "coordinates": [-95.587551, 29.584709] }
     },
@@ -17782,7 +17780,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "9260",
-        "addr:street": "Kingston Pike TEST"
+        "addr:street": "Kingston Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-84.087574, 35.910427] }
     },
@@ -17917,7 +17915,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "28345",
-        "addr:street": "Southwest Freeway TEST"
+        "addr:street": "Southwest Freeway"
       },
       "geometry": { "type": "Point", "coordinates": [-95.81248, 29.531026] }
     },
@@ -18014,7 +18012,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1708",
-        "addr:street": "North Central Expressway TEST"
+        "addr:street": "North Central Expressway"
       },
       "geometry": { "type": "Point", "coordinates": [-96.708987, 33.02418] }
     },
@@ -18071,7 +18069,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6800",
-        "addr:street": "Spencer Highway TEST",
+        "addr:street": "Spencer Highway",
         "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.134648, 29.663337] }
@@ -18091,7 +18089,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2860",
-        "addr:street": "Northeast Loop 286 TEST"
+        "addr:street": "Northeast Loop 286"
       },
       "geometry": { "type": "Point", "coordinates": [-95.52513, 33.67385] }
     },
@@ -18110,7 +18108,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3138",
-        "addr:street": "Andrews Highway TEST"
+        "addr:street": "Andrews Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-102.38197, 31.873282] }
     },
@@ -18168,7 +18166,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7523",
-        "addr:street": "Boulevard 26 TEST"
+        "addr:street": "Boulevard 26"
       },
       "geometry": { "type": "Point", "coordinates": [-97.221818, 32.829172] }
     },
@@ -18207,7 +18205,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "201",
         "addr:street": "West Interstate Highway",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-98.330586, 26.201014] }
     },
@@ -18286,7 +18284,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "730",
-        "addr:street": "North Central Expressway TEST"
+        "addr:street": "North Central Expressway"
       },
       "geometry": { "type": "Point", "coordinates": [-96.637633, 33.203647] }
     },
@@ -18343,7 +18341,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3300",
-        "addr:street": "North Highway 281 TEST"
+        "addr:street": "North Highway 281"
       },
       "geometry": { "type": "Point", "coordinates": [-98.2679, 30.6056] }
     },
@@ -18459,7 +18457,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "165",
         "addr:street": "Oyster Creek Drive",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.45321, 29.045699] }
     },
@@ -18555,7 +18553,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "17490",
-        "addr:street": "Highway 290 TEST"
+        "addr:street": "Highway 290"
       },
       "geometry": { "type": "Point", "coordinates": [-95.583193, 29.891525] }
     },
@@ -18633,7 +18631,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "111",
         "addr:street": "Interstate 45 South",
-        "addr:unit": "H TEST"
+        "addr:unit": "H"
       },
       "geometry": { "type": "Point", "coordinates": [-95.571257, 30.716429] }
     },
@@ -18768,7 +18766,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1008",
-        "addr:street": "East Highway 82 TEST"
+        "addr:street": "East Highway 82"
       },
       "geometry": { "type": "Point", "coordinates": [-97.136667, 33.640519] }
     },
@@ -18787,7 +18785,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2716",
-        "addr:street": "South Expressway 281 TEST"
+        "addr:street": "South Expressway 281"
       },
       "geometry": { "type": "Point", "coordinates": [-98.149879, 26.274265] }
     },
@@ -18941,7 +18939,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2408",
         "addr:street": "Texas Avenue South",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-96.312004, 30.607617] }
     },
@@ -18961,7 +18959,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1663",
         "addr:street": "West Henderson Street",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-97.42156, 32.334498] }
     },
@@ -19059,7 +19057,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1601",
         "addr:street": "East Price Road",
-        "addr:unit": "I TEST"
+        "addr:unit": "I"
       },
       "geometry": { "type": "Point", "coordinates": [-97.497421, 25.937988] }
     },
@@ -19098,7 +19096,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1000",
-        "addr:street": "North Loop 340 TEST"
+        "addr:street": "North Loop 340"
       },
       "geometry": { "type": "Point", "coordinates": [-97.103905, 31.605696] }
     },
@@ -19156,7 +19154,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "441",
-        "addr:street": "West SH 71 TEST"
+        "addr:street": "West SH 71"
       },
       "geometry": { "type": "Point", "coordinates": [-97.332229, 30.107943] }
     },
@@ -19274,7 +19272,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7046",
         "addr:street": "South Redwood Road",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-111.938803, 40.623633] }
     },
@@ -19312,7 +19310,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1149",
-        "addr:street": "West Highway 40 TEST"
+        "addr:street": "West Highway 40"
       },
       "geometry": { "type": "Point", "coordinates": [-109.547961, 40.450463] }
     },
@@ -19340,7 +19338,6 @@
       "id": "1v90WriAUs8WR9xofE6ebKBKYfE=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "417 East 1000 North TEST",
         "addr:city": "Spanish Fork",
         "addr:state": "UT",
         "addr:postcode": "84660",
@@ -19425,7 +19422,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "125",
-        "addr:street": "South Highway 55 TEST"
+        "addr:street": "South Highway 55"
       },
       "geometry": { "type": "Point", "coordinates": [-110.791082, 39.597671] }
     },
@@ -19560,7 +19557,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4001",
         "addr:street": "South Lamar Boulevard",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-97.79161, 30.235448] }
     },
@@ -19579,7 +19576,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1616",
-        "addr:street": "I-40 East TEST"
+        "addr:street": "I-40 East"
       },
       "geometry": { "type": "Point", "coordinates": [-101.820511, 35.191266] }
     },
@@ -19639,7 +19636,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4101",
         "addr:street": "IH 69 Access Road",
-        "addr:unit": "K TEST"
+        "addr:unit": "K"
       },
       "geometry": { "type": "Point", "coordinates": [-97.631455, 27.858575] }
     },
@@ -19792,7 +19789,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3333",
         "addr:street": "Telephone Road",
-        "addr:unit": "N TEST"
+        "addr:unit": "N"
       },
       "geometry": { "type": "Point", "coordinates": [-95.313652, 29.711938] }
     },
@@ -19812,7 +19809,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "8150",
         "addr:street": "Southwest Freeway",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-95.532474, 29.687625] }
     },
@@ -19832,7 +19829,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5235",
         "addr:street": "Aldine Mail Route Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-95.313457, 29.90362] }
     },
@@ -19871,7 +19868,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6806",
         "addr:street": "Highway 6 South",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-95.64485, 29.703309] }
     },
@@ -19890,7 +19887,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10826",
-        "addr:street": "North Freeway TEST"
+        "addr:street": "North Freeway"
       },
       "geometry": { "type": "Point", "coordinates": [-95.412107, 29.923073] }
     },
@@ -20084,7 +20081,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "17",
-        "addr:street": "East 1400 North TEST"
+        "addr:street": "East 1400 North"
       },
       "geometry": { "type": "Point", "coordinates": [-111.833895, 41.757583] }
     },
@@ -20150,7 +20147,6 @@
       "id": "dUitUCtYV4R9Mz3IEEsfPNqvlDM=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "42 US Route 7 S TEST",
         "addr:city": "Rutland",
         "addr:state": "VT",
         "addr:postcode": "05701",
@@ -20168,7 +20164,6 @@
       "id": "gBXJpwI7QJBdslSn2g3-O_YJcyg=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "Tbd TEST",
         "addr:city": "Bennington",
         "addr:state": "VT",
         "addr:postcode": "05201",
@@ -20255,7 +20250,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2715",
         "addr:street": "West Main Street",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-78.925836, 38.082184] }
     },
@@ -20380,7 +20375,7 @@
       "id": "aDW35SoOmdpag0jWPVhyWVKbQ7k=",
       "properties": {
         "shop": "hardware",
-        "addr:city": "Suite Tbd TEST",
+        "addr:city": "Suite Tbd",
         "addr:state": "VA",
         "addr:postcode": "24592",
         "name": "Harbor Freight Tools",
@@ -20449,7 +20444,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4142",
         "addr:street": "Melrose Avenue",
-        "addr:unit": "7 TEST"
+        "addr:unit": "7"
       },
       "geometry": { "type": "Point", "coordinates": [-80.00426, 37.29615] }
     },
@@ -20469,7 +20464,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "415",
         "addr:street": "North Military Highway",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-76.211815, 36.846636] }
     },
@@ -20489,7 +20484,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "11969",
         "addr:street": "Jefferson Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-76.488928, 37.094458] }
     },
@@ -20700,7 +20695,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5723",
-        "addr:street": "Columbia Pike TEST"
+        "addr:street": "Columbia Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-77.126229, 38.850149] }
     },
@@ -20720,7 +20715,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "126",
         "addr:street": "Sandy Court",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-79.428406, 36.591723] }
     },
@@ -20760,7 +20755,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "820",
         "addr:street": "Southpark Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.392648, 37.249803] }
     },
@@ -20799,7 +20794,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "701",
         "addr:street": "Battlefield Boulevard North",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-76.242111, 36.744972] }
     },
@@ -20837,7 +20832,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "270",
-        "addr:street": "Plaza Crossing TEST"
+        "addr:street": "Plaza Crossing"
       },
       "geometry": { "type": "Point", "coordinates": [-82.161842, 36.625206] }
     },
@@ -20974,7 +20969,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "15312",
         "addr:street": "East Sprague Avenue",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-117.199231, 47.657086] }
     },
@@ -21071,7 +21066,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "201",
         "addr:street": "37th Avenue Southeast",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-122.291558, 47.157953] }
     },
@@ -21091,7 +21086,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1450",
         "addr:street": "South Grand Avenue",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-117.179361, 46.716942] }
     },
@@ -21170,7 +21165,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6502",
         "addr:street": "Hull St Road",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-77.512838, 37.479616] }
     },
@@ -21284,7 +21279,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "11401",
-        "addr:street": "State Avenue TEST"
+        "addr:street": "State Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-122.173851, 48.098251] }
     },
@@ -21304,7 +21299,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "700",
         "addr:street": "Ocean Beach Highway",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-122.923869, 46.147379] }
     },
@@ -21381,7 +21376,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "31858",
-        "addr:street": "Pacific Highway South TEST"
+        "addr:street": "Pacific Highway South"
       },
       "geometry": { "type": "Point", "coordinates": [-122.313284, 47.316595] }
     },
@@ -21419,7 +21414,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "22111",
-        "addr:street": "Highway 99 TEST"
+        "addr:street": "Highway 99"
       },
       "geometry": { "type": "Point", "coordinates": [-122.33242, 47.79858] }
     },
@@ -21478,7 +21473,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "14506",
         "addr:street": "Northeast 20th Street",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-122.146273, 47.62802] }
     },
@@ -21786,7 +21781,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "18128",
-        "addr:street": "East Valley Highway TEST"
+        "addr:street": "East Valley Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-122.219287, 47.439721] }
     },
@@ -21865,7 +21860,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2601",
         "addr:street": "South Main Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-91.73389, 45.47378] }
     },
@@ -22000,7 +21995,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7450",
         "addr:street": "Green Bay Road",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-87.890472, 42.568262] }
     },
@@ -22134,7 +22129,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2615",
         "addr:street": "London Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-91.463068, 44.791359] }
     },
@@ -22192,7 +22187,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "234",
-        "addr:street": "Green Springs Highway TEST"
+        "addr:street": "Green Springs Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-86.824371, 33.466129] }
     },
@@ -22269,7 +22264,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2323",
         "addr:street": "Elaines Way",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.408208, 35.53613] }
     },
@@ -22326,7 +22321,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1491",
-        "addr:street": "Route 23 TEST"
+        "addr:street": "Route 23"
       },
       "geometry": { "type": "Point", "coordinates": [-74.270411, 40.934819] }
     },
@@ -22346,7 +22341,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "28",
         "addr:street": "Portsmouth Avenue",
-        "addr:unit": "8 TEST"
+        "addr:unit": "8"
       },
       "geometry": { "type": "Point", "coordinates": [-70.921847, 42.997554] }
     },
@@ -22424,7 +22419,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1306",
-        "addr:street": "Southern Hills Center TEST"
+        "addr:street": "Southern Hills Center"
       },
       "geometry": { "type": "Point", "coordinates": [-91.872657, 36.713331] }
     },
@@ -22444,7 +22439,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "344",
         "addr:street": "Highway 90",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-89.378992, 30.307735] }
     },
@@ -22521,7 +22516,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3286",
-        "addr:street": "Crain Highway TEST",
+        "addr:street": "Crain Highway",
         "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-76.915184, 38.619803] }
@@ -22561,7 +22556,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2423",
         "addr:street": "North Salisbury Boulevard",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-75.567292, 38.405023] }
     },
@@ -22637,7 +22632,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1236",
-        "addr:street": "National Highway TEST"
+        "addr:street": "National Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-78.836155, 39.636248] }
     },
@@ -22675,7 +22670,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1000",
-        "addr:street": "Pulaski Highway TEST"
+        "addr:street": "Pulaski Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-76.105868, 39.54532] }
     },
@@ -22714,7 +22709,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6320",
         "addr:street": "Ritchie Highway",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-76.615465, 39.204133] }
     },
@@ -22753,7 +22748,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1003",
         "addr:street": "West Patrick Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-77.440751, 39.418143] }
     },
@@ -22772,7 +22767,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "133",
-        "addr:street": "Big Elk Mall TEST"
+        "addr:street": "Big Elk Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-75.823921, 39.600443] }
     },
@@ -22791,7 +22786,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1901",
-        "addr:street": "Pulaski Highway TEST",
+        "addr:street": "Pulaski Highway",
         "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-76.315525, 39.435065] }
@@ -22850,7 +22845,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6212",
-        "addr:street": "Baltimore National Pike TEST"
+        "addr:street": "Baltimore National Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-76.751681, 39.283899] }
     },
@@ -22889,7 +22884,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "10716",
-        "addr:street": "Ocean Gateway TEST"
+        "addr:street": "Ocean Gateway"
       },
       "geometry": { "type": "Point", "coordinates": [-75.187157, 38.342312] }
     },
@@ -22909,7 +22904,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1150",
         "addr:street": "Union Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-72.605828, 42.096079] }
     },
@@ -22948,7 +22943,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "287",
         "addr:street": "Washington Street",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-71.358798, 41.920065] }
     },
@@ -22986,7 +22981,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "682",
-        "addr:street": "Broadway TEST"
+        "addr:street": "Broadway"
       },
       "geometry": { "type": "Point", "coordinates": [-71.022781, 42.474851] }
     },
@@ -23005,7 +23000,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2",
-        "addr:street": "New State Highway TEST"
+        "addr:street": "New State Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-71.065071, 41.906036] }
     },
@@ -23063,7 +23058,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1210",
-        "addr:street": "Boston Providence Turnpike TEST"
+        "addr:street": "Boston Providence Turnpike"
       },
       "geometry": { "type": "Point", "coordinates": [-71.194989, 42.171401] }
     },
@@ -23122,7 +23117,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "230",
         "addr:street": "East Main Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-71.536484, 42.351851] }
     },
@@ -23198,7 +23193,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "494",
-        "addr:street": "John Fitch Highway TEST"
+        "addr:street": "John Fitch Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-71.77434, 42.583298] }
     },
@@ -23255,7 +23250,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3066",
-        "addr:street": "Cranberry Highway TEST"
+        "addr:street": "Cranberry Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-70.651253, 41.756964] }
     },
@@ -23264,7 +23259,7 @@
       "id": "A2MgaZ8Ro7N7G9kuP5iXwkjXTkU=",
       "properties": {
         "shop": "hardware",
-        "addr:city": "Spc B TEST",
+        "addr:city": "Spc B",
         "addr:state": "MA",
         "addr:postcode": "01923",
         "name": "Harbor Freight Tools",
@@ -23445,7 +23440,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "205",
-        "addr:street": "North Highway 131 TEST"
+        "addr:street": "North Highway 131"
       },
       "geometry": { "type": "Point", "coordinates": [-85.649258, 41.944088] }
     },
@@ -23502,7 +23497,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4370",
-        "addr:street": "I-75 Business Spur TEST"
+        "addr:street": "I-75 Business Spur"
       },
       "geometry": { "type": "Point", "coordinates": [-84.377399, 46.465345] }
     },
@@ -23751,7 +23746,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "32706",
-        "addr:street": "John R Road TEST"
+        "addr:street": "John R Road"
       },
       "geometry": { "type": "Point", "coordinates": [-83.106873, 42.531861] }
     },
@@ -23770,7 +23765,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5560",
-        "addr:street": "West Highway 10 TEST"
+        "addr:street": "West Highway 10"
       },
       "geometry": { "type": "Point", "coordinates": [-86.41825, 43.957476] }
     },
@@ -23809,7 +23804,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "417",
-        "addr:street": "West Genesee TEST"
+        "addr:street": "West Genesee"
       },
       "geometry": { "type": "Point", "coordinates": [-83.310668, 43.050509] }
     },
@@ -23905,7 +23900,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3451",
         "addr:street": "West Houghton Lake Drive",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-84.707808, 44.298477] }
     },
@@ -23925,7 +23920,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "47420",
         "addr:street": "M26",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-88.592608, 47.103462] }
     },
@@ -24021,7 +24016,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "301",
         "addr:street": "North Lincoln Road",
-        "addr:unit": "8 TEST"
+        "addr:unit": "8"
       },
       "geometry": { "type": "Point", "coordinates": [-87.081527, 45.749002] }
     },
@@ -24060,7 +24055,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "373",
         "addr:street": "North Willowbrook Road",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-84.968309, 41.937738] }
     },
@@ -24079,7 +24074,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "34900",
-        "addr:street": "Groesbeck Highway TEST"
+        "addr:street": "Groesbeck Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-82.923315, 42.553292] }
     },
@@ -24288,7 +24283,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "9",
-        "addr:street": "Signal Hills Center TEST"
+        "addr:street": "Signal Hills Center"
       },
       "geometry": { "type": "Point", "coordinates": [-93.08305, 44.909275] }
     },
@@ -24560,7 +24555,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "205",
         "addr:street": "Balsam Street North",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-93.199788, 45.574553] }
     },
@@ -24599,7 +24594,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "6250",
         "addr:street": "South Cedar Street",
-        "addr:unit": "9 TEST"
+        "addr:unit": "9"
       },
       "geometry": { "type": "Point", "coordinates": [-84.54655, 42.66663] }
     },
@@ -24619,7 +24614,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4832",
         "addr:street": "West Saginaw Highway",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-84.617306, 42.741029] }
     },
@@ -24736,7 +24731,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2610",
         "addr:street": "Bridge Avenue",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-93.357, 43.68348] }
     },
@@ -24756,7 +24751,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1601",
         "addr:street": "North Frontage Road",
-        "addr:unit": "F TEST"
+        "addr:unit": "F"
       },
       "geometry": { "type": "Point", "coordinates": [-90.87432, 32.321787] }
     },
@@ -24776,7 +24771,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2605",
         "addr:street": "West Main Street",
-        "addr:unit": "C TEST"
+        "addr:unit": "C"
       },
       "geometry": { "type": "Point", "coordinates": [-88.74832, 34.254771] }
     },
@@ -24853,7 +24848,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "781",
         "addr:street": "Memorial Boulevard",
-        "addr:unit": "7 TEST"
+        "addr:unit": "7"
       },
       "geometry": { "type": "Point", "coordinates": [-89.6732, 30.5189] }
     },
@@ -24911,7 +24906,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "324",
-        "addr:street": "Park Plaza Drive TEST"
+        "addr:street": "Park Plaza Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-89.031228, 34.492629] }
     },
@@ -24931,7 +24926,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "436",
         "addr:street": "Highway 61 North",
-        "addr:unit": "7 TEST"
+        "addr:unit": "7"
       },
       "geometry": { "type": "Point", "coordinates": [-91.353922, 31.562354] }
     },
@@ -25008,7 +25003,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1930",
-        "addr:street": "Highway 15 North TEST"
+        "addr:street": "Highway 15 North"
       },
       "geometry": { "type": "Point", "coordinates": [-89.150474, 31.712887] }
     },
@@ -25085,7 +25080,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2029",
-        "addr:street": "Highway 90 TEST"
+        "addr:street": "Highway 90"
       },
       "geometry": { "type": "Point", "coordinates": [-88.643154, 30.389709] }
     },
@@ -25104,7 +25099,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "921",
-        "addr:street": "Ms-35 TEST"
+        "addr:street": "Ms-35"
       },
       "geometry": { "type": "Point", "coordinates": [-89.48332, 32.353493] }
     },
@@ -25161,7 +25156,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "419",
-        "addr:street": "South Street TEST"
+        "addr:street": "South Street"
       },
       "geometry": { "type": "Point", "coordinates": [-90.717908, 33.743381] }
     },
@@ -25296,7 +25291,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2317",
-        "addr:street": "North Belt Highway TEST"
+        "addr:street": "North Belt Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-94.805057, 39.787831] }
     },
@@ -25372,7 +25367,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3629",
-        "addr:street": "Osage Beach Parkway TEST"
+        "addr:street": "Osage Beach Parkway"
       },
       "geometry": { "type": "Point", "coordinates": [-92.611511, 38.166868] }
     },
@@ -25411,7 +25406,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1720",
         "addr:street": "Crete Street",
-        "addr:unit": "D TEST"
+        "addr:unit": "D"
       },
       "geometry": { "type": "Point", "coordinates": [-92.4284, 39.4409] }
     },
@@ -25601,7 +25596,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "155",
-        "addr:street": "Twin City Mall TEST"
+        "addr:street": "Twin City Mall"
       },
       "geometry": { "type": "Point", "coordinates": [-90.388293, 38.215967] }
     },
@@ -25660,7 +25655,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1495",
-        "addr:street": "State Highway 248 TEST"
+        "addr:street": "State Highway 248"
       },
       "geometry": { "type": "Point", "coordinates": [-93.244321, 36.663533] }
     },
@@ -25717,7 +25712,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2298",
-        "addr:street": "Highway 93 North TEST"
+        "addr:street": "Highway 93 North"
       },
       "geometry": { "type": "Point", "coordinates": [-114.332097, 48.232637] }
     },
@@ -25795,7 +25790,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1400",
         "addr:street": "Grand Avenue",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-108.551763, 45.783509] }
     },
@@ -25852,7 +25847,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1940",
-        "addr:street": "Cornhusker Highway TEST"
+        "addr:street": "Cornhusker Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-96.692189, 40.843277] }
     },
@@ -26122,7 +26117,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2636",
-        "addr:street": "North Kansas Expressway TEST"
+        "addr:street": "North Kansas Expressway"
       },
       "geometry": { "type": "Point", "coordinates": [-93.309728, 37.245353] }
     },
@@ -26278,7 +26273,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "356",
         "addr:street": "South Broadway",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-71.20645, 42.75211] }
     },
@@ -26357,7 +26352,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "354",
         "addr:street": "Winchester Street",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-72.287877, 42.923763] }
     },
@@ -26435,7 +26430,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "123",
         "addr:street": "State Route 101a",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-71.570895, 42.806767] }
     },
@@ -26501,7 +26496,6 @@
       "id": "p5RB--CfMEW9W-xXimK0Nq-nNlg=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "3174 Route 9 S TEST",
         "addr:city": "Rio Grande",
         "addr:state": "NJ",
         "addr:postcode": "08242",
@@ -26549,7 +26543,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5247",
-        "addr:street": "Marlton Pike TEST"
+        "addr:street": "Marlton Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-75.066785, 39.93337] }
     },
@@ -26568,7 +26562,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "745",
-        "addr:street": "Route 46 TEST"
+        "addr:street": "Route 46"
       },
       "geometry": { "type": "Point", "coordinates": [-74.373356, 40.86147] }
     },
@@ -26588,7 +26582,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3550",
         "addr:street": "East Sunset Road",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-115.097189, 36.073213] }
     },
@@ -26704,7 +26698,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "17",
         "addr:street": "Hampton House Road",
-        "addr:unit": "7 TEST"
+        "addr:unit": "7"
       },
       "geometry": { "type": "Point", "coordinates": [-74.743455, 41.071091] }
     },
@@ -26792,7 +26786,6 @@
       "id": "vrDlkooimnAZt9NA4rrF6uU4uV4=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "4004 Route 9 S TEST",
         "addr:city": "Howell",
         "addr:state": "NJ",
         "addr:postcode": "07731",
@@ -26820,7 +26813,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3035",
-        "addr:street": "State Route 35 TEST"
+        "addr:street": "State Route 35"
       },
       "geometry": { "type": "Point", "coordinates": [-74.179159, 40.420088] }
     },
@@ -26840,7 +26833,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "65-69",
         "addr:street": "State Route 17 South",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-74.073772, 40.85192] }
     },
@@ -26859,7 +26852,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "30",
-        "addr:street": "North White Horse Pike TEST"
+        "addr:street": "North White Horse Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-74.791818, 39.648606] }
     },
@@ -26897,7 +26890,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "270",
-        "addr:street": "Highway 22 TEST"
+        "addr:street": "Highway 22"
       },
       "geometry": { "type": "Point", "coordinates": [-74.492585, 40.594495] }
     },
@@ -26955,7 +26948,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "94",
-        "addr:street": "Route 36 TEST"
+        "addr:street": "Route 36"
       },
       "geometry": { "type": "Point", "coordinates": [-74.04402, 40.29054] }
     },
@@ -26975,7 +26968,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "275",
         "addr:street": "State Route 18",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-74.403604, 40.461701] }
     },
@@ -27033,7 +27026,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2501",
         "addr:street": "Route 130 South",
-        "addr:unit": "3 TEST"
+        "addr:unit": "3"
       },
       "geometry": { "type": "Point", "coordinates": [-74.979938, 40.008112] }
     },
@@ -27053,7 +27046,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2770",
         "addr:street": "Hooper Avenue",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-74.136576, 40.055769] }
     },
@@ -27072,7 +27065,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5200",
-        "addr:street": "Black Horse Pike TEST"
+        "addr:street": "Black Horse Pike"
       },
       "geometry": { "type": "Point", "coordinates": [-75.046365, 39.753847] }
     },
@@ -27168,7 +27161,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2500",
         "addr:street": "7th Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-105.223524, 35.619203] }
     },
@@ -27225,7 +27218,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "901",
-        "addr:street": "Highway 491 TEST"
+        "addr:street": "Highway 491"
       },
       "geometry": { "type": "Point", "coordinates": [-108.760293, 35.534684] }
     },
@@ -27282,7 +27275,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5",
-        "addr:street": "Linnie Court TEST"
+        "addr:street": "Linnie Court"
       },
       "geometry": { "type": "Point", "coordinates": [-106.202399, 35.066904] }
     },
@@ -27302,7 +27295,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1205",
         "addr:street": "East Pine Street",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-107.744642, 32.270333] }
     },
@@ -27533,7 +27526,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "855",
         "addr:street": "Montauk Highway",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-72.86647, 40.80286] }
     },
@@ -27553,7 +27546,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2330",
         "addr:street": "Watt Street",
-        "addr:unit": "5 TEST"
+        "addr:unit": "5"
       },
       "geometry": { "type": "Point", "coordinates": [-73.918189, 42.784196] }
     },
@@ -27572,7 +27565,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3064",
-        "addr:street": "Route 50 TEST"
+        "addr:street": "Route 50"
       },
       "geometry": { "type": "Point", "coordinates": [-73.741763, 43.106434] }
     },
@@ -27611,7 +27604,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1087",
         "addr:street": "Old Country Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-72.674582, 40.931146] }
     },
@@ -27630,7 +27623,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "871",
-        "addr:street": "Route 9 TEST"
+        "addr:street": "Route 9"
       },
       "geometry": { "type": "Point", "coordinates": [-73.679111, 43.333735] }
     },
@@ -27649,7 +27642,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2530",
-        "addr:street": "South Road TEST"
+        "addr:street": "South Road"
       },
       "geometry": { "type": "Point", "coordinates": [-73.93008, 41.661573] }
     },
@@ -27669,7 +27662,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "200",
         "addr:street": "Market Street",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-74.985244, 44.686312] }
     },
@@ -27746,7 +27739,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "564",
-        "addr:street": "Route 3 TEST"
+        "addr:street": "Route 3"
       },
       "geometry": { "type": "Point", "coordinates": [-73.503382, 44.696742] }
     },
@@ -27785,7 +27778,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "301",
-        "addr:street": "State Route 104 TEST"
+        "addr:street": "State Route 104"
       },
       "geometry": { "type": "Point", "coordinates": [-76.48041, 43.462349] }
     },
@@ -27824,7 +27817,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1032",
-        "addr:street": "Oneida Plaza Drive TEST"
+        "addr:street": "Oneida Plaza Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-75.688938, 43.078188] }
     },
@@ -27843,7 +27836,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3139",
-        "addr:street": "Route 417 TEST"
+        "addr:street": "Route 417"
       },
       "geometry": { "type": "Point", "coordinates": [-78.471974, 42.07602] }
     },
@@ -27882,7 +27875,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "316",
-        "addr:street": "Route 59 TEST"
+        "addr:street": "Route 59"
       },
       "geometry": { "type": "Point", "coordinates": [-73.948502, 41.093747] }
     },
@@ -27902,7 +27895,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "20",
         "addr:street": "Deer Shore Square",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-73.32332, 40.749] }
     },
@@ -27980,7 +27973,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5770",
         "addr:street": "South Transit Road",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-78.698815, 43.145333] }
     },
@@ -28229,7 +28222,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3918",
-        "addr:street": "State Route 281 TEST"
+        "addr:street": "State Route 281"
       },
       "geometry": { "type": "Point", "coordinates": [-76.203044, 42.595165] }
     },
@@ -28248,7 +28241,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "116",
-        "addr:street": "Veterans Memorial Highway TEST"
+        "addr:street": "Veterans Memorial Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-73.280189, 40.83914] }
     },
@@ -28267,7 +28260,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1617",
-        "addr:street": "Route 9 TEST"
+        "addr:street": "Route 9"
       },
       "geometry": { "type": "Point", "coordinates": [-73.757982, 42.854486] }
     },
@@ -28402,7 +28395,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "3757",
         "addr:street": "Milton Avenue",
-        "addr:unit": "1 TEST"
+        "addr:unit": "1"
       },
       "geometry": { "type": "Point", "coordinates": [-76.263808, 43.051749] }
     },
@@ -28422,7 +28415,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "2638",
         "addr:street": "Delaware Avenue",
-        "addr:unit": "8 TEST"
+        "addr:unit": "8"
       },
       "geometry": { "type": "Point", "coordinates": [-78.870663, 42.955587] }
     },
@@ -28499,7 +28492,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "5185",
-        "addr:street": "Sunrise Highway TEST"
+        "addr:street": "Sunrise Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-73.0921, 40.764795] }
     },
@@ -28617,7 +28610,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1770",
         "addr:street": "Central Avenue",
-        "addr:unit": "4 TEST"
+        "addr:unit": "4"
       },
       "geometry": { "type": "Point", "coordinates": [-73.846476, 42.728526] }
     },
@@ -28809,7 +28802,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "4600",
         "addr:street": "Main Street",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-78.378979, 33.979786] }
     },
@@ -29003,7 +28996,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1122",
-        "addr:street": "Julian R Allsbrook Highway TEST"
+        "addr:street": "Julian R Allsbrook Highway"
       },
       "geometry": { "type": "Point", "coordinates": [-77.641588, 36.436796] }
     },
@@ -29061,7 +29054,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "601",
         "addr:street": "North Polk Street",
-        "addr:unit": "J TEST"
+        "addr:unit": "J"
       },
       "geometry": { "type": "Point", "coordinates": [-80.886319, 35.092046] }
     },
@@ -29120,7 +29113,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1235",
         "addr:street": "Burkemont Avenue",
-        "addr:unit": "6 TEST"
+        "addr:unit": "6"
       },
       "geometry": { "type": "Point", "coordinates": [-81.69401, 35.714611] }
     },
@@ -29178,7 +29171,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "364",
         "addr:street": "70 West",
-        "addr:unit": "2 TEST"
+        "addr:unit": "2"
       },
       "geometry": { "type": "Point", "coordinates": [-82.037815, 35.705756] }
     },
@@ -29236,7 +29229,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "58",
         "addr:street": "West Highway 64",
-        "addr:unit": "A TEST"
+        "addr:unit": "A"
       },
       "geometry": { "type": "Point", "coordinates": [-80.27351, 35.833088] }
     },
@@ -29351,7 +29344,7 @@
         "brand": "Harbor Freight Tools",
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "1034",
-        "addr:street": "Cloverleaf Plaza TEST"
+        "addr:street": "Cloverleaf Plaza"
       },
       "geometry": { "type": "Point", "coordinates": [-80.607222, 35.451392] }
     },
@@ -29418,7 +29411,6 @@
       "id": "fS6W-cefFEw3aE2x9IewwECMdHw=",
       "properties": {
         "shop": "hardware",
-        "addr:street_address": "120 Henderson Crossing Plaza TEST",
         "addr:city": "Hendersonville",
         "addr:state": "NC",
         "addr:postcode": "28792",
@@ -29831,7 +29823,7 @@
         "brand:wikidata": "Q5654601",
         "addr:housenumber": "7316",
         "addr:street": "Market Street",
-        "addr:unit": "B TEST"
+        "addr:unit": "B"
       },
       "geometry": { "type": "Point", "coordinates": [-77.815213, 34.273853] }
     },

@@ -203,7 +203,6 @@
       "properties": {
         "ref": "1645",
         "shop": "wholesale",
-        "addr:street_address": "OWNSBY PKWY",
         "addr:city": "Celina",
         "addr:state": "TX",
         "addr:postcode": "75009",

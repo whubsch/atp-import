@@ -8362,7 +8362,6 @@
       "id": "pxArx3S_HsaXkk8S-7bRTpSlAHw=",
       "properties": {
         "shop": "houseware",
-        "addr:street_address": "764 W 240 North Meadow Lane",
         "addr:city": "American Fork",
         "addr:state": "UT",
         "addr:postcode": "84003",
@@ -12315,7 +12314,6 @@
       "id": "tbs-LNL9CPeyaJ11zm5aWIcfG1A=",
       "properties": {
         "shop": "houseware",
-        "addr:street_address": "5222 & 5218 N Service Rd ",
         "addr:city": "Saint Peters",
         "addr:state": "MO",
         "addr:postcode": "63376",
@@ -15340,7 +15338,6 @@
       "id": "yFqcJ8_xVrTcz939D98qPFd5XoA=",
       "properties": {
         "shop": "houseware",
-        "addr:street_address": "126 & 128 Medway Rd ",
         "addr:city": "Milford",
         "addr:state": "MA",
         "addr:postcode": "01757",

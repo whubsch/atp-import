@@ -779,7 +779,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "4100",
-        "addr:street": "Dodge ST"
+        "addr:street": "Dodge Street"
       },
       "geometry": { "type": "Point", "coordinates": [-90.732603, 42.488132] }
     },
@@ -946,7 +946,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "3201",
-        "addr:street": "Industrial ST"
+        "addr:street": "Industrial Street"
       },
       "geometry": { "type": "Point", "coordinates": [-92.455411, 31.274447] }
     },
@@ -2156,7 +2156,6 @@
         "ref": "0553",
         "start_date": "1998-06-22",
         "shop": "doityourself",
-        "addr:street_address": "Pa Rt 61 And Ann Street",
         "addr:city": "Pottsville",
         "addr:state": "PA",
         "addr:postcode": "17901",
@@ -3743,7 +3742,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "3354",
-        "addr:street": "North Gloster ST"
+        "addr:street": "North Gloster Street"
       },
       "geometry": { "type": "Point", "coordinates": [-88.705487, 34.302552] }
     },
@@ -5780,7 +5779,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "1369",
-        "addr:street": "Division ST"
+        "addr:street": "Division Street"
       },
       "geometry": { "type": "Point", "coordinates": [-84.031359, 41.876098] }
     },
@@ -9942,7 +9941,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "867",
-        "addr:street": "North Bridge ST"
+        "addr:street": "North Bridge Street"
       },
       "geometry": { "type": "Point", "coordinates": [-82.974602, 39.352313] }
     },
@@ -10488,7 +10487,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "300",
-        "addr:street": "East 23rd ST"
+        "addr:street": "East 23rd Street"
       },
       "geometry": { "type": "Point", "coordinates": [-85.655073, 30.188129] }
     },
@@ -12252,7 +12251,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "1160",
-        "addr:street": "Seaboard ST"
+        "addr:street": "Seaboard Street"
       },
       "geometry": { "type": "Point", "coordinates": [-78.892596, 33.714273] }
     },
@@ -12609,7 +12608,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "11114",
-        "addr:street": "Abercorn ST"
+        "addr:street": "Abercorn Street"
       },
       "geometry": { "type": "Point", "coordinates": [-81.141308, 31.981702] }
     },
@@ -15803,7 +15802,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "1207",
-        "addr:street": "North Main ST"
+        "addr:street": "North Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-80.158544, 33.033182] }
     },
@@ -16623,7 +16622,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "12635",
-        "addr:street": "Felch ST",
+        "addr:street": "Felch Street",
         "addr:unit": "10"
       },
       "geometry": { "type": "Point", "coordinates": [-86.093883, 42.820343] }
@@ -23202,7 +23201,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "8602",
-        "addr:street": "North Navarro ST"
+        "addr:street": "North Navarro Street"
       },
       "geometry": { "type": "Point", "coordinates": [-96.996364, 28.873799] }
     },
@@ -23213,7 +23212,6 @@
         "ref": "1128",
         "start_date": "2001-09-12",
         "shop": "doityourself",
-        "addr:street_address": "1000 Gulfgate Center Mall",
         "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77087",
@@ -23852,7 +23850,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "160",
-        "addr:street": "Washington ST",
+        "addr:street": "Washington Street",
         "addr:unit": "800"
       },
       "geometry": { "type": "Point", "coordinates": [-70.994053, 43.292793] }
@@ -24095,7 +24093,6 @@
         "ref": "2431",
         "start_date": "2011-01-07",
         "shop": "doityourself",
-        "addr:street_address": "2000 Bergen Town Center",
         "addr:city": "Paramus",
         "addr:state": "NJ",
         "addr:postcode": "07652",
@@ -24671,7 +24668,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "8801",
-        "addr:street": "East 25th ST"
+        "addr:street": "East 25th Street"
       },
       "geometry": { "type": "Point", "coordinates": [-86.013077, 39.802777] }
     },
@@ -25910,7 +25907,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "1831",
-        "addr:street": "North Clinton ST"
+        "addr:street": "North Clinton Street"
       },
       "geometry": { "type": "Point", "coordinates": [-84.357409, 41.306568] }
     },
@@ -27308,7 +27305,6 @@
         "ref": "0671",
         "start_date": "1998-12-28",
         "shop": "doityourself",
-        "addr:street_address": "Strabane Sq 355 Washington Rd",
         "addr:city": "Washington",
         "addr:state": "PA",
         "addr:postcode": "15301",
@@ -27821,7 +27817,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "360",
-        "addr:street": "East Main ST"
+        "addr:street": "East Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-86.59423, 36.315278] }
     },
@@ -33896,7 +33892,7 @@
         "brand": "Lowe's",
         "brand:wikidata": "Q1373493",
         "addr:housenumber": "1495",
-        "addr:street": "Main ST"
+        "addr:street": "Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-84.598798, 39.424329] }
     },
@@ -34054,7 +34050,6 @@
         "ref": "0172",
         "start_date": "1994-08-18",
         "shop": "doityourself",
-        "addr:street_address": "E. 5204 SPRAGUE AVENUE",
         "addr:city": "Spokane Valley",
         "addr:state": "WA",
         "addr:postcode": "99212",

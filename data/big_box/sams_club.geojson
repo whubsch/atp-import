@@ -5771,7 +5771,7 @@
         "brand": "Sam's Club",
         "brand:wikidata": "Q1972120",
         "addr:housenumber": "4500",
-        "addr:street": "East Main ST"
+        "addr:street": "East Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-108.153215, 36.766275] }
     },
