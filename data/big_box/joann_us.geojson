@@ -365,8 +365,8 @@
         "opening_hours": "10:00-18:00",
         "brand": "JOANN Fabrics and Crafts",
         "brand:wikidata": "Q6203968",
-        "addr:housenumber": "N78",
-        "addr:street": "W14531 Appleton Avenue"
+        "addr:housenumber": "N78W14531",
+        "addr:street": "Appleton Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-88.0927348, 43.1592553] }
     },

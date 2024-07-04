@@ -50923,7 +50923,7 @@
         "opening_hours": "06:00-23:00",
         "brand": "Walmart",
         "brand:wikidata": "Q483551",
-        "addr:housenumber": "W190n9855",
+        "addr:housenumber": "W190N9855",
         "addr:street": "Appleton Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-88.146429, 43.196213] }
@@ -80940,7 +80940,7 @@
         "opening_hours": "06:00-23:00",
         "brand": "Walmart",
         "brand:wikidata": "Q483551",
-        "addr:housenumber": "W159s6530",
+        "addr:housenumber": "W159S6530",
         "addr:street": "Moorland Road"
       },
       "geometry": { "type": "Point", "coordinates": [-88.110317, 42.926573] }

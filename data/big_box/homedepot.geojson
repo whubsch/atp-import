@@ -24211,8 +24211,8 @@
         "opening_hours": "Mo-Sa 06:00-21:00; Su 08:00-20:00",
         "brand": "The Home Depot",
         "brand:wikidata": "Q864407",
-        "addr:housenumber": "N94",
-        "addr:street": "West 18375 Thunder Ridge",
+        "addr:housenumber": "N94W18375 ",
+        "addr:street": "Thunder Ridge",
         "ref": "4940"
       },
       "geometry": { "type": "Point", "coordinates": [-88.137617, 43.187291] }

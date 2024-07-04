@@ -30692,8 +30692,8 @@
         "opening_hours": "Mo-Sa 09:30-21:30; Su 10:00-20:00",
         "brand": "TJ Maxx",
         "brand:wikidata": "Q10860683",
-        "addr:housenumber": "N91",
-        "addr:street": "W16123 Falls Parkway"
+        "addr:housenumber": "N91W16123",
+        "addr:street": "Falls Parkway"
       },
       "geometry": {
         "type": "Point",
@@ -30714,8 +30714,8 @@
         "opening_hours": "Mo-Sa 09:30-21:30; Su 10:00-20:00",
         "brand": "HomeGoods",
         "brand:wikidata": "Q5887941",
-        "addr:housenumber": "N91",
-        "addr:street": "W16067 Falls Parkway"
+        "addr:housenumber": "N91W16067",
+        "addr:street": "Falls Parkway"
       },
       "geometry": {
         "type": "Point",

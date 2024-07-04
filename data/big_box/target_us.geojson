@@ -30893,8 +30893,8 @@
         "opening_hours": "08:00-22:00",
         "brand": "Target",
         "brand:wikidata": "Q1046951",
-        "addr:housenumber": "N95",
-        "addr:street": "West 17707 Shady Lane"
+        "addr:housenumber": "N95W17707 ",
+        "addr:street": "Shady Lane"
       },
       "geometry": { "type": "Point", "coordinates": [-88.129009, 43.189642] }
     },

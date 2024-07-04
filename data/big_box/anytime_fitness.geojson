@@ -9424,7 +9424,7 @@
         "website": "https://www.anytimefitness.com/gyms/575/germantown-wi-53022/",
         "brand": "Anytime Fitness",
         "brand:wikidata": "Q4778364",
-        "addr:housenumber": "W175-N11162",
+        "addr:housenumber": "W175N11162",
         "addr:street": "Stonewood Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-88.12595, 43.22034] }
@@ -23291,8 +23291,8 @@
         "website": "https://www.anytimefitness.com/gyms/3422/menomonee-falls-wi-53051/",
         "brand": "Anytime Fitness",
         "brand:wikidata": "Q4778364",
-        "addr:housenumber": "N56",
-        "addr:street": "W14108 Silver Spring Drive"
+        "addr:housenumber": "N56W14108",
+        "addr:street": "Silver Spring Drive"
       },
       "geometry": { "type": "Point", "coordinates": [-88.08649, 43.12037] }
     },
@@ -25552,8 +25552,8 @@
         "website": "https://www.anytimefitness.com/gyms/2714/sussex-wi-53089/",
         "brand": "Anytime Fitness",
         "brand:wikidata": "Q4778364",
-        "addr:housenumber": "N64",
-        "addr:street": "W24350 Main Street"
+        "addr:housenumber": "N64W24350",
+        "addr:street": "Main Street"
       },
       "geometry": { "type": "Point", "coordinates": [-88.23096, 43.13446] }
     },
@@ -26764,8 +26764,8 @@
         "website": "https://www.anytimefitness.com/gyms/567/cedarburg-wi-53012/",
         "brand": "Anytime Fitness",
         "brand:wikidata": "Q4778364",
-        "addr:housenumber": "W63",
-        "addr:street": "N143 Washington Avenue"
+        "addr:housenumber": "W63N143",
+        "addr:street": "Washington Avenue"
       },
       "geometry": { "type": "Point", "coordinates": [-87.989313, 43.281072] }
     },
