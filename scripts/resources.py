@@ -27,6 +27,7 @@ necessary_tags = {
     "healthcare",
     "craft",
     "office",
+    "leisure",
 }
 
 repeat_tags = [
