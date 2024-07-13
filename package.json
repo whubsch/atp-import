@@ -6,6 +6,7 @@
   "scripts": {
     "mr": "mr cooperative change --out build/missing_new.json data/missing.osm",
     "clean": "python3.12 scripts/clean.py",
+    "scratch": "python3.12 scripts/scratch.py",
     "format": "python3 -m black scripts && prettier data --write"
   },
   "keywords": [
