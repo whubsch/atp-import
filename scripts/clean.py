@@ -7,6 +7,7 @@ import json
 import datetime
 import regex
 from resources import (
+    print_progress,
     street_expand,
     direction_expand,
     name_expand,
@@ -152,7 +153,8 @@ def print_value(action: str, file: str, brand: str, items: int) -> None:
 
 def run(file_list: list[str]) -> None:
     """Run the cleaning program on selected files."""
-    for file in file_list:
+    for i, file in enumerate(file_list):
+        print_progress(i, len(files), file.split("/")[-1])
         with open(file, "r", encoding="utf-8") as f:
             contents: dict = json.load(f)
 

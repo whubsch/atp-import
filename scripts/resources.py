@@ -1,4 +1,5 @@
 """Hold info for the cleaning script."""
+import sys
 
 useless_tags = [
     "@spider",
@@ -330,3 +331,27 @@ us_state_codes = [
     "WI",
     "WY",
 ]
+
+def print_progress(
+    iteration: int,
+    total: int,
+    text: str = "",
+    prefix="progress:",
+    suffix="complete",
+    decimals=1,
+    bar_length=50,
+) -> None:
+    """Call in a loop to create terminal progress bar."""
+    str_format = "{0:." + str(decimals) + "f}"
+    percents = str_format.format(100 * (iteration / float(total)))
+    filled_length = int(round(bar_length * iteration / float(total)))
+    bar_fill = "█" * filled_length + "-" * (bar_length - filled_length)
+
+    sys.stdout.write('\r' + ' ' * 140)
+    sys.stdout.write(
+        f"\r{prefix.title()} |{bar_fill}| {percents}{"%"} {suffix}{" | " + text if text else ""}"
+    )
+
+    if iteration == total:
+        sys.stdout.write("\n")
+    sys.stdout.flush()

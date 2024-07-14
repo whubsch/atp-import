@@ -22,6 +22,7 @@ yarn-error.log*
 *.pyc
 *pycache*
 /scripts/*scratch*
+/scripts/*scroll*
 /scripts/json/*.json
-/build/missing_new.json
+/build/missing_*.json
 challenge*.geojson
