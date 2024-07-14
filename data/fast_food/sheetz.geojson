@@ -20427,7 +20427,7 @@
         "brand": "Sheetz",
         "brand:wikidata": "Q7492551",
         "addr:housenumber": "13401",
-        "addr:street": "Falls Of Neuse Road",
+        "addr:street": "Falls of Neuse Road",
         "shop": "convenience"
       },
       "geometry": { "type": "Point", "coordinates": [-78.5593, 35.9433] }
