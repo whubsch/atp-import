@@ -74,7 +74,7 @@
       "properties": {
         "ref": "67",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77042",
         "name": "Office Depot",
@@ -94,7 +94,7 @@
       "properties": {
         "ref": "62",
         "shop": "stationery",
-        "addr:city": "GREENVILLE",
+        "addr:city": "Greenville",
         "addr:state": "SC",
         "addr:postcode": "29607",
         "name": "Office Depot",
@@ -115,7 +115,7 @@
       "properties": {
         "ref": "61",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77054",
         "name": "Office Depot",
@@ -136,7 +136,7 @@
       "properties": {
         "ref": "60",
         "shop": "stationery",
-        "addr:city": "EVANSVILLE",
+        "addr:city": "Evansville",
         "addr:state": "IN",
         "addr:postcode": "47715",
         "name": "Office Depot",
@@ -156,7 +156,7 @@
       "properties": {
         "ref": "59",
         "shop": "stationery",
-        "addr:city": "BIRMINGHAM",
+        "addr:city": "Birmingham",
         "addr:state": "AL",
         "addr:postcode": "35209",
         "name": "Office Depot",
@@ -176,7 +176,7 @@
       "properties": {
         "ref": "58",
         "shop": "stationery",
-        "addr:city": "MADISON",
+        "addr:city": "Madison",
         "addr:state": "TN",
         "addr:postcode": "37115",
         "name": "Office Depot",
@@ -196,7 +196,7 @@
       "properties": {
         "ref": "56",
         "shop": "stationery",
-        "addr:city": "HARVEY",
+        "addr:city": "Harvey",
         "addr:state": "LA",
         "addr:postcode": "70058",
         "name": "Office Depot",
@@ -216,7 +216,7 @@
       "properties": {
         "ref": "55",
         "shop": "stationery",
-        "addr:city": "METAIRIE",
+        "addr:city": "Metairie",
         "addr:state": "LA",
         "addr:postcode": "70003",
         "name": "Office Depot",
@@ -236,7 +236,7 @@
       "properties": {
         "ref": "48",
         "shop": "stationery",
-        "addr:city": "BRIDGETON",
+        "addr:city": "Bridgeton",
         "addr:state": "MO",
         "addr:postcode": "63044",
         "name": "Office Depot",
@@ -256,7 +256,7 @@
       "properties": {
         "ref": "45",
         "shop": "stationery",
-        "addr:city": "DAVIE",
+        "addr:city": "Davie",
         "addr:state": "FL",
         "addr:postcode": "33324",
         "name": "Office Depot",
@@ -296,7 +296,7 @@
       "properties": {
         "ref": "42",
         "shop": "stationery",
-        "addr:city": "LEXINGTON",
+        "addr:city": "Lexington",
         "addr:state": "KY",
         "addr:postcode": "40509",
         "name": "Office Depot",
@@ -316,7 +316,7 @@
       "properties": {
         "ref": "41",
         "shop": "stationery",
-        "addr:city": "CHARLOTTE",
+        "addr:city": "Charlotte",
         "addr:state": "NC",
         "addr:postcode": "28217",
         "name": "Office Depot",
@@ -336,7 +336,7 @@
       "properties": {
         "ref": "6858",
         "shop": "stationery",
-        "addr:city": "JUNEAU",
+        "addr:city": "Juneau",
         "addr:state": "AK",
         "addr:postcode": "99801",
         "name": "OfficeMax",
@@ -357,7 +357,7 @@
       "properties": {
         "ref": "6852",
         "shop": "stationery",
-        "addr:city": "LOGANVILLE",
+        "addr:city": "Loganville",
         "addr:state": "GA",
         "addr:postcode": "30052",
         "name": "OfficeMax",
@@ -377,7 +377,7 @@
       "properties": {
         "ref": "6849",
         "shop": "stationery",
-        "addr:city": "BLAINE",
+        "addr:city": "Blaine",
         "addr:state": "MN",
         "addr:postcode": "55449",
         "name": "OfficeMax",
@@ -397,7 +397,7 @@
       "properties": {
         "ref": "6842",
         "shop": "stationery",
-        "addr:city": "WAUWATOSA",
+        "addr:city": "Wauwatosa",
         "addr:state": "WI",
         "addr:postcode": "53222",
         "name": "Office Depot",
@@ -437,7 +437,7 @@
       "properties": {
         "ref": "6840",
         "shop": "stationery",
-        "addr:city": "AMHERST",
+        "addr:city": "Amherst",
         "addr:state": "NY",
         "addr:postcode": "14228-2705",
         "name": "OfficeMax",
@@ -458,7 +458,7 @@
       "properties": {
         "ref": "6832",
         "shop": "stationery",
-        "addr:city": "KAPOLEI",
+        "addr:city": "Kapolei",
         "addr:state": "HI",
         "addr:postcode": "96707",
         "name": "OfficeMax",
@@ -479,7 +479,7 @@
       "properties": {
         "ref": "6830",
         "shop": "stationery",
-        "addr:city": "OXFORD",
+        "addr:city": "Oxford",
         "addr:state": "AL",
         "addr:postcode": "36203",
         "name": "OfficeMax",
@@ -499,7 +499,7 @@
       "properties": {
         "ref": "6827",
         "shop": "stationery",
-        "addr:city": "PEORIA",
+        "addr:city": "Peoria",
         "addr:state": "AZ",
         "addr:postcode": "85305",
         "name": "OfficeMax",
@@ -541,7 +541,7 @@
       "properties": {
         "ref": "6820",
         "shop": "stationery",
-        "addr:city": "MAGNOLIA",
+        "addr:city": "Magnolia",
         "addr:state": "TX",
         "addr:postcode": "77354",
         "name": "OfficeMax",
@@ -562,7 +562,7 @@
       "properties": {
         "ref": "6818",
         "shop": "stationery",
-        "addr:city": "MIDLOTHIAN",
+        "addr:city": "Midlothian",
         "addr:state": "VA",
         "addr:postcode": "23113",
         "name": "OfficeMax",
@@ -582,7 +582,7 @@
       "properties": {
         "ref": "6817",
         "shop": "stationery",
-        "addr:city": "EUGENE",
+        "addr:city": "Eugene",
         "addr:state": "OR",
         "addr:postcode": "97405",
         "name": "OfficeMax",
@@ -643,7 +643,7 @@
       "properties": {
         "ref": "6811",
         "shop": "stationery",
-        "addr:city": "PERRYSBURG",
+        "addr:city": "Perrysburg",
         "addr:state": "OH",
         "addr:postcode": "43551",
         "name": "OfficeMax",
@@ -663,7 +663,7 @@
       "properties": {
         "ref": "6812",
         "shop": "stationery",
-        "addr:city": "ROSENBERG",
+        "addr:city": "Rosenberg",
         "addr:state": "TX",
         "addr:postcode": "77471",
         "name": "Office Depot",
@@ -683,7 +683,7 @@
       "properties": {
         "ref": "6806",
         "shop": "stationery",
-        "addr:city": "INVERNESS",
+        "addr:city": "Inverness",
         "addr:state": "FL",
         "addr:postcode": "34453",
         "name": "OfficeMax",
@@ -704,7 +704,7 @@
       "properties": {
         "ref": "6800",
         "shop": "stationery",
-        "addr:city": "FONTANA",
+        "addr:city": "Fontana",
         "addr:state": "CA",
         "addr:postcode": "92336",
         "name": "OfficeMax",
@@ -744,7 +744,7 @@
       "properties": {
         "ref": "6792",
         "shop": "stationery",
-        "addr:city": "SCOTTSDALE",
+        "addr:city": "Scottsdale",
         "addr:state": "AZ",
         "addr:postcode": "85266",
         "name": "OfficeMax",
@@ -764,7 +764,7 @@
       "properties": {
         "ref": "6782",
         "shop": "stationery",
-        "addr:city": "KATY",
+        "addr:city": "Katy",
         "addr:state": "TX",
         "addr:postcode": "77494",
         "name": "OfficeMax",
@@ -804,7 +804,7 @@
       "properties": {
         "ref": "6777",
         "shop": "stationery",
-        "addr:city": "CHARLOTTE",
+        "addr:city": "Charlotte",
         "addr:state": "NC",
         "addr:postcode": "28273",
         "name": "OfficeMax",
@@ -844,7 +844,7 @@
       "properties": {
         "ref": "6767",
         "shop": "stationery",
-        "addr:city": "SAVAGE",
+        "addr:city": "Savage",
         "addr:state": "MN",
         "addr:postcode": "55378",
         "name": "OfficeMax",
@@ -904,7 +904,7 @@
       "properties": {
         "ref": "6760",
         "shop": "stationery",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32218",
         "name": "OfficeMax",
@@ -924,7 +924,7 @@
       "properties": {
         "ref": "6758",
         "shop": "stationery",
-        "addr:city": "PEORIA",
+        "addr:city": "Peoria",
         "addr:state": "AZ",
         "addr:postcode": "85383",
         "name": "OfficeMax",
@@ -944,7 +944,7 @@
       "properties": {
         "ref": "6756",
         "shop": "stationery",
-        "addr:city": "KNIGHTDALE",
+        "addr:city": "Knightdale",
         "addr:state": "NC",
         "addr:postcode": "27545",
         "name": "OfficeMax",
@@ -984,7 +984,7 @@
       "properties": {
         "ref": "6752",
         "shop": "stationery",
-        "addr:city": "HILLIARD",
+        "addr:city": "Hilliard",
         "addr:state": "OH",
         "addr:postcode": "43026",
         "name": "OfficeMax",
@@ -1046,7 +1046,7 @@
       "properties": {
         "ref": "6745",
         "shop": "stationery",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78748",
         "name": "Office Depot",
@@ -1067,7 +1067,7 @@
       "properties": {
         "ref": "6737",
         "shop": "stationery",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32224",
         "name": "OfficeMax",
@@ -1088,7 +1088,7 @@
       "properties": {
         "ref": "6736",
         "shop": "stationery",
-        "addr:city": "FLORISSANT",
+        "addr:city": "Florissant",
         "addr:state": "MO",
         "addr:postcode": "63033",
         "name": "OfficeMax",
@@ -1108,7 +1108,7 @@
       "properties": {
         "ref": "6733",
         "shop": "stationery",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85748",
         "name": "OfficeMax",
@@ -1128,7 +1128,7 @@
       "properties": {
         "ref": "6730",
         "shop": "stationery",
-        "addr:city": "LOCKPORT",
+        "addr:city": "Lockport",
         "addr:state": "NY",
         "addr:postcode": "14094",
         "name": "OfficeMax",
@@ -1168,7 +1168,7 @@
       "properties": {
         "ref": "6728",
         "shop": "stationery",
-        "addr:city": "WENTZVILLE",
+        "addr:city": "Wentzville",
         "addr:state": "MO",
         "addr:postcode": "63385",
         "name": "OfficeMax",
@@ -1188,7 +1188,7 @@
       "properties": {
         "ref": "6725",
         "shop": "stationery",
-        "addr:city": "MACEDONIA",
+        "addr:city": "Macedonia",
         "addr:state": "OH",
         "addr:postcode": "44056",
         "name": "OfficeMax",
@@ -1209,7 +1209,7 @@
       "properties": {
         "ref": "6724",
         "shop": "stationery",
-        "addr:city": "ESTERO",
+        "addr:city": "Estero",
         "addr:state": "FL",
         "addr:postcode": "33928",
         "name": "Office Depot",
@@ -1229,7 +1229,7 @@
       "properties": {
         "ref": "6716",
         "shop": "stationery",
-        "addr:city": "ARDEN",
+        "addr:city": "Arden",
         "addr:state": "NC",
         "addr:postcode": "28704",
         "name": "OfficeMax",
@@ -1249,7 +1249,7 @@
       "properties": {
         "ref": "6715",
         "shop": "stationery",
-        "addr:city": "APEX",
+        "addr:city": "Apex",
         "addr:state": "NC",
         "addr:postcode": "27502",
         "name": "OfficeMax",
@@ -1289,7 +1289,7 @@
       "properties": {
         "ref": "6710",
         "shop": "stationery",
-        "addr:city": "OSWEGO",
+        "addr:city": "Oswego",
         "addr:state": "IL",
         "addr:postcode": "60543",
         "name": "OfficeMax",
@@ -1309,7 +1309,7 @@
       "properties": {
         "ref": "6709",
         "shop": "stationery",
-        "addr:city": "BOLINGBROOK",
+        "addr:city": "Bolingbrook",
         "addr:state": "IL",
         "addr:postcode": "60490",
         "name": "OfficeMax",
@@ -1349,7 +1349,7 @@
       "properties": {
         "ref": "6698",
         "shop": "stationery",
-        "addr:city": "GRAFTON",
+        "addr:city": "Grafton",
         "addr:state": "WI",
         "addr:postcode": "53024",
         "name": "OfficeMax",
@@ -1369,7 +1369,7 @@
       "properties": {
         "ref": "6695",
         "shop": "stationery",
-        "addr:city": "KNOXVILLE",
+        "addr:city": "Knoxville",
         "addr:state": "TN",
         "addr:postcode": "37934",
         "name": "OfficeMax",
@@ -1389,7 +1389,7 @@
       "properties": {
         "ref": "6694",
         "shop": "stationery",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85714-1165",
         "name": "OfficeMax",
@@ -1409,7 +1409,7 @@
       "properties": {
         "ref": "6689",
         "shop": "stationery",
-        "addr:city": "SURPRISE",
+        "addr:city": "Surprise",
         "addr:state": "AZ",
         "addr:postcode": "85374",
         "name": "OfficeMax",
@@ -1429,7 +1429,7 @@
       "properties": {
         "ref": "6688",
         "shop": "stationery",
-        "addr:city": "WOODSTOCK",
+        "addr:city": "Woodstock",
         "addr:state": "GA",
         "addr:postcode": "30189",
         "name": "OfficeMax",
@@ -1469,7 +1469,7 @@
       "properties": {
         "ref": "6684",
         "shop": "stationery",
-        "addr:city": "WEATHERFORD",
+        "addr:city": "Weatherford",
         "addr:state": "TX",
         "addr:postcode": "76086",
         "name": "OfficeMax",
@@ -1489,7 +1489,7 @@
       "properties": {
         "ref": "6682",
         "shop": "stationery",
-        "addr:city": "SHELBY",
+        "addr:city": "Shelby",
         "addr:state": "NC",
         "addr:postcode": "28150",
         "name": "OfficeMax",
@@ -1529,7 +1529,7 @@
       "properties": {
         "ref": "6677",
         "shop": "stationery",
-        "addr:city": "PLANO",
+        "addr:city": "Plano",
         "addr:state": "TX",
         "addr:postcode": "75093",
         "name": "OfficeMax",
@@ -1550,7 +1550,7 @@
       "properties": {
         "ref": "6676",
         "shop": "stationery",
-        "addr:city": "TULLAHOMA",
+        "addr:city": "Tullahoma",
         "addr:state": "TN",
         "addr:postcode": "37388",
         "name": "OfficeMax",
@@ -1570,7 +1570,7 @@
       "properties": {
         "ref": "6671",
         "shop": "stationery",
-        "addr:city": "MECHANICSVILLE",
+        "addr:city": "Mechanicsville",
         "addr:state": "VA",
         "addr:postcode": "23111",
         "name": "OfficeMax",
@@ -1590,7 +1590,7 @@
       "properties": {
         "ref": "6668",
         "shop": "stationery",
-        "addr:city": "KNOXVILLE",
+        "addr:city": "Knoxville",
         "addr:state": "TN",
         "addr:postcode": "37912",
         "name": "OfficeMax",
@@ -1610,7 +1610,7 @@
       "properties": {
         "ref": "6663",
         "shop": "stationery",
-        "addr:city": "ROSWELL",
+        "addr:city": "Roswell",
         "addr:state": "GA",
         "addr:postcode": "30075",
         "name": "OfficeMax",
@@ -1631,7 +1631,7 @@
       "properties": {
         "ref": "6662",
         "shop": "stationery",
-        "addr:city": "AVONDALE",
+        "addr:city": "Avondale",
         "addr:state": "AZ",
         "addr:postcode": "85392",
         "name": "OfficeMax",
@@ -1651,7 +1651,7 @@
       "properties": {
         "ref": "6659",
         "shop": "stationery",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32828",
         "name": "Office Depot",
@@ -1671,7 +1671,7 @@
       "properties": {
         "ref": "6658",
         "shop": "stationery",
-        "addr:city": "VANCOUVER",
+        "addr:city": "Vancouver",
         "addr:state": "WA",
         "addr:postcode": "98684",
         "name": "OfficeMax",
@@ -1692,7 +1692,7 @@
       "properties": {
         "ref": "6656",
         "shop": "stationery",
-        "addr:city": "MONROE",
+        "addr:city": "Monroe",
         "addr:state": "NC",
         "addr:postcode": "28110",
         "name": "OfficeMax",
@@ -1712,7 +1712,7 @@
       "properties": {
         "ref": "6647",
         "shop": "stationery",
-        "addr:city": "LEBANON",
+        "addr:city": "Lebanon",
         "addr:state": "TN",
         "addr:postcode": "37087",
         "name": "OfficeMax",
@@ -1732,7 +1732,7 @@
       "properties": {
         "ref": "6646",
         "shop": "stationery",
-        "addr:city": "KERRVILLE",
+        "addr:city": "Kerrville",
         "addr:state": "TX",
         "addr:postcode": "78028",
         "name": "OfficeMax",
@@ -1752,7 +1752,7 @@
       "properties": {
         "ref": "6644",
         "shop": "stationery",
-        "addr:city": "LIVERMORE",
+        "addr:city": "Livermore",
         "addr:state": "CA",
         "addr:postcode": "94551",
         "name": "OfficeMax",
@@ -1772,7 +1772,7 @@
       "properties": {
         "ref": "6643",
         "shop": "stationery",
-        "addr:city": "HOPKINSVILLE",
+        "addr:city": "Hopkinsville",
         "addr:state": "KY",
         "addr:postcode": "42240",
         "name": "OfficeMax",
@@ -1812,7 +1812,7 @@
       "properties": {
         "ref": "6641",
         "shop": "stationery",
-        "addr:city": "CHANHASSEN",
+        "addr:city": "Chanhassen",
         "addr:state": "MN",
         "addr:postcode": "55317",
         "name": "OfficeMax",
@@ -1832,7 +1832,7 @@
       "properties": {
         "ref": "6639",
         "shop": "stationery",
-        "addr:city": "MIDLOTHIAN",
+        "addr:city": "Midlothian",
         "addr:state": "VA",
         "addr:postcode": "23112",
         "name": "OfficeMax",
@@ -1853,7 +1853,7 @@
       "properties": {
         "ref": "6636",
         "shop": "stationery",
-        "addr:city": "COTTONWOOD",
+        "addr:city": "Cottonwood",
         "addr:state": "AZ",
         "addr:postcode": "86326",
         "name": "OfficeMax",
@@ -1893,7 +1893,7 @@
       "properties": {
         "ref": "6632",
         "shop": "stationery",
-        "addr:city": "CULLMAN",
+        "addr:city": "Cullman",
         "addr:state": "AL",
         "addr:postcode": "35055",
         "name": "OfficeMax",
@@ -1913,7 +1913,7 @@
       "properties": {
         "ref": "6631",
         "shop": "stationery",
-        "addr:city": "BEMIDJI",
+        "addr:city": "Bemidji",
         "addr:state": "MN",
         "addr:postcode": "56601",
         "name": "OfficeMax",
@@ -1933,7 +1933,7 @@
       "properties": {
         "ref": "6629",
         "shop": "stationery",
-        "addr:city": "MOBILE",
+        "addr:city": "Mobile",
         "addr:state": "AL",
         "addr:postcode": "36608",
         "name": "OfficeMax",
@@ -1974,7 +1974,7 @@
       "properties": {
         "ref": "6626",
         "shop": "stationery",
-        "addr:city": "FARMINGTON",
+        "addr:city": "Farmington",
         "addr:state": "MO",
         "addr:postcode": "63640",
         "name": "OfficeMax",
@@ -1994,7 +1994,7 @@
       "properties": {
         "ref": "6625",
         "shop": "stationery",
-        "addr:city": "SELMA",
+        "addr:city": "Selma",
         "addr:state": "TX",
         "addr:postcode": "78154",
         "name": "OfficeMax",
@@ -2014,7 +2014,7 @@
       "properties": {
         "ref": "6618",
         "shop": "stationery",
-        "addr:city": "DUBLIN",
+        "addr:city": "Dublin",
         "addr:state": "GA",
         "addr:postcode": "31021",
         "name": "OfficeMax",
@@ -2035,7 +2035,7 @@
       "properties": {
         "ref": "6617",
         "shop": "stationery",
-        "addr:city": "CHESTER",
+        "addr:city": "Chester",
         "addr:state": "VA",
         "addr:postcode": "23831",
         "name": "Office Depot",
@@ -2055,7 +2055,7 @@
       "properties": {
         "ref": "6613",
         "shop": "stationery",
-        "addr:city": "ROCKWALL",
+        "addr:city": "Rockwall",
         "addr:state": "TX",
         "addr:postcode": "75032",
         "name": "Office Depot",
@@ -2075,7 +2075,7 @@
       "properties": {
         "ref": "6612",
         "shop": "stationery",
-        "addr:city": "MODESTO",
+        "addr:city": "Modesto",
         "addr:state": "CA",
         "addr:postcode": "95355",
         "name": "OfficeMax",
@@ -2096,7 +2096,7 @@
       "properties": {
         "ref": "6609",
         "shop": "stationery",
-        "addr:city": "LINCOLN",
+        "addr:city": "Lincoln",
         "addr:state": "NE",
         "addr:postcode": "68516",
         "name": "Office Depot",
@@ -2157,7 +2157,7 @@
       "properties": {
         "ref": "6602",
         "shop": "stationery",
-        "addr:city": "ALAMEDA",
+        "addr:city": "Alameda",
         "addr:state": "CA",
         "addr:postcode": "94501",
         "name": "OfficeMax",
@@ -2197,7 +2197,7 @@
       "properties": {
         "ref": "6600",
         "shop": "stationery",
-        "addr:city": "COLUMBUS",
+        "addr:city": "Columbus",
         "addr:state": "OH",
         "addr:postcode": "43240",
         "name": "OfficeMax",
@@ -2217,7 +2217,7 @@
       "properties": {
         "ref": "6596",
         "shop": "stationery",
-        "addr:city": "STATESBORO",
+        "addr:city": "Statesboro",
         "addr:state": "GA",
         "addr:postcode": "30458",
         "name": "Office Depot",
@@ -2278,7 +2278,7 @@
       "properties": {
         "ref": "6591",
         "shop": "stationery",
-        "addr:city": "GREENWOOD",
+        "addr:city": "Greenwood",
         "addr:state": "SC",
         "addr:postcode": "29649",
         "name": "OfficeMax",
@@ -2298,7 +2298,7 @@
       "properties": {
         "ref": "6589",
         "shop": "stationery",
-        "addr:city": "SOLON",
+        "addr:city": "Solon",
         "addr:state": "OH",
         "addr:postcode": "44139",
         "name": "OfficeMax",
@@ -2318,7 +2318,7 @@
       "properties": {
         "ref": "6583",
         "shop": "stationery",
-        "addr:city": "WASHINGTON",
+        "addr:city": "Washington",
         "addr:state": "PA",
         "addr:postcode": "15301",
         "name": "OfficeMax",
@@ -2358,7 +2358,7 @@
       "properties": {
         "ref": "6581",
         "shop": "stationery",
-        "addr:city": "LANCASTER",
+        "addr:city": "Lancaster",
         "addr:state": "OH",
         "addr:postcode": "43130",
         "name": "OfficeMax",
@@ -2379,7 +2379,7 @@
       "properties": {
         "ref": "6580",
         "shop": "stationery",
-        "addr:city": "MILWAUKIE",
+        "addr:city": "Milwaukie",
         "addr:state": "OR",
         "addr:postcode": "97267",
         "name": "Office Depot",
@@ -2399,7 +2399,7 @@
       "properties": {
         "ref": "6579",
         "shop": "stationery",
-        "addr:city": "ELKO",
+        "addr:city": "Elko",
         "addr:state": "NV",
         "addr:postcode": "89801",
         "name": "OfficeMax",
@@ -2419,7 +2419,7 @@
       "properties": {
         "ref": "6577",
         "shop": "stationery",
-        "addr:city": "MORRISTOWN",
+        "addr:city": "Morristown",
         "addr:state": "TN",
         "addr:postcode": "37813",
         "name": "OfficeMax",
@@ -2459,7 +2459,7 @@
       "properties": {
         "ref": "6575",
         "shop": "stationery",
-        "addr:city": "DOUGLASVILLE",
+        "addr:city": "Douglasville",
         "addr:state": "GA",
         "addr:postcode": "30135",
         "name": "OfficeMax",
@@ -2519,7 +2519,7 @@
       "properties": {
         "ref": "6569",
         "shop": "stationery",
-        "addr:city": "TYLER",
+        "addr:city": "Tyler",
         "addr:state": "TX",
         "addr:postcode": "75703",
         "name": "OfficeMax",
@@ -2559,7 +2559,7 @@
       "properties": {
         "ref": "6567",
         "shop": "stationery",
-        "addr:city": "PORTERVILLE",
+        "addr:city": "Porterville",
         "addr:state": "CA",
         "addr:postcode": "93257",
         "name": "OfficeMax",
@@ -2579,7 +2579,7 @@
       "properties": {
         "ref": "6561",
         "shop": "stationery",
-        "addr:city": "CUMMING",
+        "addr:city": "Cumming",
         "addr:state": "GA",
         "addr:postcode": "30041",
         "name": "OfficeMax",
@@ -2599,7 +2599,7 @@
       "properties": {
         "ref": "6559",
         "shop": "stationery",
-        "addr:city": "MERRIAM",
+        "addr:city": "Merriam",
         "addr:state": "KS",
         "addr:postcode": "66202",
         "name": "OfficeMax",
@@ -2619,7 +2619,7 @@
       "properties": {
         "ref": "6557",
         "shop": "stationery",
-        "addr:city": "NASHVILLE",
+        "addr:city": "Nashville",
         "addr:state": "TN",
         "addr:postcode": "37214",
         "name": "Office Depot",
@@ -2639,7 +2639,7 @@
       "properties": {
         "ref": "6556",
         "shop": "stationery",
-        "addr:city": "CANTON",
+        "addr:city": "Canton",
         "addr:state": "MI",
         "addr:postcode": "48187",
         "name": "OfficeMax",
@@ -2679,7 +2679,7 @@
       "properties": {
         "ref": "6553",
         "shop": "stationery",
-        "addr:city": "JANESVILLE",
+        "addr:city": "Janesville",
         "addr:state": "WI",
         "addr:postcode": "53545",
         "name": "OfficeMax",
@@ -2699,7 +2699,7 @@
       "properties": {
         "ref": "6550",
         "shop": "stationery",
-        "addr:city": "MANITOWOC",
+        "addr:city": "Manitowoc",
         "addr:state": "WI",
         "addr:postcode": "54220",
         "name": "OfficeMax",
@@ -2719,7 +2719,7 @@
       "properties": {
         "ref": "6545",
         "shop": "stationery",
-        "addr:city": "CARMEL",
+        "addr:city": "Carmel",
         "addr:state": "IN",
         "addr:postcode": "46032",
         "name": "Office Depot",
@@ -2739,7 +2739,7 @@
       "properties": {
         "ref": "6544",
         "shop": "stationery",
-        "addr:city": "MARTINSBURG",
+        "addr:city": "Martinsburg",
         "addr:state": "WV",
         "addr:postcode": "25401",
         "name": "Office Depot",
@@ -2759,7 +2759,7 @@
       "properties": {
         "ref": "6543",
         "shop": "stationery",
-        "addr:city": "CLOVIS",
+        "addr:city": "Clovis",
         "addr:state": "NM",
         "addr:postcode": "88101",
         "name": "OfficeMax",
@@ -2799,7 +2799,7 @@
       "properties": {
         "ref": "6539",
         "shop": "stationery",
-        "addr:city": "JONESBORO",
+        "addr:city": "Jonesboro",
         "addr:state": "AR",
         "addr:postcode": "72401",
         "name": "OfficeMax",
@@ -2839,7 +2839,7 @@
       "properties": {
         "ref": "6531",
         "shop": "stationery",
-        "addr:city": "BELLINGHAM",
+        "addr:city": "Bellingham",
         "addr:state": "WA",
         "addr:postcode": "98226",
         "name": "OfficeMax",
@@ -2879,7 +2879,7 @@
       "properties": {
         "ref": "6536",
         "shop": "stationery",
-        "addr:city": "DELAFIELD",
+        "addr:city": "Delafield",
         "addr:state": "WI",
         "addr:postcode": "53018",
         "name": "OfficeMax",
@@ -2899,7 +2899,7 @@
       "properties": {
         "ref": "6530",
         "shop": "stationery",
-        "addr:city": "MILLEDGEVILLE",
+        "addr:city": "Milledgeville",
         "addr:state": "GA",
         "addr:postcode": "31061",
         "name": "Office Depot",
@@ -2961,7 +2961,7 @@
       "properties": {
         "ref": "6517",
         "shop": "stationery",
-        "addr:city": "LANCASTER",
+        "addr:city": "Lancaster",
         "addr:state": "PA",
         "addr:postcode": "17601",
         "name": "OfficeMax",
@@ -2982,7 +2982,7 @@
       "properties": {
         "ref": "6516",
         "shop": "stationery",
-        "addr:city": "COLUMBIA",
+        "addr:city": "Columbia",
         "addr:state": "TN",
         "addr:postcode": "38401",
         "name": "OfficeMax",
@@ -3002,7 +3002,7 @@
       "properties": {
         "ref": "6514",
         "shop": "stationery",
-        "addr:city": "INDIANAPOLIS",
+        "addr:city": "Indianapolis",
         "addr:state": "IN",
         "addr:postcode": "46229",
         "name": "OfficeMax",
@@ -3022,7 +3022,7 @@
       "properties": {
         "ref": "6513",
         "shop": "stationery",
-        "addr:city": "MINOT",
+        "addr:city": "Minot",
         "addr:state": "ND",
         "addr:postcode": "58701",
         "name": "OfficeMax",
@@ -3042,7 +3042,7 @@
       "properties": {
         "ref": "6511",
         "shop": "stationery",
-        "addr:city": "OSHKOSH",
+        "addr:city": "Oshkosh",
         "addr:state": "WI",
         "addr:postcode": "54902",
         "name": "OfficeMax",
@@ -3062,7 +3062,7 @@
       "properties": {
         "ref": "6510",
         "shop": "stationery",
-        "addr:city": "CLOVIS",
+        "addr:city": "Clovis",
         "addr:state": "CA",
         "addr:postcode": "93611",
         "name": "OfficeMax",
@@ -3082,7 +3082,7 @@
       "properties": {
         "ref": "6505",
         "shop": "stationery",
-        "addr:city": "CHICAGO",
+        "addr:city": "Chicago",
         "addr:state": "IL",
         "addr:postcode": "60614",
         "name": "OfficeMax",
@@ -3102,7 +3102,7 @@
       "properties": {
         "ref": "6500",
         "shop": "stationery",
-        "addr:city": "CORVALLIS",
+        "addr:city": "Corvallis",
         "addr:state": "OR",
         "addr:postcode": "97330",
         "name": "OfficeMax",
@@ -3142,7 +3142,7 @@
       "properties": {
         "ref": "6493",
         "shop": "stationery",
-        "addr:city": "HARAHAN",
+        "addr:city": "Harahan",
         "addr:state": "LA",
         "addr:postcode": "70123",
         "name": "OfficeMax",
@@ -3162,7 +3162,7 @@
       "properties": {
         "ref": "6491",
         "shop": "stationery",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32225",
         "name": "OfficeMax",
@@ -3182,7 +3182,7 @@
       "properties": {
         "ref": "6486",
         "shop": "stationery",
-        "addr:city": "KILLEEN",
+        "addr:city": "Killeen",
         "addr:state": "TX",
         "addr:postcode": "76542",
         "name": "OfficeMax",
@@ -3222,7 +3222,7 @@
       "properties": {
         "ref": "6483",
         "shop": "stationery",
-        "addr:city": "GRIFFIN",
+        "addr:city": "Griffin",
         "addr:state": "GA",
         "addr:postcode": "30223",
         "name": "OfficeMax",
@@ -3242,7 +3242,7 @@
       "properties": {
         "ref": "6479",
         "shop": "stationery",
-        "addr:city": "STILLWATER",
+        "addr:city": "Stillwater",
         "addr:state": "MN",
         "addr:postcode": "55082",
         "name": "OfficeMax",
@@ -3282,7 +3282,7 @@
       "properties": {
         "ref": "6474",
         "shop": "stationery",
-        "addr:city": "ROSWELL",
+        "addr:city": "Roswell",
         "addr:state": "NM",
         "addr:postcode": "88201",
         "name": "OfficeMax",
@@ -3302,7 +3302,7 @@
       "properties": {
         "ref": "6472",
         "shop": "stationery",
-        "addr:city": "HILO",
+        "addr:city": "Hilo",
         "addr:state": "HI",
         "addr:postcode": "96720",
         "name": "OfficeMax",
@@ -3322,7 +3322,7 @@
       "properties": {
         "ref": "6471",
         "shop": "stationery",
-        "addr:city": "MANKATO",
+        "addr:city": "Mankato",
         "addr:state": "MN",
         "addr:postcode": "56001",
         "name": "Office Depot",
@@ -3342,7 +3342,7 @@
       "properties": {
         "ref": "6470",
         "shop": "stationery",
-        "addr:city": "GADSDEN",
+        "addr:city": "Gadsden",
         "addr:state": "AL",
         "addr:postcode": "35903",
         "name": "Office Depot",
@@ -3362,7 +3362,7 @@
       "properties": {
         "ref": "6466",
         "shop": "stationery",
-        "addr:city": "FAIRBANKS",
+        "addr:city": "Fairbanks",
         "addr:state": "AK",
         "addr:postcode": "99701",
         "name": "OfficeMax",
@@ -3382,7 +3382,7 @@
       "properties": {
         "ref": "6465",
         "shop": "stationery",
-        "addr:city": "WILLOUGHBY",
+        "addr:city": "Willoughby",
         "addr:state": "OH",
         "addr:postcode": "44094",
         "name": "OfficeMax",
@@ -3442,7 +3442,7 @@
       "properties": {
         "ref": "6459",
         "shop": "stationery",
-        "addr:city": "OGDEN",
+        "addr:city": "Ogden",
         "addr:state": "UT",
         "addr:postcode": "84404",
         "name": "OfficeMax",
@@ -3462,7 +3462,7 @@
       "properties": {
         "ref": "6457",
         "shop": "stationery",
-        "addr:city": "KEARNEY",
+        "addr:city": "Kearney",
         "addr:state": "NE",
         "addr:postcode": "68847",
         "name": "OfficeMax",
@@ -3482,7 +3482,7 @@
       "properties": {
         "ref": "6452",
         "shop": "stationery",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85044",
         "name": "OfficeMax",
@@ -3502,7 +3502,7 @@
       "properties": {
         "ref": "6451",
         "shop": "stationery",
-        "addr:city": "MARANA",
+        "addr:city": "Marana",
         "addr:state": "AZ",
         "addr:postcode": "85741",
         "name": "Office Depot",
@@ -3562,7 +3562,7 @@
       "properties": {
         "ref": "6445",
         "shop": "stationery",
-        "addr:city": "LOUISVILLE",
+        "addr:city": "Louisville",
         "addr:state": "KY",
         "addr:postcode": "40241",
         "name": "OfficeMax",
@@ -3582,7 +3582,7 @@
       "properties": {
         "ref": "6444",
         "shop": "stationery",
-        "addr:city": "BATAVIA",
+        "addr:city": "Batavia",
         "addr:state": "IL",
         "addr:postcode": "60510",
         "name": "OfficeMax",
@@ -3602,7 +3602,7 @@
       "properties": {
         "ref": "6443",
         "shop": "stationery",
-        "addr:city": "MINNEAPOLIS",
+        "addr:city": "Minneapolis",
         "addr:state": "MN",
         "addr:postcode": "55413",
         "name": "Office Depot",
@@ -3622,7 +3622,7 @@
       "properties": {
         "ref": "6437",
         "shop": "stationery",
-        "addr:city": "MARIETTA",
+        "addr:city": "Marietta",
         "addr:state": "GA",
         "addr:postcode": "30068",
         "name": "Office Depot",
@@ -3642,7 +3642,7 @@
       "properties": {
         "ref": "6429",
         "shop": "stationery",
-        "addr:city": "OMAHA",
+        "addr:city": "Omaha",
         "addr:state": "NE",
         "addr:postcode": "68132",
         "name": "OfficeMax",
@@ -3662,7 +3662,7 @@
       "properties": {
         "ref": "6427",
         "shop": "stationery",
-        "addr:city": "STEUBENVILLE",
+        "addr:city": "Steubenville",
         "addr:state": "OH",
         "addr:postcode": "43952",
         "name": "OfficeMax",
@@ -3682,7 +3682,7 @@
       "properties": {
         "ref": "6421",
         "shop": "stationery",
-        "addr:city": "POCATELLO",
+        "addr:city": "Pocatello",
         "addr:state": "ID",
         "addr:postcode": "83201",
         "name": "OfficeMax",
@@ -3742,7 +3742,7 @@
       "properties": {
         "ref": "6418",
         "shop": "stationery",
-        "addr:city": "AUSTELL",
+        "addr:city": "Austell",
         "addr:state": "GA",
         "addr:postcode": "30106",
         "name": "OfficeMax",
@@ -3763,7 +3763,7 @@
       "properties": {
         "ref": "6415",
         "shop": "stationery",
-        "addr:city": "COLUMBUS",
+        "addr:city": "Columbus",
         "addr:state": "OH",
         "addr:postcode": "43219",
         "name": "OfficeMax",
@@ -3783,7 +3783,7 @@
       "properties": {
         "ref": "6417",
         "shop": "stationery",
-        "addr:city": "PRESCOTT",
+        "addr:city": "Prescott",
         "addr:state": "AZ",
         "addr:postcode": "86301",
         "name": "OfficeMax",
@@ -3823,7 +3823,7 @@
       "properties": {
         "ref": "6408",
         "shop": "stationery",
-        "addr:city": "GOLDEN",
+        "addr:city": "Golden",
         "addr:state": "CO",
         "addr:postcode": "80401",
         "name": "OfficeMax",
@@ -3843,7 +3843,7 @@
       "properties": {
         "ref": "6407",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33156",
         "name": "OfficeMax",
@@ -3903,7 +3903,7 @@
       "properties": {
         "ref": "6400",
         "shop": "stationery",
-        "addr:city": "KAHULUI",
+        "addr:city": "Kahului",
         "addr:state": "HI",
         "addr:postcode": "96732",
         "name": "OfficeMax",
@@ -3944,7 +3944,7 @@
       "properties": {
         "ref": "6396",
         "shop": "stationery",
-        "addr:city": "BEND",
+        "addr:city": "Bend",
         "addr:state": "OR",
         "addr:postcode": "97701",
         "name": "OfficeMax",
@@ -3965,7 +3965,7 @@
       "properties": {
         "ref": "6389",
         "shop": "stationery",
-        "addr:city": "RIVERSIDE",
+        "addr:city": "Riverside",
         "addr:state": "CA",
         "addr:postcode": "92507",
         "name": "OfficeMax",
@@ -3985,7 +3985,7 @@
       "properties": {
         "ref": "6384",
         "shop": "stationery",
-        "addr:city": "EAGAN",
+        "addr:city": "Eagan",
         "addr:state": "MN",
         "addr:postcode": "55121",
         "name": "OfficeMax",
@@ -4005,7 +4005,7 @@
       "properties": {
         "ref": "6374",
         "shop": "stationery",
-        "addr:city": "OLATHE",
+        "addr:city": "Olathe",
         "addr:state": "KS",
         "addr:postcode": "66062",
         "name": "OfficeMax",
@@ -4045,7 +4045,7 @@
       "properties": {
         "ref": "6367",
         "shop": "stationery",
-        "addr:city": "WAUSAU",
+        "addr:city": "Wausau",
         "addr:state": "WI",
         "addr:postcode": "54401",
         "name": "OfficeMax",
@@ -4065,7 +4065,7 @@
       "properties": {
         "ref": "6359",
         "shop": "stationery",
-        "addr:city": "MILWAUKEE",
+        "addr:city": "Milwaukee",
         "addr:state": "WI",
         "addr:postcode": "53221",
         "name": "Office Depot",
@@ -4085,7 +4085,7 @@
       "properties": {
         "ref": "6358",
         "shop": "stationery",
-        "addr:city": "KENOSHA",
+        "addr:city": "Kenosha",
         "addr:state": "WI",
         "addr:postcode": "53142",
         "name": "OfficeMax",
@@ -4125,7 +4125,7 @@
       "properties": {
         "ref": "6354",
         "shop": "stationery",
-        "addr:city": "SEATTLE",
+        "addr:city": "Seattle",
         "addr:state": "WA",
         "addr:postcode": "98107",
         "name": "OfficeMax",
@@ -4165,7 +4165,7 @@
       "properties": {
         "ref": "6347",
         "shop": "stationery",
-        "addr:city": "CHESAPEAKE",
+        "addr:city": "Chesapeake",
         "addr:state": "VA",
         "addr:postcode": "23320",
         "name": "OfficeMax",
@@ -4185,7 +4185,7 @@
       "properties": {
         "ref": "6340",
         "shop": "stationery",
-        "addr:city": "OVIEDO",
+        "addr:city": "Oviedo",
         "addr:state": "FL",
         "addr:postcode": "32765",
         "name": "Office Depot",
@@ -4205,7 +4205,7 @@
       "properties": {
         "ref": "6339",
         "shop": "stationery",
-        "addr:city": "PETOSKEY",
+        "addr:city": "Petoskey",
         "addr:state": "MI",
         "addr:postcode": "49770",
         "name": "OfficeMax",
@@ -4225,7 +4225,7 @@
       "properties": {
         "ref": "6337",
         "shop": "stationery",
-        "addr:city": "WOODBURY",
+        "addr:city": "Woodbury",
         "addr:state": "MN",
         "addr:postcode": "55125",
         "name": "OfficeMax",
@@ -4265,7 +4265,7 @@
       "properties": {
         "ref": "6335",
         "shop": "stationery",
-        "addr:city": "FRESNO",
+        "addr:city": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93720",
         "name": "OfficeMax",
@@ -4285,7 +4285,7 @@
       "properties": {
         "ref": "6325",
         "shop": "stationery",
-        "addr:city": "VALDOSTA",
+        "addr:city": "Valdosta",
         "addr:state": "GA",
         "addr:postcode": "31602",
         "name": "OfficeMax",
@@ -4305,7 +4305,7 @@
       "properties": {
         "ref": "6321",
         "shop": "stationery",
-        "addr:city": "BOISE",
+        "addr:city": "Boise",
         "addr:state": "ID",
         "addr:postcode": "83709",
         "name": "OfficeMax",
@@ -4325,7 +4325,7 @@
       "properties": {
         "ref": "6319",
         "shop": "stationery",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85022",
         "name": "OfficeMax",
@@ -4366,7 +4366,7 @@
       "properties": {
         "ref": "6300",
         "shop": "stationery",
-        "addr:city": "TOPEKA",
+        "addr:city": "Topeka",
         "addr:state": "KS",
         "addr:postcode": "66614",
         "name": "OfficeMax",
@@ -4386,7 +4386,7 @@
       "properties": {
         "ref": "6292",
         "shop": "stationery",
-        "addr:city": "SALEM",
+        "addr:city": "Salem",
         "addr:state": "OR",
         "addr:postcode": "97301",
         "name": "OfficeMax",
@@ -4406,7 +4406,7 @@
       "properties": {
         "ref": "6290",
         "shop": "stationery",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85711",
         "name": "OfficeMax",
@@ -4426,7 +4426,7 @@
       "properties": {
         "ref": "6289",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77019",
         "name": "OfficeMax",
@@ -4446,7 +4446,7 @@
       "properties": {
         "ref": "6286",
         "shop": "stationery",
-        "addr:city": "S.ARLINGTON",
+        "addr:city": "S.Arlington",
         "addr:state": "TX",
         "addr:postcode": "76017",
         "name": "OfficeMax",
@@ -4486,7 +4486,7 @@
       "properties": {
         "ref": "6276",
         "shop": "stationery",
-        "addr:city": "TEMPE",
+        "addr:city": "Tempe",
         "addr:state": "AZ",
         "addr:postcode": "85282",
         "name": "OfficeMax",
@@ -4506,7 +4506,7 @@
       "properties": {
         "ref": "6268",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33126",
         "name": "OfficeMax",
@@ -4526,7 +4526,7 @@
       "properties": {
         "ref": "6263",
         "shop": "stationery",
-        "addr:city": "GREENSBURG",
+        "addr:city": "Greensburg",
         "addr:state": "PA",
         "addr:postcode": "15601",
         "name": "OfficeMax",
@@ -4546,7 +4546,7 @@
       "properties": {
         "ref": "6261",
         "shop": "stationery",
-        "addr:city": "JACKSON",
+        "addr:city": "Jackson",
         "addr:state": "TN",
         "addr:postcode": "38305",
         "name": "OfficeMax",
@@ -4566,7 +4566,7 @@
       "properties": {
         "ref": "6260",
         "shop": "stationery",
-        "addr:city": "SALINAS",
+        "addr:city": "Salinas",
         "addr:state": "CA",
         "addr:postcode": "93907",
         "name": "OfficeMax",
@@ -4586,7 +4586,7 @@
       "properties": {
         "ref": "6256",
         "shop": "stationery",
-        "addr:city": "MASSILLON",
+        "addr:city": "Massillon",
         "addr:state": "OH",
         "addr:postcode": "44646",
         "name": "OfficeMax",
@@ -4626,7 +4626,7 @@
       "properties": {
         "ref": "6253",
         "shop": "stationery",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78703",
         "name": "Office Depot",
@@ -4647,7 +4647,7 @@
       "properties": {
         "ref": "6251",
         "shop": "stationery",
-        "addr:city": "LONGMONT",
+        "addr:city": "Longmont",
         "addr:state": "CO",
         "addr:postcode": "80501",
         "name": "OfficeMax",
@@ -4687,7 +4687,7 @@
       "properties": {
         "ref": "6249",
         "shop": "stationery",
-        "addr:city": "AMARILLO",
+        "addr:city": "Amarillo",
         "addr:state": "TX",
         "addr:postcode": "79124",
         "name": "OfficeMax",
@@ -4707,7 +4707,7 @@
       "properties": {
         "ref": "6248",
         "shop": "stationery",
-        "addr:city": "HENDERSON",
+        "addr:city": "Henderson",
         "addr:state": "NV",
         "addr:postcode": "89014",
         "name": "OfficeMax",
@@ -4747,7 +4747,7 @@
       "properties": {
         "ref": "6243",
         "shop": "stationery",
-        "addr:city": "TUPELO",
+        "addr:city": "Tupelo",
         "addr:state": "MS",
         "addr:postcode": "38804",
         "name": "OfficeMax",
@@ -4767,7 +4767,7 @@
       "properties": {
         "ref": "6241",
         "shop": "stationery",
-        "addr:city": "LEWISVILLE",
+        "addr:city": "Lewisville",
         "addr:state": "TX",
         "addr:postcode": "75067",
         "name": "OfficeMax",
@@ -4787,7 +4787,7 @@
       "properties": {
         "ref": "6240",
         "shop": "stationery",
-        "addr:city": "PHILADELPHIA",
+        "addr:city": "Philadelphia",
         "addr:state": "PA",
         "addr:postcode": "19149",
         "name": "OfficeMax",
@@ -4807,7 +4807,7 @@
       "properties": {
         "ref": "6238",
         "shop": "stationery",
-        "addr:city": "JACKSON",
+        "addr:city": "Jackson",
         "addr:state": "MI",
         "addr:postcode": "49202",
         "name": "OfficeMax",
@@ -4827,7 +4827,7 @@
       "properties": {
         "ref": "6236",
         "shop": "stationery",
-        "addr:city": "LIMA",
+        "addr:city": "Lima",
         "addr:state": "OH",
         "addr:postcode": "45805",
         "name": "OfficeMax",
@@ -4847,7 +4847,7 @@
       "properties": {
         "ref": "6235",
         "shop": "stationery",
-        "addr:city": "BAKERSFIELD",
+        "addr:city": "Bakersfield",
         "addr:state": "CA",
         "addr:postcode": "93306",
         "name": "OfficeMax",
@@ -4887,7 +4887,7 @@
       "properties": {
         "ref": "6226",
         "shop": "stationery",
-        "addr:city": "EVANS",
+        "addr:city": "Evans",
         "addr:state": "GA",
         "addr:postcode": "30809",
         "name": "OfficeMax",
@@ -4907,7 +4907,7 @@
       "properties": {
         "ref": "6225",
         "shop": "stationery",
-        "addr:city": "ARVADA",
+        "addr:city": "Arvada",
         "addr:state": "CO",
         "addr:postcode": "80002",
         "name": "OfficeMax",
@@ -4967,7 +4967,7 @@
       "properties": {
         "ref": "6216",
         "shop": "stationery",
-        "addr:city": "RICHMOND",
+        "addr:city": "Richmond",
         "addr:state": "VA",
         "addr:postcode": "23230",
         "name": "OfficeMax",
@@ -5007,7 +5007,7 @@
       "properties": {
         "ref": "6211",
         "shop": "stationery",
-        "addr:city": "MANSFIELD",
+        "addr:city": "Mansfield",
         "addr:state": "OH",
         "addr:postcode": "44906",
         "name": "OfficeMax",
@@ -5027,7 +5027,7 @@
       "properties": {
         "ref": "6210",
         "shop": "stationery",
-        "addr:city": "DULUTH",
+        "addr:city": "Duluth",
         "addr:state": "MN",
         "addr:postcode": "55811",
         "name": "Office Depot",
@@ -5088,7 +5088,7 @@
       "properties": {
         "ref": "6207",
         "shop": "stationery",
-        "addr:city": "CHESAPEAKE",
+        "addr:city": "Chesapeake",
         "addr:state": "VA",
         "addr:postcode": "23321",
         "name": "OfficeMax",
@@ -5108,7 +5108,7 @@
       "properties": {
         "ref": "6206",
         "shop": "stationery",
-        "addr:city": "HONOLULU",
+        "addr:city": "Honolulu",
         "addr:state": "HI",
         "addr:postcode": "96813",
         "name": "OfficeMax",
@@ -5128,7 +5128,7 @@
       "properties": {
         "ref": "6204",
         "shop": "stationery",
-        "addr:city": "WESTLAKE",
+        "addr:city": "Westlake",
         "addr:state": "OH",
         "addr:postcode": "44145",
         "name": "OfficeMax",
@@ -5148,7 +5148,7 @@
       "properties": {
         "ref": "6203",
         "shop": "stationery",
-        "addr:city": "WAIPAHU",
+        "addr:city": "Waipahu",
         "addr:state": "HI",
         "addr:postcode": "96797",
         "name": "OfficeMax",
@@ -5168,7 +5168,7 @@
       "properties": {
         "ref": "6196",
         "shop": "stationery",
-        "addr:city": "LUBBOCK",
+        "addr:city": "Lubbock",
         "addr:state": "TX",
         "addr:postcode": "79424",
         "name": "Office Depot",
@@ -5188,7 +5188,7 @@
       "properties": {
         "ref": "6195",
         "shop": "stationery",
-        "addr:city": "MOLINE",
+        "addr:city": "Moline",
         "addr:state": "IL",
         "addr:postcode": "61265",
         "name": "OfficeMax",
@@ -5208,7 +5208,7 @@
       "properties": {
         "ref": "6191",
         "shop": "stationery",
-        "addr:city": "ROCHESTER",
+        "addr:city": "Rochester",
         "addr:state": "MN",
         "addr:postcode": "55904",
         "name": "OfficeMax",
@@ -5249,7 +5249,7 @@
       "properties": {
         "ref": "6189",
         "shop": "stationery",
-        "addr:city": "MESA",
+        "addr:city": "Mesa",
         "addr:state": "AZ",
         "addr:postcode": "85206",
         "name": "OfficeMax",
@@ -5269,7 +5269,7 @@
       "properties": {
         "ref": "6188",
         "shop": "stationery",
-        "addr:city": "SCOTTSDALE",
+        "addr:city": "Scottsdale",
         "addr:state": "AZ",
         "addr:postcode": "85258",
         "name": "OfficeMax",
@@ -5289,7 +5289,7 @@
       "properties": {
         "ref": "6186",
         "shop": "stationery",
-        "addr:city": "HUMBLE",
+        "addr:city": "Humble",
         "addr:state": "TX",
         "addr:postcode": "77338",
         "name": "Office Depot",
@@ -5309,7 +5309,7 @@
       "properties": {
         "ref": "6182",
         "shop": "stationery",
-        "addr:city": "GURNEE",
+        "addr:city": "Gurnee",
         "addr:state": "IL",
         "addr:postcode": "60031",
         "name": "OfficeMax",
@@ -5329,7 +5329,7 @@
       "properties": {
         "ref": "6178",
         "shop": "stationery",
-        "addr:city": "VALLEJO",
+        "addr:city": "Vallejo",
         "addr:state": "CA",
         "addr:postcode": "94591",
         "name": "OfficeMax",
@@ -5349,7 +5349,7 @@
       "properties": {
         "ref": "6176",
         "shop": "stationery",
-        "addr:city": "CINCINNATI",
+        "addr:city": "Cincinnati",
         "addr:state": "OH",
         "addr:postcode": "45245",
         "name": "OfficeMax",
@@ -5410,7 +5410,7 @@
       "properties": {
         "ref": "6171",
         "shop": "stationery",
-        "addr:city": "GLENDALE",
+        "addr:city": "Glendale",
         "addr:state": "AZ",
         "addr:postcode": "85308",
         "name": "OfficeMax",
@@ -5430,7 +5430,7 @@
       "properties": {
         "ref": "6168",
         "shop": "stationery",
-        "addr:city": "SACRAMENTO",
+        "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95825",
         "name": "OfficeMax",
@@ -5470,7 +5470,7 @@
       "properties": {
         "ref": "6166",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77096",
         "name": "Office Depot",
@@ -5490,7 +5490,7 @@
       "properties": {
         "ref": "6165",
         "shop": "stationery",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75204",
         "name": "OfficeMax",
@@ -5510,7 +5510,7 @@
       "properties": {
         "ref": "6164",
         "shop": "stationery",
-        "addr:city": "MAPLEWOOD",
+        "addr:city": "Maplewood",
         "addr:state": "MN",
         "addr:postcode": "55109",
         "name": "OfficeMax",
@@ -5530,7 +5530,7 @@
       "properties": {
         "ref": "6162",
         "shop": "stationery",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87123",
         "name": "Office Depot",
@@ -5550,7 +5550,7 @@
       "properties": {
         "ref": "6159",
         "shop": "stationery",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99515",
         "name": "OfficeMax",
@@ -5590,7 +5590,7 @@
       "properties": {
         "ref": "6153",
         "shop": "stationery",
-        "addr:city": "GAINESVILLE",
+        "addr:city": "Gainesville",
         "addr:state": "GA",
         "addr:postcode": "30501",
         "name": "OfficeMax",
@@ -5610,7 +5610,7 @@
       "properties": {
         "ref": "6152",
         "shop": "stationery",
-        "addr:city": "SKOKIE",
+        "addr:city": "Skokie",
         "addr:state": "IL",
         "addr:postcode": "60077",
         "name": "OfficeMax",
@@ -5630,7 +5630,7 @@
       "properties": {
         "ref": "6148",
         "shop": "stationery",
-        "addr:city": "DENVER",
+        "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80209",
         "name": "Office Depot",
@@ -5650,7 +5650,7 @@
       "properties": {
         "ref": "6146",
         "shop": "stationery",
-        "addr:city": "HOLLYWOOD",
+        "addr:city": "Hollywood",
         "addr:state": "FL",
         "addr:postcode": "33020",
         "name": "OfficeMax",
@@ -5670,7 +5670,7 @@
       "properties": {
         "ref": "6143",
         "shop": "stationery",
-        "addr:city": "HALLANDALE",
+        "addr:city": "Hallandale",
         "addr:state": "FL",
         "addr:postcode": "33009",
         "name": "OfficeMax",
@@ -5710,7 +5710,7 @@
       "properties": {
         "ref": "6136",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33175",
         "name": "OfficeMax",
@@ -5730,7 +5730,7 @@
       "properties": {
         "ref": "6134",
         "shop": "stationery",
-        "addr:city": "APPLETON",
+        "addr:city": "Appleton",
         "addr:state": "WI",
         "addr:postcode": "54914",
         "name": "OfficeMax",
@@ -5770,7 +5770,7 @@
       "properties": {
         "ref": "6130",
         "shop": "stationery",
-        "addr:city": "SARASOTA",
+        "addr:city": "Sarasota",
         "addr:state": "FL",
         "addr:postcode": "34239",
         "name": "OfficeMax",
@@ -5790,7 +5790,7 @@
       "properties": {
         "ref": "6129",
         "shop": "stationery",
-        "addr:city": "PHOENIX",
+        "addr:city": "Phoenix",
         "addr:state": "AZ",
         "addr:postcode": "85032",
         "name": "OfficeMax",
@@ -5810,7 +5810,7 @@
       "properties": {
         "ref": "6126",
         "shop": "stationery",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85705",
         "name": "OfficeMax",
@@ -5831,7 +5831,7 @@
       "properties": {
         "ref": "6120",
         "shop": "stationery",
-        "addr:city": "MIDVALE",
+        "addr:city": "Midvale",
         "addr:state": "UT",
         "addr:postcode": "84047",
         "name": "OfficeMax",
@@ -5871,7 +5871,7 @@
       "properties": {
         "ref": "6113",
         "shop": "stationery",
-        "addr:city": "TOLEDO",
+        "addr:city": "Toledo",
         "addr:state": "OH",
         "addr:postcode": "43612",
         "name": "OfficeMax",
@@ -5891,7 +5891,7 @@
       "properties": {
         "ref": "6111",
         "shop": "stationery",
-        "addr:city": "MADISON",
+        "addr:city": "Madison",
         "addr:state": "WI",
         "addr:postcode": "53719",
         "name": "OfficeMax",
@@ -5931,7 +5931,7 @@
       "properties": {
         "ref": "6107",
         "shop": "stationery",
-        "addr:city": "FARGO",
+        "addr:city": "Fargo",
         "addr:state": "ND",
         "addr:postcode": "58103",
         "name": "Office Depot",
@@ -5971,7 +5971,7 @@
       "properties": {
         "ref": "6101",
         "shop": "stationery",
-        "addr:city": "BOARDMAN",
+        "addr:city": "Boardman",
         "addr:state": "OH",
         "addr:postcode": "44512",
         "name": "OfficeMax",
@@ -5991,7 +5991,7 @@
       "properties": {
         "ref": "6094",
         "shop": "stationery",
-        "addr:city": "WALKER",
+        "addr:city": "Walker",
         "addr:state": "MI",
         "addr:postcode": "49544",
         "name": "Office Depot",
@@ -6011,7 +6011,7 @@
       "properties": {
         "ref": "6093",
         "shop": "stationery",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30339",
         "name": "OfficeMax",
@@ -6031,7 +6031,7 @@
       "properties": {
         "ref": "6091",
         "shop": "stationery",
-        "addr:city": "NORFOLK",
+        "addr:city": "Norfolk",
         "addr:state": "VA",
         "addr:postcode": "23502",
         "name": "OfficeMax",
@@ -6052,7 +6052,7 @@
       "properties": {
         "ref": "6088",
         "shop": "stationery",
-        "addr:city": "HAMPTON",
+        "addr:city": "Hampton",
         "addr:state": "VA",
         "addr:postcode": "23666",
         "name": "Office Depot",
@@ -6073,7 +6073,7 @@
       "properties": {
         "ref": "6082",
         "shop": "stationery",
-        "addr:city": "JOLIET",
+        "addr:city": "Joliet",
         "addr:state": "IL",
         "addr:postcode": "60435",
         "name": "OfficeMax",
@@ -6093,7 +6093,7 @@
       "properties": {
         "ref": "6075",
         "shop": "stationery",
-        "addr:city": "MONROEVILLE",
+        "addr:city": "Monroeville",
         "addr:state": "PA",
         "addr:postcode": "15146",
         "name": "OfficeMax",
@@ -6114,7 +6114,7 @@
       "properties": {
         "ref": "6074",
         "shop": "stationery",
-        "addr:city": "ASHWAUBENON",
+        "addr:city": "Ashwaubenon",
         "addr:state": "WI",
         "addr:postcode": "54304",
         "name": "OfficeMax",
@@ -6134,7 +6134,7 @@
       "properties": {
         "ref": "6072",
         "shop": "stationery",
-        "addr:city": "PEORIA",
+        "addr:city": "Peoria",
         "addr:state": "IL",
         "addr:postcode": "61615",
         "name": "Office Depot",
@@ -6154,7 +6154,7 @@
       "properties": {
         "ref": "6071",
         "shop": "stationery",
-        "addr:city": "ROCKFORD",
+        "addr:city": "Rockford",
         "addr:state": "IL",
         "addr:postcode": "61108",
         "name": "OfficeMax",
@@ -6194,7 +6194,7 @@
       "properties": {
         "ref": "6061",
         "shop": "stationery",
-        "addr:city": "WICHITA",
+        "addr:city": "Wichita",
         "addr:state": "KS",
         "addr:postcode": "67207",
         "name": "Office Depot",
@@ -6214,7 +6214,7 @@
       "properties": {
         "ref": "6047",
         "shop": "stationery",
-        "addr:city": "CRESTWOOD",
+        "addr:city": "Crestwood",
         "addr:state": "IL",
         "addr:postcode": "60418",
         "name": "OfficeMax",
@@ -6234,7 +6234,7 @@
       "properties": {
         "ref": "6046",
         "shop": "stationery",
-        "addr:city": "BLASDELL",
+        "addr:city": "Blasdell",
         "addr:state": "NY",
         "addr:postcode": "14219",
         "name": "OfficeMax",
@@ -6254,7 +6254,7 @@
       "properties": {
         "ref": "6042",
         "shop": "stationery",
-        "addr:city": "EDINA",
+        "addr:city": "Edina",
         "addr:state": "MN",
         "addr:postcode": "55435",
         "name": "Office Depot",
@@ -6274,7 +6274,7 @@
       "properties": {
         "ref": "6031",
         "shop": "stationery",
-        "addr:city": "HOLLAND",
+        "addr:city": "Holland",
         "addr:state": "OH",
         "addr:postcode": "43528",
         "name": "OfficeMax",
@@ -6294,7 +6294,7 @@
       "properties": {
         "ref": "6028",
         "shop": "stationery",
-        "addr:city": "KENTWOOD",
+        "addr:city": "Kentwood",
         "addr:state": "MI",
         "addr:postcode": "49512",
         "name": "OfficeMax",
@@ -6355,7 +6355,7 @@
       "properties": {
         "ref": "3386",
         "shop": "stationery",
-        "addr:city": "LAYTON",
+        "addr:city": "Layton",
         "addr:state": "UT",
         "addr:postcode": "84041",
         "name": "Office Depot",
@@ -6375,7 +6375,7 @@
       "properties": {
         "ref": "3385",
         "shop": "stationery",
-        "addr:city": "CHARLOTTE",
+        "addr:city": "Charlotte",
         "addr:state": "NC",
         "addr:postcode": "28262",
         "name": "Office Depot",
@@ -6415,7 +6415,7 @@
       "properties": {
         "ref": "3382",
         "shop": "stationery",
-        "addr:city": "PORTAGE",
+        "addr:city": "Portage",
         "addr:state": "MI",
         "addr:postcode": "49002",
         "name": "Office Depot",
@@ -6435,7 +6435,7 @@
       "properties": {
         "ref": "3380",
         "shop": "stationery",
-        "addr:city": "KALAMAZOO",
+        "addr:city": "Kalamazoo",
         "addr:state": "MI",
         "addr:postcode": "49009",
         "name": "Office Depot",
@@ -6455,7 +6455,7 @@
       "properties": {
         "ref": "3379",
         "shop": "stationery",
-        "addr:city": "OKEMOS",
+        "addr:city": "Okemos",
         "addr:state": "MI",
         "addr:postcode": "48864",
         "name": "Office Depot",
@@ -6495,7 +6495,7 @@
       "properties": {
         "ref": "3377",
         "shop": "stationery",
-        "addr:city": "MESQUITE",
+        "addr:city": "Mesquite",
         "addr:state": "TX",
         "addr:postcode": "75150",
         "name": "Office Depot",
@@ -6537,7 +6537,7 @@
       "properties": {
         "ref": "3373",
         "shop": "stationery",
-        "addr:city": "MANCHESTER",
+        "addr:city": "Manchester",
         "addr:state": "MO",
         "addr:postcode": "63011",
         "name": "Office Depot",
@@ -6577,7 +6577,7 @@
       "properties": {
         "ref": "3371",
         "shop": "stationery",
-        "addr:city": "DEERFIELD",
+        "addr:city": "Deerfield",
         "addr:state": "IL",
         "addr:postcode": "60015",
         "name": "Office Depot",
@@ -6597,7 +6597,7 @@
       "properties": {
         "ref": "3369",
         "shop": "stationery",
-        "addr:city": "BEAVERTON",
+        "addr:city": "Beaverton",
         "addr:state": "OR",
         "addr:postcode": "97005",
         "name": "Office Depot",
@@ -6637,7 +6637,7 @@
       "properties": {
         "ref": "3367",
         "shop": "stationery",
-        "addr:city": "NORTHGLENN",
+        "addr:city": "Northglenn",
         "addr:state": "CO",
         "addr:postcode": "80234",
         "name": "Office Depot",
@@ -6717,7 +6717,7 @@
       "properties": {
         "ref": "3362",
         "shop": "stationery",
-        "addr:city": "DENVER",
+        "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80222",
         "name": "Office Depot",
@@ -6737,7 +6737,7 @@
       "properties": {
         "ref": "3361",
         "shop": "stationery",
-        "addr:city": "BRADENTON",
+        "addr:city": "Bradenton",
         "addr:state": "FL",
         "addr:postcode": "34205",
         "name": "Office Depot",
@@ -6757,7 +6757,7 @@
       "properties": {
         "ref": "3360",
         "shop": "stationery",
-        "addr:city": "SCHAUMBURG",
+        "addr:city": "Schaumburg",
         "addr:state": "IL",
         "addr:postcode": "60173",
         "name": "Office Depot",
@@ -6777,7 +6777,7 @@
       "properties": {
         "ref": "3357",
         "shop": "stationery",
-        "addr:city": "CHARLESTON",
+        "addr:city": "Charleston",
         "addr:state": "SC",
         "addr:postcode": "29407",
         "name": "Office Depot",
@@ -6798,7 +6798,7 @@
       "properties": {
         "ref": "3356",
         "shop": "stationery",
-        "addr:city": "FRANKLIN",
+        "addr:city": "Franklin",
         "addr:state": "TN",
         "addr:postcode": "37067",
         "name": "Office Depot",
@@ -6880,7 +6880,7 @@
       "properties": {
         "ref": "3340",
         "shop": "stationery",
-        "addr:city": "BEAVERCREEK",
+        "addr:city": "Beavercreek",
         "addr:state": "OH",
         "addr:postcode": "45431",
         "name": "Office Depot",
@@ -6920,7 +6920,7 @@
       "properties": {
         "ref": "3322",
         "shop": "stationery",
-        "addr:city": "KATY",
+        "addr:city": "Katy",
         "addr:state": "TX",
         "addr:postcode": "77450",
         "name": "Office Depot",
@@ -6960,7 +6960,7 @@
       "properties": {
         "ref": "3320",
         "shop": "stationery",
-        "addr:city": "TARZANA",
+        "addr:city": "Tarzana",
         "addr:state": "CA",
         "addr:postcode": "91356",
         "name": "Office Depot",
@@ -6980,7 +6980,7 @@
       "properties": {
         "ref": "3317",
         "shop": "stationery",
-        "addr:city": "SHERMAN",
+        "addr:city": "Sherman",
         "addr:state": "TX",
         "addr:postcode": "75090",
         "name": "Office Depot",
@@ -7000,7 +7000,7 @@
       "properties": {
         "ref": "3312",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77082",
         "name": "Office Depot",
@@ -7041,7 +7041,7 @@
       "properties": {
         "ref": "3309",
         "shop": "stationery",
-        "addr:city": "ALEXANDRIA",
+        "addr:city": "Alexandria",
         "addr:state": "VA",
         "addr:postcode": "22303",
         "name": "Office Depot",
@@ -7061,7 +7061,7 @@
       "properties": {
         "ref": "3308",
         "shop": "stationery",
-        "addr:city": "DAPHNE",
+        "addr:city": "Daphne",
         "addr:state": "AL",
         "addr:postcode": "36526",
         "name": "Office Depot",
@@ -7082,7 +7082,7 @@
       "properties": {
         "ref": "3306",
         "shop": "stationery",
-        "addr:city": "BERKELEY",
+        "addr:city": "Berkeley",
         "addr:state": "CA",
         "addr:postcode": "94710",
         "name": "Office Depot",
@@ -7102,7 +7102,7 @@
       "properties": {
         "ref": "3304",
         "shop": "stationery",
-        "addr:city": "ARLINGTON",
+        "addr:city": "Arlington",
         "addr:state": "TX",
         "addr:postcode": "76011",
         "name": "Office Depot",
@@ -7123,7 +7123,7 @@
       "properties": {
         "ref": "3297",
         "shop": "stationery",
-        "addr:city": "MEMPHIS",
+        "addr:city": "Memphis",
         "addr:state": "TN",
         "addr:postcode": "38119",
         "name": "Office Depot",
@@ -7143,7 +7143,7 @@
       "properties": {
         "ref": "3293",
         "shop": "stationery",
-        "addr:city": "TEXARKANA",
+        "addr:city": "Texarkana",
         "addr:state": "TX",
         "addr:postcode": "75503",
         "name": "Office Depot",
@@ -7163,7 +7163,7 @@
       "properties": {
         "ref": "3286",
         "shop": "stationery",
-        "addr:city": "COLMA",
+        "addr:city": "Colma",
         "addr:state": "CA",
         "addr:postcode": "94014",
         "name": "Office Depot",
@@ -7245,7 +7245,7 @@
       "properties": {
         "ref": "3277",
         "shop": "stationery",
-        "addr:city": "MONTEBELLO",
+        "addr:city": "Montebello",
         "addr:state": "CA",
         "addr:postcode": "90640",
         "name": "Office Depot",
@@ -7265,7 +7265,7 @@
       "properties": {
         "ref": "3272",
         "shop": "stationery",
-        "addr:city": "AURORA",
+        "addr:city": "Aurora",
         "addr:state": "CO",
         "addr:postcode": "80012",
         "name": "Office Depot",
@@ -7347,7 +7347,7 @@
       "properties": {
         "ref": "3264",
         "shop": "stationery",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75237",
         "name": "Office Depot",
@@ -7368,7 +7368,7 @@
       "properties": {
         "ref": "3263",
         "shop": "stationery",
-        "addr:city": "PRATVILLE",
+        "addr:city": "Pratville",
         "addr:state": "AL",
         "addr:postcode": "36066",
         "name": "Office Depot",
@@ -7388,7 +7388,7 @@
       "properties": {
         "ref": "3262",
         "shop": "stationery",
-        "addr:city": "MATTHEWS",
+        "addr:city": "Matthews",
         "addr:state": "NC",
         "addr:postcode": "28105",
         "name": "Office Depot",
@@ -7408,7 +7408,7 @@
       "properties": {
         "ref": "3261",
         "shop": "stationery",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32809",
         "name": "Office Depot",
@@ -7429,7 +7429,7 @@
       "properties": {
         "ref": "3260",
         "shop": "stationery",
-        "addr:city": "RACINE",
+        "addr:city": "Racine",
         "addr:state": "WI",
         "addr:postcode": "53406",
         "name": "Office Depot",
@@ -7449,7 +7449,7 @@
       "properties": {
         "ref": "3256",
         "shop": "stationery",
-        "addr:city": "PUYALLUP",
+        "addr:city": "Puyallup",
         "addr:state": "WA",
         "addr:postcode": "98373",
         "name": "Office Depot",
@@ -7469,7 +7469,7 @@
       "properties": {
         "ref": "3253",
         "shop": "stationery",
-        "addr:city": "MERRILLVILLE",
+        "addr:city": "Merrillville",
         "addr:state": "IN",
         "addr:postcode": "46410",
         "name": "Office Depot",
@@ -7489,7 +7489,7 @@
       "properties": {
         "ref": "3252",
         "shop": "stationery",
-        "addr:city": "RENO",
+        "addr:city": "Reno",
         "addr:state": "NV",
         "addr:postcode": "89509",
         "name": "Office Depot",
@@ -7509,7 +7509,7 @@
       "properties": {
         "ref": "3251",
         "shop": "stationery",
-        "addr:city": "ANNAPOLIS",
+        "addr:city": "Annapolis",
         "addr:state": "MD",
         "addr:postcode": "21401",
         "name": "Office Depot",
@@ -7529,7 +7529,7 @@
       "properties": {
         "ref": "3250",
         "shop": "stationery",
-        "addr:city": "HICKORY",
+        "addr:city": "Hickory",
         "addr:state": "NC",
         "addr:postcode": "28602",
         "name": "Office Depot",
@@ -7549,7 +7549,7 @@
       "properties": {
         "ref": "3248",
         "shop": "stationery",
-        "addr:city": "STERLING",
+        "addr:city": "Sterling",
         "addr:state": "VA",
         "addr:postcode": "20164",
         "name": "Office Depot",
@@ -7569,7 +7569,7 @@
       "properties": {
         "ref": "3246",
         "shop": "stationery",
-        "addr:city": "GASTONIA",
+        "addr:city": "Gastonia",
         "addr:state": "NC",
         "addr:postcode": "28056",
         "name": "Office Depot",
@@ -7610,7 +7610,7 @@
       "properties": {
         "ref": "3244",
         "shop": "stationery",
-        "addr:city": "BERWYN",
+        "addr:city": "Berwyn",
         "addr:state": "IL",
         "addr:postcode": "60402",
         "name": "Office Depot",
@@ -7690,7 +7690,7 @@
       "properties": {
         "ref": "3235",
         "shop": "stationery",
-        "addr:city": "CHATTANOOGA",
+        "addr:city": "Chattanooga",
         "addr:state": "TN",
         "addr:postcode": "37411",
         "name": "Office Depot",
@@ -7710,7 +7710,7 @@
       "properties": {
         "ref": "3230",
         "shop": "stationery",
-        "addr:city": "DIBERVILLE",
+        "addr:city": "Diberville",
         "addr:state": "MS",
         "addr:postcode": "39540",
         "name": "Office Depot",
@@ -7730,7 +7730,7 @@
       "properties": {
         "ref": "2838",
         "shop": "stationery",
-        "addr:city": "OREM",
+        "addr:city": "Orem",
         "addr:state": "UT",
         "addr:postcode": "84058",
         "name": "Office Depot",
@@ -7790,7 +7790,7 @@
       "properties": {
         "ref": "2819",
         "shop": "stationery",
-        "addr:city": "PFLUGERVILLE",
+        "addr:city": "Pflugerville",
         "addr:state": "TX",
         "addr:postcode": "78660",
         "name": "Office Depot",
@@ -7811,7 +7811,7 @@
       "properties": {
         "ref": "2815",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33155",
         "name": "Office Depot",
@@ -7831,7 +7831,7 @@
       "properties": {
         "ref": "2809",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77008",
         "name": "Office Depot",
@@ -7891,7 +7891,7 @@
       "properties": {
         "ref": "2799",
         "shop": "stationery",
-        "addr:city": "ARVADA",
+        "addr:city": "Arvada",
         "addr:state": "CO",
         "addr:postcode": "80002",
         "name": "Office Depot",
@@ -7911,7 +7911,7 @@
       "properties": {
         "ref": "2796",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77058",
         "name": "Office Depot",
@@ -7931,7 +7931,7 @@
       "properties": {
         "ref": "2790",
         "shop": "stationery",
-        "addr:city": "ELLISVILLE",
+        "addr:city": "Ellisville",
         "addr:state": "MO",
         "addr:postcode": "63011",
         "name": "Office Depot",
@@ -7951,7 +7951,7 @@
       "properties": {
         "ref": "2785",
         "shop": "stationery",
-        "addr:city": "LUBBOCK",
+        "addr:city": "Lubbock",
         "addr:state": "TX",
         "addr:postcode": "79407",
         "name": "Office Depot",
@@ -7971,7 +7971,7 @@
       "properties": {
         "ref": "2784",
         "shop": "stationery",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78757",
         "name": "Office Depot",
@@ -7991,7 +7991,7 @@
       "properties": {
         "ref": "2770",
         "shop": "stationery",
-        "addr:city": "ARNOLD",
+        "addr:city": "Arnold",
         "addr:state": "MO",
         "addr:postcode": "63010",
         "name": "Office Depot",
@@ -8031,7 +8031,7 @@
       "properties": {
         "ref": "2761",
         "shop": "stationery",
-        "addr:city": "MADISON",
+        "addr:city": "Madison",
         "addr:state": "MS",
         "addr:postcode": "39110",
         "name": "Office Depot",
@@ -8051,7 +8051,7 @@
       "properties": {
         "ref": "2749",
         "shop": "stationery",
-        "addr:city": "MOBILE",
+        "addr:city": "Mobile",
         "addr:state": "AL",
         "addr:postcode": "36619",
         "name": "Office Depot",
@@ -8071,7 +8071,7 @@
       "properties": {
         "ref": "2745",
         "shop": "stationery",
-        "addr:city": "LAFAYETTE",
+        "addr:city": "Lafayette",
         "addr:state": "LA",
         "addr:postcode": "70501",
         "name": "Office Depot",
@@ -8111,7 +8111,7 @@
       "properties": {
         "ref": "2741",
         "shop": "stationery",
-        "addr:city": "SEGUIN",
+        "addr:city": "Seguin",
         "addr:state": "TX",
         "addr:postcode": "78155",
         "name": "Office Depot",
@@ -8173,7 +8173,7 @@
       "properties": {
         "ref": "2729",
         "shop": "stationery",
-        "addr:city": "BIRMINGHAM",
+        "addr:city": "Birmingham",
         "addr:state": "AL",
         "addr:postcode": "35210",
         "name": "Office Depot",
@@ -8194,7 +8194,7 @@
       "properties": {
         "ref": "2727",
         "shop": "stationery",
-        "addr:city": "JUPITER",
+        "addr:city": "Jupiter",
         "addr:state": "FL",
         "addr:postcode": "33477",
         "name": "Office Depot",
@@ -8215,7 +8215,7 @@
       "properties": {
         "ref": "2722",
         "shop": "stationery",
-        "addr:city": "TUCSON",
+        "addr:city": "Tucson",
         "addr:state": "AZ",
         "addr:postcode": "85716",
         "name": "Office Depot",
@@ -8235,7 +8235,7 @@
       "properties": {
         "ref": "2720",
         "shop": "stationery",
-        "addr:city": "BRIGHTON",
+        "addr:city": "Brighton",
         "addr:state": "CO",
         "addr:postcode": "80601",
         "name": "Office Depot",
@@ -8255,7 +8255,7 @@
       "properties": {
         "ref": "2718",
         "shop": "stationery",
-        "addr:city": "HUNTERSVILLE",
+        "addr:city": "Huntersville",
         "addr:state": "NC",
         "addr:postcode": "28078",
         "name": "Office Depot",
@@ -8275,7 +8275,7 @@
       "properties": {
         "ref": "2717",
         "shop": "stationery",
-        "addr:city": "MANDEVILLE",
+        "addr:city": "Mandeville",
         "addr:state": "LA",
         "addr:postcode": "70471",
         "name": "Office Depot",
@@ -8315,7 +8315,7 @@
       "properties": {
         "ref": "2714",
         "shop": "stationery",
-        "addr:city": "NORMAN",
+        "addr:city": "Norman",
         "addr:state": "OK",
         "addr:postcode": "73069",
         "name": "Office Depot",
@@ -8335,7 +8335,7 @@
       "properties": {
         "ref": "2712",
         "shop": "stationery",
-        "addr:city": "CAROLINA",
+        "addr:city": "Carolina",
         "addr:state": "KM",
         "addr:postcode": "00987",
         "name": "OfficeMax",
@@ -8354,7 +8354,7 @@
       "properties": {
         "ref": "2709",
         "shop": "stationery",
-        "addr:city": "WACO",
+        "addr:city": "Waco",
         "addr:state": "TX",
         "addr:postcode": "76706",
         "name": "Office Depot",
@@ -8374,7 +8374,7 @@
       "properties": {
         "ref": "2706",
         "shop": "stationery",
-        "addr:city": "PENSACOLA",
+        "addr:city": "Pensacola",
         "addr:state": "FL",
         "addr:postcode": "32505",
         "name": "Office Depot",
@@ -8394,7 +8394,7 @@
       "properties": {
         "ref": "2705",
         "shop": "stationery",
-        "addr:city": "BRANDON",
+        "addr:city": "Brandon",
         "addr:state": "FL",
         "addr:postcode": "33511",
         "name": "Office Depot",
@@ -8455,7 +8455,7 @@
       "properties": {
         "ref": "2698",
         "shop": "stationery",
-        "addr:city": "RALEIGH",
+        "addr:city": "Raleigh",
         "addr:state": "NC",
         "addr:postcode": "27613",
         "name": "Office Depot",
@@ -8517,7 +8517,7 @@
       "properties": {
         "ref": "2688",
         "shop": "stationery",
-        "addr:city": "MISSION",
+        "addr:city": "Mission",
         "addr:state": "TX",
         "addr:postcode": "78572",
         "name": "Office Depot",
@@ -8537,7 +8537,7 @@
       "properties": {
         "ref": "2687",
         "shop": "stationery",
-        "addr:city": "MORRISVILLE",
+        "addr:city": "Morrisville",
         "addr:state": "NC",
         "addr:postcode": "27560",
         "name": "Office Depot",
@@ -8557,7 +8557,7 @@
       "properties": {
         "ref": "2675",
         "shop": "stationery",
-        "addr:city": "CLEARWATER",
+        "addr:city": "Clearwater",
         "addr:state": "FL",
         "addr:postcode": "33764",
         "name": "Office Depot",
@@ -8577,7 +8577,7 @@
       "properties": {
         "ref": "2668",
         "shop": "stationery",
-        "addr:city": "WESLACO",
+        "addr:city": "Weslaco",
         "addr:state": "TX",
         "addr:postcode": "78596",
         "name": "Office Depot",
@@ -8597,7 +8597,7 @@
       "properties": {
         "ref": "2665",
         "shop": "stationery",
-        "addr:city": "PEARLAND",
+        "addr:city": "Pearland",
         "addr:state": "TX",
         "addr:postcode": "77581",
         "name": "Office Depot",
@@ -8617,7 +8617,7 @@
       "properties": {
         "ref": "2662",
         "shop": "stationery",
-        "addr:city": "PASADENA",
+        "addr:city": "Pasadena",
         "addr:state": "TX",
         "addr:postcode": "77505",
         "name": "Office Depot",
@@ -8637,7 +8637,7 @@
       "properties": {
         "ref": "2660",
         "shop": "stationery",
-        "addr:city": "SPRINGDALE",
+        "addr:city": "Springdale",
         "addr:state": "AR",
         "addr:postcode": "72762",
         "name": "Office Depot",
@@ -8657,7 +8657,7 @@
       "properties": {
         "ref": "2658",
         "shop": "stationery",
-        "addr:city": "RICHMOND",
+        "addr:city": "Richmond",
         "addr:state": "KY",
         "addr:postcode": "40475",
         "name": "Office Depot",
@@ -8697,7 +8697,7 @@
       "properties": {
         "ref": "2645",
         "shop": "stationery",
-        "addr:city": "DRAPER",
+        "addr:city": "Draper",
         "addr:state": "UT",
         "addr:postcode": "84020",
         "name": "Office Depot",
@@ -8717,7 +8717,7 @@
       "properties": {
         "ref": "2642",
         "shop": "stationery",
-        "addr:city": "CLARKSTON",
+        "addr:city": "Clarkston",
         "addr:state": "MI",
         "addr:postcode": "48346",
         "name": "Office Depot",
@@ -8737,7 +8737,7 @@
       "properties": {
         "ref": "2635",
         "shop": "stationery",
-        "addr:city": "GILLETTE",
+        "addr:city": "Gillette",
         "addr:state": "WY",
         "addr:postcode": "82718",
         "name": "Office Depot",
@@ -8757,7 +8757,7 @@
       "properties": {
         "ref": "2634",
         "shop": "stationery",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32837",
         "name": "Office Depot",
@@ -8777,7 +8777,7 @@
       "properties": {
         "ref": "2629",
         "shop": "stationery",
-        "addr:city": "JONESBORO",
+        "addr:city": "Jonesboro",
         "addr:state": "GA",
         "addr:postcode": "30236",
         "name": "Office Depot",
@@ -8797,7 +8797,7 @@
       "properties": {
         "ref": "2628",
         "shop": "stationery",
-        "addr:city": "SPARKS",
+        "addr:city": "Sparks",
         "addr:state": "NV",
         "addr:postcode": "89436",
         "name": "Office Depot",
@@ -8817,7 +8817,7 @@
       "properties": {
         "ref": "2617",
         "shop": "stationery",
-        "addr:city": "TOMBALL",
+        "addr:city": "Tomball",
         "addr:state": "TX",
         "addr:postcode": "77377",
         "name": "Office Depot",
@@ -8837,7 +8837,7 @@
       "properties": {
         "ref": "2613",
         "shop": "stationery",
-        "addr:city": "HENDERSONVILLE",
+        "addr:city": "Hendersonville",
         "addr:state": "TN",
         "addr:postcode": "37075",
         "name": "Office Depot",
@@ -8877,7 +8877,7 @@
       "properties": {
         "ref": "2611",
         "shop": "stationery",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87109",
         "name": "Office Depot",
@@ -8897,7 +8897,7 @@
       "properties": {
         "ref": "2608",
         "shop": "stationery",
-        "addr:city": "MARYSVILLE",
+        "addr:city": "Marysville",
         "addr:state": "WA",
         "addr:postcode": "98271",
         "name": "Office Depot",
@@ -8917,7 +8917,7 @@
       "properties": {
         "ref": "2606",
         "shop": "stationery",
-        "addr:city": "GREENSBORO",
+        "addr:city": "Greensboro",
         "addr:state": "NC",
         "addr:postcode": "27410",
         "name": "Office Depot",
@@ -8937,7 +8937,7 @@
       "properties": {
         "ref": "2605",
         "shop": "stationery",
-        "addr:city": "RENO",
+        "addr:city": "Reno",
         "addr:state": "NV",
         "addr:postcode": "89521",
         "name": "Office Depot",
@@ -8977,7 +8977,7 @@
       "properties": {
         "ref": "2602",
         "shop": "stationery",
-        "addr:city": "GREENSBORO",
+        "addr:city": "Greensboro",
         "addr:state": "NC",
         "addr:postcode": "27401",
         "name": "Office Depot",
@@ -9057,7 +9057,7 @@
       "properties": {
         "ref": "2573",
         "shop": "stationery",
-        "addr:city": "LAFAYETTE",
+        "addr:city": "Lafayette",
         "addr:state": "LA",
         "addr:postcode": "70503",
         "name": "Office Depot",
@@ -9077,7 +9077,7 @@
       "properties": {
         "ref": "2564",
         "shop": "stationery",
-        "addr:city": "HUNTSVILLE",
+        "addr:city": "Huntsville",
         "addr:state": "AL",
         "addr:postcode": "35806",
         "name": "Office Depot",
@@ -9098,7 +9098,7 @@
       "properties": {
         "ref": "2563",
         "shop": "stationery",
-        "addr:city": "MISHAWAKA",
+        "addr:city": "Mishawaka",
         "addr:state": "IN",
         "addr:postcode": "46545",
         "name": "Office Depot",
@@ -9178,7 +9178,7 @@
       "properties": {
         "ref": "2547",
         "shop": "stationery",
-        "addr:city": "LOUISVILLE",
+        "addr:city": "Louisville",
         "addr:state": "KY",
         "addr:postcode": "40207",
         "name": "Office Depot",
@@ -9198,7 +9198,7 @@
       "properties": {
         "ref": "2546",
         "shop": "stationery",
-        "addr:city": "VIERA",
+        "addr:city": "Viera",
         "addr:state": "FL",
         "addr:postcode": "32940",
         "name": "Office Depot",
@@ -9218,7 +9218,7 @@
       "properties": {
         "ref": "2545",
         "shop": "stationery",
-        "addr:city": "DICKSON",
+        "addr:city": "Dickson",
         "addr:state": "TN",
         "addr:postcode": "37055",
         "name": "Office Depot",
@@ -9258,7 +9258,7 @@
       "properties": {
         "ref": "2542",
         "shop": "stationery",
-        "addr:city": "VANCOUVER",
+        "addr:city": "Vancouver",
         "addr:state": "WA",
         "addr:postcode": "98662",
         "name": "Office Depot",
@@ -9299,7 +9299,7 @@
       "properties": {
         "ref": "2538",
         "shop": "stationery",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30318",
         "name": "Office Depot",
@@ -9340,7 +9340,7 @@
       "properties": {
         "ref": "2521",
         "shop": "stationery",
-        "addr:city": "BOWIE",
+        "addr:city": "Bowie",
         "addr:state": "MD",
         "addr:postcode": "20720",
         "name": "Office Depot",
@@ -9360,7 +9360,7 @@
       "properties": {
         "ref": "2519",
         "shop": "stationery",
-        "addr:city": "MCDONOUGH",
+        "addr:city": "McDonough",
         "addr:state": "GA",
         "addr:postcode": "30253",
         "name": "Office Depot",
@@ -9420,7 +9420,7 @@
       "properties": {
         "ref": "2479",
         "shop": "stationery",
-        "addr:city": "SPRINGDALE",
+        "addr:city": "Springdale",
         "addr:state": "OH",
         "addr:postcode": "45246",
         "name": "Office Depot",
@@ -9460,7 +9460,7 @@
       "properties": {
         "ref": "2428",
         "shop": "stationery",
-        "addr:city": "GREENWOOD",
+        "addr:city": "Greenwood",
         "addr:state": "IN",
         "addr:postcode": "46142",
         "name": "Office Depot",
@@ -9500,7 +9500,7 @@
       "properties": {
         "ref": "2395",
         "shop": "stationery",
-        "addr:city": "DAYTON",
+        "addr:city": "Dayton",
         "addr:state": "OH",
         "addr:postcode": "45414",
         "name": "Office Depot",
@@ -9520,7 +9520,7 @@
       "properties": {
         "ref": "2391",
         "shop": "stationery",
-        "addr:city": "TULSA",
+        "addr:city": "Tulsa",
         "addr:state": "OK",
         "addr:postcode": "74104",
         "name": "Office Depot",
@@ -9540,7 +9540,7 @@
       "properties": {
         "ref": "2387",
         "shop": "stationery",
-        "addr:city": "CYPRESS",
+        "addr:city": "Cypress",
         "addr:state": "TX",
         "addr:postcode": "77429",
         "name": "Office Depot",
@@ -9560,7 +9560,7 @@
       "properties": {
         "ref": "2386",
         "shop": "stationery",
-        "addr:city": "GARLAND",
+        "addr:city": "Garland",
         "addr:state": "TX",
         "addr:postcode": "75040",
         "name": "Office Depot",
@@ -9580,7 +9580,7 @@
       "properties": {
         "ref": "2381",
         "shop": "stationery",
-        "addr:city": "SUWANEE",
+        "addr:city": "Suwanee",
         "addr:state": "GA",
         "addr:postcode": "30024",
         "name": "Office Depot",
@@ -9600,7 +9600,7 @@
       "properties": {
         "ref": "2373",
         "shop": "stationery",
-        "addr:city": "DELAND",
+        "addr:city": "Deland",
         "addr:state": "FL",
         "addr:postcode": "32720",
         "name": "Office Depot",
@@ -9620,7 +9620,7 @@
       "properties": {
         "ref": "2370",
         "shop": "stationery",
-        "addr:city": "CLERMONT",
+        "addr:city": "Clermont",
         "addr:state": "FL",
         "addr:postcode": "34711",
         "name": "Office Depot",
@@ -9640,7 +9640,7 @@
       "properties": {
         "ref": "2367",
         "shop": "stationery",
-        "addr:city": "ANTIOCH",
+        "addr:city": "Antioch",
         "addr:state": "CA",
         "addr:postcode": "94531",
         "name": "Office Depot",
@@ -9660,7 +9660,7 @@
       "properties": {
         "ref": "2363",
         "shop": "stationery",
-        "addr:city": "LAKELAND",
+        "addr:city": "Lakeland",
         "addr:state": "FL",
         "addr:postcode": "33803",
         "name": "Office Depot",
@@ -9680,7 +9680,7 @@
       "properties": {
         "ref": "2362",
         "shop": "stationery",
-        "addr:city": "SEBRING",
+        "addr:city": "Sebring",
         "addr:state": "FL",
         "addr:postcode": "33870",
         "name": "Office Depot",
@@ -9700,7 +9700,7 @@
       "properties": {
         "ref": "2356",
         "shop": "stationery",
-        "addr:city": "ONTARIO",
+        "addr:city": "Ontario",
         "addr:state": "CA",
         "addr:postcode": "91761",
         "name": "Office Depot",
@@ -9760,7 +9760,7 @@
       "properties": {
         "ref": "2349",
         "shop": "stationery",
-        "addr:city": "COLUMBIA",
+        "addr:city": "Columbia",
         "addr:state": "SC",
         "addr:postcode": "29205",
         "name": "Office Depot",
@@ -9781,7 +9781,7 @@
       "properties": {
         "ref": "2346",
         "shop": "stationery",
-        "addr:city": "GEORGETOWN",
+        "addr:city": "Georgetown",
         "addr:state": "TX",
         "addr:postcode": "78628",
         "name": "Office Depot",
@@ -9841,7 +9841,7 @@
       "properties": {
         "ref": "2332",
         "shop": "stationery",
-        "addr:city": "UPLAND",
+        "addr:city": "Upland",
         "addr:state": "CA",
         "addr:postcode": "91784",
         "name": "Office Depot",
@@ -9861,7 +9861,7 @@
       "properties": {
         "ref": "2328",
         "shop": "stationery",
-        "addr:city": "DESTIN",
+        "addr:city": "Destin",
         "addr:state": "FL",
         "addr:postcode": "32541",
         "name": "Office Depot",
@@ -9881,7 +9881,7 @@
       "properties": {
         "ref": "2325",
         "shop": "stationery",
-        "addr:city": "BURLESON",
+        "addr:city": "Burleson",
         "addr:state": "TX",
         "addr:postcode": "76028",
         "name": "Office Depot",
@@ -9902,7 +9902,7 @@
       "properties": {
         "ref": "2317",
         "shop": "stationery",
-        "addr:city": "BARBOURSVILLE",
+        "addr:city": "Barboursville",
         "addr:state": "WV",
         "addr:postcode": "25504",
         "name": "Office Depot",
@@ -9922,7 +9922,7 @@
       "properties": {
         "ref": "2316",
         "shop": "stationery",
-        "addr:city": "MURFREESBORO",
+        "addr:city": "Murfreesboro",
         "addr:state": "TN",
         "addr:postcode": "37129",
         "name": "Office Depot",
@@ -9942,7 +9942,7 @@
       "properties": {
         "ref": "2309",
         "shop": "stationery",
-        "addr:city": "VANCOUVER",
+        "addr:city": "Vancouver",
         "addr:state": "WA",
         "addr:postcode": "98665",
         "name": "Office Depot",
@@ -9982,7 +9982,7 @@
       "properties": {
         "ref": "2299",
         "shop": "stationery",
-        "addr:city": "EMERYVILLE",
+        "addr:city": "Emeryville",
         "addr:state": "CA",
         "addr:postcode": "94608",
         "name": "Office Depot",
@@ -10002,7 +10002,7 @@
       "properties": {
         "ref": "2296",
         "shop": "stationery",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30307",
         "name": "Office Depot",
@@ -10063,7 +10063,7 @@
       "properties": {
         "ref": "2293",
         "shop": "stationery",
-        "addr:city": "HOOVER",
+        "addr:city": "Hoover",
         "addr:state": "AL",
         "addr:postcode": "35244",
         "name": "Office Depot",
@@ -10083,7 +10083,7 @@
       "properties": {
         "ref": "2292",
         "shop": "stationery",
-        "addr:city": "SACRAMENTO",
+        "addr:city": "Sacramento",
         "addr:state": "CA",
         "addr:postcode": "95819",
         "name": "Office Depot",
@@ -10103,7 +10103,7 @@
       "properties": {
         "ref": "2291",
         "shop": "stationery",
-        "addr:city": "CHANTILLY",
+        "addr:city": "Chantilly",
         "addr:state": "VA",
         "addr:postcode": "20151",
         "name": "Office Depot",
@@ -10144,7 +10144,7 @@
       "properties": {
         "ref": "2286",
         "shop": "stationery",
-        "addr:city": "MOBILE",
+        "addr:city": "Mobile",
         "addr:state": "AL",
         "addr:postcode": "36608",
         "name": "Office Depot",
@@ -10185,7 +10185,7 @@
       "properties": {
         "ref": "2283",
         "shop": "stationery",
-        "addr:city": "WILSONVILLE",
+        "addr:city": "Wilsonville",
         "addr:state": "OR",
         "addr:postcode": "97070",
         "name": "Office Depot",
@@ -10206,7 +10206,7 @@
       "properties": {
         "ref": "2282",
         "shop": "stationery",
-        "addr:city": "LEESBURG",
+        "addr:city": "Leesburg",
         "addr:state": "VA",
         "addr:postcode": "20176",
         "name": "Office Depot",
@@ -10226,7 +10226,7 @@
       "properties": {
         "ref": "2280",
         "shop": "stationery",
-        "addr:city": "WELLINGTON",
+        "addr:city": "Wellington",
         "addr:state": "FL",
         "addr:postcode": "33414",
         "name": "Office Depot",
@@ -10266,7 +10266,7 @@
       "properties": {
         "ref": "2274",
         "shop": "stationery",
-        "addr:city": "NORTHPORT",
+        "addr:city": "Northport",
         "addr:state": "AL",
         "addr:postcode": "35476",
         "name": "Office Depot",
@@ -10287,7 +10287,7 @@
       "properties": {
         "ref": "2271",
         "shop": "stationery",
-        "addr:city": "FRANKFORT",
+        "addr:city": "Frankfort",
         "addr:state": "IL",
         "addr:postcode": "60423",
         "name": "Office Depot",
@@ -10327,7 +10327,7 @@
       "properties": {
         "ref": "2264",
         "shop": "stationery",
-        "addr:city": "VENICE",
+        "addr:city": "Venice",
         "addr:state": "FL",
         "addr:postcode": "34293",
         "name": "Office Depot",
@@ -10347,7 +10347,7 @@
       "properties": {
         "ref": "2263",
         "shop": "stationery",
-        "addr:city": "VALENCIA",
+        "addr:city": "Valencia",
         "addr:state": "CA",
         "addr:postcode": "91355",
         "name": "Office Depot",
@@ -10387,7 +10387,7 @@
       "properties": {
         "ref": "2260",
         "shop": "stationery",
-        "addr:city": "NASHVILLE",
+        "addr:city": "Nashville",
         "addr:state": "TN",
         "addr:postcode": "37203",
         "name": "Office Depot",
@@ -10407,7 +10407,7 @@
       "properties": {
         "ref": "2259",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33172",
         "name": "Office Depot",
@@ -10447,7 +10447,7 @@
       "properties": {
         "ref": "2255",
         "shop": "stationery",
-        "addr:city": "WATAUGA",
+        "addr:city": "Watauga",
         "addr:state": "TX",
         "addr:postcode": "76148",
         "name": "Office Depot",
@@ -10468,7 +10468,7 @@
       "properties": {
         "ref": "2254",
         "shop": "stationery",
-        "addr:city": "LONGVIEW",
+        "addr:city": "Longview",
         "addr:state": "TX",
         "addr:postcode": "75605",
         "name": "Office Depot",
@@ -10529,7 +10529,7 @@
       "properties": {
         "ref": "2250",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77056",
         "name": "Office Depot",
@@ -10549,7 +10549,7 @@
       "properties": {
         "ref": "2247",
         "shop": "stationery",
-        "addr:city": "PEWAUKEE",
+        "addr:city": "Pewaukee",
         "addr:state": "WI",
         "addr:postcode": "53072",
         "name": "Office Depot",
@@ -10569,7 +10569,7 @@
       "properties": {
         "ref": "2246",
         "shop": "stationery",
-        "addr:city": "KIRKWOOD",
+        "addr:city": "Kirkwood",
         "addr:state": "MO",
         "addr:postcode": "63122",
         "name": "Office Depot",
@@ -10610,7 +10610,7 @@
       "properties": {
         "ref": "2240",
         "shop": "stationery",
-        "addr:city": "CHARLOTTE",
+        "addr:city": "Charlotte",
         "addr:state": "NC",
         "addr:postcode": "28203",
         "name": "Office Depot",
@@ -10650,7 +10650,7 @@
       "properties": {
         "ref": "2236",
         "shop": "stationery",
-        "addr:city": "ATHENS",
+        "addr:city": "Athens",
         "addr:state": "GA",
         "addr:postcode": "30606",
         "name": "Office Depot",
@@ -10730,7 +10730,7 @@
       "properties": {
         "ref": "2230",
         "shop": "stationery",
-        "addr:city": "LAKEWOOD",
+        "addr:city": "Lakewood",
         "addr:state": "WA",
         "addr:postcode": "98499",
         "name": "Office Depot",
@@ -10750,7 +10750,7 @@
       "properties": {
         "ref": "2229",
         "shop": "stationery",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87110",
         "name": "Office Depot",
@@ -10770,7 +10770,7 @@
       "properties": {
         "ref": "2228",
         "shop": "stationery",
-        "addr:city": "KEMAH",
+        "addr:city": "Kemah",
         "addr:state": "TX",
         "addr:postcode": "77565",
         "name": "Office Depot",
@@ -10790,7 +10790,7 @@
       "properties": {
         "ref": "2227",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77095",
         "name": "Office Depot",
@@ -10810,7 +10810,7 @@
       "properties": {
         "ref": "2225",
         "shop": "stationery",
-        "addr:city": "OPELIKA",
+        "addr:city": "Opelika",
         "addr:state": "AL",
         "addr:postcode": "36801",
         "name": "Office Depot",
@@ -10830,7 +10830,7 @@
       "properties": {
         "ref": "2224",
         "shop": "stationery",
-        "addr:city": "PEARLAND",
+        "addr:city": "Pearland",
         "addr:state": "TX",
         "addr:postcode": "77584",
         "name": "Office Depot",
@@ -10850,7 +10850,7 @@
       "properties": {
         "ref": "2220",
         "shop": "stationery",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75225",
         "name": "Office Depot",
@@ -10891,7 +10891,7 @@
       "properties": {
         "ref": "2215",
         "shop": "stationery",
-        "addr:city": "FULLERTON",
+        "addr:city": "Fullerton",
         "addr:state": "CA",
         "addr:postcode": "92831",
         "name": "Office Depot",
@@ -10931,7 +10931,7 @@
       "properties": {
         "ref": "2207",
         "shop": "stationery",
-        "addr:city": "ROSEDALE",
+        "addr:city": "Rosedale",
         "addr:state": "MD",
         "addr:postcode": "21237",
         "name": "Office Depot",
@@ -10952,7 +10952,7 @@
       "properties": {
         "ref": "2202",
         "shop": "stationery",
-        "addr:city": "LAPEER",
+        "addr:city": "Lapeer",
         "addr:state": "MI",
         "addr:postcode": "48446",
         "name": "Office Depot",
@@ -11013,7 +11013,7 @@
       "properties": {
         "ref": "2196",
         "shop": "stationery",
-        "addr:city": "LEXINGTON",
+        "addr:city": "Lexington",
         "addr:state": "SC",
         "addr:postcode": "29072",
         "name": "Office Depot",
@@ -11033,7 +11033,7 @@
       "properties": {
         "ref": "2195",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77063",
         "name": "Office Depot",
@@ -11053,7 +11053,7 @@
       "properties": {
         "ref": "2193",
         "shop": "stationery",
-        "addr:city": "AUGUSTA",
+        "addr:city": "Augusta",
         "addr:state": "GA",
         "addr:postcode": "30909",
         "name": "Office Depot",
@@ -11093,7 +11093,7 @@
       "properties": {
         "ref": "2191",
         "shop": "stationery",
-        "addr:city": "TAMPA",
+        "addr:city": "Tampa",
         "addr:state": "FL",
         "addr:postcode": "33634",
         "name": "Office Depot",
@@ -11113,7 +11113,7 @@
       "properties": {
         "ref": "2190",
         "shop": "stationery",
-        "addr:city": "WICHITA",
+        "addr:city": "Wichita",
         "addr:state": "KS",
         "addr:postcode": "67226",
         "name": "Office Depot",
@@ -11133,7 +11133,7 @@
       "properties": {
         "ref": "2188",
         "shop": "stationery",
-        "addr:city": "LAUREL",
+        "addr:city": "Laurel",
         "addr:state": "MS",
         "addr:postcode": "39440",
         "name": "Office Depot",
@@ -11153,7 +11153,7 @@
       "properties": {
         "ref": "2187",
         "shop": "stationery",
-        "addr:city": "DENVER",
+        "addr:city": "Denver",
         "addr:state": "CO",
         "addr:postcode": "80238",
         "name": "Office Depot",
@@ -11174,7 +11174,7 @@
       "properties": {
         "ref": "2185",
         "shop": "stationery",
-        "addr:city": "BEAUMONT",
+        "addr:city": "Beaumont",
         "addr:state": "TX",
         "addr:postcode": "77706",
         "name": "Office Depot",
@@ -11235,7 +11235,7 @@
       "properties": {
         "ref": "2177",
         "shop": "stationery",
-        "addr:city": "WASHINGTON",
+        "addr:city": "Washington",
         "addr:state": "NC",
         "addr:postcode": "27889",
         "name": "Office Depot",
@@ -11255,7 +11255,7 @@
       "properties": {
         "ref": "2175",
         "shop": "stationery",
-        "addr:city": "BAKERSFIELD",
+        "addr:city": "Bakersfield",
         "addr:state": "CA",
         "addr:postcode": "93312",
         "name": "Office Depot",
@@ -11275,7 +11275,7 @@
       "properties": {
         "ref": "2174",
         "shop": "stationery",
-        "addr:city": "MERIDIAN",
+        "addr:city": "Meridian",
         "addr:state": "MS",
         "addr:postcode": "39301",
         "name": "Office Depot",
@@ -11296,7 +11296,7 @@
       "properties": {
         "ref": "2171",
         "shop": "stationery",
-        "addr:city": "CONYERS",
+        "addr:city": "Conyers",
         "addr:state": "GA",
         "addr:postcode": "30013",
         "name": "Office Depot",
@@ -11316,7 +11316,7 @@
       "properties": {
         "ref": "2170",
         "shop": "stationery",
-        "addr:city": "SHALLOTTE",
+        "addr:city": "Shallotte",
         "addr:state": "NC",
         "addr:postcode": "28470",
         "name": "Office Depot",
@@ -11337,7 +11337,7 @@
       "properties": {
         "ref": "2169",
         "shop": "stationery",
-        "addr:city": "PENSACOLA",
+        "addr:city": "Pensacola",
         "addr:state": "FL",
         "addr:postcode": "32534",
         "name": "Office Depot",
@@ -11358,7 +11358,7 @@
       "properties": {
         "ref": "2168",
         "shop": "stationery",
-        "addr:city": "PACE",
+        "addr:city": "Pace",
         "addr:state": "FL",
         "addr:postcode": "32571",
         "name": "Office Depot",
@@ -11418,7 +11418,7 @@
       "properties": {
         "ref": "2165",
         "shop": "stationery",
-        "addr:city": "PARKER",
+        "addr:city": "Parker",
         "addr:state": "CO",
         "addr:postcode": "80134",
         "name": "Office Depot",
@@ -11439,7 +11439,7 @@
       "properties": {
         "ref": "2164",
         "shop": "stationery",
-        "addr:city": "AVON",
+        "addr:city": "Avon",
         "addr:state": "IN",
         "addr:postcode": "46123",
         "name": "Office Depot",
@@ -11479,7 +11479,7 @@
       "properties": {
         "ref": "2162",
         "shop": "stationery",
-        "addr:city": "BROOKSVILLE",
+        "addr:city": "Brooksville",
         "addr:state": "FL",
         "addr:postcode": "34613",
         "name": "Office Depot",
@@ -11499,7 +11499,7 @@
       "properties": {
         "ref": "2161",
         "shop": "stationery",
-        "addr:city": "GREELEY",
+        "addr:city": "Greeley",
         "addr:state": "CO",
         "addr:postcode": "80634",
         "name": "Office Depot",
@@ -11519,7 +11519,7 @@
       "properties": {
         "ref": "2160",
         "shop": "stationery",
-        "addr:city": "HAYWARD",
+        "addr:city": "Hayward",
         "addr:state": "CA",
         "addr:postcode": "94541",
         "name": "Office Depot",
@@ -11539,7 +11539,7 @@
       "properties": {
         "ref": "2157",
         "shop": "stationery",
-        "addr:city": "WICHITA",
+        "addr:city": "Wichita",
         "addr:state": "KS",
         "addr:postcode": "67209",
         "name": "Office Depot",
@@ -11560,7 +11560,7 @@
       "properties": {
         "ref": "2155",
         "shop": "stationery",
-        "addr:city": "BENTON",
+        "addr:city": "Benton",
         "addr:state": "AR",
         "addr:postcode": "72015",
         "name": "Office Depot",
@@ -11580,7 +11580,7 @@
       "properties": {
         "ref": "2154",
         "shop": "stationery",
-        "addr:city": "FOLEY",
+        "addr:city": "Foley",
         "addr:state": "AL",
         "addr:postcode": "36535",
         "name": "Office Depot",
@@ -11600,7 +11600,7 @@
       "properties": {
         "ref": "2153",
         "shop": "stationery",
-        "addr:city": "COLLIERVILLE",
+        "addr:city": "Collierville",
         "addr:state": "TN",
         "addr:postcode": "38017",
         "name": "Office Depot",
@@ -11681,7 +11681,7 @@
       "properties": {
         "ref": "2146",
         "shop": "stationery",
-        "addr:city": "LONDON",
+        "addr:city": "London",
         "addr:state": "KY",
         "addr:postcode": "40741",
         "name": "Office Depot",
@@ -11742,7 +11742,7 @@
       "properties": {
         "ref": "2140",
         "shop": "stationery",
-        "addr:city": "STOCKBRIDGE",
+        "addr:city": "Stockbridge",
         "addr:state": "GA",
         "addr:postcode": "30281",
         "name": "Office Depot",
@@ -11762,7 +11762,7 @@
       "properties": {
         "ref": "2139",
         "shop": "stationery",
-        "addr:city": "CHATTANOOGA",
+        "addr:city": "Chattanooga",
         "addr:state": "TN",
         "addr:postcode": "37421",
         "name": "Office Depot",
@@ -11783,7 +11783,7 @@
       "properties": {
         "ref": "2138",
         "shop": "stationery",
-        "addr:city": "THOMASVILLE",
+        "addr:city": "Thomasville",
         "addr:state": "GA",
         "addr:postcode": "31792",
         "name": "Office Depot",
@@ -11803,7 +11803,7 @@
       "properties": {
         "ref": "2135",
         "shop": "stationery",
-        "addr:city": "BILLINGS",
+        "addr:city": "Billings",
         "addr:state": "MT",
         "addr:postcode": "59105",
         "name": "Office Depot",
@@ -11823,7 +11823,7 @@
       "properties": {
         "ref": "2134",
         "shop": "stationery",
-        "addr:city": "EULESS",
+        "addr:city": "Euless",
         "addr:state": "TX",
         "addr:postcode": "76040",
         "name": "Office Depot",
@@ -11843,7 +11843,7 @@
       "properties": {
         "ref": "2133",
         "shop": "stationery",
-        "addr:city": "OWASSO",
+        "addr:city": "Owasso",
         "addr:state": "OK",
         "addr:postcode": "74055",
         "name": "Office Depot",
@@ -11863,7 +11863,7 @@
       "properties": {
         "ref": "2132",
         "shop": "stationery",
-        "addr:city": "TULSA",
+        "addr:city": "Tulsa",
         "addr:state": "OK",
         "addr:postcode": "74133",
         "name": "Office Depot",
@@ -11903,7 +11903,7 @@
       "properties": {
         "ref": "2127",
         "shop": "stationery",
-        "addr:city": "COLUMBIA",
+        "addr:city": "Columbia",
         "addr:state": "SC",
         "addr:postcode": "29223",
         "name": "Office Depot",
@@ -11924,7 +11924,7 @@
       "properties": {
         "ref": "2122",
         "shop": "stationery",
-        "addr:city": "FRISCO",
+        "addr:city": "Frisco",
         "addr:state": "TX",
         "addr:postcode": "75034",
         "name": "Office Depot",
@@ -11945,7 +11945,7 @@
       "properties": {
         "ref": "2121",
         "shop": "stationery",
-        "addr:city": "PEARL",
+        "addr:city": "Pearl",
         "addr:state": "MS",
         "addr:postcode": "39208",
         "name": "Office Depot",
@@ -11965,7 +11965,7 @@
       "properties": {
         "ref": "2120",
         "shop": "stationery",
-        "addr:city": "EVANSVILLE",
+        "addr:city": "Evansville",
         "addr:state": "IN",
         "addr:postcode": "47712",
         "name": "Office Depot",
@@ -12005,7 +12005,7 @@
       "properties": {
         "ref": "2117",
         "shop": "stationery",
-        "addr:city": "LUFKIN",
+        "addr:city": "Lufkin",
         "addr:state": "TX",
         "addr:postcode": "75901",
         "name": "Office Depot",
@@ -12046,7 +12046,7 @@
       "properties": {
         "ref": "2112",
         "shop": "stationery",
-        "addr:city": "PASCAGOULA",
+        "addr:city": "Pascagoula",
         "addr:state": "MS",
         "addr:postcode": "39581",
         "name": "Office Depot",
@@ -12066,7 +12066,7 @@
       "properties": {
         "ref": "2111",
         "shop": "stationery",
-        "addr:city": "HAMMOND",
+        "addr:city": "Hammond",
         "addr:state": "LA",
         "addr:postcode": "70401",
         "name": "Office Depot",
@@ -12086,7 +12086,7 @@
       "properties": {
         "ref": "2110",
         "shop": "stationery",
-        "addr:city": "MONTROSE",
+        "addr:city": "Montrose",
         "addr:state": "CO",
         "addr:postcode": "81401",
         "name": "Office Depot",
@@ -12127,7 +12127,7 @@
       "properties": {
         "ref": "2102",
         "shop": "stationery",
-        "addr:city": "LITTLETON",
+        "addr:city": "Littleton",
         "addr:state": "CO",
         "addr:postcode": "80123",
         "name": "Office Depot",
@@ -12147,7 +12147,7 @@
       "properties": {
         "ref": "2098",
         "shop": "stationery",
-        "addr:city": "WINDCREST",
+        "addr:city": "Windcrest",
         "addr:state": "TX",
         "addr:postcode": "78239",
         "name": "Office Depot",
@@ -12167,7 +12167,7 @@
       "properties": {
         "ref": "2093",
         "shop": "stationery",
-        "addr:city": "SPRING",
+        "addr:city": "Spring",
         "addr:state": "TX",
         "addr:postcode": "77388",
         "name": "Office Depot",
@@ -12187,7 +12187,7 @@
       "properties": {
         "ref": "2092",
         "shop": "stationery",
-        "addr:city": "RUSTON",
+        "addr:city": "Ruston",
         "addr:state": "LA",
         "addr:postcode": "71270",
         "name": "Office Depot",
@@ -12207,7 +12207,7 @@
       "properties": {
         "ref": "2087",
         "shop": "stationery",
-        "addr:city": "MERIDIAN",
+        "addr:city": "Meridian",
         "addr:state": "ID",
         "addr:postcode": "83642",
         "name": "Office Depot",
@@ -12227,7 +12227,7 @@
       "properties": {
         "ref": "2085",
         "shop": "stationery",
-        "addr:city": "EDMOND",
+        "addr:city": "Edmond",
         "addr:state": "OK",
         "addr:postcode": "73034",
         "name": "Office Depot",
@@ -12247,7 +12247,7 @@
       "properties": {
         "ref": "2084",
         "shop": "stationery",
-        "addr:city": "GERMANTOWN",
+        "addr:city": "Germantown",
         "addr:state": "TN",
         "addr:postcode": "38138",
         "name": "Office Depot",
@@ -12287,7 +12287,7 @@
       "properties": {
         "ref": "988",
         "shop": "stationery",
-        "addr:city": "MODESTO",
+        "addr:city": "Modesto",
         "addr:state": "CA",
         "addr:postcode": "95350",
         "name": "Office Depot",
@@ -12308,7 +12308,7 @@
       "properties": {
         "ref": "984",
         "shop": "stationery",
-        "addr:city": "TUKWILA",
+        "addr:city": "Tukwila",
         "addr:state": "WA",
         "addr:postcode": "98188",
         "name": "Office Depot",
@@ -12350,7 +12350,7 @@
       "properties": {
         "ref": "977",
         "shop": "stationery",
-        "addr:city": "GRESHAM",
+        "addr:city": "Gresham",
         "addr:state": "OR",
         "addr:postcode": "97030",
         "name": "Office Depot",
@@ -12430,7 +12430,7 @@
       "properties": {
         "ref": "966",
         "shop": "stationery",
-        "addr:city": "SPOKANE",
+        "addr:city": "Spokane",
         "addr:state": "WA",
         "addr:postcode": "99216",
         "name": "Office Depot",
@@ -12490,7 +12490,7 @@
       "properties": {
         "ref": "962",
         "shop": "stationery",
-        "addr:city": "KENNEWICK",
+        "addr:city": "Kennewick",
         "addr:state": "WA",
         "addr:postcode": "99336",
         "name": "Office Depot",
@@ -12510,7 +12510,7 @@
       "properties": {
         "ref": "959",
         "shop": "stationery",
-        "addr:city": "AIEA",
+        "addr:city": "Aiea",
         "addr:state": "HI",
         "addr:postcode": "96701",
         "name": "Office Depot",
@@ -12530,7 +12530,7 @@
       "properties": {
         "ref": "957",
         "shop": "stationery",
-        "addr:city": "SPOKANE",
+        "addr:city": "Spokane",
         "addr:state": "WA",
         "addr:postcode": "99207",
         "name": "Office Depot",
@@ -12550,7 +12550,7 @@
       "properties": {
         "ref": "952",
         "shop": "stationery",
-        "addr:city": "BAKERSFIELD",
+        "addr:city": "Bakersfield",
         "addr:state": "CA",
         "addr:postcode": "93309",
         "name": "Office Depot",
@@ -12610,7 +12610,7 @@
       "properties": {
         "ref": "948",
         "shop": "stationery",
-        "addr:city": "NAPA",
+        "addr:city": "Napa",
         "addr:state": "CA",
         "addr:postcode": "94559",
         "name": "Office Depot",
@@ -12630,7 +12630,7 @@
       "properties": {
         "ref": "945",
         "shop": "stationery",
-        "addr:city": "FRESNO",
+        "addr:city": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93721",
         "name": "Office Depot",
@@ -12650,7 +12650,7 @@
       "properties": {
         "ref": "943",
         "shop": "stationery",
-        "addr:city": "VISALIA",
+        "addr:city": "Visalia",
         "addr:state": "CA",
         "addr:postcode": "93277",
         "name": "Office Depot",
@@ -12670,7 +12670,7 @@
       "properties": {
         "ref": "940",
         "shop": "stationery",
-        "addr:city": "MEDFORD",
+        "addr:city": "Medford",
         "addr:state": "OR",
         "addr:postcode": "97504",
         "name": "Office Depot",
@@ -12690,7 +12690,7 @@
       "properties": {
         "ref": "937",
         "shop": "stationery",
-        "addr:city": "YAKIMA",
+        "addr:city": "Yakima",
         "addr:state": "WA",
         "addr:postcode": "98903",
         "name": "Office Depot",
@@ -12730,7 +12730,7 @@
       "properties": {
         "ref": "931",
         "shop": "stationery",
-        "addr:city": "VENTURA",
+        "addr:city": "Ventura",
         "addr:state": "CA",
         "addr:postcode": "93003",
         "name": "Office Depot",
@@ -12750,7 +12750,7 @@
       "properties": {
         "ref": "928",
         "shop": "stationery",
-        "addr:city": "ROSEVILLE",
+        "addr:city": "Roseville",
         "addr:state": "CA",
         "addr:postcode": "95661",
         "name": "Office Depot",
@@ -12810,7 +12810,7 @@
       "properties": {
         "ref": "921",
         "shop": "stationery",
-        "addr:city": "TIGARD",
+        "addr:city": "Tigard",
         "addr:state": "OR",
         "addr:postcode": "97224",
         "name": "Office Depot",
@@ -12830,7 +12830,7 @@
       "properties": {
         "ref": "920",
         "shop": "stationery",
-        "addr:city": "EUGENE",
+        "addr:city": "Eugene",
         "addr:state": "OR",
         "addr:postcode": "97408",
         "name": "Office Depot",
@@ -12850,7 +12850,7 @@
       "properties": {
         "ref": "917",
         "shop": "stationery",
-        "addr:city": "CHICO",
+        "addr:city": "Chico",
         "addr:state": "CA",
         "addr:postcode": "95928",
         "name": "Office Depot",
@@ -12870,7 +12870,7 @@
       "properties": {
         "ref": "912",
         "shop": "stationery",
-        "addr:city": "BURBANK",
+        "addr:city": "Burbank",
         "addr:state": "CA",
         "addr:postcode": "91502",
         "name": "Office Depot",
@@ -12890,7 +12890,7 @@
       "properties": {
         "ref": "911",
         "shop": "stationery",
-        "addr:city": "LACEY",
+        "addr:city": "Lacey",
         "addr:state": "WA",
         "addr:postcode": "98503",
         "name": "Office Depot",
@@ -12910,7 +12910,7 @@
       "properties": {
         "ref": "907",
         "shop": "stationery",
-        "addr:city": "SEATTLE",
+        "addr:city": "Seattle",
         "addr:state": "WA",
         "addr:postcode": "98133",
         "name": "Office Depot",
@@ -12930,7 +12930,7 @@
       "properties": {
         "ref": "895",
         "shop": "stationery",
-        "addr:city": "WHITTIER",
+        "addr:city": "Whittier",
         "addr:state": "CA",
         "addr:postcode": "90603",
         "name": "Office Depot",
@@ -12950,7 +12950,7 @@
       "properties": {
         "ref": "894",
         "shop": "stationery",
-        "addr:city": "TACOMA",
+        "addr:city": "Tacoma",
         "addr:state": "WA",
         "addr:postcode": "98405",
         "name": "Office Depot",
@@ -12970,7 +12970,7 @@
       "properties": {
         "ref": "892",
         "shop": "stationery",
-        "addr:city": "SYLMAR",
+        "addr:city": "Sylmar",
         "addr:state": "CA",
         "addr:postcode": "91342",
         "name": "Office Depot",
@@ -12990,7 +12990,7 @@
       "properties": {
         "ref": "889",
         "shop": "stationery",
-        "addr:city": "NORTHRIDGE",
+        "addr:city": "Northridge",
         "addr:state": "CA",
         "addr:postcode": "91324",
         "name": "Office Depot",
@@ -13010,7 +13010,7 @@
       "properties": {
         "ref": "888",
         "shop": "stationery",
-        "addr:city": "PORTLAND",
+        "addr:city": "Portland",
         "addr:state": "OR",
         "addr:postcode": "97220",
         "name": "Office Depot",
@@ -13030,7 +13030,7 @@
       "properties": {
         "ref": "884",
         "shop": "stationery",
-        "addr:city": "REDDING",
+        "addr:city": "Redding",
         "addr:state": "CA",
         "addr:postcode": "96002",
         "name": "Office Depot",
@@ -13050,7 +13050,7 @@
       "properties": {
         "ref": "879",
         "shop": "stationery",
-        "addr:city": "HOLLYWOOD",
+        "addr:city": "Hollywood",
         "addr:state": "CA",
         "addr:postcode": "90038",
         "name": "Office Depot",
@@ -13110,7 +13110,7 @@
       "properties": {
         "ref": "863",
         "shop": "stationery",
-        "addr:city": "SPOKANE",
+        "addr:city": "Spokane",
         "addr:state": "WA",
         "addr:postcode": "99202",
         "name": "Office Depot",
@@ -13130,7 +13130,7 @@
       "properties": {
         "ref": "861",
         "shop": "stationery",
-        "addr:city": "IRVINE",
+        "addr:city": "Irvine",
         "addr:state": "CA",
         "addr:postcode": "92612",
         "name": "Office Depot",
@@ -13150,7 +13150,7 @@
       "properties": {
         "ref": "858",
         "shop": "stationery",
-        "addr:city": "HONOLULU",
+        "addr:city": "Honolulu",
         "addr:state": "HI",
         "addr:postcode": "96817",
         "name": "Office Depot",
@@ -13170,7 +13170,7 @@
       "properties": {
         "ref": "855",
         "shop": "stationery",
-        "addr:city": "SALEM",
+        "addr:city": "Salem",
         "addr:state": "OR",
         "addr:postcode": "97302",
         "name": "Office Depot",
@@ -13210,7 +13210,7 @@
       "properties": {
         "ref": "832",
         "shop": "stationery",
-        "addr:city": "PORTLAND",
+        "addr:city": "Portland",
         "addr:state": "OR",
         "addr:postcode": "97214",
         "name": "Office Depot",
@@ -13250,7 +13250,7 @@
       "properties": {
         "ref": "819",
         "shop": "stationery",
-        "addr:city": "BELLEVUE",
+        "addr:city": "Bellevue",
         "addr:state": "WA",
         "addr:postcode": "98004",
         "name": "Office Depot",
@@ -13270,7 +13270,7 @@
       "properties": {
         "ref": "811",
         "shop": "stationery",
-        "addr:city": "SEATTLE",
+        "addr:city": "Seattle",
         "addr:state": "WA",
         "addr:postcode": "98134",
         "name": "Office Depot",
@@ -13290,7 +13290,7 @@
       "properties": {
         "ref": "699",
         "shop": "stationery",
-        "addr:city": "MUSKOGEE",
+        "addr:city": "Muskogee",
         "addr:state": "OK",
         "addr:postcode": "74401",
         "name": "Office Depot",
@@ -13310,7 +13310,7 @@
       "properties": {
         "ref": "697",
         "shop": "stationery",
-        "addr:city": "GONZALES",
+        "addr:city": "Gonzales",
         "addr:state": "LA",
         "addr:postcode": "70737",
         "name": "Office Depot",
@@ -13350,7 +13350,7 @@
       "properties": {
         "ref": "691",
         "shop": "stationery",
-        "addr:city": "WAXAHACHIE",
+        "addr:city": "Waxahachie",
         "addr:state": "TX",
         "addr:postcode": "75165",
         "name": "Office Depot",
@@ -13390,7 +13390,7 @@
       "properties": {
         "ref": "687",
         "shop": "stationery",
-        "addr:city": "ATHENS",
+        "addr:city": "Athens",
         "addr:state": "TX",
         "addr:postcode": "75751",
         "name": "Office Depot",
@@ -13410,7 +13410,7 @@
       "properties": {
         "ref": "673",
         "shop": "stationery",
-        "addr:city": "CHEEKTOWAGA",
+        "addr:city": "Cheektowaga",
         "addr:state": "NY",
         "addr:postcode": "14225",
         "name": "Office Depot",
@@ -13430,7 +13430,7 @@
       "properties": {
         "ref": "669",
         "shop": "stationery",
-        "addr:city": "WOODHAVEN",
+        "addr:city": "Woodhaven",
         "addr:state": "MI",
         "addr:postcode": "48183",
         "name": "Office Depot",
@@ -13450,7 +13450,7 @@
       "properties": {
         "ref": "667",
         "shop": "stationery",
-        "addr:city": "WENATCHEE",
+        "addr:city": "Wenatchee",
         "addr:state": "WA",
         "addr:postcode": "98801",
         "name": "Office Depot",
@@ -13470,7 +13470,7 @@
       "properties": {
         "ref": "665",
         "shop": "stationery",
-        "addr:city": "BAYTOWN",
+        "addr:city": "Baytown",
         "addr:state": "TX",
         "addr:postcode": "77521",
         "name": "Office Depot",
@@ -13490,7 +13490,7 @@
       "properties": {
         "ref": "663",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77037",
         "name": "Office Depot",
@@ -13510,7 +13510,7 @@
       "properties": {
         "ref": "662",
         "shop": "stationery",
-        "addr:city": "ROGERS",
+        "addr:city": "Rogers",
         "addr:state": "AR",
         "addr:postcode": "72756",
         "name": "Office Depot",
@@ -13570,7 +13570,7 @@
       "properties": {
         "ref": "648",
         "shop": "stationery",
-        "addr:city": "FRESNO",
+        "addr:city": "Fresno",
         "addr:state": "CA",
         "addr:postcode": "93711",
         "name": "Office Depot",
@@ -13590,7 +13590,7 @@
       "properties": {
         "ref": "646",
         "shop": "stationery",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99503",
         "name": "Office Depot",
@@ -13610,7 +13610,7 @@
       "properties": {
         "ref": "644",
         "shop": "stationery",
-        "addr:city": "AUBURN",
+        "addr:city": "Auburn",
         "addr:state": "WA",
         "addr:postcode": "98002",
         "name": "Office Depot",
@@ -13630,7 +13630,7 @@
       "properties": {
         "ref": "643",
         "shop": "stationery",
-        "addr:city": "OMAHA",
+        "addr:city": "Omaha",
         "addr:state": "NE",
         "addr:postcode": "68164",
         "name": "Office Depot",
@@ -13650,7 +13650,7 @@
       "properties": {
         "ref": "639",
         "shop": "stationery",
-        "addr:city": "DURANGO",
+        "addr:city": "Durango",
         "addr:state": "CO",
         "addr:postcode": "81303",
         "name": "Office Depot",
@@ -13711,7 +13711,7 @@
       "properties": {
         "ref": "630",
         "shop": "stationery",
-        "addr:city": "HUNTSVILLE",
+        "addr:city": "Huntsville",
         "addr:state": "TX",
         "addr:postcode": "77320",
         "name": "Office Depot",
@@ -13731,7 +13731,7 @@
       "properties": {
         "ref": "629",
         "shop": "stationery",
-        "addr:city": "SOUTHAVEN",
+        "addr:city": "Southaven",
         "addr:state": "MS",
         "addr:postcode": "38671",
         "name": "Office Depot",
@@ -13751,7 +13751,7 @@
       "properties": {
         "ref": "628",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77015",
         "name": "Office Depot",
@@ -13791,7 +13791,7 @@
       "properties": {
         "ref": "626",
         "shop": "stationery",
-        "addr:city": "REDLANDS",
+        "addr:city": "Redlands",
         "addr:state": "CA",
         "addr:postcode": "92374",
         "name": "Office Depot",
@@ -13811,7 +13811,7 @@
       "properties": {
         "ref": "625",
         "shop": "stationery",
-        "addr:city": "JOPLIN",
+        "addr:city": "Joplin",
         "addr:state": "MO",
         "addr:postcode": "64804",
         "name": "Office Depot",
@@ -13831,7 +13831,7 @@
       "properties": {
         "ref": "623",
         "shop": "stationery",
-        "addr:city": "ALCOA",
+        "addr:city": "Alcoa",
         "addr:state": "TN",
         "addr:postcode": "37701",
         "name": "Office Depot",
@@ -13851,7 +13851,7 @@
       "properties": {
         "ref": "620",
         "shop": "stationery",
-        "addr:city": "CONROE",
+        "addr:city": "Conroe",
         "addr:state": "TX",
         "addr:postcode": "77304",
         "name": "Office Depot",
@@ -13871,7 +13871,7 @@
       "properties": {
         "ref": "618",
         "shop": "stationery",
-        "addr:city": "GALVESTON",
+        "addr:city": "Galveston",
         "addr:state": "TX",
         "addr:postcode": "77551",
         "name": "Office Depot",
@@ -13952,7 +13952,7 @@
       "properties": {
         "ref": "609",
         "shop": "stationery",
-        "addr:city": "TEMECULA",
+        "addr:city": "Temecula",
         "addr:state": "CA",
         "addr:postcode": "92591",
         "name": "Office Depot",
@@ -13972,7 +13972,7 @@
       "properties": {
         "ref": "605",
         "shop": "stationery",
-        "addr:city": "OWENSBORO",
+        "addr:city": "Owensboro",
         "addr:state": "KY",
         "addr:postcode": "42301",
         "name": "Office Depot",
@@ -13992,7 +13992,7 @@
       "properties": {
         "ref": "599",
         "shop": "stationery",
-        "addr:city": "PASADENA",
+        "addr:city": "Pasadena",
         "addr:state": "CA",
         "addr:postcode": "91106",
         "name": "Office Depot",
@@ -14032,7 +14032,7 @@
       "properties": {
         "ref": "596",
         "shop": "stationery",
-        "addr:city": "ARLINGTON",
+        "addr:city": "Arlington",
         "addr:state": "TX",
         "addr:postcode": "76016",
         "name": "Office Depot",
@@ -14073,7 +14073,7 @@
       "properties": {
         "ref": "591",
         "shop": "stationery",
-        "addr:city": "LILBURN",
+        "addr:city": "Lilburn",
         "addr:state": "GA",
         "addr:postcode": "30047",
         "name": "Office Depot",
@@ -14093,7 +14093,7 @@
       "properties": {
         "ref": "590",
         "shop": "stationery",
-        "addr:city": "MCKINNEY",
+        "addr:city": "McKinney",
         "addr:state": "TX",
         "addr:postcode": "75069",
         "name": "Office Depot",
@@ -14133,7 +14133,7 @@
       "properties": {
         "ref": "583",
         "shop": "stationery",
-        "addr:city": "RENO",
+        "addr:city": "Reno",
         "addr:state": "NV",
         "addr:postcode": "89512",
         "name": "Office Depot",
@@ -14153,7 +14153,7 @@
       "properties": {
         "ref": "581",
         "shop": "stationery",
-        "addr:city": "ALBUQUERQUE",
+        "addr:city": "Albuquerque",
         "addr:state": "NM",
         "addr:postcode": "87107",
         "name": "Office Depot",
@@ -14173,7 +14173,7 @@
       "properties": {
         "ref": "580",
         "shop": "stationery",
-        "addr:city": "LOVELAND",
+        "addr:city": "Loveland",
         "addr:state": "CO",
         "addr:postcode": "80538",
         "name": "Office Depot",
@@ -14193,7 +14193,7 @@
       "properties": {
         "ref": "578",
         "shop": "stationery",
-        "addr:city": "MEMPHIS",
+        "addr:city": "Memphis",
         "addr:state": "TN",
         "addr:postcode": "38133",
         "name": "Office Depot",
@@ -14213,7 +14213,7 @@
       "properties": {
         "ref": "576",
         "shop": "stationery",
-        "addr:city": "FAIRFAX",
+        "addr:city": "Fairfax",
         "addr:state": "VA",
         "addr:postcode": "22030",
         "name": "Office Depot",
@@ -14255,7 +14255,7 @@
       "properties": {
         "ref": "567",
         "shop": "stationery",
-        "addr:city": "WESTMINSTER",
+        "addr:city": "Westminster",
         "addr:state": "CO",
         "addr:postcode": "80031",
         "name": "Office Depot",
@@ -14295,7 +14295,7 @@
       "properties": {
         "ref": "557",
         "shop": "stationery",
-        "addr:city": "ANCHORAGE",
+        "addr:city": "Anchorage",
         "addr:state": "AK",
         "addr:postcode": "99501",
         "name": "Office Depot",
@@ -14315,7 +14315,7 @@
       "properties": {
         "ref": "554",
         "shop": "stationery",
-        "addr:city": "IRVING",
+        "addr:city": "Irving",
         "addr:state": "TX",
         "addr:postcode": "75063",
         "name": "Office Depot",
@@ -14335,7 +14335,7 @@
       "properties": {
         "ref": "553",
         "shop": "stationery",
-        "addr:city": "NEWNAN",
+        "addr:city": "Newnan",
         "addr:state": "GA",
         "addr:postcode": "30265",
         "name": "Office Depot",
@@ -14376,7 +14376,7 @@
       "properties": {
         "ref": "548",
         "shop": "stationery",
-        "addr:city": "CONWAY",
+        "addr:city": "Conway",
         "addr:state": "AR",
         "addr:postcode": "72032",
         "name": "Office Depot",
@@ -14397,7 +14397,7 @@
       "properties": {
         "ref": "539",
         "shop": "stationery",
-        "addr:city": "VICTORIA",
+        "addr:city": "Victoria",
         "addr:state": "TX",
         "addr:postcode": "77904",
         "name": "Office Depot",
@@ -14417,7 +14417,7 @@
       "properties": {
         "ref": "536",
         "shop": "stationery",
-        "addr:city": "KNOXVILLE",
+        "addr:city": "Knoxville",
         "addr:state": "TN",
         "addr:postcode": "37917",
         "name": "Office Depot",
@@ -14437,7 +14437,7 @@
       "properties": {
         "ref": "531",
         "shop": "stationery",
-        "addr:city": "CLARKSVILLE",
+        "addr:city": "Clarksville",
         "addr:state": "TN",
         "addr:postcode": "37040",
         "name": "Office Depot",
@@ -14457,7 +14457,7 @@
       "properties": {
         "ref": "530",
         "shop": "stationery",
-        "addr:city": "BLOOMINGTON",
+        "addr:city": "Bloomington",
         "addr:state": "IN",
         "addr:postcode": "47404",
         "name": "Office Depot",
@@ -14477,7 +14477,7 @@
       "properties": {
         "ref": "527",
         "shop": "stationery",
-        "addr:city": "LAREDO",
+        "addr:city": "Laredo",
         "addr:state": "TX",
         "addr:postcode": "78041",
         "name": "Office Depot",
@@ -14497,7 +14497,7 @@
       "properties": {
         "ref": "519",
         "shop": "stationery",
-        "addr:city": "MCALLEN",
+        "addr:city": "McAllen",
         "addr:state": "TX",
         "addr:postcode": "78504",
         "name": "Office Depot",
@@ -14537,7 +14537,7 @@
       "properties": {
         "ref": "513",
         "shop": "stationery",
-        "addr:city": "NORMAL",
+        "addr:city": "Normal",
         "addr:state": "IL",
         "addr:postcode": "61761",
         "name": "Office Depot",
@@ -14558,7 +14558,7 @@
       "properties": {
         "ref": "511",
         "shop": "stationery",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32818",
         "name": "Office Depot",
@@ -14578,7 +14578,7 @@
       "properties": {
         "ref": "510",
         "shop": "stationery",
-        "addr:city": "EVANSTON",
+        "addr:city": "Evanston",
         "addr:state": "IL",
         "addr:postcode": "60201",
         "name": "Office Depot",
@@ -14598,7 +14598,7 @@
       "properties": {
         "ref": "504",
         "shop": "stationery",
-        "addr:city": "HIGHLAND",
+        "addr:city": "Highland",
         "addr:state": "IN",
         "addr:postcode": "46322",
         "name": "Office Depot",
@@ -14639,7 +14639,7 @@
       "properties": {
         "ref": "495",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77064",
         "name": "Office Depot",
@@ -14659,7 +14659,7 @@
       "properties": {
         "ref": "493",
         "shop": "stationery",
-        "addr:city": "WILLIAMSVILLE",
+        "addr:city": "Williamsville",
         "addr:state": "NY",
         "addr:postcode": "14221",
         "name": "Office Depot",
@@ -14699,7 +14699,7 @@
       "properties": {
         "ref": "486",
         "shop": "stationery",
-        "addr:city": "STOCKTON",
+        "addr:city": "Stockton",
         "addr:state": "CA",
         "addr:postcode": "95207",
         "name": "Office Depot",
@@ -14719,7 +14719,7 @@
       "properties": {
         "ref": "485",
         "shop": "stationery",
-        "addr:city": "MARION",
+        "addr:city": "Marion",
         "addr:state": "OH",
         "addr:postcode": "43302",
         "name": "Office Depot",
@@ -14739,7 +14739,7 @@
       "properties": {
         "ref": "483",
         "shop": "stationery",
-        "addr:city": "DENTON",
+        "addr:city": "Denton",
         "addr:state": "TX",
         "addr:postcode": "76205",
         "name": "Office Depot",
@@ -14759,7 +14759,7 @@
       "properties": {
         "ref": "482",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77087",
         "name": "Office Depot",
@@ -14780,7 +14780,7 @@
       "properties": {
         "ref": "481",
         "shop": "stationery",
-        "addr:city": "PADUCAH",
+        "addr:city": "Paducah",
         "addr:state": "KY",
         "addr:postcode": "42001",
         "name": "Office Depot",
@@ -14800,7 +14800,7 @@
       "properties": {
         "ref": "480",
         "shop": "stationery",
-        "addr:city": "TAMPA",
+        "addr:city": "Tampa",
         "addr:state": "FL",
         "addr:postcode": "33618",
         "name": "Office Depot",
@@ -14820,7 +14820,7 @@
       "properties": {
         "ref": "477",
         "shop": "stationery",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78749",
         "name": "Office Depot",
@@ -14841,7 +14841,7 @@
       "properties": {
         "ref": "476",
         "shop": "stationery",
-        "addr:city": "INDIANAPOLIS",
+        "addr:city": "Indianapolis",
         "addr:state": "IN",
         "addr:postcode": "46268",
         "name": "Office Depot",
@@ -14902,7 +14902,7 @@
       "properties": {
         "ref": "464",
         "shop": "stationery",
-        "addr:city": "LAWRENCEVILLE",
+        "addr:city": "Lawrenceville",
         "addr:state": "GA",
         "addr:postcode": "30043",
         "name": "Office Depot",
@@ -14923,7 +14923,7 @@
       "properties": {
         "ref": "461",
         "shop": "stationery",
-        "addr:city": "KENNER",
+        "addr:city": "Kenner",
         "addr:state": "LA",
         "addr:postcode": "70065",
         "name": "Office Depot",
@@ -14944,7 +14944,7 @@
       "properties": {
         "ref": "460",
         "shop": "stationery",
-        "addr:city": "CHEYENNE",
+        "addr:city": "Cheyenne",
         "addr:state": "WY",
         "addr:postcode": "82009",
         "name": "Office Depot",
@@ -15004,7 +15004,7 @@
       "properties": {
         "ref": "450",
         "shop": "stationery",
-        "addr:city": "BILLINGS",
+        "addr:city": "Billings",
         "addr:state": "MT",
         "addr:postcode": "59102",
         "name": "Office Depot",
@@ -15065,7 +15065,7 @@
       "properties": {
         "ref": "447",
         "shop": "stationery",
-        "addr:city": "TALLAHASSEE",
+        "addr:city": "Tallahassee",
         "addr:state": "FL",
         "addr:postcode": "32308",
         "name": "Office Depot",
@@ -15085,7 +15085,7 @@
       "properties": {
         "ref": "446",
         "shop": "stationery",
-        "addr:city": "SHREVEPORT",
+        "addr:city": "Shreveport",
         "addr:state": "LA",
         "addr:postcode": "71105",
         "name": "Office Depot",
@@ -15105,7 +15105,7 @@
       "properties": {
         "ref": "445",
         "shop": "stationery",
-        "addr:city": "BISMARCK",
+        "addr:city": "Bismarck",
         "addr:state": "ND",
         "addr:postcode": "58504",
         "name": "Office Depot",
@@ -15145,7 +15145,7 @@
       "properties": {
         "ref": "437",
         "shop": "stationery",
-        "addr:city": "GULFPORT",
+        "addr:city": "Gulfport",
         "addr:state": "MS",
         "addr:postcode": "39503",
         "name": "Office Depot",
@@ -15165,7 +15165,7 @@
       "properties": {
         "ref": "436",
         "shop": "stationery",
-        "addr:city": "CLEARWATER",
+        "addr:city": "Clearwater",
         "addr:state": "FL",
         "addr:postcode": "33756",
         "name": "Office Depot",
@@ -15205,7 +15205,7 @@
       "properties": {
         "ref": "434",
         "shop": "stationery",
-        "addr:city": "ATLANTA",
+        "addr:city": "Atlanta",
         "addr:state": "GA",
         "addr:postcode": "30338",
         "name": "Office Depot",
@@ -15226,7 +15226,7 @@
       "properties": {
         "ref": "430",
         "shop": "stationery",
-        "addr:city": "FREDERICKSBURG",
+        "addr:city": "Fredericksburg",
         "addr:state": "VA",
         "addr:postcode": "22401",
         "name": "Office Depot",
@@ -15266,7 +15266,7 @@
       "properties": {
         "ref": "425",
         "shop": "stationery",
-        "addr:city": "FAYETTEVILLE",
+        "addr:city": "Fayetteville",
         "addr:state": "NC",
         "addr:postcode": "28303",
         "name": "Office Depot",
@@ -15286,7 +15286,7 @@
       "properties": {
         "ref": "419",
         "shop": "stationery",
-        "addr:city": "LAWRENCE",
+        "addr:city": "Lawrence",
         "addr:state": "KS",
         "addr:postcode": "66046",
         "name": "Office Depot",
@@ -15306,7 +15306,7 @@
       "properties": {
         "ref": "418",
         "shop": "stationery",
-        "addr:city": "SLIDELL",
+        "addr:city": "Slidell",
         "addr:state": "LA",
         "addr:postcode": "70458",
         "name": "Office Depot",
@@ -15326,7 +15326,7 @@
       "properties": {
         "ref": "417",
         "shop": "stationery",
-        "addr:city": "ALBANY",
+        "addr:city": "Albany",
         "addr:state": "GA",
         "addr:postcode": "31707",
         "name": "Office Depot",
@@ -15346,7 +15346,7 @@
       "properties": {
         "ref": "416",
         "shop": "stationery",
-        "addr:city": "SUGARLAND",
+        "addr:city": "Sugarland",
         "addr:state": "TX",
         "addr:postcode": "77478",
         "name": "Office Depot",
@@ -15386,7 +15386,7 @@
       "properties": {
         "ref": "411",
         "shop": "stationery",
-        "addr:city": "MORGANTOWN",
+        "addr:city": "Morgantown",
         "addr:state": "WV",
         "addr:postcode": "26505",
         "name": "Office Depot",
@@ -15406,7 +15406,7 @@
       "properties": {
         "ref": "406",
         "shop": "stationery",
-        "addr:city": "GRAPEVINE",
+        "addr:city": "Grapevine",
         "addr:state": "TX",
         "addr:postcode": "76051",
         "name": "Office Depot",
@@ -15487,7 +15487,7 @@
       "properties": {
         "ref": "395",
         "shop": "stationery",
-        "addr:city": "ODESSA",
+        "addr:city": "Odessa",
         "addr:state": "TX",
         "addr:postcode": "79762",
         "name": "Office Depot",
@@ -15527,7 +15527,7 @@
       "properties": {
         "ref": "386",
         "shop": "stationery",
-        "addr:city": "FLORENCE",
+        "addr:city": "Florence",
         "addr:state": "AL",
         "addr:postcode": "35630",
         "name": "Office Depot",
@@ -15547,7 +15547,7 @@
       "properties": {
         "ref": "385",
         "shop": "stationery",
-        "addr:city": "LAFAYETTE",
+        "addr:city": "Lafayette",
         "addr:state": "LA",
         "addr:postcode": "70508",
         "name": "Office Depot",
@@ -15567,7 +15567,7 @@
       "properties": {
         "ref": "382",
         "shop": "stationery",
-        "addr:city": "KINGSPORT",
+        "addr:city": "Kingsport",
         "addr:state": "TN",
         "addr:postcode": "37660",
         "name": "Office Depot",
@@ -15588,7 +15588,7 @@
       "properties": {
         "ref": "379",
         "shop": "stationery",
-        "addr:city": "ANDERSON",
+        "addr:city": "Anderson",
         "addr:state": "SC",
         "addr:postcode": "29621",
         "name": "Office Depot",
@@ -15609,7 +15609,7 @@
       "properties": {
         "ref": "375",
         "shop": "stationery",
-        "addr:city": "ROSEVILLE",
+        "addr:city": "Roseville",
         "addr:state": "MN",
         "addr:postcode": "55113",
         "name": "Office Depot",
@@ -15629,7 +15629,7 @@
       "properties": {
         "ref": "369",
         "shop": "stationery",
-        "addr:city": "HUNTSVILLE",
+        "addr:city": "Huntsville",
         "addr:state": "AL",
         "addr:postcode": "35801",
         "name": "Office Depot",
@@ -15649,7 +15649,7 @@
       "properties": {
         "ref": "368",
         "shop": "stationery",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78752",
         "name": "Office Depot",
@@ -15669,7 +15669,7 @@
       "properties": {
         "ref": "359",
         "shop": "stationery",
-        "addr:city": "TULSA",
+        "addr:city": "Tulsa",
         "addr:state": "OK",
         "addr:postcode": "74136",
         "name": "Office Depot",
@@ -15709,7 +15709,7 @@
       "properties": {
         "ref": "355",
         "shop": "stationery",
-        "addr:city": "MADISON",
+        "addr:city": "Madison",
         "addr:state": "WI",
         "addr:postcode": "53704",
         "name": "Office Depot",
@@ -15729,7 +15729,7 @@
       "properties": {
         "ref": "353",
         "shop": "stationery",
-        "addr:city": "FAYETTEVILLE",
+        "addr:city": "Fayetteville",
         "addr:state": "GA",
         "addr:postcode": "30214",
         "name": "Office Depot",
@@ -15749,7 +15749,7 @@
       "properties": {
         "ref": "349",
         "shop": "stationery",
-        "addr:city": "ALEXANDRIA",
+        "addr:city": "Alexandria",
         "addr:state": "LA",
         "addr:postcode": "71301",
         "name": "Office Depot",
@@ -15770,7 +15770,7 @@
       "properties": {
         "ref": "348",
         "shop": "stationery",
-        "addr:city": "EASTPOINTE",
+        "addr:city": "Eastpointe",
         "addr:state": "MI",
         "addr:postcode": "48021",
         "name": "Office Depot",
@@ -15790,7 +15790,7 @@
       "properties": {
         "ref": "347",
         "shop": "stationery",
-        "addr:city": "ABILENE",
+        "addr:city": "Abilene",
         "addr:state": "TX",
         "addr:postcode": "79605",
         "name": "Office Depot",
@@ -15810,7 +15810,7 @@
       "properties": {
         "ref": "344",
         "shop": "stationery",
-        "addr:city": "COVINGTON",
+        "addr:city": "Covington",
         "addr:state": "LA",
         "addr:postcode": "70433",
         "name": "Office Depot",
@@ -15831,7 +15831,7 @@
       "properties": {
         "ref": "343",
         "shop": "stationery",
-        "addr:city": "FAYETTEVILLE",
+        "addr:city": "Fayetteville",
         "addr:state": "AR",
         "addr:postcode": "72703",
         "name": "Office Depot",
@@ -15911,7 +15911,7 @@
       "properties": {
         "ref": "336",
         "shop": "stationery",
-        "addr:city": "FLORENCE",
+        "addr:city": "Florence",
         "addr:state": "SC",
         "addr:postcode": "29501",
         "name": "Office Depot",
@@ -15931,7 +15931,7 @@
       "properties": {
         "ref": "335",
         "shop": "stationery",
-        "addr:city": "DALTON",
+        "addr:city": "Dalton",
         "addr:state": "GA",
         "addr:postcode": "30720",
         "name": "Office Depot",
@@ -15951,7 +15951,7 @@
       "properties": {
         "ref": "334",
         "shop": "stationery",
-        "addr:city": "MONROE",
+        "addr:city": "Monroe",
         "addr:state": "LA",
         "addr:postcode": "71201",
         "name": "Office Depot",
@@ -15971,7 +15971,7 @@
       "properties": {
         "ref": "332",
         "shop": "stationery",
-        "addr:city": "COLUMBIA",
+        "addr:city": "Columbia",
         "addr:state": "SC",
         "addr:postcode": "29210",
         "name": "Office Depot",
@@ -15992,7 +15992,7 @@
       "properties": {
         "ref": "330",
         "shop": "stationery",
-        "addr:city": "NORTHVILLE",
+        "addr:city": "Northville",
         "addr:state": "MI",
         "addr:postcode": "48168",
         "name": "Office Depot",
@@ -16012,7 +16012,7 @@
       "properties": {
         "ref": "329",
         "shop": "stationery",
-        "addr:city": "LEESBURG",
+        "addr:city": "Leesburg",
         "addr:state": "FL",
         "addr:postcode": "34748",
         "name": "Office Depot",
@@ -16032,7 +16032,7 @@
       "properties": {
         "ref": "324",
         "shop": "stationery",
-        "addr:city": "HATTIESBURG",
+        "addr:city": "Hattiesburg",
         "addr:state": "MS",
         "addr:postcode": "39402",
         "name": "Office Depot",
@@ -16053,7 +16053,7 @@
       "properties": {
         "ref": "323",
         "shop": "stationery",
-        "addr:city": "SPRINGFIELD",
+        "addr:city": "Springfield",
         "addr:state": "IL",
         "addr:postcode": "62704",
         "name": "Office Depot",
@@ -16073,7 +16073,7 @@
       "properties": {
         "ref": "322",
         "shop": "stationery",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75206",
         "name": "Office Depot",
@@ -16093,7 +16093,7 @@
       "properties": {
         "ref": "321",
         "shop": "stationery",
-        "addr:city": "WINSTON-SALEM",
+        "addr:city": "Winston-Salem",
         "addr:state": "NC",
         "addr:postcode": "27127",
         "name": "Office Depot",
@@ -16113,7 +16113,7 @@
       "properties": {
         "ref": "317",
         "shop": "stationery",
-        "addr:city": "CARY",
+        "addr:city": "Cary",
         "addr:state": "NC",
         "addr:postcode": "27518",
         "name": "Office Depot",
@@ -16133,7 +16133,7 @@
       "properties": {
         "ref": "312",
         "shop": "stationery",
-        "addr:city": "GREENSBORO",
+        "addr:city": "Greensboro",
         "addr:state": "NC",
         "addr:postcode": "27408",
         "name": "Office Depot",
@@ -16153,7 +16153,7 @@
       "properties": {
         "ref": "308",
         "shop": "stationery",
-        "addr:city": "COLUMBUS",
+        "addr:city": "Columbus",
         "addr:state": "GA",
         "addr:postcode": "31904",
         "name": "Office Depot",
@@ -16193,7 +16193,7 @@
       "properties": {
         "ref": "304",
         "shop": "stationery",
-        "addr:city": "AUSTIN",
+        "addr:city": "Austin",
         "addr:state": "TX",
         "addr:postcode": "78704",
         "name": "Office Depot",
@@ -16213,7 +16213,7 @@
       "properties": {
         "ref": "295",
         "shop": "stationery",
-        "addr:city": "MINNETONKA",
+        "addr:city": "Minnetonka",
         "addr:state": "MN",
         "addr:postcode": "55305",
         "name": "Office Depot",
@@ -16254,7 +16254,7 @@
       "properties": {
         "ref": "286",
         "shop": "stationery",
-        "addr:city": "ORLANDO",
+        "addr:city": "Orlando",
         "addr:state": "FL",
         "addr:postcode": "32806",
         "name": "Office Depot",
@@ -16294,7 +16294,7 @@
       "properties": {
         "ref": "282",
         "shop": "stationery",
-        "addr:city": "MIDLAND",
+        "addr:city": "Midland",
         "addr:state": "TX",
         "addr:postcode": "79705",
         "name": "Office Depot",
@@ -16314,7 +16314,7 @@
       "properties": {
         "ref": "281",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33145",
         "name": "Office Depot",
@@ -16334,7 +16334,7 @@
       "properties": {
         "ref": "279",
         "shop": "stationery",
-        "addr:city": "GREENVILLE",
+        "addr:city": "Greenville",
         "addr:state": "NC",
         "addr:postcode": "27858",
         "name": "Office Depot",
@@ -16354,7 +16354,7 @@
       "properties": {
         "ref": "274",
         "shop": "stationery",
-        "addr:city": "DOTHAN",
+        "addr:city": "Dothan",
         "addr:state": "AL",
         "addr:postcode": "36301",
         "name": "Office Depot",
@@ -16374,7 +16374,7 @@
       "properties": {
         "ref": "271",
         "shop": "stationery",
-        "addr:city": "BILOXI",
+        "addr:city": "Biloxi",
         "addr:state": "MS",
         "addr:postcode": "39531",
         "name": "Office Depot",
@@ -16394,7 +16394,7 @@
       "properties": {
         "ref": "270",
         "shop": "stationery",
-        "addr:city": "TUSCALOOSA",
+        "addr:city": "Tuscaloosa",
         "addr:state": "AL",
         "addr:postcode": "35405",
         "name": "Office Depot",
@@ -16434,7 +16434,7 @@
       "properties": {
         "ref": "264",
         "shop": "stationery",
-        "addr:city": "OCALA",
+        "addr:city": "Ocala",
         "addr:state": "FL",
         "addr:postcode": "34474",
         "name": "Office Depot",
@@ -16455,7 +16455,7 @@
       "properties": {
         "ref": "263",
         "shop": "stationery",
-        "addr:city": "FLINT",
+        "addr:city": "Flint",
         "addr:state": "MI",
         "addr:postcode": "48507",
         "name": "Office Depot",
@@ -16495,7 +16495,7 @@
       "properties": {
         "ref": "256",
         "shop": "stationery",
-        "addr:city": "LAKEWOOD",
+        "addr:city": "Lakewood",
         "addr:state": "CO",
         "addr:postcode": "80226",
         "name": "Office Depot",
@@ -16515,7 +16515,7 @@
       "properties": {
         "ref": "253",
         "shop": "stationery",
-        "addr:city": "BURLINGTON",
+        "addr:city": "Burlington",
         "addr:state": "NC",
         "addr:postcode": "27215",
         "name": "Office Depot",
@@ -16535,7 +16535,7 @@
       "properties": {
         "ref": "251",
         "shop": "stationery",
-        "addr:city": "NAPERVILLE",
+        "addr:city": "Naperville",
         "addr:state": "IL",
         "addr:postcode": "60563",
         "name": "Office Depot",
@@ -16575,7 +16575,7 @@
       "properties": {
         "ref": "242",
         "shop": "stationery",
-        "addr:city": "TYLER",
+        "addr:city": "Tyler",
         "addr:state": "TX",
         "addr:postcode": "75703",
         "name": "Office Depot",
@@ -16676,7 +16676,7 @@
       "properties": {
         "ref": "212",
         "shop": "stationery",
-        "addr:city": "INDEPENDENCE",
+        "addr:city": "Independence",
         "addr:state": "MO",
         "addr:postcode": "64055",
         "name": "Office Depot",
@@ -16734,7 +16734,7 @@
       "properties": {
         "ref": "202",
         "shop": "stationery",
-        "addr:city": "PENSACOLA",
+        "addr:city": "Pensacola",
         "addr:state": "FL",
         "addr:postcode": "32503",
         "name": "Office Depot",
@@ -16754,7 +16754,7 @@
       "properties": {
         "ref": "204",
         "shop": "stationery",
-        "addr:city": "RALEIGH",
+        "addr:city": "Raleigh",
         "addr:state": "NC",
         "addr:postcode": "27609",
         "name": "Office Depot",
@@ -16775,7 +16775,7 @@
       "properties": {
         "ref": "201",
         "shop": "stationery",
-        "addr:city": "TAMPA",
+        "addr:city": "Tampa",
         "addr:state": "FL",
         "addr:postcode": "33609",
         "name": "Office Depot",
@@ -16795,7 +16795,7 @@
       "properties": {
         "ref": "200",
         "shop": "stationery",
-        "addr:city": "SPARTANBURG",
+        "addr:city": "Spartanburg",
         "addr:state": "SC",
         "addr:postcode": "29301",
         "name": "Office Depot",
@@ -16815,7 +16815,7 @@
       "properties": {
         "ref": "197",
         "shop": "stationery",
-        "addr:city": "WILMINGTON",
+        "addr:city": "Wilmington",
         "addr:state": "NC",
         "addr:postcode": "28403",
         "name": "Office Depot",
@@ -16835,7 +16835,7 @@
       "properties": {
         "ref": "196",
         "shop": "stationery",
-        "addr:city": "LUBBOCK",
+        "addr:city": "Lubbock",
         "addr:state": "TX",
         "addr:postcode": "79413",
         "name": "Office Depot",
@@ -16875,7 +16875,7 @@
       "properties": {
         "ref": "188",
         "shop": "stationery",
-        "addr:city": "NAPLES",
+        "addr:city": "Naples",
         "addr:state": "FL",
         "addr:postcode": "34102",
         "name": "Office Depot",
@@ -16895,7 +16895,7 @@
       "properties": {
         "ref": "186",
         "shop": "stationery",
-        "addr:city": "GAINESVILLE",
+        "addr:city": "Gainesville",
         "addr:state": "FL",
         "addr:postcode": "32601",
         "name": "Office Depot",
@@ -16915,7 +16915,7 @@
       "properties": {
         "ref": "185",
         "shop": "stationery",
-        "addr:city": "SHREVEPORT",
+        "addr:city": "Shreveport",
         "addr:state": "LA",
         "addr:postcode": "71108",
         "name": "Office Depot",
@@ -16956,7 +16956,7 @@
       "properties": {
         "ref": "180",
         "shop": "stationery",
-        "addr:city": "ASHEVILLE",
+        "addr:city": "Asheville",
         "addr:state": "NC",
         "addr:postcode": "28805",
         "name": "Office Depot",
@@ -16976,7 +16976,7 @@
       "properties": {
         "ref": "178",
         "shop": "stationery",
-        "addr:city": "BEAUMONT",
+        "addr:city": "Beaumont",
         "addr:state": "TX",
         "addr:postcode": "77701",
         "name": "Office Depot",
@@ -16996,7 +16996,7 @@
       "properties": {
         "ref": "170",
         "shop": "stationery",
-        "addr:city": "BOULDER",
+        "addr:city": "Boulder",
         "addr:state": "CO",
         "addr:postcode": "80301",
         "name": "Office Depot",
@@ -17016,7 +17016,7 @@
       "properties": {
         "ref": "166",
         "shop": "stationery",
-        "addr:city": "AMARILLO",
+        "addr:city": "Amarillo",
         "addr:state": "TX",
         "addr:postcode": "79109",
         "name": "Office Depot",
@@ -17036,7 +17036,7 @@
       "properties": {
         "ref": "165",
         "shop": "stationery",
-        "addr:city": "LINCOLN",
+        "addr:city": "Lincoln",
         "addr:state": "NE",
         "addr:postcode": "68504",
         "name": "Office Depot",
@@ -17056,7 +17056,7 @@
       "properties": {
         "ref": "163",
         "shop": "stationery",
-        "addr:city": "MONTGOMERY",
+        "addr:city": "Montgomery",
         "addr:state": "AL",
         "addr:postcode": "36116",
         "name": "Office Depot",
@@ -17076,7 +17076,7 @@
       "properties": {
         "ref": "161",
         "shop": "stationery",
-        "addr:city": "MCALLEN",
+        "addr:city": "McAllen",
         "addr:state": "TX",
         "addr:postcode": "78503",
         "name": "Office Depot",
@@ -17096,7 +17096,7 @@
       "properties": {
         "ref": "159",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77031",
         "name": "Office Depot",
@@ -17116,7 +17116,7 @@
       "properties": {
         "ref": "155",
         "shop": "stationery",
-        "addr:city": "WACO",
+        "addr:city": "Waco",
         "addr:state": "TX",
         "addr:postcode": "76710",
         "name": "Office Depot",
@@ -17136,7 +17136,7 @@
       "properties": {
         "ref": "151",
         "shop": "stationery",
-        "addr:city": "STUART",
+        "addr:city": "Stuart",
         "addr:state": "FL",
         "addr:postcode": "34994",
         "name": "Office Depot",
@@ -17177,7 +17177,7 @@
       "properties": {
         "ref": "147",
         "shop": "stationery",
-        "addr:city": "MADISON",
+        "addr:city": "Madison",
         "addr:state": "WI",
         "addr:postcode": "53711",
         "name": "Office Depot",
@@ -17198,7 +17198,7 @@
       "properties": {
         "ref": "143",
         "shop": "stationery",
-        "addr:city": "MARIETTA",
+        "addr:city": "Marietta",
         "addr:state": "GA",
         "addr:postcode": "30062",
         "name": "Office Depot",
@@ -17219,7 +17219,7 @@
       "properties": {
         "ref": "141",
         "shop": "stationery",
-        "addr:city": "MILWAUKEE",
+        "addr:city": "Milwaukee",
         "addr:state": "WI",
         "addr:postcode": "53212",
         "name": "Office Depot",
@@ -17239,7 +17239,7 @@
       "properties": {
         "ref": "138",
         "shop": "stationery",
-        "addr:city": "PLANO",
+        "addr:city": "Plano",
         "addr:state": "TX",
         "addr:postcode": "75075",
         "name": "Office Depot",
@@ -17260,7 +17260,7 @@
       "properties": {
         "ref": "135",
         "shop": "stationery",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32256",
         "name": "Office Depot",
@@ -17280,7 +17280,7 @@
       "properties": {
         "ref": "129",
         "shop": "stationery",
-        "addr:city": "GARLAND",
+        "addr:city": "Garland",
         "addr:state": "TX",
         "addr:postcode": "75041",
         "name": "Office Depot",
@@ -17301,7 +17301,7 @@
       "properties": {
         "ref": "124",
         "shop": "stationery",
-        "addr:city": "METAIRIE",
+        "addr:city": "Metairie",
         "addr:state": "LA",
         "addr:postcode": "70005",
         "name": "Office Depot",
@@ -17321,7 +17321,7 @@
       "properties": {
         "ref": "122",
         "shop": "stationery",
-        "addr:city": "DURHAM",
+        "addr:city": "Durham",
         "addr:state": "NC",
         "addr:postcode": "27707",
         "name": "Office Depot",
@@ -17422,7 +17422,7 @@
       "properties": {
         "ref": "108",
         "shop": "stationery",
-        "addr:city": "TALLAHASSEE",
+        "addr:city": "Tallahassee",
         "addr:state": "FL",
         "addr:postcode": "32301",
         "name": "Office Depot",
@@ -17442,7 +17442,7 @@
       "properties": {
         "ref": "107",
         "shop": "stationery",
-        "addr:city": "TAMPA",
+        "addr:city": "Tampa",
         "addr:state": "FL",
         "addr:postcode": "33619",
         "name": "Office Depot",
@@ -17462,7 +17462,7 @@
       "properties": {
         "ref": "106",
         "shop": "stationery",
-        "addr:city": "SPRINGFIELD",
+        "addr:city": "Springfield",
         "addr:state": "MO",
         "addr:postcode": "65804",
         "name": "Office Depot",
@@ -17482,7 +17482,7 @@
       "properties": {
         "ref": "103",
         "shop": "stationery",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75243",
         "name": "Office Depot",
@@ -17522,7 +17522,7 @@
       "properties": {
         "ref": "101",
         "shop": "stationery",
-        "addr:city": "LAFAYETTE",
+        "addr:city": "Lafayette",
         "addr:state": "LA",
         "addr:postcode": "70503",
         "name": "Office Depot",
@@ -17562,7 +17562,7 @@
       "properties": {
         "ref": "95",
         "shop": "stationery",
-        "addr:city": "CLEARWATER",
+        "addr:city": "Clearwater",
         "addr:state": "FL",
         "addr:postcode": "33761",
         "name": "Office Depot",
@@ -17603,7 +17603,7 @@
       "properties": {
         "ref": "90",
         "shop": "stationery",
-        "addr:city": "MARGATE",
+        "addr:city": "Margate",
         "addr:state": "FL",
         "addr:postcode": "33073",
         "name": "Office Depot",
@@ -17624,7 +17624,7 @@
       "properties": {
         "ref": "89",
         "shop": "stationery",
-        "addr:city": "JACKSON",
+        "addr:city": "Jackson",
         "addr:state": "MS",
         "addr:postcode": "39211",
         "name": "Office Depot",
@@ -17644,7 +17644,7 @@
       "properties": {
         "ref": "88",
         "shop": "stationery",
-        "addr:city": "DALLAS",
+        "addr:city": "Dallas",
         "addr:state": "TX",
         "addr:postcode": "75234",
         "name": "Office Depot",
@@ -17664,7 +17664,7 @@
       "properties": {
         "ref": "86",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77098",
         "name": "Office Depot",
@@ -17684,7 +17684,7 @@
       "properties": {
         "ref": "85",
         "shop": "stationery",
-        "addr:city": "IRVING",
+        "addr:city": "Irving",
         "addr:state": "TX",
         "addr:postcode": "75062",
         "name": "Office Depot",
@@ -17704,7 +17704,7 @@
       "properties": {
         "ref": "84",
         "shop": "stationery",
-        "addr:city": "DAYTON",
+        "addr:city": "Dayton",
         "addr:state": "OH",
         "addr:postcode": "45459",
         "name": "Office Depot",
@@ -17744,7 +17744,7 @@
       "properties": {
         "ref": "80",
         "shop": "stationery",
-        "addr:city": "OMAHA",
+        "addr:city": "Omaha",
         "addr:state": "NE",
         "addr:postcode": "68144",
         "name": "Office Depot",
@@ -17765,7 +17765,7 @@
       "properties": {
         "ref": "37",
         "shop": "stationery",
-        "addr:city": "KNOXVILLE",
+        "addr:city": "Knoxville",
         "addr:state": "TN",
         "addr:postcode": "37919",
         "name": "Office Depot",
@@ -17785,7 +17785,7 @@
       "properties": {
         "ref": "35",
         "shop": "stationery",
-        "addr:city": "MIAMI",
+        "addr:city": "Miami",
         "addr:state": "FL",
         "addr:postcode": "33186",
         "name": "Office Depot",
@@ -17825,7 +17825,7 @@
       "properties": {
         "ref": "24",
         "shop": "stationery",
-        "addr:city": "JACKSONVILLE",
+        "addr:city": "Jacksonville",
         "addr:state": "FL",
         "addr:postcode": "32205",
         "name": "Office Depot",
@@ -17885,7 +17885,7 @@
       "properties": {
         "ref": "17",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77069",
         "name": "Office Depot",
@@ -17905,7 +17905,7 @@
       "properties": {
         "ref": "15",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77024",
         "name": "Office Depot",
@@ -17925,7 +17925,7 @@
       "properties": {
         "ref": "12",
         "shop": "stationery",
-        "addr:city": "HOUSTON",
+        "addr:city": "Houston",
         "addr:state": "TX",
         "addr:postcode": "77034",
         "name": "Office Depot",
@@ -17945,7 +17945,7 @@
       "properties": {
         "ref": "7",
         "shop": "stationery",
-        "addr:city": "HIALEAH",
+        "addr:city": "Hialeah",
         "addr:state": "FL",
         "addr:postcode": "33012",
         "name": "Office Depot",
