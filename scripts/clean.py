@@ -17,12 +17,12 @@ from resources import (
     saints,
     us_state_codes,
 )
-from atlus import atlus_request
+from atlus import get_address
 from nsi import (
     nsi_check,
 )
 
-VERSION = "0.2.1"
+VERSION = "0.2.2"
 
 FOLDER_PATH = "./data"
 
@@ -30,7 +30,7 @@ files = [
     os.path.join(root, file)
     for root, _, files in os.walk(FOLDER_PATH)
     for file in files
-    if file.startswith("")
+    if file.startswith("waffle")
     and file.endswith(".geojson")
     and not file.startswith("missing")
 ]
@@ -148,7 +148,9 @@ def abbrs(value: str) -> str:
 
 def print_value(action: str, file: str, brand: str, items: int) -> None:
     """Improve console printing for legibility."""
-    print(f"{action.title() + '...':<16}{file.split('/')[-1]:<34}{brand:<30}{items:<6}")
+    print(
+        f"\n{action.title() + '...':<16}{file.split('/')[-1]:<34}{brand:<30}{items:<6}"
+    )
 
 
 def run(file_list: list[str]) -> None:
@@ -179,12 +181,7 @@ def run(file_list: list[str]) -> None:
                     continue
             except KeyError:
                 pass
-            print_value(
-                "processing",
-                file,
-                features[0]["properties"].get("brand"),
-                len(features),
-            )
+
             contents["dataset_attributes"]["cleaning"] = clean_data
         else:
             contents["dataset_attributes"] = {"cleaning": clean_data}
@@ -196,15 +193,19 @@ def run(file_list: list[str]) -> None:
             ):
                 wipe_repeat_tags.append(repeat_tag)
 
-        contents["features"] = atlus_request(features)
-
         nsi_check(contents)
 
         for obj in contents["features"]:
             objt: dict[str, str] = obj["properties"]
 
+            for address_tag in ["addr:street_address", "addr:full"]:
+                if address_tag in objt:
+                    addr_dict = get_address(str(objt[address_tag]))[0]
+                    objt = {**objt, **addr_dict}
+                objt.pop(address_tag, None)
+
             if (necessary_tags - set(objt)) == necessary_tags:
-                raise ValueError("No top-level tags on object")
+                raise ValueError(f"No top-level tags on object:\n\t{objt}")
 
             # remove useless ATP-generated tags
             for tag in useless_tags + wipe_repeat_tags:
@@ -213,6 +214,9 @@ def run(file_list: list[str]) -> None:
             for name_tag in ["name", "branch", "addr:city"]:
                 if name_tag in objt:
                     objt[name_tag] = get_first(abbrs(get_title(objt[name_tag])))
+
+            if "addr:city" in objt:
+                objt["addr:city"] = get_title(objt["addr:city"], override_space=True)
 
             for phone_tag in ["phone", "contact:phone", "fax"]:
                 if phone_tag in objt:

@@ -1,4 +1,5 @@
 """Hold info for the cleaning script."""
+
 import sys
 
 useless_tags = [
@@ -332,6 +333,7 @@ us_state_codes = [
     "WY",
 ]
 
+
 def print_progress(
     iteration: int,
     total: int,
@@ -347,9 +349,9 @@ def print_progress(
     filled_length = int(round(bar_length * iteration / float(total)))
     bar_fill = "█" * filled_length + "-" * (bar_length - filled_length)
 
-    sys.stdout.write('\r' + ' ' * 140)
+    sys.stdout.write("\r" + " " * 140)
     sys.stdout.write(
-        f"\r{prefix.title()} |{bar_fill}| {percents}{"%"} {suffix}{" | " + text if text else ""}"
+        f"""\r{prefix.title()} |{bar_fill}| {percents}{"%"} {suffix}{" | " + text if text else ""}"""
     )
 
     if iteration == total:
