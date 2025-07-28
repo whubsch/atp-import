@@ -25,7 +25,7 @@ def only_needed(contents: dict) -> dict[Any, Any]:
         for entry in v["items"]:
             if "us" in entry["locationSet"]["include"] or (
                 "001" in entry["locationSet"]["include"]
-                and not "us" in entry["locationSet"].get("exclude", [])
+                and "us" not in entry["locationSet"].get("exclude", [])
             ):
                 for rtag in ["id", "locationSet", "fromTemplate"]:
                     entry.pop(rtag, None)

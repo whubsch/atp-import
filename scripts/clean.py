@@ -263,7 +263,7 @@ def run(contents: dict) -> dict:
             )
             if unit:
                 objt["addr:housenumber"] = unit.group(1)
-                if not "addr:unit" in objt:
+                if "addr:unit" not in objt:
                     objt["addr:unit"] = unit.group(2).upper()
 
         if "addr:postcode" in objt:
