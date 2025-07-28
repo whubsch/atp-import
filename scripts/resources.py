@@ -3,6 +3,7 @@
 import sys
 
 useless_tags = [
+    "@source_uri",
     "@spider",
     "nsi_id",
     "ownership_type",
