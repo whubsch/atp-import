@@ -156,8 +156,7 @@ def run(contents: dict) -> dict:
     contents["features"] = [
         obj
         for obj in contents["features"]
-        if
-        (
+        if (
             # Ensure addr:state is present and is a valid US state code
             obj["properties"]["addr:state"] in us_state_codes
         )
